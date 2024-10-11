@@ -1,0 +1,983 @@
+0:00
+What's up dude?
+Yo, kind of an interesting show today.
+Well, tech oriented.
+Yeah, very tech oriented.
+You know, it's funny, like Lane.
+So he's like, you know, not to make this a sales pitch.
+This is not a sales pitch.
+These guys are not sponsors of the show.
+They weren't sending us wads of cash, but.
+0:15
+But I think whenever you're talking about software, it's inevitable.
+Like when you try to contrast between like existing platforms and solutions on the market and trying to describe what's different about you, inevitably, it sounds like a presentation, but I thought this was a really great conversation and it's very interesting.
+0:31
+So we're talking about clean claims and magic plan.
+Yeah.
+And I think it's such an important episode because the impact of our job management software and the various software tools that we use.
+Yeah, is enormous in this business it.
+Is Yeah, and it's an enormous area for and we all know it.
+Gosh, Lane kind of talks about that pretty early in the conversation as an extra storer, you know of this was my number one hatred on a weekly basis was showing up and talking to my people.
+0:58
+Why aren't the photos in the system?
+Where's the doc?
+Why didn't you?
+Which which is like where ever present where every store to store understands and it's interesting.
+Andreas and Lane both have a background of being operators in the restoration industry, which I think is always, it seems to lead to the best products and service solutions is when people have actually been in the trench and both of these guys have and it and it shows up in the conversation, right.
+1:22
+They understand they started these companies and and have really developed these businesses out of their own pain as restores.
+That's right.
+And I think proof is there.
+I mean, you're I think you'll get it from some of the feature sets that we talk about and just kind of comparing, contrasting, but I think more importantly, you're going to walk just go try their stuff.
+1:39
+So, and the whole reason we have these guys on at the same time magic plan in and of itself is a really powerful and easy to use and deploy sketching tool.
+But it's this combination of both, it's the integration, full integration of magics plans, sketching capacity and Lidar use and then marrying that up to clean claims like kind of administrative accountability.
+2:01
+It's a.
+Really.
+It's cool.
+My wife and I had an experience with Magic Plan.
+Actually, one of my friends is one of those desk estimator project manager guys at Home Depot.
+Oh yeah, like he's retired and he's kind of his retirement job and he's like, we were getting ready to do a home kitchen remodel and he's like, hey, you get just get magic plan out and just sketch your room and then you can fuss with the walls and taking walls out and moving this and here and there.
+2:26
+And so we did and just did it on the iPad.
+It was super easy, super simple and free.
+So you can you can go download magic plan and do a couple plans yourself and play around with it at home and you're while you're watching Netflix.
+What did you say?
+136,000 users currently crazy on magic plan from the App Store.
+2:42
+Well, I think Home Depot has some sort of strategic partnership where they recommend it to their clients who are thinking about doing a remodel or whatever.
+Yeah, but yeah, they've got traction.
+It's a big deal.
+It's not just in restoration.
+But gosh, after hearing about the integration with clean claims, it sounds like a RAD tool.
+2:58
+Instantaneous, right?
+And that seems like the magic.
+Play.
+Yeah, yeah, is literally.
+Instantaneous.
+It happens right away versus having to wait and get an e-mail or whatever.
+Yep, it's in your hands as you do.
+OK, so here we go.
+And Lane, let's go.
+Wow.
+How many of you have listened to the Head Hard?
+It's podcast.
+3:15
+I can't tell you that reaction, how much that means to us.
+Welcome back to the Head, Heart and Boots podcast.
+I'm Chris.
+And I'm Brandon join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+This new camera angle makes my arms look smaller than.
+3:31
+Yours.
+I'm noticing that and I really appreciate it.
+I thought you did that on.
+Purpose.
+No, I, I don't, I didn't and I, I am not happy with it.
+Hey all, thanks so much for listening to the show.
+Hey, if you're not already following, please do so and ultimately share, right?
+3:46
+Like the coolest currency that we have in terms of supporting this is share it with a friend, share it with somebody, a colleague, appear one of your downline team members.
+Let them be able to take advantage of the information you're already leveraging in your favor.
+And finally, guys, if you hear a show that really moves you, that really moves the needle, will you please leave us a review?
+4:05
+Those five star reviews help us a time.
+Right on.
+And listen, if you're trying to grow your business, you might consider checking out Floodlights Business Opportunity Audit.
+It's free, we provided at no charge.
+It's actually what we use to assess new clients as they come in.
+4:21
+It's 110 point assessment for your business and we've now decided to give access to the general public for it.
+So go and take our business opportunity audit at floodlightgrp.com.
+It's going to help you identify the biggest gaps and opportunities in your business right now.
+And at the end, it'll assign you a health score to let you know exactly where your business stands right now.
+4:40
+So go check it out floodlightgrp.com/audit and take the BOA.
+It's a great way to get a pulse on your business.
+Well, gentlemen, thanks so much for joining us and taking time.
+Lane, you just came out of the woods, didn't.
+You.
+I did, yeah.
+Yeah.
+Back in civilization.
+4:57
+So it's good.
+Thanks for having me.
+I think the last time we talked to you, you were talking about bears, so I I think you still had camo on when we were.
+Actually, yeah, I did.
+I did which is.
+Pretty awesome it was.
+Probably good that we switched days but.
+That was probably a good day for Smellovision.
+5:14
+Not quite coming to fruition just yet, right?
+We just need.
+To three.
+Dimensional on that.
+Awesome.
+Well, thanks for joining us guys.
+Hey, just kind of get us started.
+Why don't we do this?
+Why don't we give everybody a 30 second pitch on who each one of you are, the companies that you're representing and then we'll get into where we're headed because I think it's going to be a really fun conversation around our tech staff.
+5:37
+So, Andreas, you want to get us started, my friend?
+Sure.
+Absolutely.
+Yeah.
+Thank you for giving me the opportunity to be here today.
+So who am I?
+Andreas out of Germany?
+What's my story?
+Basically joined my family business 12 years ago as a project manager in Recon and restoration jobs.
+5:56
+And I was a little bit let down by the analog nature of all of that.
+And at that time already a big iPad fan.
+So I always carried my iPad with me on my job sites.
+That was V1.
+That was not common at that time.
+6:11
+And I really wanted to find a better way of kind of putting it all down, right?
+So I played around with GoPro and whatnot, but then I started working with Magic Plan as a user.
+And now Long story short, now I'm here as the CEO of Magic Plan for the last eight years, bought the company out of my kind of like own conviction that this is the product that the industry needs and that's what I'm doing to the state.
+6:37
+Nice.
+Right on.
+You know what, I totally spaced it in our previous conversations that you grew up in the family business too.
+So both our guests are veteran restorers.
+So that'll be rad.
+Man, I totally forgot about that.
+Andreas Lane.
+For the two people that haven't heard anything about clean claims yet, you want to do a quick introduction of yourself my friend.
+6:55
+Yeah, yeah.
+So thanks for having me.
+I've been in construction, just my background.
+I've been in construction my whole life.
+I grew up cleaning up job sites from the time I was eight years old.
+So I like, that's my world.
+So the fact that I want a software company is kind of weird now, but it was built out of necessity.
+So I built four of my own restoration companies, sold those as well and built the software along the way to kind of help for documentation and different things, just simplifying things.
+7:19
+So the whole point was creating systems and places to where, you know, it makes it easy for the technician.
+Like the critical data is making it easy for the technicians in the field to be able to document.
+And it's all starts with that.
+So if you can make it to where they get the data they need, then that's what's crucial and trickles down to all the way to getting paid, you know, eliminating all those problems.
+7:38
+So that's kind of where it stem from is living in the in that construction world and restoration to know what we need.
+So yeah.
+It's funny because I know everybody, we're always like super guarded.
+Like we're not going to do like an hour long pitch on a product.
+You guys, it's so interesting this kind of merge and the reason we were so excited to get you guys on the show 1 is your two products working together is creating a pretty magical product.
+8:03
+But more importantly, what we want to talk about is you guys and especially obviously on the backbone of clean claims, there's just this really tech facing prioritization in terms of what you guys are doing.
+And so as we were kind of like coming up with these conversations leading up to this, we're like, man, we should get into that vein.
+8:20
+Because I think that's the thing we miss is that we create all these software solutions about getting more data, being able to track performance and do these things, which are great.
+But then we miss the end user, which is actually not the leadership team.
+If we really think about it, it's actually our tech staff and they kind of get left in the cold.
+8:39
+It feels like when it comes time to prioritize and pick these solutions.
+And so anyway, so that was a long ways around to say we just kind of want to hang in that pocket and talk about what you guys have done to create a more effective performance.
+And I think people get a good picture of how the software can support that.
+8:55
+But more importantly, kind of a mind shift that probably all of us can make as we prioritize the end user IER team members maybe over some of these other priorities.
+So anyways, I've got a long work up but I think we know where we're going next.
+I think we got a starting point.
+All right.
+Well, let's do this, you guys.
+9:11
+Why don't we just kind of set the stage first with what's happening between these two products and then I think that'll make a lot more sense while we're going to be talking about our tech staff.
+Andreas, do you want to just kind of give us that first overview of what it is that you guys are integrating right now?
+And then Lane, why don't you play clean up on that and just kind of seal the deal for us?
+9:29
+Yeah.
+Sure.
+So what are we doing?
+Basically we are a mobile sketching and field documentation solution and one of my core principles that I act upon is like I want to plan ahead, right?
+And it's in the word I need a plan like I need a layout of the property, the site or whatever I'm dealing with because that tells me the story.
+9:51
+So that has been my focus on, okay, give me the square footage, but give me also what rooms are in there, what's kind of like the DNA or corpse of the property.
+So we have that field sketching element that we are doing and we try to make that as easy as possible and basically using your mobile phone.
+10:11
+And that was also kind of like what brought me to actually pulling the trigger and saying, yes, I want to do this because handing out the pure product to my project managers 12 years ago, I basically looked back after a year and they started started picking it up themselves and used it for every project.
+10:29
+And that kind of ease of use is what we try to preserve to this day.
+And then basically handing over that documentation, that field sketch to claims to Lane so that he can really go into detail of all the different data sets that you need for a restoration project.
+10:47
+Yeah, man.
+So just to add to that, like the key to this that people need to know, and this is me, put my restore hat on, right?
+Speaking for the restoration company, I'm like not as a software guy, I hate that everybody says they integrate that everybody says that you use this use that you have 10 different logins, you have 10 different like double, triple, quadruple entries.
+11:06
+The nightmare that never ends, right?
+And so the biggest thing is about our integration is, I mean, in our system is, you know, a lot of people knowing maybe that don't is, I mean, I trained 68 technicians on a job in 10 minutes how to use the program.
+No, no BS.
+That's not to like hype up my product and say I'm that's the whole point of it.
+11:23
+It's supposed to be simple, right?
+But with that, my product without these true integrations isn't valuable to me.
+Like you have to have an integration.
+And So what we've done with Andreas in the magic plan is that it feels like you're in one system.
+Like even though you're going back and forth, the technician doesn't know that.
+11:42
+Like, I mean, it literally is so smooth and easy to capture for the data and we have it to where it pushes and pulls that data back and forth to eliminate the double login and then the double entry.
+So the key to the integration, especially with us is now we get a sketch tool that's right from your phone and it's instant, which that's the key.
+12:01
+That's huge for me.
+This that's what I was teasing you guys.
+I think last time about why I wanted to start another restoration company is I'm like, if I don't have to wait 24 hours and then and I have to go back out the next day to start, that's what's huge.
+And that's what like we're really excited and that you guys on this podcast, because that's what we're going to market.
+12:17
+Is that the convenience of it?
+There's nothing really that convenient in the industry and together we're providing this insane convenience and speed, you know, and it's all live data.
+You can share that data with the carrier, the agent, the adjuster.
+I mean, you're allowing it to be create total transparency where that's never existed.
+12:35
+So that's like one of the huge things I just wanted to touch on for like restores listening is that that's what we're trying to provide.
+It's not an add on or another software.
+This industry in the last three to four years just been an insane amount of like here, eat this software, have that one like non-stop.
+And it's like we're trying to make it to where it's not that way.
+12:52
+It's very, very simple, It's easy and it's a one login use, you know what I mean?
+So that's what I would add to that.
+It's kind of interesting because I think one of the things that Chris and I have been having a lot of conversations with, with folks who recently has been around closing and conversion rates.
+13:08
+And one of the things that we've just seen kind of come true over and over again is that one of the ways that teams can secure a higher conversion rate, meaning from EMS to let's say, a repair service opportunity, is how quickly do we get on site and begin gathering the information that will create that scope negotiation and get it.
+13:29
+That process started.
+Because we have this thing we reference is the silent phase, that handoff time where there's, you know, the restoration companies negotiating on the client's behalf to secure that scope approval, but they don't really know what's going on.
+And after five days, let's say of just crazy activity on the EMS side, it feels weird then for them to go into this holding pattern right where we secure funds and secure scope.
+13:52
+But anyways, this is one of those things we push is like how quickly can we gather information and get that really competently handed off from our EMS team into our Recon team to create that kind of consistency, obviously, but to shrink those time frames.
+And I was watching you, you demoed this product, I think at large loss mastery was the last time we saw it.
+14:13
+And literally you guys is fast as you could walk the phone in a circle essentially in the room.
+It was capturing the measuring data and creating the floor plan, which ultimately then can become the basis for that Recon scope.
+I mean, if you guys want to elaborate on that a little bit, but that just kind of like blew my doors off.
+14:32
+And that's what got me hyped is was I don't have to send in now another person, my staff that's already on site and their normal protocol can gather what I need as a Recon team and begin that process from the very beginning with this product, which to me that's like that's creating wins.
+14:48
+And again, it's in the hands of the tech.
+This isn't, doesn't require a project manager to go out scan.
+I'm not carrying a $5000 camera, right?
+So anyways, I don't know if you guys want to kind of like unpack that a little bit, but what are you guys seeing from that in terms of users?
+Maybe I go first again because that kind of like we kick it off and then the key element to me always was and always is that the user is in full control, right?
+15:11
+And when are you in control?
+When you have your results instantly and you can kind of like check, mark them off and that is all that we care about is OK, I am on site.
+I observe to see you know what not.
+And once I leave the site, I want to have the Peace of Mind that I've done everything and I've closed everything.
+15:30
+And I know that if I see the result instantly while I'm still there, right?
+I can do that and I can say, OK that it actually captures the picture that I had in my head while walking through here.
+And if I drive off, I can hand it off, I can pass it to the back, offers to whatnot, but I don't need to remember anything.
+15:48
+And I most hopefully they don't need to go back because I forgot anything.
+That is really one of the key elements why we want what we want to achieve.
+Put the user in control and make it transparent to them if they've basically done their job.
+Yeah.
+I love that.
+Yeah, the key to add to that too is just the simplicity.
+16:06
+This is what I love about Andreas, like Magic Plan and us is it's all about keeping it simple, right.
+But what you guys were bringing at the beginning, like all these CEOs want all these things, they want to see all this stuff, but it's like you got to get down to the heart of like where you getting that data if you can't get the data correctly, right.
+And then Andreas's point, like knowing that you have it.
+16:22
+So when you combine magic plan sketching into clean claims process enforcement to where in our system for people that don't know, you can require everything from before pictures, videos, you know, moisture readings, whatever it is, and you can't move on.
+So we're now we're adding that sketch tool into that to where now they don't have a choice.
+16:40
+You're getting the perfection every time, but without micromanaging or like just yelling down their throats about you need to do this you need to do that.
+It's built to where you just you can't move on to the next step till you do it.
+So tying in magic plan into making sure that we're getting our daily photos and moisture readings and thermal imagings and all that.
+17:00
+Now we're tying in that sketch to where now you have to go through and do that scan and with one click of a button, it opens up magic plan.
+You do the scan and the other fun thing we've been doing with the magic plan, this team is our remote monitoring piece.
+So when you set the remote monitoring, when you scan that room and Andreas, you correct me if I'm wrong with it'll pick up the sensors as well.
+17:20
+So you want to talk about instant moisture map and then I'll probably be like in phase two that we're working on, but it'll literally be if you have the remote sensor set up when you scan that room and you hit done, it'll be instantly moisture map.
+You don't even have to.
+So I mean, you want to talk about speed and efficiency and then I can share that data live with anybody.
+17:38
+I want the client, if the adjuster wants to know about it, here you go.
+It's eliminating that he said, she said argument that everybody wants to go.
+I mean, I was ready to leave restoration a couple years into it because I was just like, Oh my gosh, if I have to go one more day arguing to get paid for what I did, even if I have the documentation, you know, so this eliminates at the end of the job if it took five days and then sending it and then starting the debate.
+18:01
+Now it's like, well, let's just share the sketch and all the information right now as it's happening and they can see it live as it's going on.
+And now everybody involved is all on the same page and it's just it's this.
+There's no need to argue anymore, you know?
+So, OK, so I want to look at that a little bit.
+I want to get your perspective on this because I've heard you make that comment before and it sounds rad on paper.
+18:22
+And we know that like in recent experience, I think there's an absolute amp on frustration around negotiations and getting a claim close.
+So I just want to hear very specifically from you Lane, like what is it?
+Because this is your own experience, like this isn't just you pitching product, but this is the use for of you internally and your prospects and your current users right now are talking about it as well.
+18:48
+What is it?
+What specifically is happening that's creating that reduction in friction in the approval process?
+Because I mean, a lot of different ways we're providing documentation and it doesn't seem to be the a silver bullet to make it a lot easier to close a claim out.
+19:05
+So what is it that's happening that you're seeing?
+Yeah.
+What do adjusters like?
+What are these auditors of these claims like about this?
+So I would say again, this is me just put my restore hat back on right from my experience and then I can add in like clients experiences too.
+But the main thing is every software program out there that's been built for their stores either built by a software company that thinks that we know what we need or it was by a carrier that's saying this is what we need, but it's not realistic in the field.
+19:30
+That's just my opinion, right From my experience.
+OK, so the difference is, is like in any other program that you use, you can edit and manipulate the data whenever you want.
+So every time I turn in a claim and no matter how much documentation I have, I can debate that all day long because in certain systems I can change the dates, the times, the readings.
+19:48
+Also, it leaves everything up for debate.
+There's nothing you can really trust on.
+Did you really do it or did you not?
+Right.
+Where in our system, it's the first of its kind to where you can't edit and manipulate the data.
+It is what it is, you know?
+And so that's what.
+Makes it huge.
+But then again, it's simplifying it, right?
+20:04
+That's not rocket science or anything.
+It's just and then giving the data now in the moment, why wait till the end of the job to start the going back and forth?
+If an adjuster gets assigned right on site, I can send him a link to this job and he can see exactly what we're doing live.
+You can watch the videos, you can see the pictures.
+20:22
+If you have any questions now you can ask now.
+We don't have to wait till after 5 days and then start that debate of like, well, you know, the standard's only three, so I only want to pay, you know, you're trying to pay for five and that whole thing.
+We can have that talk on day one or day 2 already showing the progression or if it's not progressing and like what changes need to be made, you know.
+20:42
+So having the S500 standards built into the software helps a ton because then it tells the technicians what's recommended for equipment, what you need to do.
+So that's all normal.
+The difference is, is that we're sharing that data live with all parties involved that want to be involved.
+20:59
+So that's the key.
+So then you're seeing people get paid.
+We've had clients call us.
+I mean, it gives me goosebumps thinking about because it's what it's supposed to do.
+Like we've had a client do a 16 day dry out on a Walmart.
+I won't mention who it is, but they were sending out their daily snapshot reports out of clean claims every day to all parties involved from the property owner, the manager, the adjuster.
+21:19
+At the end of 16 days, they got paid out $1.8 million in four days of completing the job.
+Because there was nothing to debate.
+There was nothing to argue.
+Everybody knew why it was taking 16 days.
+They knew what equipment is there.
+They had they saw the psychometric readings every day.
+That's the biggest difference.
+21:35
+So it's not rocket science where we're trying to simplify it.
+Everybody thinks they have this grand huge idea and make it all complicated.
+Our process is like the simpler you can make it for the field technicians, they're the ones collecting most critical data.
+So when you throw in our data collection and then magic plan scanning tool of Eastern Sketch, I mean, it just makes it to where it's just, in my opinion, in a flawless system, you can't debate facts and real time data.
+21:59
+You know, So that what I would say be the biggest thing that really trickles down to your question of asking is how to how to adjust or debate or why does that make it better?
+Is it's just transparency.
+It's just, it is what it is live in the moment.
+And I don't know how you debate that, you know what I mean?
+It's like, it's just because that's the problem is they show up and they're like, OK, it's already been demoed and trashed and that's why the questions start.
+22:20
+But like, if they're involved in that process from the beginning, then there is no arguing.
+You're fighting.
+It's like, OK, cool, here's where we are and what we're doing, you know, and it allows, hey, this hardwood floor is super wet.
+We're going on two days of an injected dry floor system.
+It's not drying.
+And then the adjusters are part of that conversation saying, cool, let's give it a few more days.
+22:39
+If we can save 8 grand of ripping out that hardwood floor, then we should do that now.
+It's collaborative.
+It's not fighting.
+It's like we're working together now.
+So that's the key.
+Yeah.
+I mean, that makes a lot of sense.
+I think a lot of the other ways that we've kind of merged into digital is it's just a way to gather the information.
+22:56
+You're still essentially presenting it in that more static format, a post project right?
+So formatting is a lot cleaner and more pro looking than hand scratched notes, but providing a product that you could ultimately manipulate any way you want.
+Just cleaner essentially.
+23:12
+Right, right.
+You know guys, what I think might be useful is to draw some contrast or comparisons between some of the other solutions on the market because I think, well, everything you guys are saying makes perfect sense in terms of the transparency and the speed at which you guys render this information and provide it out and share it out.
+23:30
+The transparency piece.
+I think there is an element with so many competing software solutions in the market that your typical restorer, they're like, and I feel like I've heard this before, it feels like everybody is kind of saying the same thing to 1° or another.
+You know, I think of even I forget who I was talking to the other day, they were talking about how you can share inside certain job management software.
+23:51
+You can create a public link for an adjuster, an insurance agent, referral partner, a client to where they can track with the real time updates of notes in the system and so forth.
+And I'm like, well, yeah, we utilize that in Dash.
+You know, it's seven or eight years ago.
+Yeah.
+So this so I think people can get lost in the noise of the market.
+24:08
+So could you guys take a moment and contrast between say like Doc you Sketch and in Circle or Matterport and some of these other types of solutions that are out there that restores may already be using or have heard about with the integration with the platform that you guys have put together?
+24:26
+I'm going to start with a quick one.
+I had one of my project managers and we basically interviewed him.
+What do you like best?
+And he was like, okay, now I can produce drawings that feel as if they were to come out of an architect's office.
+And he was really proud of himself that like he is producing field notes or whatnot that typically would require a trained architect to produce those.
+24:51
+And that really it's in the hand of the user and they are like in control of their resolve and they are proud of it.
+That is what triggers me most of the time.
+It's like their product, they like it and that's what gets the adoption.
+That's what gets everything.
+25:07
+And once you get to that point that they actually want to do it, they want to produce more of their great work.
+And I think it's similar to what Lane is doing.
+And we are trying to combine those two, right?
+It's really a feeling of the people in the field that kind of carries us forward.
+25:24
+And I think to be honest, that's the difference, right, to some of the other solutions.
+It's a little bit different and that's what I've observed and that's what is the feedback and that what I also like, right?
+I want to enable and empower the people that are doing the work and that's the feedback that I get.
+25:39
+And that is what I think then really keeps the scale.
+I feel like to a certain extent, like once they establish their own, what's in it for them?
+If it's a high enough return, at least from their perspective and it engages consistent use or even derives like a, you know, accelerated use like that's pretty awesome outcome.
+25:58
+So regardless, So what the execution looks like, I think anytime you get a user, one of our staff that's excited to use an end product, then I think we got to be pretty motivated by that as well just because adoption seems to be our biggest issue with any of the tech or any of the solutions that tend to come to the market.
+26:16
+It's just golly.
+Driving use at all just seems to be a nightmare it feels like most of the time.
+Liftify.com.
+Forward slash Blood Light You've heard Brandon and I talk a bunch of times about the importance of Google reviews, maybe even heard our episode with Zach Garrett, the CEO and founder.
+26:33
+Recency, consistency Two of the most important things when it comes to maximizing the benefit from your Google reviews.
+Why not use an outside partner?
+Liftify is targeting 20 to 25% conversion, right?
+So if you do 1000 jobs a year, you ought to be adding right now 200 to 250 reviews a year, every single year.
+26:53
+If you're not doing that, you owe it to yourself to get a free demo from liftify.com.
+See their system, see how it works, see how affordable it is.
+I promise you, you'll thank us.
+Liftify.com forward slash.
+Blood light.
+You know, we spend a lot of money and a lot of attention trying to get that first call.
+27:11
+And one of the things that we do once it happens is sometimes we leave it to chance, right?
+Who picks up the phone?
+How do they respond?
+How do they walk that client into a relationship with us?
+Well, one of the benefits of partnering with a team like answerforce.com is we can systemize that.
+We can make it more consistent.
+27:27
+We can also have backup for when our teams need that help, right?
+Somebody goes on vacation, somebody's out sick, you know, we get a storm surge, we get cat event, all sorts of things can have an impact on how we receive that client.
+But the most important thing is they need to know that they've chosen the right team.
+27:44
+And so Answer force.com can support you be a bolt on partner to help you consistently produce an awesome onboarding experience with that first call with your client.
+So Answer force.com/bloodlife.
+That's great.
+CNR Magazine, we're friends with all the folks at CNR, Michelle and her team, they do a great job of keeping their ear to the ground and reporting all the important information from our industry, right?
+28:08
+You want to stay up on all the M&A activity and what the latest best practices are for selling your company successfully, right?
+She's got that great articles about all the four quadrants of our business, right?
+CNR is constantly pushing out great material and leveraging great writers and subject matter experts in our industry.
+28:26
+It is the water cooler of our industry.
+So if you're not subscribed, go to cnrmagazine.com.
+Follow them on LinkedIn, follow Michelle on LinkedIn.
+Trust us, if you're trying to stay on top of everything happened in the industry, your best destination is cnrmagazine.com.
+28:42
+You guys, many of you have already heard about Actionable Insights and the training and the technical expertise that they bring to the industry.
+But how many of you are already leveraging the actionable insights profile for Xactimate?
+That's the game changer.
+28:58
+It's essentially an AI tool that's walking alongside of you as you write your estimate, bringing things to your attention that should be added that could be considered all of them.
+Items that increase our profitability, increase the effectiveness and the consistency of that scope.
+29:14
+And it can do anything from helping a new team member assimilate as some estimating best practices.
+And it also helps the grizzled vets add back that few percent that we've just forgot over time.
+So, Actionable Insights.
+Get insights.org forward slash floodlight and take a look at what the Actionable Insights Exactimate profile could be doing for you and your team.
+29:38
+So can you dig into that just a little bit more though, like objectively when a technician is performing the scan magic plan versus say what they might see or what might the end, like the end result be at the end of that scan between say Docu Sketch or a Matterport scan.
+29:56
+And what the technician is experiencing in terms of user interface, like Articulate, kind of the difference that they experience and why they'd be excited about that is producing an architectural drawing versus what they're going to see or produce on site with say docu Sketch.
+Yeah.
+One of the differences really again is this instantaneous element, right?
+30:15
+They are producing it, they are doing it right.
+And if there is a odd corner, something off, right, we give you the opportunity to kind of like sketch on your tablet by hand.
+We give you the opportunity to connect a Bluetooth laser and that is kind of like the highest level of detail that you can get.
+30:33
+And it's their product, it's their work, right, What they produce and that gives them the whole perception of creating value.
+I think that is different with some of the other solutions.
+You are supposed to do a certain procedure and then in the end, after some time back, you get sent something that might or might not be how you recall it and you can't edit it, you can't do it.
+30:58
+It's not.
+It kind of escapes your personal workflow and I think this is really where the difference is.
+Like I am out there, I know what the site looks like, I know what I would like to produce to actually complete the job to its fullest.
+31:14
+And you have that possibility at hand.
+That is really for the users, the difference that I observe because in the end, I mean, we can't debate about, okay, in the end there is a floor plan, right?
+But how do you get to that result and what does it take and how qualified you get there?
+31:31
+That is the difference.
+Because most other product you're basically doing the scan, yeah.
+And then you're waiting for some rendering to be available after a a few hours or a day or whatever the the platform.
+Is OK.
+Yeah, OK.
+That makes sense.
+Lam, why don't you hammer on that?
+31:46
+Because obviously the translation is kind of where the rubber hits the road.
+It's like we've done this scan, now what are we doing with it, right?
+Yeah.
+Well, I'll say from my perspective as a contractor, it's what you were bringing an earlier brand.
+It's one less item that they have to carry and lose.
+People live on their phones.
+32:03
+You're not going to, I don't know anybody like sure in the house you'll forget to place it somewhere.
+I don't know anybody that can't live without their smart phone, right?
+Everything is run on that, right?
+So it's just one item that's always in your pocket that can't be lost, that can't, you know what I mean?
+It just, it's again, the ease of use, the it's one less thing you got to carry around and break.
+32:21
+Like, I mean, I've had stuff lost and broke and it's hard to account for 10s of thousands of dollars being lost when you can just have it on your phone.
+So again, I always look at it just back to simplicity, right?
+Just it's all on the here, it's all on the phone.
+You know, I don't have to have another thing.
+I got to carry just that's one simple thing, you know, just coming back to the difference cost, you guys know, like I do, it's always the cost.
+32:43
+The cost is significantly less, right?
+Like all the products are amazing.
+Don't get me wrong, They significantly like less, right?
+And that's the thing, because people, every question you guys have probably seen and heard on this podcast is always like it's immediately, what is this cost?
+Like that sounds awesome, but what's the cost, you know?
+32:59
+And so that's a key element, you know, like in clean claims, you can buy as you go.
+You don't lose your credits.
+Your like, if you buy a job, it's there until you use it.
+You don't lose it right now our competitors, you got a monthly subscription where you just have to buy it.
+So it works great for the new guy coming and doing 2 jobs a month.
+33:15
+And then we have companies that are doing $500 million a year.
+So it again all just comes back to ease of use, you know, and getting the instant sketches.
+For me, what triggers it as a restorer is that kind of like the point you guys are bringing back is I don't have to go back to the next day.
+I don't have to pay another guy.
+33:31
+I knew when I sent out a crew, it was $325 every time we went on a trip that was fuel cost there back in the time on site, right?
+If I can avoid those days, the efficiency goes through the roof and I can track that efficiency.
+Like we increased our efficiency by 30% in our company overnight, just eliminating the extra wasted trips.
+33:50
+I mean, that's a huge deal when you have a three day dry out and it's 325 bucks a day, that's an extra almost grand of just labor and fuel, right?
+And if I can cut all that out, then I mean do the math.
+Like if you're doing one job a day, 365 and you just save like $300.00 on every job, that's 110 grand a year.
+34:08
+Do the math.
+It's like it is not hard to grow and get more efficient.
+Like we increased our margins by 30% and I didn't go get one new client, I didn't get one.
+We netted 30% better of just being more efficient and eliminating, oh, I forgot to do this and I forgot to do that.
+34:23
+We got to go back out, we got to argue and all the waste of time in the office, it's eliminating all of that.
+You know, talking with insurance carriers, they have the same problem we have as restores.
+You can't find people to work in the field today.
+You know, it's really hard to find good labor.
+And so the same problem with adjusters, you know what I mean?
+34:39
+And then the ones they do hire have three days of, of experience.
+And here's a checklist of what you need to tell to restore what they can or can't do.
+It's we can automate it.
+You know, carriers, big carriers we're talking to is like we're talking about anything under 10 grand on because in clean claims with the process enforcement driven, if you turn in that job, it's either done or it's not right.
+34:59
+So if it's done, then checks can go out.
+Like why wait?
+Like if they've or if they're within the standard and due on it, it's that efficiency right on both sides.
+I know that's cheesy, but it's a win win.
+The contractor makes more because we're being more efficient and then the carriers love it because now they're avoiding fraud.
+35:14
+The big thing is we eliminate the three day dry out BS.
+Like we can prove that if it went further, it's irrefutable data in our system.
+So I mean that would be the biggest things is price, ease of use and that transparency is what our competitors cannot touch what we're doing.
+I kind of want to hang in that pocket.
+35:31
+You know, we're friends with Rachel Stewart, right?
+Runs Accelerate, owns Accelerate.
+What's interesting, she's a pastor store GM, Very effective company, was really forward thinking, very commercial heavy, just a great operator.
+And one of the things that she's discussed and talked about and again, the company she was a part of and her culture now, like they prioritize culture, like they're not turning people over just cause.
+35:54
+And though she just kind of spoke to the reality that our frontline tech staff, like when you walk into an organization, they have tenured staff that have been techs or leads or PMS for extended periods of time.
+We all recognize that and we all kind of tip our hat because it's hard, it's hard to do it.
+36:11
+Reality of it is our frontline staff's going to turn over, especially in our industry.
+So even if you're prioritizing great culture development and play stickiness, we're going to have people coming and going.
+And one of the things she just hyper focused on was you've got to build a routine where within 30 to 45 days you have someone that can be competent enough to begin creating some value in the field.
+36:33
+Like obviously they're just getting started, but we've got to cross that threshold where the only thing they can do is grab some gear out of the truck, right?
+And I just kind of want to hang in that pocket with you guys a little bit because I feel like you've made this comment Now I can train people in two days.
+Like let's have a reality check on that.
+36:50
+Don't give me the software spin, but give me what that means.
+And why is it that you can effectively say, you know how to onboard somebody into that responsibility in such a short period of time?
+And if you can for me, Lane specially is please try to like separate the difference between what are they learning and they're able to do versus the stuff that the simplicity of the software is not addressing.
+37:14
+Just because I want it to be really clear, because we, we kind of get caught up in that while you do this and your whole experience and relationship with your tech will be easy.
+That's not true either, right?
+So give us the reality check on that.
+What's that meaning?
+So here's my thing right?
+Like so when I had my 4 restoration companies, it was a constant training on trying to get people to do things.
+37:34
+Every Wednesday meeting for six years was just begging my It was the most unproductive, worthless meeting.
+I think I kind of I told you guys the story and I tell this a lot, but it's true.
+It's every meeting was where's your pictures, where's readings?
+Why don't you document?
+Why are we going back out?
+Why are we are going to get paid like it never ended every Wednesday.
+37:49
+I guaranteed that was my conversation with my team, whether it was my admin team or my text in the field right.
+That's the problem.
+So in clean claims and I'm not trying to like sales.
+The difference is is that me as an owner of a company, I dictating control on a residential water or a commercial fire.
+38:06
+This is what I want and I check off what I want so that to where when the techs show up, they don't have any control over what they can or can't do.
+So me as the owner, I said that these are the patterns I want and this is the order it goes through and I can't move on to the next step.
+38:22
+That's the only way I could figure out how to create that consistency.
+And any other program that you go into, all those options are there that we have as well.
+But if you can do it whenever you want and there's no like fluidity to get that consistency.
+So that was the key.
+And the biggest difference is, and really what I told people, the story, State Farm is the one that led me down this path to sell my restoration companies and to do this because I got a call, this was five years ago and from one of their executives.
+38:50
+And it was they all they asked me is, is that why is it from your company?
+Whether in Utah, Colorado, Nevada, Nevada, we get perfect documentation for you guys all the time.
+So I had 47 employees when I sold my company, right?
+How do I get 47 restores that are all thinking different?
+39:06
+And one came from this company, one came from that company and they have this opinion.
+That's the problem is that it's always that, right?
+And that's what you're always fighting as a staff.
+You can have a great culture, but your guys are still going to.
+And it's not that all guys are bad.
+I mean, can it sound like it's bad?
+I'm guilty of it When I'm on call by myself and 10 calls come in, you bet your butt that I'm going to forget to do things, right?
+39:26
+The whole point of this is that you don't forget.
+It makes you spend the extra 5 minutes to take the picture of the structure, to take the outdoor reading like you have to do it right.
+So that's the key of doing that is that it's not leaving it up to the mission decide.
+And then you have to micromanage them.
+39:42
+You decide, you pick the requirements and that flow and they don't have a choice.
+They have to just go through and do it right.
+So that's the real key is that kind of answering your question, I've opened kind of, I mean, it's like I had a 30 year veteran that worked for me, just cancer in my culture, just destroying my culture.
+39:59
+He knew better than me.
+He knew better than everybody.
+Everything I said, he would say against it like it was hell.
+But like those are stores.
+I think can relate.
+Like I kept him because it was like, well, he knows what he's doing.
+But like, Oh my gosh, but it was a nightmare, right?
+So when I finally had a really good reason to fire him, and that's a whole other story.
+40:15
+Holy cow.
+But when I did, I literally hired a kid that I met at a drive through through Taco Bell.
+I literally just thought he had a good attitude and I was like, dude, I'll hire you and pay anymore.
+Hired him.
+I spent 30 minutes with him in our flood house showing him that process that I'm telling you that we've built, right?
+40:31
+And in 30 minutes he did the whole thing perfect.
+No joke.
+I sent him out.
+The next thing you can ask our clients that this is not this is not a try to BS people the buying our product.
+This is just the thing I love about my product is it is what it is.
+Don't take my word for it.
+I'll give you 5 jobs for free and you go try and if it doesn't work then don't use it.
+40:49
+That's what I tell everybody right?
+But that kid went out the next day and did a whole entire residential loss.
+It was like a four bedroom loss but he did it perfect and he had 30 minutes of training and has no idea what restoration is.
+Now I strongly love like the IRC or seeing the certifications.
+41:04
+You need to understand what's happening but think of how amazing it is in a tent like when you hire on 10 temp labor right?
+So my brother owns a restoration company in Saint George and he called me and he's like I just hired 12 guys to do content manipulation.
+I spent 5 minutes with them training and showing them because the reason why it's easy to train is if hey if you're not sure what to do hit next or save.
+41:25
+And it highlights in red what they have to do.
+And until they do it, they can't move on.
+So it's not rocket science and overthinking.
+It's just here's the task.
+You don't have any choice.
+And now if you're not sure, just sit next.
+It'll tell you what you're missing and then you can move.
+So that what I would say be really what it comes down to.
+41:42
+It's just it's it all comes back to just take the thinking away, make it simple and just a clear path to this is how we do it.
+And that trickles down.
+You know, the most critical data is being collected by the restorer in the field.
+And if it's hard and complicated for them and they don't know how to do it and understand it, you're consistently this is the normal you guys talk to probably more stores than I do.
+42:04
+It is the never ending, he said, she said battle of and then the argument of making your technicians do it.
+You don't have to deal with that anymore.
+Like literally.
+And that's don't take my word for it.
+Just try it.
+Everybody's tried everything out there.
+And it's always funny when I come into a class, I'm always like, I have to be like, I'm not another software.
+42:23
+This is not on.
+I promise.
+Like let me just establish that.
+Right.
+So that's the anyway, sorry, going off on a tangent, but yeah.
+I think what you touched on, and this is truth that I think some of us get a little callous too, is that normally it's not malicious intent.
+Like normally we don't have people that are just they're rolling their eyes and saying, oh gosh, I gotta do XYZ.
+42:44
+Does that happen?
+It does, but it's a rare it's.
+Totally.
+Clearly people doing the best they can most of the time and either we normally fail to give them any kind of adequate training and or there's just a reality that when you're new to an industry taking on a lot of information and it is hard to retain it all and be executing Florida State within a really short period of time.
+43:05
+Like it is difficult, right.
+And I think what you're talking about is creating a solution or a tool for our end user that eliminates the guesswork.
+Like we're just helping them be more confident in the steps that they have to take.
+Yeah, So did hear that it doesn't teach you how to dry good.
+43:21
+It just teaches you what administrative processes to go through, right, or what steps to take.
+So we still got to equip our people on how to do mitigation, if you will, all those other pieces that this makes a lot.
+Easier.
+Yeah.
+What this reminds you of, we talk a lot with restores about creating grooves in their business.
+43:38
+You know, kind of like when you get on the freeway, right?
+Or the Autobahn Andreas, you know, where it's like you have sections of Rd. where just the grooves are well worn and it's like you get on the on ramp and you kind of almost slide into the groove and you have to work hard to get out of it, right?
+And there's so much value in creating those in our business where new people can just onboard and just like get in the groove.
+43:58
+We have this established method.
+And so it sounds like your guys platform in many ways, just like as a company, hey, this is the highway we all drive on.
+And when people get into that groove, we also talk about like making it simple and easy to do the right thing, right in all of our systems and processes.
+44:14
+And that's what it sounds like is you guys are having people get into a highway where it's like, OK, the only option is the only option is this next thing, right?
+And then after you do that next thing, then there's a next thing and then there's a next.
+There is no room for people to sort of pick and choose what they're going to do when they arrive on the job site.
+44:32
+I mean is that?
+Forget or remember basically.
+And it makes so much sense to me because like you say, and I think to Brandon's point, where I think in general, people want to do the right thing, but they get so many pieces of conflicting data.
+Because you've got this guy Billy, who's been in the industry forever and he has his own way of doing things or approaching a job.
+44:50
+And you got Sally over here that came from another big company and she knows what she's doing.
+And everybody's kind of right, but they're all doing it differently.
+Whereas it sounds like your guys's platform forces people to, OK, you start by doing this thing, then you do next thing, then you do the next thing.
+45:07
+And there's a groove that it presents to them where they can just stay in the groove and they're gonna produce a really positive outcome.
+And they don't have to stress about how or what next or anything else.
+It's just, hey, this is the next thing and then the next thing, the next thing.
+Yeah, pretty much.
+It's just essentially just walking text how they need to do.
+45:23
+If you're an admin or a project manager or something, you can make changes on the fly if needed, but it's just set that exactly what you're saying.
+Just that path of like this is what we're gonna do and this is how we're gonna do it.
+Simplest way to do it right, so that it's just so that's what's nice is you can have all these different ideas, but it's just like, hey, just do it.
+45:39
+Just go through and do it.
+So you're all accomplishing the same goal.
+Yeah.
+Andreas, like with your guys's piece on magic plan, one of the things I just thought was so interesting and you guys have both referenced this just literally your phone LIDAR versus non LIDAR.
+Talk to us about that.
+45:54
+Just so I think from an end user perspective we understand what kind of toolkit needs to be deployed to get the best result.
+Yeah.
+I mean Lidar combines a Bluetooth laser distance meter like with your camera.
+So this is super powerful and that obviously makes the process even simpler.
+46:11
+However, you don't necessarily need to be light or equipped, whereas if possible, we definitely recommend this.
+And then in terms of ease of use, I mean, I like to reference, we have I think more than 150,000 reviews in the App Store, right?
+46:27
+We are focusing on the restoration industry, but we are out there like you can download this as a private individual and play around if you move home or whatnot.
+And that ease of use kind of gets validated day after day.
+That is what we try to hold ourselves accountable and make that, yeah, possible to everyone.
+46:46
+I mean, I was at a trade fair and there was a kind of bored kid, seven years old, and he asked me to pick up my iPad that I had and, and then he did it right.
+And that is what we try to focus on and what we try to enable to really make it accessible.
+47:03
+And it's accessible.
+If you haven't been on your phone, your phone, you have it always with you and it's easy for everyone.
+Also, one story that I just like so much, we had one comment of like a couple in their 70s and they said, hey, thank you so much because we had the plan.
+47:20
+We could actually talk to our contractor and visualize what we wanted, right?
+That is this renovation side that we have.
+But that really is the moment when I say, OK, it's all right, right.
+It's accessible enough for everyone to use it.
+47:36
+You don't need hours of training.
+You don't need to study architecture.
+You don't need to be trained in crazy equipment.
+You can just do it.
+And that is, yeah, what I think is great about and what we consistently try to stress over and over again.
+That's so funny.
+Literally from 7 to 70.
+47:53
+Yeah, right.
+Not what you say.
+I think it's kind of funny because just, you know, you guys have both kind of mentioned like the older dogs, right?
+We'll have that guy or gal and our team, they've been around.
+They're a seasoned veteran.
+They, you know how to do the job, but many of us too, like we're deferring our commitment to technology, right?
+48:11
+There's a few on the team still that that haven't quite grasped that conversion.
+So I think knowing 7 to 70 is a good number.
+I think we can fit just about anybody in our roster into that toolkit.
+That's solid.
+It's a small window, it's fine.
+If you fall outside of that, you probably shouldn't be in the restoration.
+48:31
+Yeah.
+OK, that's really.
+Rad Well, I'll tell you what guys like, you know, Chris and I have talked about both these solutions a lot and laying, you know, us getting a chance to kind of see it first hand, both your guys's platforms working in conjunction with each other at the LLM piece there at Thomas's large last mastery event, it was like instant kind of I fell in love because I was like, anything that we can do to make it easier to do the right thing is always going to be mandatory.
+48:59
+And I love the model.
+And again, I'm, you know, we're really talking about magic plan is in and of itself a really powerful tool, But when it's embedded in this platform, it's magic.
+But I think it's this idea, like you said, lane, try it like you get 5 claims for free.
+You're a per claim fee structure is how clean claim works.
+49:17
+It's silly to not try it.
+Like just try it.
+If you don't like it, great.
+It's not going to hurt my feelings.
+It might hurt lanes, but you'll never know because you're not going to tell you about it.
+But it's worth trying.
+Like we've just seen the system play out so far and I am really impressed.
+49:33
+I love the training wheels.
+I love the the idea that we can just place some parameters on the process to prevent us from using that energy up.
+Just trying to determine what next step to take versus being focused on the client.
+And that's something that we didn't talk about much, but you know, our people, Chris and I really hammer on, it's how we make them feel in the process.
+49:52
+But when our people are struggling because all their energy is going to remembering this, do this, take this action, put this file and send this thing out before you leave, we actually place them in a position where they can't focus their effort and their energy on the customer relationship.
+50:09
+They're doing mitigation, yes, but they're not prioritizing how we make them feel in the process.
+And that's just one of the things I feel like when you can begin to remove the need for energy to go to those cases of just no, I know what to do.
+It's like breathing.
+50:25
+I do those parts, I do them like second nature.
+And I focus all my attention on what my clients experiencing.
+Dude, we start crushing.
+That has nothing to do with profit margin.
+That's top line.
+That's next opportunity.
+You put those two things together, you're making more money and you're creating more opportunities.
+50:41
+I just don't see very many reasons for people to ignore that.
+But maybe I'm wrong.
+Maybe top line and bottom line is not an important thing for our business.
+I'd say the hard thing too, right is like for us, and I'm not trying to make this, it is like a sales pitch I guess a little bit, but huge is like you've got to be in with the right networks, right?
+50:59
+That's the key is like if you're not accepted, it doesn't happen.
+So we being a newer product, like I've been showing the product for two years about, but we've only been selling it 7-8 months technically, right.
+But we just signed our agreement with Contractor Connection.
+We're working with Alacrity.
+We have a bidirectional integration that we are beta testing right now through exact analysis.
+51:18
+So we built it to where carriers can push data in the exact analysis and that's now pushing into clean claims and vice versa.
+So it's, again, it's not just eliminating that.
+You know, in CRMS we have integrations where it's all built to.
+It pushes that data over automatically.
+So again, if I can't integrate with companies to where it's a true integration to where I'm eliminating that, then I'm not interested in integrating because everybody's selling that.
+51:39
+We integrate.
+And then it's like, well, you got to log in and out and you got to copy and paste this and that.
+And it's like, to me, I'm not going to buy that because I dealt with that my whole career.
+It's like unless it's talking back and forth and I don't have to go in and out and have my teams logging in, logging out, that to me is not an integration.
+51:55
+Sorry.
+So that's huge, like core logic, Scott Severe.
+Let me tell people that they're integrating into our remote monitoring and all that.
+Like, so what's huge is getting that acceptance and how fast we've been able to, if that doesn't tell you, just use the product and find out for yourself.
+I don't know what it is.
+52:10
+It's like, don't take my word for it, try it.
+That's what's been amazing is getting these big companies, like we've got pilot programs with insurance companies in different countries that are using it right now.
+You know what I mean?
+So it's just, it is what it is, you know, and those integrations are huge.
+So I'd say that'd be the key thing that maybe stopped people in the beginning.
+52:27
+But now that like we're in with all these big contractors and insurance carriers accepting it, it makes it so much easier for clients to just stick into one system, you know, and that integration, everybody's kind of exactimate or stability or whatever those integrations are critical because now we're pushing that data back and forth and eliminating that double, triple entry, right?
+52:46
+So that's what I would say is what we're very excited as a company, our trajectory like we're moving at a great case just because of those.
+If it wasn't for those integrations with like what we're doing with Andreas and exact analysis and everything, it wouldn't, it's not going to keep going.
+It's like, oh, it's cool, but it doesn't work with our system.
+53:03
+It's now going to where we're very excited that we are now being accepted by a lot of different big, big players and companies so.
+So it's pretty cool I think at the end of the day warrants people taking some time.
+Give it a test run.
+Obviously you can try magic plans separately outside of clean claims in and of itself.
+53:20
+Super powerful tool, Super powerful sketching and documenting tool.
+The two of you guys together is really silly.
+I just think it's super powerful.
+So let's do this, Andreas.
+Just give us where people are going to go if they wanted to try magic plans separately from the clean claims process.
+53:36
+Maybe they're already using something else and they're wanting to test out your guys' sketching tool.
+Where are we going?
+And then Lane, I'll have you do the same thing.
+Go to your phone, open the App Store, download and try, and then if you're happy, reach out to one of our team members.
+53:52
+We give you opportunities to do so.
+So just open the apps or in your phone, type in Magic Clan.
+You're good.
+Nice lane.
+Ours currently, you just go to cleanclaims.com.
+So today actually, as we speak, we have 15 clients for onboarding right now with Magic Clan and Clean Claims.
+So our native app will be in the apps.
+54:10
+It's in the beta App Store right now.
+Our native app will be in the App Store in about two to three weeks, if I remember correctly.
+So maybe sooner.
+But yeah, just cleanflames.com is the easiest place to go.
+You can do it all from right there and then.
+It will be in the App Store here soon.
+Nice.
+OK, so magic plan you can test for free, correct Andreas?
+54:27
+Yes, yeah, test for free would give you I think 2 free plans, but I'm following through on lanes offer if you want to test it, 5 projects all time, give it a try.
+I always typically say 2-3 plans, one in your hotel room, one in your office, one in your home and then you're done in terms of onboarding on training.
+54:47
+Give it a try.
+Tell us what you think.
+Love it.
+Yeah, nothing to lose here. 0 risk on our part to give it a test run.
+And I would advise everybody give them both a real hard wrap and put it through the paces and see what you end up with.
+I think one of the fun experiment on clean claims would be literally put it in somebody's hands in your company that's never even seen a loss and have them go out with an experienced tech.
+55:09
+Experienced tech, keep your mouth closed and let this individual walk through the paces and see how bad they do for a first try with little training and input.
+And I think that'll give you a real strong understanding of wow, OK, well maybe if we took 1015 intentional minutes, we would reshape this experience.
+55:26
+I think you'll actually be really pleasantly surprised.
+It's super fun to see for sure.
+I do it live on demos.
+I'll pick somebody from the audience that wants to volunteer.
+I'll plug my phone in and I'll say, cool, just start going through it.
+And I'm not going to say anything.
+And like, if you have a question, just let me know.
+I'll do it live.
+55:41
+And it's the funnest thing to see on job sites and that.
+So yeah, I would, I recommend the same.
+It's it's fun to see it happen.
+Super cool.
+Well, thanks guys.
+We really appreciate you taking the time to hang out with us.
+Obviously both of you have huge things in front of you right now.
+We'll continue to keep our eye on you and rubbing elbows at events.
+55:59
+We got a few coming up.
+I'm assuming that both of you will have a team present and and walking around.
+So we'll hopefully get some FaceTime with both of you at the next event.
+Yeah.
+Thanks for having us.
+All right, boys.
+Thank you for your time today.
+You got it.
+Thanks guys.
+See you later.
+All right, everybody.
+56:16
+Hey, thanks for joining us for another episode of Head, Heart and Boots and.
+If you're enjoying the show or you love this episode, please hit follow, formerly known as subscribe, write us a review or share this episode with a friend, Share it on LinkedIn, share it via text, whatever.
+56:31
+It all helps.
+Thanks for listening.

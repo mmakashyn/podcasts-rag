@@ -1,0 +1,977 @@
+0:07
+Welcome back to the Head, Heart and Boots podcast.
+I'm Chris.
+And I'm Brandon.
+Join us as we wrestle with what it takes to transform ourselves and the businesses we.
+Lead.
+Love this industry?
+Folks, we've got kind of a unique show today.
+0:23
+This is Chris.
+I'm flying solo.
+This is a.
+Special episode that we actually pulled from our Floodlight Friday live streams.
+And those of you listening that follow Brandon and I on LinkedIn or follow Floodlight on LinkedIn, you know about the live streams.
+It's it's kind of an industry variety show.
+0:39
+We cover everything you can imagine.
+Podcast episodes that we liked or podcast we follow, articles we've read.
+You know, we talk about field operations, project management, culture, leadership.
+I think we've even touched on marriage.
+Well, this particular episode, Brandon and I end up circling around the topic of discipline.
+0:58
+It was a great episode, and if you wanted to, I suppose you could go hunt it up on our LinkedIn page.
+But we just thought, man, this is something we should pull into Head, Heart and Boots and inevitably we'll talk about this again.
+I mean, those of you who follow Brandon and I, we we talk about discipline a lot.
+But this particular episode, I found myself as I re listened to it.
+1:13
+I found it provoking me, and I was one of the main people in the conversation, right?
+Sometimes when we're teaching others, we're ultimately speaking to ourselves.
+And I found myself reflecting on areas in my life where I've allowed some disciplines to slip, and also in some areas where I feel like I could apply more discipline.
+1:31
+I'd benefit from creating more discipline and some other areas in my life.
+And so I hope this episode, similarly it provokes you.
+But before we get into it, let's let's thank our sponsors.
+And by the way, I have a habit of fast forwarding through ads because I just want to get to the meat of the people I follow the personalities that I enjoy listening to whatever.
+1:50
+And Brandon and I, I get that and you're you totally can do that.
+Brandon and I really we're very careful about the sponsors that we choose to work with and conceivably if we had a sponsor we started hearing bad things about or we had a bad experience with, they would cease to be a sponsor.
+2:05
+We don't do it for the money.
+And so we really believe in our sponsors and we try to be creative and not too scripted with with our ads.
+But I'm going to talk about answer Force first answer force.com Brandon and I met the answer folks.
+Answer Force folks at the RA Convention this past spring and we invited them on our podcast live.
+2:24
+We just really hit it off with Mandy.
+She, you know, she just checked all the boxes in terms of the values that they espoused, the principles behind their answering service.
+But essentially they do remote call reception with a really sophisticated technology back end, right, that's administered through an app interface.
+2:40
+It's very easy to turn their service on or off to forward your your phones to the answer for us platform.
+There's no contracts you can flex the service up and down.
+You know based on maybe a storm scenario or you know if your main receptionist is out on lunch, right can very easily forward the phones to answer for us.
+3:01
+And and I think the most powerful thing about their platform is that their goal is to imitate your call and take process.
+Their whole objective is to try to mirror or imitate or replicate the exact same experience your customers would get with your full time receptionist but with answer forces calling agents regardless of time of day, day of the week of the year.
+3:23
+And and I think that's exactly what a call center or remote call service ought to do.
+And so we just appreciate how they work, how they handle customer experience and account management.
+We just have nothing but great things to say.
+I think you owe yourself a demo.
+Go check them out. answerforce.com/floodlight.
+3:41
+Also liftify.com.
+Gosh, I love these guys.
+I really.
+Do you know, I think we all have a certain standard of service that we try to provide all of our clients that we want to be known by, right.
+And Liftify, they're, they're one of us.
+They're doing things right, care about their clients.
+3:58
+We had a couple clients that were kind of struggling to onboard the the liftify system and and holy cow, the CEO and founder got engaged in the process.
+And when he was engaged in the process, he realized that there's some nuance to the restoration industry that's different than some of the other home services trades, plumbing age because they're involved in all of those other trades, very successful.
+4:18
+I mean they've been growing like crazy, but they realize that there's some nuance to our industry that required them to augment their process and so they did and then they provided new onboarding, new training to help restoration companies implement this like slightly modified process and the results have been fantastic.
+4:35
+You guys have heard us talk about team Gutierrez.
+They're a big fast growing serve pro team, awesome people over on the East Coast.
+It is incredible what they've done with their Google reviews since they implemented Liftify.
+They've just, they've done everything Liftify told them to do.
+They've implemented the full process and and adopted the platform completely and they are absolutely crushing.
+4:55
+When we first introduced them to Liftify, they had some 560 reviews which at the time was #1 in the serve Pro network and within I want to say 90 days they were over 1000.
+Now granted they're a high volume shock, they're a big successful team.
+Your results may vary, but it is certainly worth a demo, especially if you're currently using Podium or Bird Eye or some of these other big name venture backed Silicon Valley.
+5:21
+You know Google review platforms.
+Brandon and I've had experience with those when we've been running companies and got very mediocre, lackluster results.
+If any like we just struggle to see the value at four, 500 bucks a month per location or whatever these fancy platforms are liftify better value and better results and we're seeing that across our client portfolio.
+5:43
+So it isn't just us you know Tooting our sponsors horn here, but you really owe it to yourself to check out their platform, meet their team, high quality folks with a really high quality product.
+Last but not least, CNR magazine, we all need good partners in our industry.
+Michelle and her team at CNR.
+In my view, I mean, it's not to knock some of the other publications that serve our industry, but I just think Michelle has gone above and beyond to really weave herself into the fabric of the industry.
+6:08
+You know, she scoops all the biggest stories.
+I I feel like I've got a really good pulse on the industry because I follow her on LinkedIn, I follow CNR on LinkedIn, and I regularly read the publication and I I I feel like I'm in the know.
+Often times I will see something in CNRA press release, a story break on LinkedIn alive that she'll do and and then later I'll hear it from a person involved.
+6:34
+Yeah, so I.
+Actually I knew about it before they brought it up in conversation, right.
+And so I certainly appreciate that.
+I mean they are awesome at keeping a pulse on what's happening in the industry.
+They're connected to kind of the bleeding edge of what our vendors are doing, the products coming into our market, the new technology that's emerging, all that kind of stuff.
+6:52
+So if you're not following CNR you need to and and by the way, if you listen to this podcast and you're like Brandon and I, you're a service provider like serving the restoration industry.
+I think CNR is a fantastic platform, the platform to advertise in.
+I think ever since we started advertising and promoting Head Heart Boots podcast for example we've our numbers have exploded.
+7:14
+This past year since we began advertising with, we've really been relying on our advertising and CNR and just posting stuff to our socials and we've watched our downloads, our audience grow tremendously over this past year and we would, we would credit a lot of that to the exposure we've gotten with CNR.
+7:30
+So if you're an advertiser, you really should reach out to Michelle and the team and talk about their advertising options.
+We just renewed by the way for this next year our advertising plan with with her and the team.
+So we're committed.
+We're believers.
+You know, we think you definitely should be following them, building a connection with Michelle.
+7:46
+Here we go.
+Let's drop in.
+Let's talk about discipline.
+Hey, hey, hey.
+All right.
+Welcome to the Floodlight Friday live stream.
+Wow, you said that Well.
+I know.
+I just got to wake Brandon up.
+He's he's on a little bit of a Friday morning slump.
+I'm struggling.
+You.
+Could see up my face.
+I look dog tired.
+8:02
+So today, you know, I might have actually just, you know, pooped the bed with my with the title, with the description I put on Friday's live stream, with discipline for leaders, everybody's like, Oh my.
+God, it's Friday.
+It's.
+It's Friday.
+It's the last thing I want to talk about is discipline.
+8:20
+I just want to get my bourbon on tonight.
+Around the the fire circle on in the.
+Backyard.
+We hit the wad before we go home.
+I was expecting.
+You should probably clarify that for non cross fitter types, yeah, we have a we have a workout to do before we hit the weekend.
+Brandon thought he was going to dodge that one.
+8:38
+So what we're going to talk about?
+Discipline and I I have a quote that I love and I come back to.
+In fact, I want to get something on my wall that says this.
+But Epictetus is a famous Stoic, and I've gotten into Stoicism over the last few years.
+8:54
+Not, not like, seriously.
+But you know, Ryan Holiday has been a big figure.
+Many of you've read his books.
+The Daily Stoic is kind of like a daily journal.
+He's got a podcast.
+It's really, really, really good stuff.
+Every book he's written pretty much like Keep on the quick draw shelf.
+9:13
+Yeah, it's just really good stuff.
+And he works with, you know, NFL teams and corporations to sort of teach them these stoic thoughts.
+Well, one of the stoic thoughts that I really latched onto recently relative to discipline is Epictetus says he asked this question, How long are you going to wait before you demand the best for yourself?
+9:36
+How long are you going to wait before you demand the best for yourself?
+And you know, I just feel like that touches every single aspect of our life.
+It's like, OK, how long am I going to wait before I get serious about my marriage?
+9:55
+How long am I going to wait before I get serious about my personal fitness?
+You know?
+And it ties in.
+Many of you have heard, like if you listen to our podcast and stuff, like, I've been thinking, I'm 43 years old, I'm in this like, midlife deal.
+10:10
+And we talked with this, with Rico about this like I think a lot of us and I don't think it necessarily starts when you're 40s.
+I I know some, we have some young entrepreneurs we work with that are starting to think along these lines, are starting to think about their life and how much time is left and when am I going to like what am I capable of.
+10:30
+I think is a question I've been asking myself a lot.
+It's not so much what do I have to do, it's what could I do, Yeah, you know.
+Yeah, yeah, yeah.
+What could I do?
+It's interesting because I think part of the struggle with discipline is that it's it's a powerful force.
+10:49
+But I feel like I often personally approach it from AI need to I ought to it.
+It becomes more guilt and shame versus motivation.
+And I think one of the things I'm learning partially by watching you is just the way that we're using language, spinning the things I say out loud regarding that thing.
+11:11
+So instead of moving from the could I need to I ought to I got to be better.
+It moves more into what What can I do, what what am I capable of, what's possible?
+And that just, I don't know.
+It could be total bullshit, but it just makes me feel better when I think about the subject.
+11:29
+Well.
+It seems more motivating.
+It feels so real to me and I think that's why I'm so I it's it's like discipline breeds more discipline.
+It's like, I mean, here's one way that's been showing up for me is in my parenting, my fathering of my two boys.
+11:45
+I I messed a lot of things up with my first born and and it's like we don't get that time back.
+You know it's like my my daughter and I've talked about this like she experienced a version of me for the 1st 10 years of her life that my boys really didn't you know by they were each three years behind each other and and so they have a different experience with me and I can't change that.
+12:05
+But what I can do is I can change the way that I'm interacting with my boys.
+And here's one thing I've just just been profound and and like we know this.
+We know this.
+People told us this.
+The book say this all the things is that as a parent nothing matters as much.
+12:21
+As what you do, what you.
+Say kids could give a shit about what we say.
+Isn't that true?
+Well, most of the time they they're not hearing it.
+Like they're just not it.
+It's it's like us, right?
+It's like when we get into a conversation and you're caught in your head like you're you're just constantly thinking about what am I going to say next, but how am I processing what this person just said to me like what we you end up most of the time if you're not very intentional about how you're listening.
+12:50
+Most of the time we're not even catching most of the message, and I think ultimately our kids just live in that space.
+It's not even like a conscious, like my parents don't know anything.
+I think more often than not, they're just barely hearing what we're saying because they're so stuck in their own head, their self, self consumption.
+13:07
+They're just.
+Trying to figure out and I think it's all subconscious.
+They're just they're just trying to figure out what what is real what what works what what is real.
+And and so I've noticed this about my kids and and there's no pride in this.
+It's just it's like it's fascinating to me.
+13:24
+So I've been on this fitness journey for pretty seriously for the last five years or so, and what I've noticed is I I do a fair amount at home.
+I don't.
+I I work out at a gym, Brandon and I now are going to the same gym and I do like 90% of my workouts at the gym.
+13:41
+But I also have kettle bells out of my back deck and I have some gymnastics rings on my back deck and I built a chin up bar in our backyard and I'll still, you know, at home I'll go bang out a set of pull ups or whatever And and so my kids, my boys in particular will see me working out and I've never had a conversation with boys who was like hey guys, let's start working out together, you know, every day you guys should work at No, I I really haven't.
+14:07
+But they've seen me and it's interesting My 15 year old boy started training in the backyard.
+He'll start doing workouts and it's funny, man, this kid is like every mirror he sees is his His sleeves have to come up or his shirt has to come off so he can check himself out in the mirror.
+14:25
+It's really freaking hilarious.
+But then my 13 year or my 12 year old boy is following suit.
+He's seen his older brother work out and now he.
+I'm not kidding you, my 12 year old.
+I mean he is.
+He is so disciplined and driven.
+He'll he works out.
+He has a workout schedule, he told me.
+14:41
+And I have never once programmed anything for him.
+I've never once said you should work out three or four times a week.
+He's like figured out his own schedule.
+He has rest days because he's just hearing.
+He sees and hears what I do and then he's moving off of that.
+14:58
+And I'm just so fascinated by that.
+And it's so motivational to me, just just the the power of discipline and how it affects people around us.
+And of course the parallels for leadership are massive.
+I think those of you out there that lack discipline and you know you lack discipline and you bring that to your work, but you're still winning.
+15:18
+I think sometimes that's the biggest.
+It's the biggest deception, right?
+You've got all the things.
+Your company's growing, your top line's crazy.
+You're maybe you're very profitable.
+All the things.
+That's the biggest deception, right?
+As well.
+It must be working.
+Who needs discipline?
+15:35
+When I you know what I mean?
+Like, why?
+Why stop eating the pizzas and having the three bourbons at night when I clearly I'm killing it.
+And and the big question to me is, yeah, but what if I got more disciplined?
+15:51
+What would my results be?
+Yeah.
+Would I?
+Would I have less turnover in my business?
+Would I have a better relationship with my spouse?
+Would I be having more sex?
+Would I be healthier?
+Would I look better in my clothes?
+Would I Would I like would would my employees like would I have a better, like more leadership depth on within my within my team?
+16:10
+Would I would I be more profitable?
+Maybe I'm at 22% EBITDA.
+Could I be at 25 if I dialed in some of these disciplines in my team?
+Modeled after my lead?
+You know what I mean?
+Like what if?
+What if it's?
+Like there's.
+Untapped energy for all of us in the realm of discipline.
+16:30
+It's it's I I dude, I'm so you.
+And I watched you turn me on to that Cam Haynes thing.
+Yeah.
+Can you talk about that?
+Like what what what?
+Like turn.
+So Cameron Haynes a a world renowned Archer friend of Joe Rogan's.
+16:46
+Like did you want to describe?
+Him.
+Yeah, his circle.
+So Cameron Haynes Keep Hammering Collective.
+That's his, That's his podcast platform.
+And then he's just, he's the equivalent of an elite level sports.
+He's an athlete specifically though in the archery community.
+17:05
+Now personally, I just have sporadic exchanges with the archery community.
+I didn't.
+I'm not a hardcore.
+Neither one of us are regular hunters or whatever.
+But but what got him so I think infamous was his commitment to discipline.
+So and he falls in kind of those weirder categories with like a Goggins and stuff where they're doing a lot of pretty.
+17:24
+Extreme.
+Just.
+Very extreme.
+Like he's an ultra marathon runner and then on top of that he's done like the equivalent of 200 mile ultra marathon.
+So I don't even know what they call that like Deca ultra something, I don't know.
+But the point is is he he did most of this came from him personally establishing a routine to prepare him for the extremes of the bow hunting that he would go into.
+17:48
+And so part of what his story is based on is in order to get the biggest, craziest, most unique animals and I, we don't need to go into the conservation stuff.
+There's that whole thing.
+Some people freak out when they hear it.
+But anyways, the point is, is that he himself set a standard of training for himself personally.
+18:08
+This this was before he was.
+He's not sponsored.
+He's nothing.
+He just knows in order for me to be successful in this thing I'm passionate about, it is going to require me to reshape my body's commitment to the standard to get the most out of it.
+To get the most out, yeah, and he is just turned that into an influence.
+18:26
+He's a mammoth influencer, but the coolest thing about it is he's from Eugene, OR.
+He's actually a smaller town than that but he's right here from our own backyard and he released a a movie not long ago called We Were Once Wolves and it's a really touching story about a live hunt that they do.
+18:45
+This is for grizzly in Alaska like apex apex, predators.
+And when we talk about the boars that he's going after the big male bears.
+These are the old grizzled bears that need to be removed from so that the younger blood can come in and and begin being the mating male.
+19:04
+But monsters?
+OK.
+Predators.
+And anyways the story is about him going back to Alaska multiple years after his very close friend has passed away.
+He fell off a mountain and he's back there with a really close group of friends and guides and they're on a big grizzly hunt.
+19:22
+And it's just it's it is not an easy thing that they do in their bond with each other.
+I mean they're stuck in crazy weather, exposed to the environment and then they go in and do something extremely dangerous with one another and in an environment that sometimes things get out of your control and they do.
+19:44
+And it's just anyways, we were once wolves or once we were wolves.
+It's Cam hands.
+He's just specimen of a person in terms of of mental discipline.
+He's got this, this show that he also does and it's called run, lift, shoot.
+And what he does is he brings in like athletes and big brand managers and all these different folks that come in and they meet with him right here in our hometown and they go out and they lift, run and shoot.
+20:12
+And so he sometimes he's teaching people to shoot bows for the very first time and.
+But they go and grind gears, man.
+They do really hard shit together.
+So he literally flies his guests in from out of state and they basically spend 2 days getting their ass crushed by by Cameron.
+20:28
+Except the time that he had David Goggins as a guest.
+And those two badasses, just just they they provoked each other.
+I remember seeing that.
+I remember he put up like for those weight lifters out there workout folks like I want to say that Goggins and he did like 20-5 reps of 225 lbs on the bench which is which is very phenomenal.
+20:55
+I mean it's it's like elite level like NFL combine kind of performance you know.
+Anyway I I just you and I were so both of us really inspired by that and there was there was a moment at the beginning of the show too and it's it's maybe not directly related to discipline the way we normally think of it but he was just talking about his love for the wilderness and hunting in that especially in in going after say Grizzlies and and in those environments I mean they're wrecking 30 miles in to the Denali.
+21:28
+Right.
+Like it like it's there is there is no backup plan there is no I mean granted they have guns and pistols and stuff like that but they they're they're on their own.
+He he's going to that place of I either do or I don't.
+21:49
+I either successfully engage that Grizzly or there is the real potential that Grizzly is going to dispatch me.
+And there's a very pure place in that and I think very few of us spend much if anytime in that headspace of clarity.
+22:08
+And you know what I mean?
+Oh.
+I do it.
+It's funny too.
+And one of the most moving parts about watching that movie, it's about an hour is at the end one of his really close friends Kip oh Brain Fart, his last name.
+22:24
+Anyways he's the ex Co founder of Under Armour.
+Under Armour was Cam's first company corporate sponsor that came in behind him and really they built something together.
+So that was when Under Armour got into the hunting space.
+But anyways, one of the things that they talked about was this, this gentleman Kip's been friends with Cam for 20 years, 20 plus years.
+22:45
+He's like, there's this weird calm about Cam in a moment like that.
+Because I won't give away the end of the film because it's it's worth watching, you know, regardless if you like hunting or not.
+But anyways, there's this moment that something pretty scary happens.
+23:01
+And in the midst of it, he just references Cam's calmness and he's like, he's ready to go.
+He's ready to die.
+Yeah.
+And he's like clearly the other dude, Kip.
+He's like clearly I've got some work to do and what he's referencing is and and part of Cam's message.
+23:18
+You can hear it with like some of the ways he titles things like keeping Keep Hammering collective.
+Right he's if any of you watch Eric's podcast to the Blue collar boys you'll see behind Eric in his office.
+He's got the note that says no one cares.
+Work harder.
+23:33
+You know the lot of that is stems from from Cam.
+Anyways, I think what it really told me and how it relates to this discipline idea is that Cam made a personal commitment to ensure that every moment he's getting the most out of it.
+23:49
+And and what that means is is you know and I can't speak directly to all these things, but just relationship what he does for his business, his hunting, his passion for his friend group, the not just a passion for them, but a passion and creating a a tribe of brothers who challenge each other to operate at a very high level.
+24:09
+Like there's something interesting about the fact that from a internal peace perspective very confident and ready to go when the time calls.
+And I can't say that, like I can't say that about myself personally that I I consistently live in a place where I am mentally very at comfortable with who I am.
+24:29
+And I couldn't say with confidence that you know what if today's the day I know I got all the juice out of the tank like I gave it hell and and I'm proud of what I've done.
+I I'm falling forward.
+But but to be honest, to tell myself with that level of conviction, that's it's not true for me yet.
+24:49
+And I think what I'm learning is the only way I'm going to experience some element of that or at minimum be on a journey that will get me closest to that goal as possible is I don't I've got to figure out more ways to implement discipline.
+And again I I think what we struggle is we look at this as everything's a no.
+25:08
+It's a denial and I think it's less about being a no and a denial and I think it's more about establishing a goal you're chasing and in the discipline comes in the motivation of getting that thing or having that experience versus a running away from what I got to stop I can't I don't want to do right and and it's like even with working out was interesting is I get I come I get off and off on the wagon a lot like I just it's so easy for me to be unmotivated until I start doing it.
+25:40
+When I get in and start, it's different, but man, I fucking struggle to get in and do it.
+And one of the things I'm like you and I have been talking about is let's put something hard on the horizon once 1/4 And the idea is, is that now we will have this thing that's out there that when I try.
+25:57
+We're.
+Preparing for and it's just a calling so instead of me running from I don't want to be feel guilty I don't want to blah blah blah.
+It's no, I I want to go because that could help me achieve our goal and me look better.
+Yeah.
+When I'm competing against, you know, our group at that challenge, right, we.
+26:16
+OK, so there's another angle that comes up for me about that of the preparation is not only being ready to die, like sort of this, this, this.
+I've squeezed all the juice out of the orange, or I'm squeezing all the juice out of the orange, so I'm ready at any given moment for this to be it.
+26:33
+I think also too, part of what he may be saying is, is that I've done the work to, regardless of what situation I find myself in, I can be fully present and bring whatever I need to bring to that moment.
+Like he used the term I'm, I'm as ready as I can be, yes.
+26:53
+Meaning there's zero question of whether or not he could have trained one more day.
+He could have gone one more mile.
+Like he's confident that he literally did everything he could to be ready for that moment.
+And if there's not a direct business application, I can't even imagine what there is, right?
+27:12
+Like I I think, you know, you and I, even the other day we were talking about how much the success of the team has been often not in our control.
+Like it it just timing a certain relationship, a certain opportunity.
+27:32
+But the one thing that we say pretty consistently with conviction is we are getting better and better at doing everything in our power to be ready so that when we in quotes get lucky, we fucking hammer that thing out of the park.
+And and that's the part I think it's is giving me more confidence, not just as a business leader or as an entrepreneur, but just in my own like in general is the more often I can tell somebody with conviction that I, you know what, we did the best we could to be prepared for this opportunity.
+28:04
+Even if it doesn't hammer out of the park, I'm going to still feel good because I just literally gave it everything I could.
+You know what I mean?
+You know another aspect of this readiness.
+I was listening this morning.
+I was I've been spending more time on YouTube lately for some reason.
+28:22
+Yeah.
+I'm normally a really heavy.
+I just got no, no, no.
+Like in the mornings I try to find something positive or provocative, you know as I'm making my coffee in the morning and my eggs my 5 eggs and my coffee is.
+So I got Atlanta and Jordan Peterson this morning.
+28:38
+And his wife, I can't remember her name, but his his wife is interviewing hell on stage as part of one of his speaking engagements and she asked him the question, Jordan, how do you become more articulate?
+Because if anybody listens to Jordan Peterson, right, like he is.
+28:56
+Oh, out.
+Hold on, we got some.
+We got some engagement here.
+Oh, yeah, I'll come back to that, Alex.
+So first of all, will Bro Goggins?
+Yeah, he's an alien.
+There's no doubt about.
+Literally.
+Alex, Speaking of setting quarterly goals, what do you guys think about SMART goals?
+29:15
+Yes.
+We can circle on those.
+Yes, we think.
+Definitely tie into discipline.
+Watley this is.
+Why I always have a run, expedition or hunt in mind when I'm training.
+Yeah, right on that.
+With Cameron Haynes thing, I have to be preparing for something less ethereal than death.
+Yeah, it's good.
+Yeah, no, that's good.
+29:32
+OK, let's come back to that SMART goals thing.
+I I like that though, dude.
+So with Peterson.
+This is great by the way.
+Let me let me just find it so you guys can search for it while I knock over my coffee.
+Just had a we just had a near party fall.
+Yeah, that.
+It's called.
+29:50
+You can search what's going on here.
+Have a quote of why you're looking that up.
+This is how you become more articulate.
+OK, I'll drop it in the I'll drop it in the comments.
+It is a fantastic video about the importance of being articulate as a leader and I've always been a talker.
+30:12
+I mean, it's how I came up in this world, was talking and so I I, I.
+Think we all did.
+Well, like as a sale coming up in sales and owning.
+But like it's always been my thing is, is public speaking and I I enjoy this kind of stuff.
+And as I'm listening to him, I'm like I still have a really long way to go, first of all to ever be anything like Jordan Peterson who's like super smart and articulate.
+30:40
+But I there's something in us in it for all of us, I think in this video.
+So this is how you become more articulate by Jordan Peterson.
+But he's just talking about how could you not want to become more articulate?
+You know, as a leader, the way we speak and the way we explain things has a direct impact on our influence.
+31:02
+Yeah, and effectiveness of the team of the message of the whatever.
+And I think we all know somebody and in some cases we are this person that again we're deceived by our own success.
+You know occasionally Brandon and I in in general I think blue collar industries have a have a an unearned rap that we're somehow more simple.
+31:27
+We're not as you know we are as an industry we're just not as smart and sophisticated and I think it's bullshit.
+I think I think some aren't and some people don't give a rip about these other skills and and and things like that but I think it's just the deception of success.
+31:44
+You know that we we achieve a level of success and we think that that means like it's good enough for whatever, you know.
+But but I think you know you listen to Jordan Peterson.
+You're like, God, I I could probably, I have a whole another level I could move to if I was a little bit more deliberate about my communication.
+32:05
+And I invested in myself to become more articulate, to to be more clear in the conversations I'm having with my people at my all company meetings in my vision, casting with the team, the better I get at explaining where we're going and how we're going to get there.
+32:23
+Yeah, maybe I'm a $10 million company now but maybe I should be 20 million if I just got my shit together and I got a little more focused and disciplined and somebody's skills and habits.
+And anyway, I I I got fired up and I was listening to that.
+Oh my God, I I I fancy myself a fairly good speaker and communicator.
+32:40
+But I feel like I could double.
+Yeah.
+My competency if I really put some effort and energy into it.
+In fact, I think I probably rest on my laurels a little bit.
+Just my own natural talent.
+I think a lot of us do that.
+It's like, wait, what if?
+What if I actually discipline myself more?
+32:56
+My son.
+OK, so my son.
+I don't know if it's because of I haven't been modeling this for him, but my son's been starting to take cold showers and I know he is.
+YouTube's modeling that for him, Yeah, right now.
+Yeah, all the cold plunging and all that stuff, right?
+So my son, my son's been doing cold and I know it.
+33:13
+And he's not just talking about it.
+In fact, he doesn't talk about it much at all.
+But when I go to take a shower in the evening after I come out of the sauna, which I've been trying to do more often, I should take a cold shower, you know, it'd be beneficial.
+But anyway, when I go to get in the shower, it's turned all the way cold because he takes a shower before he goes to bed.
+33:33
+And I'm like, well, he's doing this thing almost every, every time I've been in the sauna.
+The last four or five times I come in, it's it's turned a cold.
+And I have a moment.
+I love this.
+I have a moment where I think I should do a cold shower.
+33:49
+And then you drink that heat up.
+And then I turn it to hot and I'm like, no, I just want to be cozy.
+I know.
+I just want to be comfortable.
+I just suffered.
+I just suffered in the sauna.
+And I really, it's like, what is suffering?
+Yeah.
+Was it hard?
+Was it hot?
+Yeah.
+Well, yeah, I'm sweating my ass off.
+34:05
+It's not really suffering.
+It's it's something I'm choosing.
+Like, I know I get the heat shock proteins, like I'm I'm developing resiliency in me.
+I'm doing all the good things.
+And yet the moment I get out of it, I just want to be comfortable.
+It's like I just just give me comfort.
+I can't do that.
+But I I thought to myself as I was standing there and I still didn't do the cold shower.
+34:23
+But I just thought to myself, why is it my son can do that at 15 and I can come up with every excuse of why I don't need to or I'm not going to right now?
+I thought about that last night and I'm thinking about it now and I'm like, you know what is that?
+34:42
+What's that Hold back.
+You know anywho, so I have.
+What else you got.
+I don't know if this.
+Is perspective or not, but it's just something that I think I'm, I'm personally kind of trying to try I guess is So when I when I look at my life in terms of business, relationships, leadership, competency, all the things there's a big gillion things that I feel like I've got the opportunity to make gains in like well there is no category I don't feel.
+35:11
+Gillian, by the way, is an order of magnitude larger than bajillion.
+Yes, a different thing.
+We've moved from bajillion to Bajillions, but I I mean, like every Ave. of my life, I have the opportunity to to increase its effectiveness and gain skill sets and competency.
+35:29
+So it's overwhelming.
+Like, I I think that that part of the reason we hesitate to to to take stock of how we're doing is that then we have to.
+It's like you see it, you can't Unsee it, right?
+So I think one of the things that I've been kind of wrestling with is, is that is there something that when I focus on it or when I give it effort or discipline, you know, what's the return for that engagement.
+35:55
+And so one of the things that I'm just finding myself moving back to more and more often is just starting with the physical element.
+And and here's why.
+Because I'm not a fitness guru, I'm not 10% body fat or I'm just a normal dude with.
+36:13
+Dad bod oh you do got biceps though, bro.
+I mean, well, we're trying.
+We're we're trying.
+And we buy the T-shirts the right way.
+But I think one of the things I'm realizing is that there's two critical elements that come out of physical fitness that then I'm able to, as I become more consistent to leverage into developing some other disciplines.
+36:35
+And we're making progress in other areas of my life.
+And here, here's why I think that part of this reason that we struggle to be motivated to do hard things is because our mind isn't ready.
+It it's just not ready for it because our mind is constantly telling us to get back to neutral, back to comfort, back to it's OK.
+36:57
+And one of the things I realized with physical fitness is that it's a very tangible black and white way for me to intentionally put myself in a scenario without it being taking three days to fly there.
+37:13
+And you got to stay and buy all this gear.
+Like I just need to go into the gym and commit to forcing myself to finish some reps, finish a pull up count or whatever.
+But every time I do that, I'm building muscle memory for my brain to do better at being uncomfortable for a prolonged period of time to get what I want.
+37:38
+And and then the other thing though is that I really struggle with energy.
+Like, I'm just constantly giving to relationships, the business, the whatever, and and so sometimes mental disciplines around like let's say some kind of business competency.
+37:57
+It's like, it's because I don't have the energy.
+I'm very unmotivated to really creatively think about this element or this skill set or this tool set.
+But I can drag my ass into a gym and once I get there, once I take a few stretches, do what I'm going to do, I'm going to gut through that workout.
+38:18
+And I think what I'm just realizing right now, and this is just for me personally, is if I can make, if that's my discipline right now, there's a million things I could work on, but I'm getting energy back and it's building the foundation for me to leverage into other elements or areas of my life.
+38:35
+And so right now I'm just, I'm just trying to give my attention to developing 1 area of discipline.
+But the return for me is 10X.
+Like there's going to be other things I've I already see areas of my life that I'm able to take advantage of like the and and oh and here's another thing and I'll.
+38:55
+I think I'll shut up is the context of discipline is really important.
+So, like, and again, for physical fitness, for me, this is an easy way for me to have context for my own perspective.
+When I go into a gym, it's hard not to get caught up in what other people doing.
+39:13
+But at the end of the day, it's a personal record.
+It's not a fucking record against anybody else.
+Like if you can't lift, you can't do a working set with 225.
+That's your deal, baby.
+Like, there's nobody else in that room that's going to get you there, right?
+So I I don't know.
+39:30
+I don't know where I was going with that other than it's just like, oh, well, here, here it is.
+And then so when I'm in that gym environment you and I you and I were had a set a weight that you and I were wrestling with.
+You fucking got it by the way which hammer down but that was our spot but if you looked at all the other benches in that room they weren't close to the weight that you and I were flexing on but but it and it's easy for me to get in that place.
+39:57
+Well yes he told you but then but but the the opportunity is is that person that's got a single plate on each side that's.
+Their personal record, they're they're pushing their own personal limit.
+I'm motivated by that.
+Not the fact that I have two plates, right, and and and I think, I think slipping into that space of the correct context for you.
+40:17
+We're always trying to do better than what our latest best was.
+Don't fucking worry about what everyone else around you is doing because you don't know their story.
+You don't know the context has nothing to do with your life.
+You know, it's it's it's that that am I making gains from my own barometer in in the context of how I feel and look and operate today and if tomorrow I get a little bit better because of discipline in my context, you are winning.
+40:47
+It doesn't matter what it looks like against somebody else's.
+You know, it's it's funny.
+That's that's one aspect of discipline.
+Yeah.
+Will.
+Yeah.
+This reminds me of talkers talked about how you need to step back and give yourself space.
+Yeah, yeah, right.
+41:03
+That that emotional margin.
+Yeah, bro, that's that's discipline.
+Absolutely right.
+We talked about that in the Heart of the Matter episode of just that, that experience I had with Jack of Wow, Part of me starting to feel really pissed off, like just the act of noticing.
+That's a discipline of just taking just just taking a pause break in your anger or or in your negative emotion and just the scene.
+41:27
+That discipline right, allows us to make a different change in the moment.
+I mean that is so true and applicable.
+You know I think about in the gym.
+It's interesting dude.
+One I often I don't have a concept of what other what I look like or I perform like the other people like I just don't have a context for it.
+41:45
+I but when I'm in the gym I think probably very few people realize this.
+Even even you.
+Like when we were working out yesterday.
+No one else in the gym has a context for how hard I'm working to stay in it.
+Yeah, like, but I think you have more of a context now.
+42:01
+Like the the the gym that Brandon I go to, it's a CrossFit style gym.
+It's not a CrossFit gym.
+It's with a functional fitness gym.
+It's.
+Fucking hard.
+It's it's like you get in for an hour in the 1st 15 minutes you're doing movement and stretches and warmups and you're kind of like the first time I went I'm like Oh well this is this is a bit soft you know like I'm in here for an hour but we were spending 15 minutes stretching and all this stuff and really the actual working time is probably closer to 35 minutes at our workouts and you just think well how hard could it be?
+42:29
+Kind of thing.
+I can't.
+Every single workout I go to and I'm not exaggerating, I have to make multiple choices to complete the reps that were assigned to me and or the sets.
+And then there's this thing they have at the end called the finisher which the very definition of that makes me want to quit when I don't feel like it.
+42:50
+Like, well I did the main strength.
+I did the main strength workout.
+I don't have time for the finisher today or I don't have it in me.
+I have all these little decision points in this workout that no one else is aware of where I could totally just F all and just leave and nobody's going to.
+43:08
+Nobody cares.
+Like, you know, it's like if I leave, they just assume I have a doctor's appointment or whatever.
+I got to go pick up my kid from soccer game.
+I could just leave.
+But I have all these decision points where I am telling myself I got it what it takes.
+Do the last gosh damn rap.
+43:24
+Yeah, one more.
+I I one time I I think I've told this story before but I remember one time when I first started working out at this gym is 4 years ago and I'm I'm new to this and it's overwhelming every single workout and I get to the end and we're doing V UPS and AB exercise and there was 15 in the finisher three sets of 15 first of all I can't even do AV up you know it's like legs strike can't even do it.
+43:48
+It's like a freaking gymnastics move.
+I can't do it but I'm doing tuck UPS a modified version of it and I am.
+I'm in my first set of 15 and I am blasted.
+You know we've already done a bunch of other things and I'm laying there and and I'm the last person I might have been the last person yesterday.
+44:05
+I think I on the on the carries anyways.
+I'm often the last person in the in the gym doing the workout because I'm slower or whatever, mainly because I'm battling in my head to do the next set, you know?
+But but anyways, I'm doing the V UPS.
+I'm doing the tuck UPS because I can't do V UPS.
+I do my first set of 15 and I collapse like my stomach's cramping.
+44:24
+I know we're closing in so much for 40 minutes, right?
+Let's just do 30-40 minutes and and and so I'm laying there in the middle of the floor.
+My shirt is soaked in sweat when everyone else is leaving.
+I could have just gotten up at the first set and say, hey, good enough, Yeah, 'cause it.
+44:41
+It might have been right.
+But there was something inside me and I knew it was a part of me that I wanted more of, where I'm like, no, I'm going to do the next one.
+And I got to the last set and I did like 8 reps and I and I collapse.
+45:00
+I just, I could.
+I was.
+I had to do one Rep and then I had to do one Rep and then I do one Rep and this sounds weird to say this out loud.
+It always feels embarrassing to me for some reason, which is probably just a weakness of mine.
+But I I felt like I wanted to cry at the end of that 15th Rep And I don't just mean cry.
+45:21
+I think all of us can relate to.
+This, but there was this.
+Primal let letting down.
+That happened in me, that I just wanted to bawl my eyes out and scream and yell and cry.
+It was the weirdest thing.
+Maybe some people can relate to this when you've just exerted yourself or you feel like, I don't know exactly what happened in that moment, but I managed to restrain myself.
+45:41
+So I didn't look like a weirdo idiot in front of in the middle of this CrossFit gym.
+But I I I managed to hold myself together.
+I got in the car and it was just this weird, primal.
+I just bawled for like four or five minutes sitting in my car.
+45:57
+It was the IT must have been the most ridiculously thing for anybody who happened to catch this.
+But but you know, at the end of it, these I had this you.
+You know what it was, though?
+I had this overwhelming sense of personal pride in myself.
+Yeah, there you go.
+That had nothing to do with other people affirming me.
+46:16
+It might have been, to be perfectly honest, the very first time in my life.
+And this would have been at age 39 years old.
+May have been, I don't know the very first time inside me.
+I was proud of myself and you're like Nordic, so freaking dumb.
+46:34
+You did freaking 45 sit ups OK but but it was bigger than that for me.
+It was obviously a lot bigger than that for me because there was this moment and I think we all have these opportunities and I've I've sat in this more and more is when no one else is watching and the only affirmation you're going to get is you doing the thing that you knew you could do but you didn't want to.
+46:58
+There is something special, there's something really special that happens in that moment.
+I have a quote for you that marries up with what you just said.
+So this is.
+I'm not sure who this is, but it says self respect is the fruit of discipline.
+47:16
+The sense of dignity grows when the ability to say no to oneself.
+Oh yeah.
+So it's like, I think what you're saying there, right, is that you, you had this immense moment of real, real self-confidence.
+47:31
+I can do what I need to do.
+Not the bolstering.
+Come in, take ownership of a room, own your environment.
+Control people's perspective on you.
+None of that bullshit.
+You had legit self developed self-confidence and self esteem.
+47:50
+I That was the fruit.
+I met myself in that moment.
+That's right.
+No one could take that from you.
+It wasn't a contextual thing.
+It wasn't because you know, you just happen to be trying something longer than somebody.
+It was totally internal integration.
+And I think you know I think that that's probably the the opportunity and discipline is it's not even it's not even the thing that you achieve when you're able to really dial in discipline in a category whatever The thing is.
+48:19
+But it's more what yourself is believing about yourself.
+Oh yeah and I think we just under no one can give that to you no one that that's the thing it's it's like the most broken thing inside of us that it doesn't matter how much you're consuming from your environment it won't fill it it it is the whole saying you can't out give a taker right.
+48:43
+When we have those people on our team that just consume instead of giving back like yourself.
+Esteem is that thing it it will consume every accolade every attaboy, every Atta girl every reward.
+48:58
+It will consume all of that and give you nothing long lasting in return.
+But discipline it does.
+Every time I do something, regardless if someone's watching and I achieve, go one more, do one more thing, do it one element better for me, it's for me.
+49:18
+It builds confidence in me that makes me more resistant to the external environment and that's what allows us to continue to win.
+It's what?
+It's what James Clear talks about in Atomic habits.
+It's it's reaffirming.
+I am the type of person that makes these kinds of choices.
+49:38
+I I am the kind of person that is capable of doing XY or ZI.
+Am the kind of person that when I'm faced with the challenge, I can confront it with confidence.
+I'm the kind of person that's capable in these kind of situations.
+49:54
+And man, it is so true.
+Dude, it's that's the other people can give you.
+No, it's not.
+And that's the identity you can build on.
+That is the universal identity for yourself that you can build on.
+Because it doesn't matter what job title you have, if you're entrepreneur, not entrepreneur, right now, if you're a brother-in-law, you're not a brother-in-law.
+50:12
+You're you're a husband or a wife or you're not.
+Like all of that comes and goes with our current life system's place, right?
+Current relationships, current environment, but your identity attached what yourself knows you're capable of achieving.
+50:29
+That's a totally different game, yeah.
+OK, so dude, I'm.
+I'm fired up.
+I'm like, if nobody watched this, if none of you watched this, this was all for me.
+Folks, I think Brandon and I might have gotten the most out of this.
+50:45
+I don't know.
+But but you, you know, can I be honest, Alex, You know Alex, you're.
+Excuse me, that was Watley.
+Watley the love.
+OK.
+You guys had what?
+Improved in your ability?
+What did you say?
+Wow.
+Right on, dude.
+Thank you.
+51:00
+Thank you.
+That that feels really good, man.
+Especially coming from.
+You.
+Yeah, Yeah, bro.
+I saw your burnt hair thing, by the way.
+And that was so rad.
+Watley.
+I love that.
+And I love just Elon.
+What?
+What a what's?
+That's so much fun.
+OK, Alex, SMART goals.
+Can I be honest?
+51:16
+Alex, SMART goals?
+Specific, measurable, realistic, attainable time based again, right?
+Yeah, I think so.
+I think so.
+Close enough.
+So, yes, yes, it that is valuable.
+51:34
+That's valuable.
+Yeah.
+I don't know.
+Is there anything like how, how, how, what does that speak to you?
+Well, I think, I think Watley even said this right.
+He in in in Watley's post, he just basically said, yeah, I got to have a hunting trip or this thing that I'm working towards.
+I can't just be thinking I want to maximize my life before I die, totally get it.
+51:53
+And I think, I think at a global level, that's what SMART goals really are.
+It's it's taking this thing that's thought or concept and breaking it down into these more concrete elements so that whatever effort you give to that you can actually accurately measure and identify did I succeed or did I not succeed.
+52:11
+So I think the like the the value for SMART goals.
+Big picture, if you think about like just leadership behavior in general, right, is anytime I walk out of a meeting or a conversation with somebody, if we have not concretely articulated what you will be doing, when is it due and what does success look like.
+52:33
+We really haven't done anything like like we're all going to walk back to our businesses.
+We're just winging it.
+Yeah, we'll get consumed by the tyranny of the urgent and the outcome of that is going to be less than probably desired at most of the time statistically.
+52:48
+But as soon as I say to that individual, this is the action or we agree this is the action that will be taken.
+This is when it's going to be done and this is what I'm going to do to follow up with you.
+We get results that that align with our goal.
+So I think Alex, just that was a really wordy way to say SMART goals are probably the only kind of goals if we're going to actually do something concrete to to get a result right and and so 100%, yeah, they make complete sense.
+53:16
+And Alex Hanson.
+OK, if I'm I haven't checked your Facebook or your LinkedIn profile, but Alex Hanson Hanson Insurance Group are now Hub International, right?
+One of my insurance buddies here.
+OK.
+Anyway, thank thank you for dropping in.
+I hope to meet you in person at some point.
+53:32
+I've been mostly connected to your your bro Trent.
+Assuming you're the same Alex Hanson.
+I'll have to double check that.
+Anyway, thank you everybody for watching today.
+I I I'm, I hope.
+I hope this, the FFL was as motivating and inspirational and provocative as it was for me and Brandon.
+53:50
+I feel like I'm.
+I'm feel lit up, ready.
+I I got things I want to think about and I want to double down and I want to be better.
+I want to be better.
+And surround ourselves, I think, with more people that are kind of in that space.
+Yeah.
+So if you are, if you are, please comment like if this fires you up, like please join the tribe.
+54:08
+Like we're, you know, as Brandon, I I don't know.
+I don't know where I want to go with that.
+I just feel.
+Well, here's an example, guys.
+Here, here's the it's the whole 1 + 1 = 10, right?
+There's there's bonds and relationships that that we can build that make us better and in a very measurable and tangible ways.
+54:26
+Here's yesterday.
+So Chris and I go into the gym.
+They've, I didn't know this, but the gym's been working on weight personal records so they're they're giving strength right now.
+And bench was was part of it.
+And I won't give our number away because the big lifters will make fun of us.
+54:42
+But we went in and I I was a little bit more full of gusto and so I stacked the plates on and because Chris doesn't want to let me down or look weaker than I am, he stepped up to the plate and crushed it.
+So he set himself a personal record just because almost I was the catalyst.
+55:01
+I forced him to do it.
+And I think that that was a perfect example, man, when your tribes dialed in and you guys want the same kinds of things, there's something powerful that begins to happen when you have a running mate like that, where it's just like, you know what?
+If you were left to your own, it probably wouldn't have hit that number.
+55:17
+But because you were almost forced to, you did and and you prove and then you walked out of there like, fuck yeah.
+It was pretty great, you know it.
+Reminds me of I was watching a YouTube short with Jay Cutler, who's a famous bodybuilder, powerlifter, and he was doing some kind of clinic with a bunch to people and of course, you know, videotaping the whole thing.
+55:37
+Right.
+Videotaping.
+Isn't that funny?
+Yeah, if we do that recording, the whole deal.
+But.
+But he he told the guy, he sort of brashly told the guy, he's like, hey, I want you to do 20 plus.
+And it was 225.
+Oh yeah.
+And this guy was a young buck.
+He's just been like 19 or something.
+And he stepped up and man, But you could tell the look on his face, he's like, really?
+55:57
+What?
+Yeah, like I can't do that.
+And he's like get the fuck on the bench, you know and and he and so the dude did it and banged out like 21 reps of 225, which again is like NFL combine type of stuff, right?
+It's just bonkers.
+56:14
+But but that it was funny 'cause I saw that like 2 days before you came.
+In you're like I just got 6.
+Yeah, yeah, yeah.
+And so anyhow, we I believe this with all my heart now is that we are capable of more than we realize, period.
+56:32
+In every single area of life.
+We're capable of being better husbands.
+We're capable of being wives, and we're capable of being better parents.
+Now there was a there was a thing I posted on my Facebook page the previous day that I felt like is a good way for us to end this, this talk, which is, or whatever this is our live is.
+56:53
+I can't remember if it was Seneca or some more modern day person said look, you were under no, I think it was Alan Watts.
+You are under no obligation to be the same person you were 5 minutes ago.
+Wow.
+All of us can choose who we want to be, and I find that incredibly inspirational, so we'll leave you guys on that.
+57:19
+Thank you for the Floodlight Friday live stream for being here for participating.
+Watley Will Tiger.
+Alex Hansen.
+You guys made our day.
+Stephanie.
+Oh, my gosh, we missed something.
+Stephanie, what'd you say?
+Let's let's put deep insights on setting goals and steps to reach them for yourself by comparing yourself.
+57:38
+Yeah.
+Yeah.
+We're all better, better, better than yesterday, right.
+That's what we're all trying to do.
+OK, to next time, we're going to be on site in the pack Northwest, working with the client that Friday morning, doing a thing with them.
+Won't be on next week, but the following.
+We'll see you back.
+57:53
+Drop your comments here, share it with your friends, family and children and we'll see you next.
+Well, maybe we had some F bombs in here.
+Maybe don't share with your children.
+You choose.
+All right, see you later.
+Bye.
+All right, everybody.
+58:11
+Hey, thanks for joining us for another episode of Head Heart and Boots.
+And if you're enjoying the show or you love this episode, please hit follow formerly known as subscribe, write us a review, or share this episode with a friend.
+Share it on LinkedIn.
+Share it via text, Whatever.
+58:27
+It all helps.
+Thanks for listening.

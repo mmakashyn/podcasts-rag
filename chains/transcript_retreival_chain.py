@@ -9,6 +9,8 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Weaviate
 from prompt_manager import PromptManager
 from utils.parsing_tools import format_retreival_query
+from itertools import groupby
+from operator import itemgetter
 
 
 class TranscriptRetrievalChain(Chain):
@@ -29,11 +31,20 @@ class TranscriptRetrievalChain(Chain):
     def output_keys(self) -> List[str]:
         return ["answer"]
 
-    def sort_by_timestamp(self, results: List[Dict]) -> List[Dict]:
+    def sort_by_timestamp_and_podcast(self, results: List[Dict]) -> List[Dict]:
         def timestamp_to_seconds(timestamp: str) -> int:
             minutes, seconds = map(int, timestamp.split(':'))
             return minutes * 60 + seconds
-        return sorted(results, key=lambda transcript: timestamp_to_seconds(transcript['timestamp']))
+        
+        # Sort first by podcast_name, then by timestamp
+        sorted_results = sorted(results, key=lambda x: (x['podcast_name'], timestamp_to_seconds(x['timestamp'])))
+        
+        # Group by podcast_name
+        grouped_results = []
+        for podcast_name, group in groupby(sorted_results, key=itemgetter('podcast_name')):
+            grouped_results.extend(list(group))
+        
+        return grouped_results
 
     def _retrieve_transcripts(self, query: str, n: int = 20, rich_author_meta=False) -> List[Dict]:
 
@@ -46,7 +57,7 @@ class TranscriptRetrievalChain(Chain):
 
         query_embedding = self.openai_client.embeddings.create(input=[query_formatted], model='text-embedding-3-large').data[0].embedding
 
-        fields = ["timestamp", "text"]
+        fields = ["timestamp", "text", "podcast_name"]
     
         results = (
             self.weaviate_client.query
@@ -101,7 +112,7 @@ class TranscriptRetrievalChain(Chain):
         # Retrieve transcripts
         results = await asyncio.to_thread(self._retrieve_transcripts, question)
         
-        results_filtered = await asyncio.to_thread(self.sort_by_timestamp, results)
+        results_filtered = await asyncio.to_thread(self.sort_by_timestamp_and_podcast, results)
        
         # Synthesize final answer
         final_answer = await asyncio.to_thread(self.transcript_synthesize, results_filtered, question, task)
@@ -118,7 +129,7 @@ class TranscriptRetrievalChain(Chain):
 
         # Retrieve articles
         results = self._retrieve_transcripts(question)
-        results_filtered = self.sort_by_timestamp(results)
+        results_filtered = self.sort_by_timestamp_and_podcast(results)
 
         # Synthesize final answer
         final_answer = self.transcript_synthesize(results_filtered, question, task)
