@@ -1,0 +1,1111 @@
+﻿[00:00:00.070] - Chris
+Hey, friends, clients, listeners, everybody in between. We've got a really cool special episode for you. This was originally recorded on the Blue Collar Nation podcast with Eric and Larry. Eric and Larry, if you don't already know, are the creators of St Super Tech University, which is a training and development platform specifically made for your technicians. You may have heard it. It's previous name, the morning tech meeting. They've been making all kinds of moves and upgrading their platform and continuing to make really awesome content to grow your technicians. If you haven't looked into it, you have to. I mean, the cost of this is ridiculously low. Every single restoration owner should be providing this to their technicians. Brandon and I are really enamored with their work, but I think most of all and you'll hear it in this show. I just love how open and transparent and candid and genuine these guys are. It's really fun to watch the dynamic between them. Brandon and I relate to it a lot. Brandon and I are very different in some of the same ways that Eric and Larry are different. They complement each other in many ways, and it's just really fun to listen to.
+
+[00:01:08.650] - Chris
+And Brandon and I had an awesome time recording the show. It's long, but just like those of you who've listened to Joe Rogan and some of his shows, sometimes you need time to really develop a conversation. And so I'd encourage you to hang in there, listen to it on your road time. You're in between stuff when you're working out, because the whole show, man, we take a ton of fun twists and turns, and particularly if you're a business owner, I think there's a lot you're going to relate to. So anyway, I hope you enjoy as much as Brandon. I did. And do check out Blue Collar Nation in Supertech University. You'll be glad you did.
+
+[00:01:48.570] - Chris
+Welcome back to the Head, Heart and Boots Podcast. I'm Chris.
+
+[00:01:52.270] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:01:59.490] - Chris
+What do you think?
+
+[00:02:00.620] - Brandon
+It's kind of serious.
+
+[00:02:02.550] - Chris
+Should we laugh?
+
+[00:02:07.750] - Random British Lady
+Welcome to the Blue Collar Nation Podcast, the podcast dedicated to making the lives of blue collar business owners better. Before we start the show, may we ask you for a quick favor? Eric and Larry work very hard at delivering the best free content possible. Please help them out by going to itunes and subscribing, and please leave them a five star review. Also, feel free to share the podcast with your friends and peers. Now onto the show.
+
+[00:02:38.650] - Larry
+Well, hello, everybody.
+
+[00:02:39.780] - Larry
+This is Larry from the Blue Collar Nation Podcast. I'm here with my discerning business partner, the tech whisperer Mr. Eric Sprague. I might have used that word before. How are you, Eric?
+
+[00:02:49.940] - Eric
+You're right, I am discerning.
+
+[00:02:51.650] - Larry
+Yes, you are discerning.
+
+[00:02:53.470] - Eric
+It says not about business partners.
+
+[00:02:56.910] - Larry
+But about insight, challenging personality.
+
+[00:03:03.130] - Eric
+I just tooled on you and you completely missed it.
+
+[00:03:06.290] - Larry
+No, I blew it off. I just let you run.
+
+[00:03:10.100] - Brandon
+let him gas out.
+
+[00:03:14.090] - Larry
+That was about it. So how are you today, Eric?
+
+[00:03:17.330] - Eric
+Oh, I was good until you didn't respond to that.
+
+[00:03:20.870] - Larry
+We'll give you... Let you try it again.
+
+[00:03:22.990] - Eric
+Okay, no, move on. We got better guests than you and I.
+
+[00:03:27.230] - Larry
+Cool.
+
+[00:03:28.020] - Larry
+This podcast is sponsored by Super Tech University.
+
+[00:03:32.320] - Larry
+You need a University for your technicians so that they conduct themselves better on site. Your problems don't come from their technical abilities because you train them real good in technical abilities. Do you train them in soft skills? I don't think so. Generally speaking, I'm going to go out on an edge and say you don't and you need to. And that's what we do. And the Tech Whisperer himself trains them in people's skills, human skills, soft skills. So go to Supertechu.com and check us out. And you will be highly impressed that a coach for your technicians will go a long way.
+
+[00:04:07.490] - Larry
+And back to the podcast. So we have an amazing group of gentlemen here today, including us, but two guys that are discerning in their own right. We have Chris Nordyke of the Floodlight Consulting Group and his business partner, Brandon Reece of the Floodlight Consulting Group. And they're also host of Head, Heart and Boots podcasts, which is a really cool podcast. You got to check that out, too. Hello, gentlemen. How are you today?
+
+[00:04:36.460] - Brandon
+Boys
+
+[00:04:37.350] - Chris
+We're excited to be here. Always fun.
+
+[00:04:41.100] - Eric
+I was looking at my calendar for the week, and I was like, yes, Thursday afternoon is going to be fun.
+
+[00:04:46.390] - Chris
+That's what I was thinking exactly.
+
+[00:04:48.380] - Brandon
+Although we did get some pretty sweet Cannon fodder before we even hit the record button. So hopefully we didn't blow our steam.
+
+[00:04:56.550] - Eric
+Yes. I don't think there's going to be any shortage of Cannon fodder.
+
+[00:05:02.910] - Larry
+well said, hopefully it will be a little unsolicited, like it was already.
+
+[00:05:06.240] - Brandon
+Hey, I like it.
+
+[00:05:10.650] - Larry
+Yeah, absolutely. Keep you on your toes. So you got the floor, Mr. Spring.
+
+[00:05:14.880] - Chris
+Make it happen.
+
+[00:05:15.320] - Eric
+All right, well, we got Chris and Brandon here. They are friends. We've been on your podcast, which we appreciated that we had a great conversation. It's been too long coming. We're so busy. You guys are so busy. I'm glad that you guys are here today. Thank you for coming on.
+
+[00:05:30.790] - Chris
+Yeah, man.
+
+[00:05:31.280] - Brandon
+We were looking forward to this for sure.
+
+[00:05:34.650] - Eric
+We've had several conversations on some Zoom calls, and I think the four of us, in many ways are kind of kindred spirits. So I wanted to talk about some things that entrepreneurs just struggle with. And I know that's kind of what you guys talk about a lot. I want to give you some kudos that you guys did a podcast recently about kind of your own health and fitness transformations. And I wanted to kind of drag some of that into our conversation because I can only speak for me. I can't speak for Larry, but that really resonated with me because I've been through that whole process and look, I've gotten it right and then screwed it up, and then I got to do it again and multiple times. And we'll talk probably a little bit about that, but yeah, just really appreciate the content. So I thought what we talk about is managing the self. Right. Like, when you go start a business, it's all about the self. Yeah. You're not thinking when you're dreaming it up, like HR and your employees. That's not generally what most people do at the beginning phase. They're saying, like, I don't want to work for somebody else.
+
+[00:06:50.920] - Eric
+I want to chart my own course. I think I can do this better. And it's like a lot of I I and then that's great in the start up phase. But then as you start to scale that business, that I starts to rear its ugly head. And it's like we had a coach that used to say, I know it's a saying. It's like the skills that get you out of Egypt won't get you to the promised land. Some version of that. Right. So I wanted to talk about what are your thoughts on that concept of the entrepreneur being very self identifying and self driven.
+
+[00:07:34.310] - Brandon
+Oh, man, you've opened up with a deep I'm going nuclear, right? Yeah, right out of the gate.
+
+[00:07:41.170] - Chris
+Well, there's a few different directions with that. Right. Because I think when we're self identified with our business, that's potentially a really dangerous it's a dangerous place to be. Right. Because every setback feels like a statement about us or a judgment about our value and so forth. But then there's also this element of, I think, self discipline, too. So there's like, there's the being too identified with our business so that every single setback, every single criticism and so forth is a criticism of us personally. But then there's also that self management component, too, of discipline and self awareness as our team grows, which is kind of two different conversations.
+
+[00:08:34.650] - Eric
+You made a great point. Let's go through those kind of one by one in the order that they kind of happen. So the first thing is self motivated and self disciplined. Right. Those are the things that we have to do to get a company off the ground. So what's the good and bad and ugly with that?
+
+[00:08:54.570] - Brandon
+Well, you know what's funny is that we were just kind of talking about it before the show lit up. We were just talking about how much road time you guys are putting in to be totally transparent with you. I'm watching your guys'work ethic, and I'm going, man, these two guys are no joke. They are grinding right now to get that brand exposure and give people an opportunity to see what's available. Right. For the toolkit. And I think that that's a major component right there. I think a lot of us make the mistake to underestimate the work that it's going to require to do the initial lift of our business. Chris and I talk about this quite a bit. I have felt pretty much just exhausted since we started, and it's in a good way. Like, I'd rather be exhausted in this position than any other. But you do. You just have to come to terms with the fact that at the beginning, especially, you're going to be exhausted and you better find a way to be motivated through that. That doesn't look like ease, simple, taking a break or all the other things. Right.
+
+[00:09:56.940] - Eric
+Right.
+
+[00:09:57.680] - Larry
+And it's different than in the beginning when we were starting the restoration business. Our bodies were beat up and our bodies now it's just the mental energy and the mental push that's just around the clock that we're willing to put effort into making it happen. It's just exhausting.
+
+[00:10:12.250] - Brandon
+Yes, totally.
+
+[00:10:14.610] - Eric
+Go ahead, Chris. Go ahead.
+
+[00:10:16.590] - Chris
+Well, I was just going to say, I think another experience I've had that this makes me think of is, like you say, when you start to scale, like just that hustle and charisma can get you a long way in this business. Right. In the service business, it's like doing the right thing, having sort of a heart for the customer, caring about your reputation. That stuff can get you pretty far. But then as you start to scale, you start to have bigger head counts at your company. One of the areas of self management that I noticed is how easy it is to slip into a place where our expectations of others remain very high in terms of the standards and performance we're expecting from our team. But behind the scenes, our own self discipline and the standards we're holding ourselves to is just completely falling apart just to one degree or another.
+
+[00:11:10.930] - Eric
+You know what it is? We hold them to a standard that we can't keep ourselves, and then we rationalize away, like why we can't get things done. That's human nature.
+
+[00:11:25.810] - Chris
+It's human nature. But what it is to me, it's a slip in integrity. Right. There's a part of me that's a little bit embarrassed to bring this up because I just see it as a big failure on my part is when there's that incongruence between what I'm asking them and how I'm really functioning as a leader behind the scenes. It's not a direct comparison. Like I'm asking them to do X number of sales calls, and I'm not doing that. But it's just little things. Like I'm holding them to a very high standard of performance. And I roll into our sales meeting, team sales meeting five minutes late or I didn't set an agenda for that meeting. I'm just kind of winging it when I show up and I have all kinds of excuses in my head why my hair is on fire and why it's okay for me to show up to that meeting without a set agenda and just kind of winging it. But what am I really communicating to my team?
+
+[00:12:24.310] - Eric
+It's a really big problem that's a huge disconnect in professionalism. You're asking them to be so professional. And yet what you just described is lacking professionalism, right?
+
+[00:12:35.390] - Chris
+Yeah. And I'm teaching them that there are some excuses that it's okay to make like, well, I was just running from this to this, and I'm really busy and I've got all these important things I'm doing, but it sends the wrong message, obviously, to our people because they see through it. They're like, oh, wait, I'm busy too. And you've charged me with a lot of responsibilities and expectations, and I'm not allowed to show up to the meeting late without my reports. Right.
+
+[00:12:58.710] - Eric
+Larry, would you like to weigh in on this?
+
+[00:13:01.570] - Larry
+Oh, yeah. This was me in many ways, and self identity with the business. I mean, everything in the business was me.
+
+[00:13:11.030] - Eric
+You're going ahead, we're going to get to that. I'll give you an example. I was putting systems in place, guys. Right. Because we had grown to the point where it can't be word of mouth. We need systems for everything. We have 25, 30 guys. There has to be systems. So I'm working my ass off getting these systems in place. And look, even when we were that size, Larry and I still would take on call nights just to give our guys a break. So Larry would take it on call, go cut some drywall, and then drop the wet bags of drywall right in front of a truck at the back door of the warehouse. Well, guess who's?
+
+[00:13:50.630] - Larry
+I don't know if that was exactly something similar, but I don't know if it was.
+
+[00:13:53.450] - Eric
+No, you're full of shit. So what would happen is my guys would come in and be like, Eric, this is horse shit. Because Larry's doing if we did that, we'd be getting killed. The system States right in the rulebook that this is what we do. And then Larry, Chris, the reason I brought it up is Larry would then rationalize like, don't you realize how many sales calls I have to make tomorrow? Do you realize that I never really stopped working? It's that owner privilege that we enact. Yeah, that can really hurt culture.
+
+[00:14:30.970] - Brandon
+Oh, man. You know what the reality of it is? I was so guilty of that, even not as an owner, just as a GM. Like, there is this constant battle with leadership role, especially if you keep continuing to move up the chain of just really struggling with that consistent self accountability of am I really doing the same level of discipline, commitment, whatever is I'm asking my people. And man, it's like when you say it that way, it made me immediately go back to those GM oriented roles. And I'm going, yeah, man, I struggled. I had lots of excuses why it was okay for me to not hit the Mark and I certainly was other critical to the point where I didn't give them the room necessarily to make that same failure.
+
+[00:15:17.290] - Chris
+In hindsight, it's all ego, right. When I think about that example I gave at the sales meetings, it is 100% ego. And that my role is more important, more sophisticated. I'm seeing things at a higher level. Bullshit, bullshit, bullshit. It's like I have no shortage of bullshit to justify my behavior. Right. It's all ego. My position entitles me to make these judgment calls on the fly as to what's important and what's not.
+
+[00:15:46.420] - Eric
+For me, you're using executive privilege.
+
+[00:15:51.460] - Chris
+Yeah.
+
+[00:15:53.750] - Eric
+Like, Larry and I used to do that all the time. Right. Because when guys would do stuff, we'd be like, guys, look, we never stopped working. You get to go home. We're still thinking about it, meeting about it, all that, and they didn't give a crap.
+
+[00:16:08.290] - Brandon
+Yeah.
+
+[00:16:09.240] - Eric
+It's your business. That's the role you picked.
+
+[00:16:12.310] - Brandon
+Yeah. For some reason, when they understand that there's potentially profit that you're creating in your business, they don't feel terribly sorry for you because you work your ass off for you. It's like, so what? It kind of reminds me, though. It's like remembering context.
+
+[00:16:27.540] - Eric
+Right.
+
+[00:16:27.920] - Brandon
+And I think that we kind of all wrestle with this to a certain extent, and it really is kind of mirroring what you're saying, Chris. It's this idea of, are we doing a good job of leaders remembering the context of the position that our employees are in versus us? And here's what I mean by that. My wife has kind of an interesting story at some point. She had some pretty heavy tragedy in it. And she tells the story about how she was at high school, and she saw this young girl crying kind of uncontrolled by the locker. And anyway, she went up and checked up on her and found out that this girl was crying because she had just lost her dog. And the thought that my wife had, which she had a very serious tragedy event where a father and a sister were killed in a car accident, she remembers in this moment being really empathetic for this individual and remembering the context of I can't compare my pain or the thing that I went through compared to this person, like, right now in the moment and this girl's context, that is the saddest thing that she's dealing with.
+
+[00:17:31.420] - Brandon
+And she wanted to provide empathy for her. And I think about that as leaders that we need to remember. The thing that I'm giving myself excuses for. Maybe they, on paper, look as if they carry more weight. But that's because the context of my life and the role that I play in my business means I should be able to handle that level of responsibility. And so when I look at my technicians or my Downline team members and I try to make a judgment about the position that they're in and the weight of the things they're carrying, we got to remember. But in their context, it feels just as weighty and just as intense as the things that we're shouldering as business owners or key leaders.
+
+[00:18:10.880] - Chris
+You know what I mean?
+
+[00:18:11.730] - Eric
+Yeah. Now that's a great point.
+
+[00:18:14.670]
+Yeah.
+
+[00:18:15.370] - Eric
+Well, that leads us then to the next self awareness that we have to gain self awareness to overcome our shortcomings. Right? I mean, if we're doing all these bullshit moves at some point, Chris, you said, like hard work and gutting it out and just being motivated can get you to a certain place. That place for most service companies, I think is right around a million dollars. I think most of them can get to a million just on the owner's sheer will. And then all of a sudden the wheels start falling off the wagon because no amount of motivation, no amount of self discipline will get you past that because usually we're lacking humility, we're lacking accountability to others and all these things. And then what happens is the guys that go to 3 million, 5 million, 10 million, they somewhere along the line had to become self aware.
+
+[00:19:15.050] - Chris
+Yeah. There's been several moments in my career those moments of awareness, moments of truth, right?
+
+[00:19:24.490] - Eric
+Yeah.
+
+[00:19:25.130] - Chris
+And one of those was for me was with Brandon. Actually, I told the story on the podcast, but it's probably buried so far deep. Other people don't remember it. But one of those moments of truth for me was when we were in the height of our growth at this company that we were working out together. We were busting at the seams. I think it was right before we opened up a second location, we were on this hockey stick kind of growth. And I had done a presentation at one of our all company meetings. And I came out of the meeting and like I typically do, I'm always asking for feedback. But Brandon had some really good feedback. I said, hey, how is my talk? How is my portion of the agenda? And he said, well, as usual, he's like, dude, you're good in front of people. That's your thing. He said, But oh, boy, what is this? Where's this going? He said, But I just have the feeling watching you and listening to you. And he's like, I don't know if anybody else in the room picked up on he said, but it just feels like you have a lot of confidence, but you don't have a lot of self esteem.
+
+[00:20:34.710] - Chris
+It just feels like there's this pull that you need people to kind of affirm how good your talk was validating. And he's like, I wonder about that. And I thought about that. And we subsequently had a number of conversations that was a real turning point for me. Nobody had ever quite put it in those terms. And so I really kind of ruminated on that. What does that mean? That I'm confident that I don't have the self esteem and it was a real turning point for me, just recognizing how others were experiencing me, that pull and what to do about it and really kind of set off kind of a five year period still something I'm aware of. I'm conscious of when am I slipping into that mode? It's usually when I start to feel impostor syndrome. All of us get that right?
+
+[00:21:26.610]
+Sure.
+
+[00:21:26.870] - Chris
+It's when I can get into that mode that kind of turns on that switch in me where I just affirmation seeking and stuff like that. But yeah, I think if we don't intentionally submit ourselves to other people and allow people to speak that honestly into our lives, it's easy to go on your whole career never becoming self aware and never really understanding how others are experiencing you. Every single moment of truth I've had it's been from a friend. I think back to another example of this. Early on, when I was a State Farm agent, I was meeting with one of my best friends, and we had dinner. And at the end of the dinner, the wives got up to go do whatever. And we were there alone at the table, and he said, Chris, I just have to tell you, I feel like you've been really sarcastic with me lately. Like, you've said some things that have really hurt my feelings, like just these snarky, sarcastic remarks. But the real reason I'm talking to you is because I've also observed you being sarcastic with your wife, too. And I just wanted to let you know I've noticed that and it's hurt my feelings.
+
+[00:22:38.000] - Chris
+And I feel like I've observed it hurting your wife's feelings. And I just wanted you to know. I was like, oh, wow. I mean, I was really taken by it because he doesn't normally this isn't a friend that's like always criticizing me. No, not at all. And he was very genuine and very serious, and that was a really transformational moment for me.
+
+[00:23:01.060] - Eric
+What do you think that was born out of?
+
+[00:23:04.040] - Chris
+Well, you know what it was. I was starting my State Farm agency. I was in that hustle mode those early days. I think I was just a couple of years in and so really still struggling to build an income and a business that was stable and all that stuff. And in those early days, you don't have a lot of points of affirmation. It's like, wow, the bank account is low again, and I'm running up my credit line, and I just had this employee quit. And you just have all those things and you're just kind of constantly running on empty. And I think my idea of self care and stuff just I just wasn't very present to that. I just wasn't very aware of that. I didn't know what I needed at that stage.
+
+[00:23:46.070] - Eric
+Don't go further, because we're going to get into that deeply.
+
+[00:23:50.450] - Larry
+I want to comment on that real quick. Being not present when we've all been in those points when things aren't going well, the bank account is going well, you got a payroll coming. You're not always present and how you act isn't always who you are because you're not really self reflecting. But if you have people around you to give you feedback, it's always helpful. Eric is always keeping me in check and we keep each other in check, but that's always valuable.
+
+[00:24:16.230] - Eric
+That's the thing, Larry. Very few business partnerships are long term. So if we didn't have each other, there's nobody in our company that was going to keep us in check because our name is on the check.
+
+[00:24:29.860] - Brandon
+Right.
+
+[00:24:30.450] - Eric
+You're not going to say anything.
+
+[00:24:31.940] - Brandon
+That's the thing you see is it almost compounds. It gets worse. Right. The longer you're in business and you don't have a peer circle that's doing some kind of level of accountability. You're constantly surrounded by somebody that either you at least feel right is dependent on you or serves a purpose. Right. And that's probably a whole nother podcast. But you get stuck in that circle too long. And man, it's like.
+
+[00:24:59.870] - Eric
+For us, Disk personality profiling, that was a game changer for us. I can't speak for. I mean, we know a lot of companies that use it. But for Larry and I, especially since we've been friends so long now we're business partners. As you guys know, we're polar opposites of each other. You couldn't pick two. People are more different.
+
+[00:25:24.230] - Larry
+Like good and evil. I'm all good.
+
+[00:25:27.710] - Chris
+You're the good guy.
+
+[00:25:29.870] - Brandon
+Clearly, Larry, he always gets to be the good guy.
+
+[00:25:34.970] - Eric
+Bullshit. So anyway, Gisk helped us manage our own self awareness because we weren't self aware at all. Our front door of our shop was like a turnstile. They come in, they'd go out. We couldn't keep people because we were being idiots. Like you said, not aware, not present in the moment, not worrying about anybody's needs but our own.
+
+[00:26:04.190] - Larry
+Fighting easier.
+
+[00:26:06.540] - Eric
+Yeah, we were very sarcastic. And then not only that, but then Larry and I had our own issues. We're fighting because we're not seeing our company or the world throughout the same eyes. So to have a tool and I'm only talking about Disk as a tool.
+
+[00:26:22.760]
+Yeah.
+
+[00:26:23.540] - Eric
+Having some tool, whatever it is, to start gaining self awareness can then fix a lot of those problems. No, it's comfortable.
+
+[00:26:33.030] - Brandon
+No, it's not. But you know what's interesting about that? And maybe this is worth kind of Ping ponging a little bit. Is there's a little bit of the chicken or the egg scenario when it comes to this kind of stuff? Because part of me feels like you have lots of experiences with people and for whatever reason, upbringing, environment, whatever, they don't seem like there's any awareness of the fact that maybe they have something to learn. Right. Why would they seek doing the disc? Why would they connect with someone and say, hey, I really need to have someone in my life. That's a voice that I can respect that helps me see my blind spots. There is this interesting thing where you run into people that just naturally are willing to consider that that might be a healthy thing. And so then they go out and pursue those tools or those resources of those relationships. What do we do when there's no realization?
+
+[00:27:32.340] - Eric
+So what you're saying, Brandon, is that the people who need it the most are the least apt to go seek it.
+
+[00:27:40.420] - Brandon
+It does feel that way.
+
+[00:27:41.540] - Eric
+Yeah, it does feel that way. True. I don't know about you guys, but I can speak for myself in that. I grew up in athletes, so I always wanted to have a coach. Like, it was just so automatic for me. Like, whatever I'm doing, I need a coach because I can't see what I can't see. And I think that's one of the things that I brought to our restoration company. And Larry really early on was like, no, man, we need a coach. Like, we need somebody telling us, you're being an idiot, you're not working hard enough, you're not working the right way. And the problem is, Brandon, the people who need the most coaching are often the least coachable.
+
+[00:28:22.940] - Brandon
+Yeah, it's very true.
+
+[00:28:25.310] - Chris
+I think that underscores another thing, too, which is just in our culture, we have a pretty superficial culture here in the west. Right. Like, it's a Facebook Instagram culture. And we don't like to like those examples that I gave Brandon and my friend, that is really rare for people to offer that kind of personality.
+
+[00:28:49.350] - Eric
+You're showing vulnerability.
+
+[00:28:52.370] - Chris
+It's incredibly rare for anybody to proactively offer that kind of input or feedback. And so I'm just incredibly grateful. In fact, I'm not kidding. Like, this guy is still a good friend of mine.
+
+[00:29:03.890] - Larry
+Hang on a second. You got to give yourself credit to be able to receive it as well.
+
+[00:29:08.600] - Chris
+No, you're right.
+
+[00:29:09.850] - Larry
+Won't receive it.
+
+[00:29:11.580] - Chris
+And I think that's part of the problem. Right. Is that many of us have had an experience where we offered feedback to somebody that was not received well. And we're like, oh, boy, I probably should be careful doing that again.
+
+[00:29:21.460] - Eric
+Larry does that daily.
+
+[00:29:24.650] - Brandon
+I totally saw Eric being the one that would do that. But that's okay.
+
+[00:29:27.930] - Eric
+Yeah, totally.
+
+[00:29:30.110] - Chris
+But I think what I've learned over the years and Brandon and I both is that you really have to go out of your way to cultivate the kind of relationships it sounds kind of woo some of these words, but you really have to go out of your way to create a safe container with the people around you to where they know they can say those sorts of things to you. You know what I mean? Like, you really have to cultivate this environment around you there's. Jim Deathmer is one of the guys we really love listening to. He's the Conscious Leadership Institute, and he talks about creating a feedback rich environment. And one of the funny things he says is when in a company, as you're starting to try to build this feedback rich environment is sometimes you even have to fake it, he said, because when you first introduced this concept to your team, everybody is afraid. They are so afraid to give real feedback. Like Brandon gave me or like my friend Bryson gave me. And he said, honestly, it's sometimes even helpful to make shit up. Literally, he'll coach people when they don't know what to say.
+
+[00:30:33.470] - Chris
+Listen, I want you to make up some feedback for me right now.
+
+[00:30:37.440]
+Sure.
+
+[00:30:37.760] - Chris
+I don't care how funny or weird it is, right, just to get people exercising that muscle, because we are we're all so afraid of offending somebody else, particularly in a work context. Our people especially, and I think this is owners and senior leaders, even just Department leaders and so forth. Our people, we have to keep mine. They are so scared. We are the one that authorizes their checks. I mean, ultimately the owner, right, the GM. But I think any position of authority, that person has the power over my livelihood, and we forget that. You know what I mean?
+
+[00:31:09.840] - Eric
+Yeah. Well, I'm going to go back to Disk real quick. When we started teaching Disk to all the people in our company, at first everybody was just like, taking it in but not really using it. And then they're starting to see at the field or with Larry and I and our behavior, they're starting to recognize it. And then we got to the point where everybody was very comfortable with it. And for me, I'm a very high D. So when I'm not getting what I want, I'm not nice to be around. I'm steamrolling. I'm bullying and all. So I would stand up in the morning meeting. I learned to do this. It took time and say, Look, I want you guys, when I start to bully or steamroll or get impatient, you need to do the timeout sign and say, Eric, you're doing your high D thing, right? And it took a long time, but we got there so that I could have somebody who made $15 an hour doing the time outside on a job when I showed up and I didn't like what was going on and going, Dude, you're steamrolling all of us.
+
+[00:32:13.570] - Eric
+Can we explain what's going on so that you can have a better understanding? Right. It took years for us to get to that point. And to be honest, I'm someone with not tons of humility. It took some humility on my part to be able to accept that feedback. And Larry had a huge part in that for me because he would be coaching me like, look, you've got to take feedback from everybody, dude. You need to show people that you're vulnerable. That's foreign to me. I grew up in locker rooms. You don't show vulnerability. That's insane. But it works.
+
+[00:32:47.430] - Brandon
+Yes, man. It's so funny hearing you guys talk, because I feel like Chris and I could basically lay our story over the top of it, and people would barely know the difference. That's been our relationship, too, is that in many ways, Chris has been the voice, the softer voice of, like, okay, dial it back. Eight on the Enneagram. Like the challenger, all those things are the roles that I fit into. And Chris has had to remind me, like, we all have certain strengths, naturally. And it's like, don't spend any more time developing that. That's just good to go already. And he would constantly have to remind me, like, the seriousness, the emotionally pointed version of me that comes in and says, this is not meeting the standard that we're looking for. And I'm clearly angry about it. That was a muscle. I didn't need to learn how to flex anymore. That was a natural gifting. So it's like you need to continue to try to bring these other aspects of your character to the room.
+
+[00:33:48.300] - Chris
+Less anger, more love. Develop the love piece, the anger. It's very effective when you need it. But we're overclocked on the anger part.
+
+[00:33:58.850] - Brandon
+We're good there. That quota is filled. I can relate to what you're saying.
+
+[00:34:05.630] - Eric
+Brandon, I'm going to second what you just said. What Chris just said is what Larry says to be daily. What's all the anger? And it's like, I don't know. I guess that's my default motivator.
+
+[00:34:19.650] - Chris
+Right. It's true. And you know what it actually taught me at the same time is not to be afraid of anger because I generally am the conflict avoider. I'm the relationship maintainer to a fault. Brandon, observing Brandon and the conversations we've had has helped me develop my assertiveness right. And my ability to go to that anger feels like the wrong word when we say it out loud, because we tend to associate that with hurting other people. But there is a point of anger that's very productive when we need to rally the team. It's an urgent moment. There's a place for that in a business, but we all tend to overuse it. Right.
+
+[00:35:02.510] - Eric
+Well, I was going to say that what it creates is fear.
+
+[00:35:06.250] - Chris
+Exactly.
+
+[00:35:06.800] - Eric
+And we can't live in fear all the time.
+
+[00:35:08.960] - Chris
+Right.
+
+[00:35:09.390] - Eric
+But sometimes there needs to be some edginess. Then it comes in handy. Like, guys, we got to get this effing job done today. I'm not taking no for an answer, and I don't care if we're there at you in the morning. Nobody's going home. There's some anger in that. And sometimes that's what we need to hear. But the next day, I need to be able to turn around and say, I love you, man. You killed it yesterday. The rally. There has to be that balance. And look, it took me a really long time to learn how to do that. That will be a lifelong struggle for me.
+
+[00:35:46.090] - Chris
+Yeah.
+
+[00:35:46.700] - Brandon
+Well, and kind of going back to where this started. I think that's the reality for most of us as leaders is that we need to realize that our continued development is going to be a lifelong thing. It's like we talk a little bit. Maybe this will come up later. It's like gym time, like getting in and doing our workout.
+
+[00:36:04.380] - Chris
+I hate it.
+
+[00:36:06.110] - Brandon
+All the way to the point where the first song turns on and I do my first rep. I hate it. I don't want to do it. I hate it.
+
+[00:36:14.880] - Larry
+It's grumpy on the way to me.
+
+[00:36:16.020] - Brandon
+Right. I know this is how first world. My problem is I have to leave my house and walk like an open breezeway to go to my garage, which is where my gym equipment is. Well, right now it's cold and rainy in the Pacific Northwest, and I hate that twelve foot walk through the cold. Anyway. It sounds so desperate. I know, dude. I know.
+
+[00:36:43.450] - Larry
+We'll do.
+
+[00:36:43.980] - Brandon
+Weeping and gnashing of teeth later.
+
+[00:36:46.130] - Eric
+Well, before we get into all the self care and the working out and all that, and I definitely want to go deep on that, let's go to the third thing that we talked about, which is having all that self identity wrapped up in our business. And I would like Larry to speak a little bit about this because Larry has been very honest and vulnerable on the show many times about this was like his biggest struggle. Yeah.
+
+[00:37:10.320] - Larry
+Well, when we sold the business, I was consulting with the business that bought us, and it just wasn't clicking for like months. I was like, what is wrong with me? I was working out a relationship going on. Everything was working, but nothing was clicking. And I think it was like six months later, somebody was talking about self identity, whether it was a podcast or a conversation. I'm like that's. It my identity was with the business that was sold. And I struggle consulting when it's not my business anymore. And it was like and I had to figure out how to get through it.
+
+[00:37:46.300] - Eric
+It wasn't just there. Larry, you struggled the whole time we were in business. Because if one technician did one thing wrong on a job, you took it as your whole person was being called into question. Well, now it all goes together. Well, it was that.
+
+[00:38:03.320] - Larry
+But it would ruin the relationships that I created.
+
+[00:38:06.090] - Eric
+It would also ruin your relationship with the technician.
+
+[00:38:09.350] - Larry
+Oh, yeah.
+
+[00:38:11.030] - Brandon
+Like how explain how that works.
+
+[00:38:12.620] - Eric
+Larry would be a Dick.
+
+[00:38:14.220] - Larry
+Well, I take it personally. I'm like you guys.
+
+[00:38:16.360]
+Yeah.
+
+[00:38:17.270] - Eric
+So Larry would come in with this vibe of everybody here is fucking me over.
+
+[00:38:23.750] - Brandon
+Oh, yeah.
+
+[00:38:24.670] - Eric
+Right off. And they can feel that, right. And I'm sitting here trying to build a culture of feeling good. And Larry, one day when everything's going smooth is coming in and hugging people and high fives and loving on them, and then the next day after we had some problem, everybody is out to get me. Well, dude, there's a lot of instability in that. And what's Simon Cynics, number one thing and start with why they want stability at work.
+
+[00:38:54.690] - Brandon
+Stability, safety.
+
+[00:38:55.760]
+Right.
+
+[00:38:55.960] - Eric
+So Larry and I would have go around after go around of like, dude, you can't do this. The opposite. I was like, the chess player. People could be mad. I'm just like, yeah, whatever. We'll figure it out, we'll fix it. Like, when we sold, I didn't care. I was like, great, I'm on to the next. I didn't think about it for five minutes.
+
+[00:39:19.770] - Brandon
+It's kind of interesting, though, the way that that showed up, because I think for me, a similar thing can happen. Of course, Larry, you and I are kind of on opposite ends of the spectrum, I think, by default. But it would show up the same way for me because I'm a loyalist. Right. So in my mind, I've got this unspoken loyalty that I believe I'm living out and committed to with my team, and I'm just expecting this same kind of loyalty in return. And so when something would happen to failure to follow process or do inspecting what we expect or whatever the case may be, I took it as a personal onslaught to me the same way. It wasn't necessarily that my identity was wrapped up in the role, which it clearly was more often than I'd like to admit. But it was just that loyalist in me was like, well, dude, you're screwing like, how dare you let me down? Aren't you in this right? Aren't we in this together or aren't you loyal to what we're trying to build here? And so that's my version of it. Right? But it's the same thing.
+
+[00:40:22.290] - Brandon
+It's some version of the self identity with the role, the title, the company, or whatever.
+
+[00:40:29.010] - Chris
+I'm going to share a little bit different angle. And I was debating, as Brenda was just talking, do I want to share this? Do I want to go here?
+
+[00:40:38.530] - Brandon
+I'll let you know when you're done.
+
+[00:40:40.240] - Chris
+Yeah, we can always edit this out.
+
+[00:40:43.870] - Eric
+Larry, buckle up. Here we go. Let her run. Larry just sat up in his seat.
+
+[00:40:50.110] - Larry
+Yeah, Chris, I'm looking forward to this.
+
+[00:40:52.280] - Chris
+Come on. So I owned a State Farm agency. I talked about that a lot, actually. Yeah, quite a bit. Yeah. Wow. Very love to throw that out. So this whole self identity thing and identifying with our business, what was really Rad about that State Farm business is it created a lot of points of affirmation. For me, it was a rich source of affirmation. I could go sell things. I could sell some new client households and make some money that day. And I go home to my wife. It's like a great day. But I had all these points of affirmation also, to the extent that sounds so egotistical. But like, I had billboards with my photo up there, and my state farm ads and all that kind of stuff. And people would come up to me. They'd meet me, I'd meet people in the hell hey, you're that state farm guy. It sounds ridiculous, but there was all these points of affirmation. I could spend my money on community events and be that guy who does cool community events. But in hindsight, right. In marriage counseling, you can see where the story's going later on as we got counseling and stuff.
+
+[00:42:05.140] - Chris
+What I ended up realizing is those points of affirmation were impartial in the sense that I knew that all people knew of me was what I allowed them to know of me. Right. They knew the Chris snort that I had chosen to project. I chose to spend money on billboards and all these kinds of things. I created the image they had of me. And so I'd go home from work every day feeling 70% great about myself. And I'd get home to my wife and my kids, my young kids at the time. And of course, my wife is just struggling to keep the wheels on with young kids in the house and all the things. And she's a part time operating room nurse, so she had a job and kids and all the things. And I came to her with this question of, am I as awesome as everybody says I am? Because I had a lot of people telling me I was awesome. I was a sales leader within the brand. I was a pretty successful agent. The community things, the marketing, the billboards, all this stuff. But I still have this question inside me of tell me I'm as awesome as everybody's got me cracked up to be.
+
+[00:43:11.560] - Chris
+And let's face it, my wife at times was not impressed. Right. That's fair. It really destabilized me. And there was a lot of negative behaviors that came from that, right. If I come home from work and my wife's not, she doesn't greet me at the door with a kiss. Right. But there isn't the physical affection that I'm hoping for at the end of the day, just get more affirmation. Tell me I'm as good as everybody says I am. Anyway, that created a really dangerous dynamic where unbeknownst to me, my wife felt this pressure that she had to make me okay. And I don't know if that's something that other business owners deal with, but that was a very real dynamic for me that I had this ability as a business owner, the title eventually, like the money and employees that look to me for their livelihood, all that stuff was just so affirming. I'm a successful business guy, but it didn't satisfy that desire. Do you understand what I'm saying? I was still taking that question to these other areas of my life, and it was really fracturing those relationships because essentially put this burden on them.
+
+[00:44:26.060] - Chris
+My wife in particular, where she had to provide that affirmation on top of all these taking care of herself and taking care of the kids and being a professional and all that stuff.
+
+[00:44:37.040] - Eric
+Chris, I think the question is why did you require that? Yeah, well, I don't even think it's affirmation. It almost sounds more like adulation.
+
+[00:44:49.390] - Chris
+Yeah.
+
+[00:44:50.370] - Eric
+Dude, you're on a Billboard.
+
+[00:44:53.590] - Brandon
+I got to look this word up really quick.
+
+[00:44:57.070] - Chris
+I think what I've learned about myself is I grew up in a family culture where your value was in your performance. It's like your value was inextricably tied to how successful you are in your professional career, artistically. I'm in music. My parents are musicians as well. And so it's like either you're performing up in front of Church or what have you, and that is your value is how other people see you and how you present yourself and all that kind of stuff. So I grew up kind of in that family culture of you are what other people say you are. So I think that was a big driver for me, is that I only got attention when I was special, when I was above average. That's when I got the praise from my parents. Yeah.
+
+[00:45:46.730] - Eric
+How do you live up to that?
+
+[00:45:48.550] - Chris
+Yeah, exactly right. So they had all kinds of demands and expectations on my wife of how I needed her to interact with me and so forth.
+
+[00:45:56.300] - Brandon
+But I think it shows up, though, even under other circumstances, even if you didn't grow up in an environment where that performance piece is so highlighted. I mean, just think about it as business owners and key leaders, people do what we say pretty much all day long, right? Then we go home and we can't get our kids to take out the trash on a consistent basis.
+
+[00:46:15.360] - Chris
+That's another good point, right.
+
+[00:46:17.570] - Brandon
+In fact, I think my wife has quoted me before saying, I go to work and people do what I want all day, and I come home and I can't get you guys to do a damn thing. Right.
+
+[00:46:28.850] - Eric
+Maybe you're not paying them enough.
+
+[00:46:30.800]
+Yeah.
+
+[00:46:31.170] - Brandon
+And she's held onto that, of course. But I think it's just part of that environment piece. Like you just get used to the surroundings where your word has a lot of weight or it carries with it this influence that a lot of times we get home and it's just a big fat reality check because our kids and our wives, our spouses see us, all of it. They see the dirty laundry all the way out, and we're not nearly as impressive as we'd like to be often.
+
+[00:47:12.030] - Eric
+Hey, everyone. Eric here with Blue Collar Nation podcast. And I would just like to take a moment to talk about my favorite magazine for the cleaning and restoration industry, and that is CNR magazine. I've been a longtime reader of CNR magazine, and now my good friend Michelle Blevins has purchased that magazine and is growing it at an amazing rate. So if you're in the cleaning and restoration industry. You will be excited to hear that not only can you get CNR magazine digitally, but you can also get it for free in print form, actual paper, where you get to sit on your couch and read it, which if you're my age, that's appealing. So all you have to do is go to Cnrmagazine.com and that's Cand Rmagazine.com to get your free subscription. And it's even in print. So if you want to stay on top of what's going on in the cleaning and restoration industry and you get to see a lot of cool articles by a lot of very smart people, go to Camdr magazine.com. Brandon, I would like to dig a little Larry and Chris have been both very transparent about what was hard for them.
+
+[00:48:29.800] - Eric
+What was hard for you with your identity, like being a GM at a big restoration company. What was the struggle for you?
+
+[00:48:38.070] - Brandon
+I think the biggest struggle for me was living up to the cadence that I was projecting. It's like, Chris talks a lot about the imposter syndrome, and there can be a pretty large gap between where we want to be and where we are currently right. For me, I'm kind of like, by default, I can always see what can be. A lot of people call it super critical, and it is at times, but it's also a bit visionary. It's just I can walk into a situation and very easily see ten steps in front of us. It could look like this. And I'm always excited about the ten steps, not this one. And so there's this thing where it's like, I'm constantly trying to build a culture. I think I'm getting the vibe that Eric can relate. I'm constantly trying to create this culture of we're on this higher than life mission because we're going that place, and that place is beautiful and amazing and powerful and worth building a legacy on. But then when the hype is off and I'm not in front of the classroom telling people how we're going to get there and how amazing it is, then all of a sudden there's this personal reality check of your fucking right, dude.
+
+[00:49:53.010] - Brandon
+Like, you want to be there, you ain't there by a long shot. And then, of course, everyone is quick to jump on your case and tell you how you're not there because they're so self loathing. Right? But that's a whole different piece.
+
+[00:50:06.020] - Eric
+All of a sudden, you realize the work and all the steps in between. Look, I can't remember who said, Embrace the suck at Andy Forcella somebody like that, all of a sudden it's in your face. Like, I have to embrace the suck. Brandon, what's interesting is it's the exact same thing as you said about going to do your workout.
+
+[00:50:32.790] - Brandon
+Yes.
+
+[00:50:33.470] - Eric
+You have to, like, work yourself up. Like, it's like, yeah, I'm going to work out. I'm going to get fit. Fuck, I got to drive 15 I got to walk 15ft. Are you kidding me? It's cold out there and I can relate to that.
+
+[00:50:47.150] - Brandon
+Yeah, it's funny. I won't go into it, I think more so I just can't.
+
+[00:50:54.840] - Eric
+But.
+
+[00:50:57.450] - Brandon
+There was a bit of a break up of a marriage in my story, one of my professional stories, and it was crushing for me to have felt like in that moment that I had not reached that pinnacle, that ultimately I had failed to get the company to the level that I was wanting to build that I saw in front of us. And there was no ability for me to circle back around and complete the journey for a multitude of reasons. And that was very devastating for me for a prolonged period of time. It took me a while to lick my wounds and come out of that space because I felt misunderstood. I won't have a chance to correct that or fix it or bring it to fruition or do whatever it is that I was trying to do. And that was pretty devastating. So I'm not sure how that completely fits in, but I think there is some version of my personal value was tied up and whether or not I was going to hit that goal more so than the adventure itself. And I think that can be really dangerous. Right. It's like I felt like I wasn't enjoying the journey.
+
+[00:52:14.990] - Brandon
+It was all about getting from A to Z, and if I don't reach Z, I'm a failure. So that's a thing for me. I think I wrestle with that all the time. I wrestle with that right now with Floodlight and some of the things that we're doing. Like, I want it to be all the things right. But I got to remember that the journey is half the freaking battle. I mean, hanging out with YouTube, not to be cheese is like those are two relationships. But I wasn't grinding and doing what we were trying to do for our business. I may have never met two guys like you, and you guys are worth knowing. That's part of the joy of the adventure I need to get better at because of that identity issue, though. I just struggle with it.
+
+[00:52:52.500] - Chris
+It's all about the results and it's the results.
+
+[00:52:55.030] - Brandon
+Like it's the landing spot, right? Yeah.
+
+[00:52:59.370] - Eric
+I mean, Brandon, what you just said, that's me. Every single thing you just said is what I would have answered if somebody had asked me.
+
+[00:53:07.250] - Larry
+Larry's laughing so many really good comebacks for you.
+
+[00:53:11.490] - Brandon
+You've practiced all of them.
+
+[00:53:13.510] - Larry
+I got them. They just come off because he just comes to me all the time.
+
+[00:53:18.030] - Eric
+My whole thing is I want to achieve these things and I constantly.
+
+[00:53:23.770] - Larry
+No patience.
+
+[00:53:24.960] - Eric
+Well, no, hold on, let me finish. Because no, Larry just said goes with what I was going to say. I always feel the clock ticking.
+
+[00:53:34.570] - Brandon
+Oh, yeah.
+
+[00:53:35.290] - Eric
+It's like I'm running out of time. I'm 55 years old. I've got this. I got that. I want to do this. I want to do that. I want to own this. I want to have that. And it's just like every day that ticks away, I'm pissed because I'm like, no, I don't have that yet. I don't have that yet. And that Jacks up your mental health.
+
+[00:53:53.860] - Brandon
+Oh, man. Yeah.
+
+[00:53:55.980] - Eric
+Dr. Rome, who we learned this is from, always says that these die young.
+
+[00:54:00.830] - Brandon
+Oh, man.
+
+[00:54:01.840] - Eric
+Because we are never satisfied doing a lot of lessons really quick then.
+
+[00:54:08.720] - Chris
+Yeah, hurry up, dude.
+
+[00:54:12.930] - Eric
+Get them all in. When you drop corner, you got to reach all the goals that you wanted. I think that's the perfect segue into talking a little bit about caring for ourselves. Because if you read any literature and entrepreneurs in mental health, physical health, we're generally much more apt to be alcoholics or drug abusers, much more apt to have depression and anxiety, much more apt to commit suicide and all kinds of other things that are not positive. Right. I mean, I always say that entrepreneurs is an extreme sport. And if you watch any extreme sports, a lot of those guys don't make it to middle age. Right. So you guys have been very transparent about what it is that you are doing to try to take better care of yourself and become better at what you do in the process. I'd like to do a deep dive with all of us on that because we've all had some sort of journey with this. So why don't you guys take it away? You did a whole podcast on this weeks ago.
+
+[00:55:22.100] - Brandon
+Well, I appreciate you bringing it up in the first place because Chris and I really toiled over whether or not we wanted to release that episode. And in fact, we ended up kind of using my wife being the ultimate connector. I'm like, okay, how does this episode land for you? Do you feel like this has got value or is it just kind of put you in a corner of guilt and shame kind of scenario? So anyway, we appreciate you putting that out because we were nervous about it. We didn't want it to come across as being judgmental. Right.
+
+[00:55:53.180] - Eric
+It was like I didn't take it that way. Look, I'm already kind of like thinking about these things, but to me, it was more like you were just telling your truth. That's your story.
+
+[00:56:04.590] - Chris
+Yeah, right on.
+
+[00:56:05.810] - Brandon
+That's what we feel like, for sure. It's why we wanted to say it for certain. But Chris, why don't you start on that? Because you've been into this a lot longer.
+
+[00:56:14.760] - Chris
+Yeah. The way I'm wired, I'm very impulsive. I have this bias toward relationship and experience with others. And I'm a talker. I'm all those things. Larry and I share a lot of these traits. I've generally been low on discipline. I generally am not very structured. My native profile is not one that's just inherently structured, routine based all of those things. And in a lot of ways that benefits me like that's part of my superpower is just my flexibility and so forth and my action bias and whatnot. But as I've gotten older and I've grown in my career and of course risen to the levels of leadership, that just doesn't work. It can be very dysfunctional, right, when other people are trying to follow you. And so this whole thing of self discipline and order, it was just glaring. Like I needed more order in my life systems, I needed systems. And just for me, the physical disciplines was just fuel for that. It made me feel good about myself. It was when I started really getting serious about working out back towards my last couple of years in State Farm. That was when kind of it really launched me.
+
+[00:57:40.900] - Chris
+I've always kind of lifted weights because I always wanted to just be beach muscle. It's like I always wanted to have just some whatever. And so I've always been in the gym, but I didn't take it very seriously. When I trained for State Farm, I actually put on £20 because I had per diem in our hotel was across the street from a Red Lobster and we had the biscuits. Anyway, when I started with State Farm, that was my first experience of corporate life, of meal expenses and all that kind of stuff. And I gained £20 in a period of about two months. And that shocked me. That was when I started serious about it. But what I noticed is there was a direct correlation for me. The more I disciplined myself physically, the more I felt like that muscle grew and I was able to start disciplining myself in terms of having a daily routine, like bookending my day with some admin time to actually put quote notes in dash. A lot of people relate to that, right? It's like just to have those consistent disciplines. They became easier when I started working out every morning or what now has become my standard is I'm a four day a week guy, come hell or high water, whether I have weights or a gym or if it's cross work out, it's been that way for me.
+
+[00:58:56.780] - Chris
+Apart from injuries, probably the better part of three or four years, like four days a week workout, I don't negotiate. And during that same period of time, I feel like I've grown immensely in the other disciplines that I need for my business.
+
+[00:59:15.810] - Eric
+So you feel there's a carryover by you making yourself disciplined physically to then showing up on the meeting five minutes early instead of five minutes late and whatever else, right?
+
+[00:59:28.590] - Chris
+And I gave this example in that last podcast of how being in that CrossFit gym and having that one set left to finish while everybody's walking out on, if you remember that.
+
+[00:59:37.720] - Eric
+I do.
+
+[00:59:38.510] - Chris
+And it was so hard for me, it's funny to say it out loud. This workout was really hard for me, but there was something emotional that released in me, like there was some kind of connection that was made. I ended up bawling my eyes out sitting in my car in the parking lot. I barely held on to get away from all my CrossFit buddies. I barely held on, but it was just this rush of deep satisfaction with myself. No one else knew. No one else knew how much I was grinding it out inside myself to finish those last couple of sets. No one else knew except for me. It was like a big fat slap on the back to myself. You got what it takes, Nordic. You can finish when it matters. It's just one of those little affirmations. And again, I feel really dorky saying that out loud. But it was meaningful to me. Yeah. Like it made some kind of connection inside me. I've got what it takes. And it wasn't anybody else telling me that, but it was one of those moments of truth inside myself, not somebody else commenting, hey, dude, I see your ABS or, hey, nice biceps, or anybody affirming the fact that I've been working out, it was me knowing how hard it was in that moment for me to grind that out.
+
+[01:00:54.140] - Chris
+And I did.
+
+[01:00:57.210] - Larry
+Self adulation again.
+
+[01:00:59.000] - Chris
+Yeah.
+
+[01:00:59.450] - Eric
+Well, I was going to say it sounds like it's a case of where you finally didn't need that. Yes, it was internal opposed to external.
+
+[01:01:09.090] - Brandon
+That's right.
+
+[01:01:09.600] - Eric
+Yes.
+
+[01:01:10.380] - Larry
+I think it was great that you put this out, because many of us have been through something like that and we don't realize it. And you were telling me that story, and I listened to it. I was driving somewhere, and I'm like, that is so cool. I can remember different times. I'm really happy with myself, but nobody else has any idea.
+
+[01:01:25.550]
+Yeah.
+
+[01:01:26.910] - Brandon
+It just also goes to show you the value of it. Right, Larry? It's like, look how powerful that self belief is versus the affirmation that we're trying to get from our environment, whether it be relationships or rewards or whatever the case may be, there's so much power and internal affirmation that comes from following through on something or pushing beyond that point that you thought you were going to quit or whatever the case may be. When I was in the military, there was this thing like, you talked about embracing the suck. Like there was something so powerful about a 30 miles rock March as an E five or whatever, when I would go cruising up next to somebody and I knew for certain they were sucking way worse than I was. I almost got a second wind. Like, it was just like I would get that power of like, yes, I can do this. I'm more powerful than I think. And I think that carries over into these kinds of environments, too. And that's one of the things I've gotten from working out is that it just makes me believe that I'll do the next thing I say I'm going to do, like if I can commit to getting up.
+
+[01:02:33.260] - Brandon
+And even though it sucks and walking by 12ft whining about it, there's just this reality that I have more confidence that the next time I'm faced with a decision and I say in my mind, I'm going to do that. I'm going to complete that or we're going to build this thing or release this thing. I'm at least that much closer to believing it because I've got some yeses and some wins that I've proved to myself throughout the week that I can do it.
+
+[01:02:59.380] - Chris
+Here's another example of the product, what this is produced in me. I didn't even tell Brandon this. He knew I was out late last Friday, we came back from Travel and we have a video. We had a video. We were working on a promotional video for the new master course thing that we're launching in. And I'm like, I have to get this done. So I wanted it up on the landing page, right? It's Friday, it's 430. And I had other stuff. And I'm like, I have to get this done before I can go to my weekend. I did 105 takes of this stupid three minute video. I didn't go home that night until like 09:00 p.m. On a stinking Friday night after probably a 60 hours travel week. But it didn't matter. I don't say there's no glory in that, but I couldn't have done that ten years ago. I couldn't have done that. But there was this supply inside me from those moments, like on the floor of that CrossFit gym where it's like, I can do this, I'm going to get it on the next one. It just so happened I had to tell myself that like 99 times, no joke.
+
+[01:04:12.160] - Chris
+But that stick to us and that trust in myself that I can get this done tonight was formed. A lot of it in those moments in the gym, as weird as that sounds, you know what I mean?
+
+[01:04:24.720]
+Yeah.
+
+[01:04:26.910] - Eric
+I think all three of you are kind of on the same page with that. And I gained something different. For me, it's different. So riding bicycles is my thing. And riding bicycles on road bikes is a very painful experience. If done well, I would go out on these group rides three nights a week the whole time. We had Shamrock for the most part. And for me, it was more about I mean, anybody's ever seen me. I'm built like an NFL linebacker, not like a bicycle rider. Right. I don't have a typical rider build, but I love to ride. And I would go out and I'm Super competitive by nature. And it was like the time every day because the business didn't give me that competitive instant gratification that I was getting all the time. Right. And I really needed that. And if I didn't have that, I'd be angry all the time. So bike riding with groups, with other people where I could go kick people's asses made me happy. So therefore, I would walk into work the next day and be a much nicer person. It was that. And then for me, it was suffering like that.
+
+[01:05:39.890] - Eric
+I could suffer more than you. We would get on these, like, certain roads and Larry kind of. And people would take off. It's a two mile race. I would literally turn myself inside and out to the point where I'm probably going to vomit. But I'm beating people. That should be beating me, right? So then when I would get in the parking lot, I would smugly look at them as they rolled in 30 seconds later, being like, you should beat me every time, but I'm more mentally strong and more willing to suffer than you are. And then I could take that to work and say, like you said, Chris, I can go do 105 takes if that's what it means. I'm training myself to do things. I'm uncomfortable.
+
+[01:06:24.820] - Brandon
+Yeah.
+
+[01:06:27.150] - Eric
+Laughing at me. But that's what I got out of it.
+
+[01:06:32.380] - Larry
+Thank God he went biking and he got that out of his system.
+
+[01:06:36.600] - Eric
+Yeah. But I mean, look what happens if I don't go biking.
+
+[01:06:40.890] - Larry
+I know it's miserable.
+
+[01:06:42.180] - Eric
+I implode.
+
+[01:06:43.440]
+Yeah.
+
+[01:06:44.730] - Brandon
+I can totally appreciate that. I think that that's part of the one of the things I've realized is how mentally weak I actually am. It sounds crazy. And of course, in context with other people in my sphere, I can definitely take them on every day. Well, man, it's just like I look at a lot of people that I really admire and respect, and I just look at what they've been able to go through. Right. I think we did an episode quite a long time ago about Elon Musk and love them, hate them, whatever. It's kind of not the point. But there's a reality that when you listen to some of these men and women's stories in terms of what they were processing and toiling with and the weight that they were carrying when they were winning in their adventure, it makes me sometimes just look at myself and go, dude, we've got a long way to go before the bar is set that high that I feel like I'm mentally prepared to go through that kind of suffering to create the win or the goal that I'm trying to go after. So it's like you saying that in terms of your ability to look at somebody and say, I can suffer longer than you and I can handle it mentally better than you.
+
+[01:07:57.720] - Brandon
+That is something I mean, that is the shit that separates.
+
+[01:08:02.790] - Eric
+The whole point of that was I was going out riding in these groups purposely to try to grow that. Just like Chris was trying to grow the discipline. You're trying to grow the discipline of like, no, I'm going to walk the 15ft to my garage, even if I'm dead tired, because this is what I do. Hey, did you guys know that Larry and I rebranded Morning Tech, meaning to Super Tech University? And we did, and we're super excited. New logo, new colors, and also a bunch of new packages. We realized that it's not a one size fits all thing for this kind of training, right? So we needed to have packages for everybody's needs because some people wanted less than Morning Tech meeting had. Maybe they only wanted a couple of days a week. Right? So we have packages starting now at just $47 per month. Right. For a couple of days of training a week. And then we have packages for people who wanted more than we were providing. So they wanted some coaching, they wanted some other stuff. So now there are five packages to choose
+[email protected]
+. Go to our new website, Supertechu.com, and check out the packages.
+
+[01:09:26.710] - Eric
+There are descriptions for each one. There has to be one that would fit your company very well. So again, rebranded Super Tech University. Just go to Supertechu.com and check out all the cool new packages.
+
+[01:09:43.670] - Brandon
+Okay, dude, we got to get off the 15ft. You guys are doing like 50 miles rides. Chris is like doing a 4000 Lakes.
+
+[01:09:51.250] - Eric
+Once you've done the 15ft, you're going in and killing yourself in the garage. Brandon, I heard it in the podcast. I mean, you completely reconfigured your body. You don't do that without effort.
+
+[01:10:06.750] - Brandon
+Yeah, it's true. Tell me more, though. About what? Oh, I'm just kidding.
+
+[01:10:12.090] - Eric
+You're so awesome.
+
+[01:10:14.850] - Brandon
+I knew I wanted to come on the show for a reason.
+
+[01:10:17.710] - Larry
+You looked up the word adulation on his phone.
+
+[01:10:20.340] - Brandon
+That's right. I got to look that up, get it somewhere.
+
+[01:10:23.030] - Eric
+Well, Larry, let's finish with you on this, and then we'll move to our kind of final points. I mean, like, Larry's always consistently worked out. When we go start up phase, I just turn into a fat shit. I just put all my energy into that. I just blow up like a balloon, and then all of a sudden it's like crisis mode, and then I go all the other way and I'm all in on training. Right. And I need to learn how to not do that. And I'm in the process of doing that now. But Larry is much more, like, not as extreme as me with these things, but he's consistent.
+
+[01:10:59.850] - Larry
+But it's a mental workout. It's not always a physical workout. It's more for your mind. And I think you guys alluded this on your podcast that you can work out the body part is secondary to the mind, because when I get done with the workout, I can take on anything from having a bad day or a tough week or everything went down to shit. And all of a sudden my workouts in there. I'm good afterwards. So it's like just plugging myself in for a while and I'm good.
+
+[01:11:29.730] - Brandon
+Yeah, I totally relate to that. Yeah, I think it's so true. I think that's probably the toughest thing for people that work out consistently. And they've found something like that that works for others. It may not just be working out. It could be some other form of commitment to something like that. But that's the part that's hard to explain to people. And that's that thing that once you do it and you experience it, that's the thing that makes you keep coming back. It's like I make my 15 foot walk because I know how I'm going to feel when it's over. And when it's over. I have done something that a small percentage of people have done that day, and I already feel like I can kick ass. Right.
+
+[01:12:11.070] - Larry
+Just to add on to that, it's not always when it's over. It's like when you start like ten or 15 minutes into it, Bam, you're good. I'm like, I'm good. I could stop and I'd be good. But you finish up your workout to make yourself feel even better and whatever they call.
+
+[01:12:28.150] - Chris
+The endorphins and dopamine and all that stuff. Yeah. I think the underlying theme we're talking about here and you've said this word several times is suffering. The value of suffering. I think for a lot of my life, I didn't hang in the suffering long enough to see the value. And then eventually something came along and motivated me to push through, and then you start to reap the rewards of it, and it's its own motivation. Brandon was talking about this like when you start seeing the results of your suffering in the mirror.
+
+[01:13:02.450] - Eric
+All of a sudden it's so worth it.
+
+[01:13:05.450] - Chris
+You don't want to lose it.
+
+[01:13:07.310] - Larry
+Those biscuits that you're affecting every Cheesy biscuits, right.
+
+[01:13:11.230] - Chris
+Those Red Lobster biscuits I worked off. No, but it's so true. The value of suffering and that spilled over in so many other areas of my life, my marriage and everything else. And just in terms of, like you say, if I don't get that workout in, there is something going on about not going through the suffering that morning that affects how I interact with the rest of my world the rest of the day. But when I suffer myself the first part of the day, everything else is lighter, easier, all of that stuff.
+
+[01:13:45.050] - Eric
+I'm sorry, Brandon.
+
+[01:13:46.250] - Brandon
+That's okay.
+
+[01:13:46.810] - Eric
+I think too. I saw this as a young person in junior high and high school. I played football, and in the summer we'd have three a days. It's the worst thing ever. Right. You're just suffering three times a day. And I remember even being 15 years old and seeing guys that were just caving under the pressure of the suffering. Right. And I always remember thinking to myself, like, I'm not the most talented guy in this field, but you know what? I can make my Mark by gladly suffering. Right. And all of a sudden I'm separating myself from people that should be separating themselves from me. And I've just taken that mentality forward forever because what, 20%? It's the 80 20 rule, right? You get ten people, two people are willing to do what you guys do every day with your CrossFit, right? The other eight are eating Twinkies and Ding Dongs, and you're going to beat them at everything eventually.
+
+[01:14:51.770]
+Yeah.
+
+[01:14:52.850] - Brandon
+So let's hang here for a minute. I know you've got an agenda, but I wanted to just tackle something with you guys. I want to get your opinion on this. So I think for us, it's easy in general. I think it's easy for people to look at some aspect of physical fitness or training or something where we're putting ourselves in a position where we need to stretch ourselves or create new levels of discipline and how positive that is. One of the things that I think we don't talk about very often is what does it look like to mentally put yourself in a position where self reflection is being used in the same way? Here's what I mean by that. One of the things that I'm realizing the older I get is that it's very difficult for me to disconnect the ownership and responsibility that I have in different experiences, whether it be failed relationships or projects or adventures that do go a certain way or don't go a certain way, or a bad interaction with a business partner or a possible prospect or whatever the case may be, and how by default, it's just very easy for us to either do two things.
+
+[01:16:01.230] - Brandon
+We're either going to create an excuse why that thing was the other person's fault, or we're going to numb it, ignore it, compartmentalize it, and move on. And one of the things that I'm realizing is that those methods have continued to have compounding negative effects on my ability to believe in myself or to take larger and harder commitments or whatever the case may be. And so one of the disciplines that I feel like that I've been trying to learn is being able to spend more time looking at a situation and saying, what part of this, regardless, what part of this can I own? What part of this do I need to sit in long enough to process through all the phases of suffering, all the phases of mourning or whatever it is so that I actually experience what this situation should be teaching me? Does that make sense? And I don't feel like that is something that very many people understand the true value of. And I don't think we do a good job of encouraging people to do it to include myself. It's just something that I've been wrestling with this year more, and it's caused me to look at some very interesting experiences that I've had in my past and go, okay, but what part of this should I own?
+
+[01:17:20.420] - Brandon
+What part of this uncomfortable feeling that I have when I look at it, do I need to hang in long enough to get the lesson out of it that I should do you guys feel me on that?
+
+[01:17:29.750] - Eric
+Well, if I understand it correctly, I can speak for myself. So, like, when I'm reflecting, I break everything into two pieces, the logical and rational or the emotional and people park, right. So what I've recognized in myself is that I'm very strong in the rational and logical part and I'm very weak at the people and emotional part. So usually for me to self reflect, it's going to be all right. I got to sit down. Like, okay, what's what with this whole logical portion of whatever it is that I'm trying to figure out. But then I recognize that I miss social cues and people's feelings and so much I have to go to Larry or my wife and say, all right, I got this part. I'm pretty sure I'm right here. I have such a blind spot here. I need help. Right? So, like, I can't self reflect on my own because I can't be trusted to do so for the whole 360 degrees of it.
+
+[01:18:36.170] - Brandon
+Yeah.
+
+[01:18:36.760] - Eric
+Okay.
+
+[01:18:37.530] - Brandon
+I can respect that.
+
+[01:18:39.020] - Larry
+You guys are going so deep in these structured reflection, and I'm just reflecting on whatever's happening. I'm putting my head and people are happy. If everybody's happy and I'm getting along with everybody, it's generally good. But Eric goes and it's actually helpful because he presents these things like, huh, I never thought of that. And you're coming up with these things, Brent, that I'd never even you guys have this way of thinking. It's just deeper in different areas. Like, Eric brings these things up to me. I'm like, well, of course. And then that's all I do Yay or nay and move on. So I don't know if.
+
+[01:19:17.670] - Eric
+That'S all the feedback you're going to give me. Of course.
+
+[01:19:21.030] - Brandon
+I still feel like I'm suffering alone here, man.
+
+[01:19:24.450] - Larry
+I wish I could help because Eric comes with me. Like, what are you talking about?
+
+[01:19:28.890] - Eric
+It's like Brandon said, I'm thinking ten steps ahead and you're just like, I don't know what you're talking about. And I'm agonizing over the nine that we haven't done yet.
+
+[01:19:40.350] - Chris
+Oh, man, I know we just lost half the listeners.
+
+[01:19:43.560] - Larry
+But the other half is so engaged.
+
+[01:19:46.470] - Eric
+You know what? I don't agree with that. I'll tell you why. So, guys, real quick, we did a show on Masculinity with our friend Bruce Deloge. And I was getting kind of bored with the podcast a little bit. I felt like we had done like 30 episodes in a row that were all the same. And I'm like, we got to do something else. So I called up Bruce and I'm like, let's do Masculinity in the Trades. And he was like, wow, nice one. Well, hold on. And he goes and I said, all right, I get it. I'm either going to lose every listener that we took two years to build or maybe it'll go halfway. Okay. Right. So we did it and it's a lot like the conversation that we're all having today, very similar. I left that podcast going, we're fucked. That was so huggy Feely and thoughts and feelings and all that. Right. The highest to this day, the highest listed episode we've ever had. It shows that topics like that, topics like you guys were talking about with your fitness. I think the things that we're talking about today, people might not feel comfortable talking openly about it, but they're interested in it and they want to be better.
+
+[01:21:04.560] - Brandon
+That's so true. It's weird too, because we tend to. Well, speak for myself sometimes. I really look at our show in general and I feel like now we're being too lukewarm. We're not quite Brassen up the way that we should when we know that people are hungry for these kinds of conversations. So it's good to hear you guys wrestle with that stuff too, because I still think we have ground to make a similar experience. Our highest downloaded episode is the one called Filling the Hole.
+
+[01:21:39.030] - Eric
+It's Larry's favorite.
+
+[01:21:40.490] - Brandon
+We are intentional about the title too, but that long one, right. It got pretty dark, right? Like that's some legit conversation that we had and they ended up being the largest downloads that we've had.
+
+[01:21:55.150] - Larry
+I didn't have to write that one down to remember to go look at it.
+
+[01:22:00.930] - Eric
+Yeah. I think we'd all love to put on this public persona that we're too tough to think about these things. Things or concern ourselves with these things. I mean, you go to a trade show and everybody's pounding their chest like Heman, but down deep we're all people and we all have problems and we all want help working through them.
+
+[01:22:22.520]
+Yeah.
+
+[01:22:24.090] - Brandon
+It's so funny. Like the people that I think that I look at and kind of categorize in this wisdom category are always the people that are just professionally transparent. So they're not telling you because they need the guilt or the weeping or whatever the things are, but they're just so matter of fact. Like this is and you know it and I know it and I'm not apologetic about it. Right. Not aggressive, not negative. It's just this, you know, you're hurting. I'm hurting. I know this weekend I might have a tough spot for a million different reasons. So we use let's stop acting like when we're in a room full of people that they're not going to be suffering from the same challenges, the same experiences, the same negative self talk that everybody else is. But I only feel that way when I'm in a room with guys like you and then I'm really brave and then we leave the room and then it's like.
+
+[01:23:15.730] - Eric
+Oh, I think you guys are similar to us in the way that Larry and I have decided. And it kind of goes against my nature, but we've decided to just try to be as vulnerable and transparent as we can.
+
+[01:23:29.180]
+Yeah.
+
+[01:23:30.010] - Eric
+I mean, you don't always feel comfortable doing it.
+
+[01:23:33.950] - Larry
+But it resonates easier done by others than some.
+
+[01:23:37.920] - Eric
+Yeah, I know. I'll be the first to raise my hand and say, that's not hard for me.
+
+[01:23:42.080] - Brandon
+Yeah.
+
+[01:23:42.770] - Eric
+It's very easy for Larry. It's very natural for him to be very vulnerable.
+
+[01:23:46.720] - Larry
+It's easier in general for some of us. But it depends on the topic because there's many topics that you come out and you're able to express yourself. And I'm like, Holy shit.
+
+[01:23:55.170] - Brandon
+Now do I have to do that?
+
+[01:23:56.200] - Larry
+I got nothing.
+
+[01:24:00.070] - Eric
+Yeah. All right. So let's just finish this off with. So what is your advice to people that are doing the things that we're doing that are living these extreme entrepreneurial lives and what should be their at least thought process to keep their ego in check, to keep themselves in check, to take care of themselves and their family members? And I'm not talking financially, I'm talking the other stuff. Like, what do we all do? How do we make this work?
+
+[01:24:32.350] - Chris
+Yeah, boy. Yeah. I'm having a lot of imposter syndrome here, landing this plane, who am I, right?
+
+[01:24:40.760] - Eric
+How are any of us?
+
+[01:24:41.910] - Chris
+Yeah.
+
+[01:24:42.700] - Larry
+Your experience.
+
+[01:24:43.790] - Chris
+Yeah, in my experience, I think there's a simple piece like the simplest piece is the fitness part, where we can make a choice and show up. I said this in the last podcast. I'm a huge fan of CrossFit, not because I'm some like CrossFit bro. I don't compete and do all that craziness, but because one, it's an outside it's a community that exists outside of my business, and it has that component of suffering with others that I just think it's been so immensely valuable to me. I'm just always going to do it. I hope I'm always able to do it. I don't injure myself or I don't have some reason why I have to stop doing it. Because the combination of having people outside of my business and my family that I'm seeing on a routine basis and we're suffering together, there's just something really special about that versus when I'd go work out at the local athletic club or something like that, where you end up spending the 30 year time talking with people that you know and recognizing the community and all that stuff. Right. So I think in terms of fitness, that's the biggest pitch I can make that's been disproportionately valuable to me is putting myself in that kind of fitness environment.
+
+[01:26:02.110] - Chris
+And then I think the other thing, too for me has just been I have to create the feedback rich environment with the people around me. It's taken me a long time to figure that out. If I really want to be more self aware, I have to be the one every time that puts myself out there and offers myself like that vulnerability. And what I found is often when I offer that vulnerability, people will reciprocate. That's probably one of the biggest lessons I've learned over the last five or ten years. It's just if I'm willing to put myself out there, ask for feedback, share this thing that I'm struggling with, and I'm having a hard time with nine times out of ten people meet me there. I think that self awareness can begin with just a very vulnerable conversation of inviting somebody in to give you feedback on how you're doing in a particular area.
+
+[01:26:54.690] - Brandon
+Yeah, I think that's solid. Mine is kind of interesting. I think people need to realize that if we're really kind of living out the maximum potential or if we're really chasing the things that we have deemed truly important to ourselves or truly and challenging for ourselves, there's a reality that we're probably going to spend the majority of our existence on our outer limits. And what I mean by outer limits is the outer limits of what we currently have in terms of skill set, competency, understanding, knowledge, wisdom. And that's a dangerous place. It feels like a dangerous place to be. Right. Because it doesn't do anything to support confidence. It raises the head of the imposter syndrome. It does a lot that doesn't give us a warm and fuzzy and I think, Eric, you said earlier, getting comfortable being uncomfortable for me, it's like for myself, I have to remind myself this for young leaders, for emerging leaders, just reminding people that if you're doing your job well, you should feel as if you're not fit for the role yet. And that's okay. It's okay for you to look at the current position that you're in, the title that you hold, the responsibilities that you're being asked to carry.
+
+[01:28:13.170] - Brandon
+And if there's some element of you that just feels like I'm not currently equipped to do this, that's okay. So now the next part of that then is start diving in one item at a time and create the competency. Create the wisdom, create the understanding that's required for the role that you've now been asked to feel. But don't stop at the part where you realize you're not equipped yet. I think that's probably the piece that I would share with people. And I have to tell myself that all the time.
+
+[01:28:46.150] - Eric
+Well. And then also to take that one step further, once you get to that place where you actually have that skill, you need to make yourself uncomfortable again.
+
+[01:28:54.580] - Brandon
+That's right.
+
+[01:28:56.230] - Eric
+And keep doing that forever.
+
+[01:28:58.130]
+Forever.
+
+[01:28:59.770] - Larry
+Larry, you guys are so into making yourselves uncomfortable, you kind of got to enjoy the ride a little bit. Holy smokes.
+
+[01:29:08.410] - Brandon
+Kind of true, though, man. That's why we need you in our lives is because you do have to have some freaking fun along the way, too.
+
+[01:29:14.320] - Larry
+I'm with Chris. I mean, let's work out during the day. Let's work out together and sweat and enjoy the ride. And then you guys can make up these great ideas, and we'll put things in place to make it happen and it's all good. And that's rewarding.
+
+[01:29:27.090] - Chris
+Hey, there's the road map, man.
+
+[01:29:28.950] - Eric
+Just so you guys know, all that stuff I talked about with entrepreneurs, being depressed and all that, Larry doesn't have any of that. He's not a tortured soul in any way, shape or form.
+
+[01:29:41.230] - Larry
+No, but it will work out. Work past the next guy and outward.
+
+[01:29:44.620] - Eric
+That's true. Larry will work.
+
+[01:29:46.930] - Brandon
+You guys know how to grind the grind and hustle is real when it comes to YouTube for certain.
+
+[01:29:52.680] - Larry
+It's nice to see when you see the feedback and the accomplishments, it's like, oh, cool. Figure this out.
+
+[01:30:00.240] - Chris
+All right.
+
+[01:30:00.780] - Eric
+All right. Let's go into something. Just a quick part to finish off, because I know you were all kind of like minded. I want to ask a couple of quick questions, which would be my suggestion would be make sure you're doing your homework, make sure you're reading books. Make sure you're listening to your podcast. Always trying to get better. Right. So what books are you guys reading right now or in the last six months? What are books that you think could benefit other people?
+
+[01:30:32.390] - Brandon
+I've got a couple. I know you always do.
+
+[01:30:34.290] - Chris
+Go ahead.
+
+[01:30:35.690] - Brandon
+Okay. So one I'm just kind of getting into is called Influence Is Your Superpower by Zoe Chance. That one, actually. It's interesting. She was on The Knowledge Project, which is a podcast that I pretty much listen to every minute that they'll release. But she was just talking about kind of our misunderstanding of what it takes to actually influence people. And this is not talking about, like, manipulation or anything like that, influencing people for the better. And basically, it's kind of getting deeper into the psychology behind that, what it actually requires to influence people and move people from here to there. So anyways, that's a great book, I think, for anybody that's leading in a company, an organization, a team, or maybe you're preparing to take on a new leadership role. I think that's a great just understanding how you interact with people and the kind of posture and behaviors that you can deploy to do that. Well, is important. And then we actually had Dan Pink on our show not long ago. And so I'm trying to finish up The Power of Regret by him. And that's a really Rad book. And then the last one that I just finished was The Everyday Hero Manifesto by Robin Sherma.
+
+[01:31:54.890] - Eric
+I read The Monk with the Ferrari years ago or whatever the day. I think that was his first book.
+
+[01:32:01.050] - Brandon
+I think it is.
+
+[01:32:02.020]
+Yeah.
+
+[01:32:02.550] - Brandon
+He's an interesting take on life. I mean, it's certainly your coin essential self growth kind of stuff, but, man, there's something healthy for me to hear that kind of stuff when I'm rocking the morning routine. So anyways, that's a good one, too.
+
+[01:32:24.870] - Chris
+I have my top line, like Lifetime stuff. One of the books that really landed with me was A New Earth by Eckhart Tolle. You guys ready? In a Vecche Toll stuff.
+
+[01:32:35.200] - Eric
+I have. That book helped me through a very difficult time in my life, and I actually listened to it on audiobook, which I very rarely do. I prefer to read a book, but he read the book in the audio and he has a very soothing voice.
+
+[01:32:55.400] - Chris
+Totally.
+
+[01:32:56.110] - Eric
+And I listen to that book over and over and over.
+
+[01:33:00.440] - Chris
+Yes, me too. We go losing half our audience.
+
+[01:33:05.190]
+Right?
+
+[01:33:06.250] - Chris
+I first discovered him by listening to Oprah's podcast with my wife.
+
+[01:33:13.610] - Eric
+Sure.
+
+[01:33:14.350] - Chris
+Listen. They did a chapter by chapter overview where they would basically debrief he and her. Anyways, it's a hard book to recommend because definitely the language is pretty Woohoo. It's got kind of a new agey sort of language to it, but boy, if you can hang in there. It really helped me understand my ego and how my ego is creating a lot of suffering in my life and affecting me professionally and everything else. The way that I see myself, the way that I talk to myself, the way I interpret my thoughts, the stories in my head, all of that kind of stuff. That was just an incredibly life changing book. And I have reread it many times, and I'm kind of in the middle of listening to it again. The other book that I can't recommend highly enough is Leadership and Self Deception by the Arbanger Institute has an incredibly nerdy sounding tone to it, and it's anything but that. It's written in the style of a business fable, and it's just incredibly powerful. It's another one of those types of books that just gives you a new lens for how you see things, a different framework of how to think about our relationships, my roles in work, how I treat people at work, how I affect them.
+
+[01:34:35.700] - Chris
+It just is a really interesting business book. Highly recommend. It's short. It's like maybe 100 pages. I've given that book way more times. I encounter a gift as well. I Echo what Brandon said, The Power of Regret. Also, I love it here by Clint Pover. We had him on as a guest. That's fantastic. In terms of really good. Yeah, that was great.
+
+[01:35:00.140] - Brandon
+From an employer manager perspective. That's a great read.
+
+[01:35:04.980]
+Interesting.
+
+[01:35:10.870] - Chris
+So it's one of the other ones. I'm going to recommend this and you can cut this, but Come As You Are by Emily Nagoski is a sex and relationshipbook, and I just have nothing to do with restoration except many of us. Most of us are in a relationship and some or most of us are having some kind of sex, some frequency. It was an incredibly powerful book for just my wife and I. We've been married 20 years, and just for us to take a fresh, like kind of circle the wagons and to be able to go through that together was incredibly powerful. That's all I'll say about it. I'm not going to get into that topic You Are by Emily Nagowski. It's got a really incredible cover photo. And then right now are we going to exchange I'm telling you, it's really powerful. Can we do a quick round of podcast, though, too?
+
+[01:36:05.640] - Eric
+Yeah, that's the next question.
+
+[01:36:07.170] - Chris
+Oh, that was the next one. Okay. So I have a stable of podcasts that are like my every day, like every single episode once. And I'm going to Echo what Brandon said. The Knowledge Project, I think, is literally one of the best podcasts that's out there, period. And it's very far reaching. And that the variety of guests he has on is really incredible. Some of them are less interesting on the face of it to me. But then when I get into it, I'm just like, oh, my gosh, this is exposing me to really different stuff. And then one of the other ones that I really love is Brandon jump in with one of yours.
+
+[01:36:48.040] - Brandon
+I had it. Impact theory, I think is Rad. I think a lot of people have probably listened to that one. That's Tim. How do you pronounce his last name?
+
+[01:36:57.060] - Eric
+Blue Tom.
+
+[01:36:58.010] - Chris
+Billyu Tomb.
+
+[01:36:59.840] - Brandon
+Yeah, he's Rad. And of course, the Tim Ferris Show. Sometimes with Tim Ferriss. It's a little hit and miss for me. So I would say a small percentage of the shows do I really get excited to listen to. But man, you know, what I like about him is how intelligent he is as a host, meaning that when he has a guest on, he is so connected to the subject matter that the way he can interview people is really interesting because he knows so much about what they're talking about and crap. I mean, half the time what they're talking about is just total. I've never heard of a lot of the stuff before.
+
+[01:37:35.470] - Chris
+I have a new one. I have a new one. I did not go to school and get an MBA, and I don't regret that by any stretch. But I'm very curious about business. I just like learning about how businesses make money and like all the things. And I discovered this new podcast just six weeks ago called Business Breakdowns, and it's these two NBA type dudes, but very related, very good communicators. And every single episode they break down a different business model. Like they did one, I think, on Spotify. How does Spotify make money? What's their Ad model? All that kind of stuff. Not just tech, though. Like it goes into real estate management companies. I think they did one on Jones, Lang, Laura JLL, and just big real estate portfolios, all the different business categories. It is really fast. They spend like an hour, like breaking down. Interesting, but in the language that you don't have to have an MBA or a PhD to understand, that's been very fascinating. And then another one that I really I'm a Joe Rogan guy. I learned a lot. I feel like I learned things about business. I mean, because he has business executives.
+
+[01:38:48.260] - Chris
+Right. He has the Elon Musk and smaller business people. He has restaurant owners. And I just find it so fascinating, those long form conversations.
+
+[01:38:58.450] - Eric
+I'm kind of like Brandon is with Tim Ferris on that. I'm going to pick 20% of Rogen's. I don't want to hear the comedian or the MMA guy.
+
+[01:39:09.800] - Chris
+No, I'm with you. I'm probably more in that crowd, too.
+
+[01:39:13.190] - Eric
+But he's a very good interviewer because he has a very high degree of natural curiosity.
+
+[01:39:18.380] - Brandon
+Oh, my gosh. Yeah. He's kind of the King of it.
+
+[01:39:21.260] - Chris
+Well, Brene Brown's podcast dare to lead.
+
+[01:39:23.680] - Brandon
+Oh, Jeez.
+
+[01:39:24.390] - Chris
+Fantastic, Brad.
+
+[01:39:25.550] - Brandon
+In general, any book by Bernard Brown, you should recommend it to anybody willing to pick it up.
+
+[01:39:30.140] - Chris
+Yeah. Oh, I do want to say this. Okay. So Bernay Brown, she has an audiobook called The Power of Vulnerability. Everybody should listen to it. What's interesting about it? It's very unique. It actually is a live workshop she did of that title, and she turned it into an audible book. And so it's her actually engaging with the audience. And I want to say it's probably close to 12 hours. It's like a full length book link to it. My wife and I listened to that on a road trip, and it was incredible. In fact, I would say better than any of the books I've read of hers. And they're all good. But that live thing, she is just in her element. Live. Oh, God, it's really beast. Yeah. And then my last one, Lex Friedman, he's a new guy that I get introduced via Joe Rogan. He's an MIT researcher, young guy, like 30. He's into a ton of stuff. He's like a nerdy version of Joe Rogan in some ways friends with Elon Musk. He has incredible people on a show and he's an incredible interviewer. So anyway, that's kind of my hit list.
+
+[01:40:41.260] - Eric
+All right. And to finish off from each of you, one piece of advice that you would give any service business owner. What would it be?
+
+[01:40:50.590] - Chris
+Oh, wow.
+
+[01:40:53.290] - Brandon
+One piece of advice for a service business owner. Oh, man. Just remember, you're in the people business. Like, at the end of the day, it doesn't matter. For profit nonprofit, doesn't matter what service lines you do. We're all in the people business. We just got to wake up to it.
+
+[01:41:13.690] - Chris
+Yeah. The thing I would say is and we've been spending a lot of time talking about this with regard to sales. But I think it really is true across every area of our business and our personal lives is developing our curiosity, becoming more curious. Asking more questions rather than telling is just such a huge force multiplier. It's so powerful. And so I think that is probably one of the easiest ways for a business owner business leader to level up is by just intentionally cultivating curiosity in their life and in their work relationships, the scenarios that they work in being more curious, man. It pays massive dividends.
+
+[01:42:03.010] - Brandon
+Agreed.
+
+[01:42:04.330] - Eric
+It's awesome. Guys. This is a great time. Good conversation. Wonderful. I think this is definitely the longest podcast we've ever done. That's a good thing.
+
+[01:42:15.910] - Larry
+This is great.
+
+[01:42:17.650] - Eric
+So guys, tell everybody how to find you, what you're doing right now. We want to make sure that people can reach out and get a hold of you guys for all the cool things you're doing.
+
+[01:42:27.640] - Chris
+Well, I just mentioned the sales. One of the huge things is we're getting ready to launch a commercial sales master course. We just did a live version of it on the East Coast for a bunch of different business owners and sales leaders and we are really excited. We feel like there's a real unmet need, like everybody's desperate trying to figure out commercial sales and it's something Brand and I get really excited about. So that's our big launch that's coming. People can follow us on LinkedIn and they'll know when that happens. Get those early bird discounts. That's kind of the big circle.
+
+[01:42:59.290] - Eric
+Yes.
+
+[01:42:59.640] - Chris
+In the sales circles.
+
+[01:43:00.690]
+Yeah.
+
+[01:43:01.000] - Brandon
+So we've got a mastermind group that's launching in May and it's really going to be kind of this ongoing supportive peer environment for all our sales leaders out there. Those of us kind of trying to forge a new way of creating new business for our teams and for our companies. I think this is going to be a great place for people to learn new skill sets, advance those skill sets, and then find a community of like minded people that will keep that kind of engagement learning and that growth trajectory fueled up. So I think it'll be super positive. All that stuff, you can check it out by just going to our website so floodlightgrp.com and you can learn all sorts of stuff. And Chris and I are super approachable so you'll easily be able to fill out any kind of form whatsoever. And it actually is going to come to me and him. And so when you get a response, it's actually us. It's not some team of ten people somewhere, so just reach out and connect with us. We like making new friends.
+
+[01:44:00.800] - Eric
+Perfect. All right, gentlemen, thank you for coming on the show. We'll have to do it again.
+
+[01:44:06.670] - Brandon
+All right, everybody. Heath, thanks for joining us for another episode of Head, Heart and Booth.
+
+[01:44:11.170] - Chris
+And if you're enjoying the show, you love this episode, please hit follow only known to subscribe. Write us through review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening. Bye.

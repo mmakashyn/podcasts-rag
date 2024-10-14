@@ -1,0 +1,434 @@
+﻿[00:00:00.090] - Chris
+How are you doing, man?
+
+[00:00:00.900] - Brandon
+you.....
+
+[00:00:02.370] - Chris
+Yeah.
+
+[00:00:02.960] - Brandon
+You know what? I should have known before I hit record that you were going to do that based on. It looked like you were on the starting block of the Indy 500. You were like, up in that mic, ready to rock. I should have known you were going to.
+
+[00:00:15.640] - Chris
+It's funny to me, this has been a real growth experience for me personally doing the podcast, because I recognize how often my ego wants to be in charge, wants to say something, and wants to say something first before you do. It's funny how it shows up.
+
+[00:00:31.150] - Brandon
+You are very fortunate that you've had the opportunity to work with me so that you can become wiser.
+
+[00:00:35.750] - Chris
+You have been my teacher in a way, both directly, in a myriad of ways, actually. I owe that to you. Hey, so there's another podcast right there. We've got a fun show today, and I'm going to be totally honest. I always try to be honest.
+
+[00:00:51.920] - Brandon
+Please do.
+
+[00:00:52.480] - Chris
+It's one of my themes for this year, living more in full honesty, when I saw who we were having on the show, there was a little bit of anxiety in me, like, how are we going to make this fun and interesting? Sometimes we talk to these big leaders, and nearly every time, I'm wrong. You know what I mean?
+
+[00:01:08.890] - David
+Yeah.
+
+[00:01:09.180] - Chris
+But I have an anticipation of somebody who's in a big corporate environment and has a lot of things they should and shouldn't say, and they're just very guarded. And almost every time I end up thinking, God, just what a cool, normal person. And that was like today. We ended up having David Oburst, the CPO, the chief product officer at Verisk, on the podcast. And I have to say, like, I really enjoyed the.
+
+[00:01:36.560] - Brandon
+Yeah, super grounded.
+
+[00:01:38.010] - Chris
+Yeah, very grounded. Very curious.
+
+[00:01:40.610] - Brandon
+His car collection might be a little nicer than mine.
+
+[00:01:43.070] - Chris
+Holy cow. We had this great little pre convo. Not much of it made it into the podcast, but he's a Tesla superfan, and so we were sort of living vicariously through him through some of that Tesla conversation. But really, we got into some interesting stuff on AI. He dropped a few really great gold nuggets, too, stuff that I'm going to be looking at, hunting up and experimenting with. And I think that's the posture all of us need to take. I mean, that was kind of my takeaway from his commentary, is we need, as restorers, as business leaders, to lean into these platforms, not be afraid of them. We don't want to spend most of our energy talking about why they don't make sense or why they're not really at prime time yet, but just instead just begin experimenting and becoming comfortable and playing with these things. I think that was one of my biggest takeaways but there are some definite gold nuggets in there so it's going to be a great chat. So hang in here, we've got a really interesting chat that I think you'll be able to apply some things to your business and your professional growth from it for sure.
+
+[00:02:42.610] - Chris
+But first let's thank our sponsors.
+
+[00:02:44.050] - Brandon
+That's right.
+
+[00:02:44.810] - Chris
+Liftify.com floodlight I just actually nudged one of our new clients to liftify last night and this particular company has 1500 reviews already. Average score of 4.6. I'm not going to name any names but an impressive thing. But here's the deal. They've also been around 22 I think 22 or 23 years. So when you look at it in the context of 1500 with a 4.6 like yes, that's awesome. And what they appear to be suffering from is a lack of recency and consistency. And so they apply some internal focus to getting more Google reviews and boom, they get a whole rush from them because they do a lot of jobs, they're a pretty big business. And then it kind of goes radio silent for a couple of weeks, three weeks, four weeks, and then they pump it up at the all company meeting, hey guy. They do a promo for Amazon gift cards, blah blah blah, and they add a bunch more. And of course that's what Google is trying to guard against. And so I told them about liftify. Listen, if you don't have an outside third party that's the primary manager of your Google review collection after jobs, highly recommend you consider that.
+
+[00:03:50.520] - Chris
+I think ultimately it ends up giving us better data. It feels better to the customer instead of kind of being asked right in their face, hey, can you review me? It means a lot. It helps me hit my bonus da da da and instead just let liftify do their process. It's cost effective and they get 20% to 25% conversion.
+
+[00:04:07.860] - Brandon
+It's huge.
+
+[00:04:08.540] - Chris
+Which means if you're one of those companies that has 1500 reviews, but it's taking you 20 years to get them, think about how many jobs you're doing. You should be harvesting 20% to 25% Google reviews out of 20% to 25% of your total job count for the year. If you're not doing that, book a meeting right now with liftfi.com. All right. Gosh, that was a long one, man.
+
+[00:04:27.740] - Brandon
+That's good though.
+
+[00:04:28.410] - David
+Yeah.
+
+[00:04:28.630] - Brandon
+Try to entertain. Getinsights orglodlight guys, actionable insights is kind of an interesting group. First off, 501 c three, so nonprofit because of that status. It allows them to gather input, if you will, from both sides of the table. So carrier side, contractor side, and they do everything from support with white papers in terms of how we support our estimates that we're writing in terms of scope, scope notes, lots of training around the most current tech and exactimate estimating practices. They're very up to date in terms of changes and modifications to that software solution and how we use it and leverage that in the industry. And right now, though, the big thing, speaking of AI, right, this is where this thing comes into play, is the actionable insights profile that is actually part of xactimate, just like you would if you had a carrier profile of some sort. And it modifies essentially some of the base functions of the xactimate platform. And in this particular case, it's an AI support tool that's writing that estimate right alongside of you. So instead of us doing something where we create this estimate, maybe there's an audit function or a scrub that we do post.
+
+[00:05:34.890] - Brandon
+This is a tool that's actually writing right alongside of you. And as you enter in line items, it's giving you some input on, hey, have you thought about, you've used this, what about these line items? And the goal of this is to create a robust, comprehensive, approvable estimate because it's like the AI tool is working from this accumulative mindset of both carrier side and contractor side. So this is real stuff that makes us profitable, makes us more efficient and write better estimates. And then these are ultimately estimates that we can get through the approval process more efficiently. So yeah. Getinsights.org ludlight awesome.
+
+[00:06:12.440] - Chris
+Answerforce.com the inbound calls that you're receiving to this business are worth a lot. We could get a spreadsheet out and we could find out exactly what those inbound calls are worth, but they're worth a lot. And to some of you, you're spending a crazy amount of money on Google, PPC, billboards, other kinds of marketing expenses. It's important that we have redundancy when it comes to our call and take otherwise, what kind of experience does that caller have when your receptionist is out to lunch and it just gets randomly forwarded to some estimator that's working up a sheet in their office? Are they going to apply the same focus and intentionality and presence to that call, to that potential $100,000 water loss as your receptionist would if they were in the office? And not out to lunch? Probably not. I think all of us can say that. Even you as the owner who happens to take that inbound call when the receptionist is away from their desk, are you going to be able to provide it the same kind of attention and intention as your receptionist who's paid and incentivized to do that and has been taught a process and taught an intake checklist and so forth?
+
+[00:07:16.480] - Chris
+Probably not. So answer force is a great turnkey solution that makes your call intake redundant to where it's not relying on a single person. They can also be a resource for your after hours and weekend response. And what you get with them is at a very reasonable cost, starts at less than 370 a month. That's so affordable that almost any restoration company, including Billy in his truck that works out of his kitchen table, can afford to deploy to maximize the conversion of the leads that are coming through their phone. Right? So if you don't have a redundant solution for your call and take, you owe it to yourself right now, go to answerforce.com floodlight. Get a demo, see how it works. Find out just how you can flexibly integrate that into your system so you don't ever miss a call or you don't ever fumble an inbound opportunity.
+
+[00:08:06.600] - Brandon
+Love it. Guys, are you subscribers to CNR magazine? If you are not, you're wrong. Get it done. Lots of digital assets, lots of print assets. The podcast, the interviews, the scoop that she gets in terms of current affairs. Sounds like maybe the beginning of a drama series. The current events in our industry. Guys, she's a friend to the industry, a friend to the contractor, and it's well worth your time. Everything from CE credits to current information. It's really silly not to be leveraging this to the benefit of you and your team. So C and R magazine and. And is a D CNR magazine. Make it happen. Okay, let's do this, dude. Let's get into this show.
+
+[00:08:52.890] - Chris
+Welcome back to the head, heart and Boots podcast. I'm Chris.
+
+[00:08:56.590] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:09:03.330] - Chris
+Man, I love this industry.
+
+[00:09:06.510] - Brandon
+David. Sir, thank you so much for joining us. I have a strong feeling you're not sitting around looking for things to do in your free time.
+
+[00:09:14.510] - David
+Sometimes, but probably not the top priority.
+
+[00:09:18.150] - Chris
+Yeah, we're honored to have you on, man. I'm so glad that Wayne was able to get us set up together. The timing of this is perfect. Wayne was actually briefing us this morning. He put down some notes on just some due diligence and stuff he did on you and so forth. And literally yesterday at 08:30 a.m. We got an email from one of our large clients, 50 plus million dollar company, asking us for input. What are we seeing in the industry in terms of AI usage? What are the applications and use cases that we're seeing and hearing about in the industry? And to be honest, my first reaction was to kind of scan our body of clients and our work in the last year, I couldn't think of any specific applications outside of like, Grammarly, the Grammarly plugin for Gmail. And yet I know we've been exposed to a bunch of different things that are emerging. I just don't think the industry has identified very many practical use cases at sort of the operating level, and I'll bet that you have a few that you've got your eyes on. And so I'm really excited for this conversation of just spitballing, so to speak, on the topic.
+
+[00:10:20.300] - Chris
+And then of course, I'm sure we'll get around to some of the moves, the big moves that Verisk is making. But if I can open us up, you told us about a very funny story relative to AI, and I would love to open it up with this. You mentioned that you were playing around with an audio voice generator and you did a fun little project with your wife in this past year. I think that'd be a fun place to start, man. So would you mind telling us that story and unpacking how you did that?
+
+[00:10:48.020] - David
+Yeah, happy to. And I'll be honest, I probably shouldn't have told this story, but that's okay. I'll re explain it. My wife, I just got to make sure she doesn't watch this. How about that? I got to make sure she doesn't listen. But over the Thanksgiving holiday, I took a little snippet of my wife's voice, and I thought it would be hilarious to take her voice and turn it into an audio recording where she praises her husband and explains how grateful she is for the amazing spouse that she happened to stumble upon and how he makes her days better. So I took her voice and just a very short snippet and she didn't know what I was doing, and I just said, hey, can you read something for me? And she's like, why? And I just do it, honey, it's fine. Don't worry about it. And so she read this little small snippet, took her about 10 seconds to do, and I leveraged AI and actually built an entire script around how grateful she was for her husband. And then I did the brilliant thing, took it next level, and I texted it around to her entire family, of course.
+
+[00:11:48.310] - David
+And so her whole family got this text with an audio recording on it and just describing how grateful she was for her amazing and sexy husband. That's how it ended, actually. And the text started flowing in. And I didn't tell her. I grabbed her phone and I just sent it from her phone, and I didn't tell her that I had done this. And I just sat back and let all of the drama ensue from it. And it was super funny to watch. And all of her family was like, was he holding a gun to your head to say that? Nobody even queued in on the fact that it wasn't her. That was what was the most incredible part of the entire thing, was they all just assumed. I mean, the inflections were right on. Everything sounded just like she would sound recording, something like that. And so once she responded, because she didn't even know that I could do that, she had no clue that that was possible. So she was questioning, how did this even happen?
+
+[00:12:40.440] - Brandon
+Was I blacked out somewhere?
+
+[00:12:42.460] - David
+That's right. Did I get roofied or something? I don't know. But she started questioning it and she said, is this AI? I know you're into this. What's going on here? And so I showed her, and I started playing with my daughter, my eight year old. We recorded her voice. I showed my eight year old how it worked and stuff, and it was a ton of fun, and it was a fun experience. But my wife told me, if you ever do that again, I swear, so I probably won't do it again. But it was a lot of fun. Those are the types of things that, and I think a lot of people think that's what AI is. It's this kind of fun toy that I can play with. And truthfully, it can be that if you choose for it to be that. But, yeah, that's my story. So, yeah, hopefully she doesn't get mad at me for describing it, but there you go.
+
+[00:13:21.780] - Chris
+That's so funny. Well, I'm glad you guys resolved that. I was going to ask what the marriage counselor thought. It didn't get to that point.
+
+[00:13:28.770] - Brandon
+What was the follow up on that?
+
+[00:13:30.870] - David
+That's exactly right.
+
+[00:13:32.160] - Chris
+What is the tool that you use for?
+
+[00:13:35.410] - David
+It's, I'm, like, blanking on the name right now, but it.
+
+[00:13:39.130] - Chris
+Oh, we can put it in the show.
+
+[00:13:41.670] - David
+Think so.
+
+[00:13:42.310] - Brandon
+Set the stage, David, for, I think you said your daughter. I kind of think now you've equipped your daughter to call in sick from school.
+
+[00:13:49.470] - Chris
+I know all kinds of possibilities.
+
+[00:13:52.870] - Brandon
+She now will have a little joke, if you will.
+
+[00:13:56.570] - David
+That's exactly right.
+
+[00:13:57.550] - Brandon
+You're like, damn it, I taught her that.
+
+[00:13:59.230] - David
+Yeah, that's right. That's exactly right.
+
+[00:14:01.260] - Chris
+It's so funny. Well, so in terms of, one of the things you mentioned is you used to be a history teacher, and one of the things you've been keyed in on and are really interested in is kind of the history of AI and sort of the workup or the come up to where we are today. And I'm just curious. I think maybe a good place we could start is what are you. I think a lot of us are seeing the explosion of AI, but people have been paying attention for the last ten years, have seen it more as a slow build. I'm just curious, kind of what stuff did you start out watching? And what are the things that you see that are really starting to become mainstream where they're at a place now where there's real use cases and business applications for these things, and not just speaking necessarily with our industry, but just what are the tools that you've been watching? And now you're like, holy cow, these are, like, ready for primetime and are starting to get your attention in your own personal work. Not necessarily verisk, but just what are some of the applications and use cases that you find yourself starting to default to as just one of your business tools, like a laptop or a remarkable device or some of these other technologies we've taken on?
+
+[00:15:10.100] - David
+Yeah, I mean, probably, at least from my perspective, probably the thing that most people don't realize or acknowledge is AI. That was 810 years ago, was kind of very new and exciting, and now is just kind of commonplace. Is something as simple as Siri or Google Home or Alexa. Right. You go back ten years, and you think about Alexa, which was introduced ten ish years ago, maybe a little bit less. But you start thinking about that and your interaction with your pocket robot, right? Asking the pocket robot questions and saying, hey, google, what's the weather going to be like today? That is AI. That's 100% AI. That's AI that's been around for a really long time at this point and was very novel initially, and now it's just commonplace. Literally every single night, I ask my Google home to turn off our lights, and it turns off the lights. I ask Google home what my commute is, and it tells me what my commute into work is. That type of interaction is not even thought of as AI to most people anymore because it's so commonplace and something that they do all the time. So you really think about that and our interactions that we have with that type and that style of AI.
+
+[00:16:18.030] - David
+I mean, that's been around for a really long time. You think about something as simple as your Netflix queue or suggestions as you go to Netflix, people don't think about that. People get on a Netflix and they're like, how does it know? But it gives me the things that I care most about and probably what I'd be interested in because I'm super into, I don't know, I'm super into car shows, and all of a sudden I see a bunch of car shows on my suggest said things to watch. Don't really think too much about it anymore. But back in the day, maybe that was something pretty novel. Now it's something that is commonly interacted with, and that's AI. Granted, it's super simple AI. It's not AI, as we sometimes think about when we talk about Gen AI and we talk about all these different versions of AI that we're concerned with or we're thinking about or that we're afraid of, but nonetheless, it's AI that we've been interacting with, whether we realize it or not, for a really long time. The recent influx in AI has been primarily due to the interest around OpenAI and what OpenAI has been able to do with creating this kind of portal where I can have a conversation with AI.
+
+[00:17:17.550] - David
+Candidly, you've been able to have a conversation with AI for quite some time. At this point. That's nothing new either. Again, talking about my Google home. I have conversations with Google Home. I've had conversations with my Google home for a really long time. Alexa Siri. I mean, this has happened for a while. You can ask Siri to tell you a joke, and it'll tell you a joke. Knock, knock. Who's there? You respond, who's there? Before it goes on to the next line. You're interacting with that thing?
+
+[00:17:39.830] - Brandon
+Yeah.
+
+[00:17:40.200] - David
+So it's intriguing, but OpenAI really hit the mark with this ability to start with the large language models and bringing it to the masses. And that was very unique and different and exciting for a lot of people because it really brought back into the forefront the fact that I was interacting with these things, but now I can have much more interaction. Now it can actually create things for me, as opposed to, it's kind of a trained bot that I go back and forth and communicate with, and that's what's really gotten AI pushed to the forefront? OpenAI has had so much investment. You're seeing Grok, you're seeing Google's got their AI, you've got all of these different large technology companies that are investing heavily and taking on investment around AI because they feel like that's kind of the next level. And there's a lot of heat right now. Now there's a lot of, even in the industry, you're hearing a lot of people discuss, how does AI impact me? And it's funny that you bring up, you talk to your clients and we talk to a lot of our customers in the same way. We'll sit down with a carrier.
+
+[00:18:38.390] - David
+And I personally made the mistake of asking this question, and I call this a mistake for a couple of reasons, and I'll get to that here in a second. But I've made the mistake of asking our carrier customers, what are you guys doing with AI? And nine times out of ten, their response is, well, I don't know, what are you guys doing with AI? Because that's probably what we'll do because we're a fundamental piece of their workflow. We interact with their adjusters, we interact with the contractors that they work with, all of those types of things. I have asked the same questions to contractors and ask contractors, what are you doing with AI? Well, I don't know. My kids use it for writing their book reports. But outside of that, not really concerned with it, not really thinking about it, not really worried about it too much right now. How is it going to help my business? I don't know. All that is very intriguing, but going back in time, it really is one of those things that people don't realize how much you've interacted with AI. It actually brings to mind, I was listening to a podcast recently and it had Keanu Reeves on it.
+
+[00:19:36.660] - David
+And Keanu Reeves made a comment that I thought was very fascinating, that I really dug. And he said, if people were to look a century ago at what we do every single day, sitting in front of our computers and typing words, would they consider that work 100 years ago interesting? I don't think so. I don't think so.
+
+[00:19:53.260] - Chris
+Yeah.
+
+[00:19:53.940] - David
+They were sitting out there in the coal mines. I don't know what they were doing 100 years ago. That's early 19 hundreds. I mean, fundamentally different. What then is that going to look like as we look into the future in a century? What is that going to look like when we look at our children's children and say, okay, is what you're doing what we would consider work at this point. How fundamental a shift are we going to see given the advances of these technologies as we look a century into the future? I don't know. It's going to be intriguing. I'm excited to know just because I love technology, I love to see where we're going as a species, but it's going to be interesting. So anyway, I leave it there because that's something that I've thought about. Even looking back 100 years, looking forward 100 years, what's that going to look like and how fundamental a role will AI play? I don't know yet.
+
+[00:20:38.280] - Brandon
+That's kind of interesting. I think let's maybe hang in that pocket for just a minute, and then I think I have some ideas around kind of some, I guess, current use case that we can ping pong back and forth a little bit, but the psychology of this. Right. We were just talking a little bit about this offline before we got rolling. And I think for people right now, because it is still so emerging in a lot of ways in terms of professional application, I think the first step is just trying to get a grip on what should our posture be around it. Like, how should we be thinking about it as business leaders and business owners to prepare us to begin being able to take advantage of these things as they become more tangible, more concrete solutions for us to deploy. And we'll certainly get into, I think, some examples of that. But obviously, you guys have to think about it in a certain frame as part of Verisk and everything that you guys are engaged in. But our friends at know how. Right, and what they're doing with their system. Obviously you guys work closely with actionable insights and thinking about how their AI profile is affecting the estimating process.
+
+[00:21:40.060] - Brandon
+Like, obviously you guys are looking at this globally, but if I'm a contractor, what's my posture? How should I even be thinking about AI at this point in the game?
+
+[00:21:49.490] - David
+It's a great question. So there's two mindsets, I think, around AI, as I've spoken to contractors specifically, but I think this is probably more general and holistic. I think a lot of people, as I mentioned, it's more of a toy, right? I think a lot of people think that. And, or one of the other things that I find probably more frequently than it's just a toy is I'm afraid of it. I'm afraid that it's going to replace me. I think there's a lot of that. I mean, if you think about historically, the first inceptions of AI in our society. So I'm thinking a little bit more sociological here. But our very first exposure to the concept of AI was in early novels, in the 18 hundreds, where they talked about robots or the concept of robots taking over. I think the earliest that we know of was, like, 18. I think I wrote it down here somewhere. It was 1889, in a book called the wreck of the World. So the wreck of the world was this novel that was about a scientist who built a robot, and the robot wreaked havoc and took over.
+
+[00:22:46.550] - David
+The earliest viewable thing was actually in the early 19 hundreds, before there was even sound to movies. There was a movie about a robot who took over, a scientist that built a robot that was supposed to help and ended up abusing the robot. The robot went crazy and went nuts. You think about our media and the way that media treats AI, robots, things like that, it's always in a negative context. IRobot great movie, loved it. Tons of fun. But the reality is it goes sideways, right? Terminator goes sideways. Everything that has any kind of representation with AI. Skynet was insane, right? And was all about destroying humankind. This has been proliferated throughout our society since early, early hundreds of years, right? We've had this kind of reinforcement around, AI is bad, AI is bad. AI is bad. AI is bad. And people are scared of it in a lot of respects and maybe healthily. So maybe that's not a bad thing to be a little bit afraid of something like that. And as you go across cultures and different things like that, and even roles and jobs, you start seeing varying perceptions of AI as well.
+
+[00:23:52.650] - David
+But one thing that I would say that we should all lean into, especially whether it's contractors or just holistically, I'm of the opinion, again, being into technology and being excited about where we're going with AI, with reason, but I think we should lean in. I think there are things that we're going to do that we do today, that in the next 1015 years, we won't do anymore, and it'll all be done via AI. I think about what we're seeing and the massive shift that we see from a marketing perspective. So, as a contractor, if I'm marketing myself, how do I do that in the future? I don't think I'm going to be building content or necessarily paying people to build content for me. Instead, I'm going to be leaning into AI to help me build my content. I can post things, or I can have AI actually post things for me. I have an assistant that is helping me market my company, you start thinking about some of those things in the near future and that's not that far out. I would say that there are companies that are experimenting with this exact approach. I use Chat GPT.
+
+[00:24:50.870] - David
+OpenAI introduced gpts within Chat GPT where you could actually train a model that has specialization. I have models trained for marketing, I have models trained for HR, I have models trained for. I've even got a chief claims officer that I talk to and ask questions. Hey, I've got a thought around this. Does this even make sense for a claims officer to care about? And I actually interact with some. I'm trying to build this type of thing, a marketing message around this. What would you suggest would be the best marketing message? These are things that you can now do that OpenAI has exposed. And so you start thinking about the use cases around AI in the future and you start adding on some of these different automated features to products to the way you do business. And it fundamentally shifts what your 8 hours in a day typically contains. I no longer have to go and worry about doing all this back office stuff. I think about contractors and I think about all the things, all the pain points that they have managing their back office, bookkeeping, quickbooks and all this other stuff that they've got to manage and maintain.
+
+[00:25:51.940] - David
+And I think about how much AI can do a lot of that stuff for you. As a for instance, I actually have a friend who has a startup that he is working on, a really unique use case, and that is he is creating a call center all with AI. You're not actually talking to a human being ever. And so he connects that to your scheduling, he connects that to your work orders and all that type of stuff. And it's all connected, it's all embedded into it and a person can actually call and say, hey, this is Mary. You're doing some work for me at one, two, three main street, wanting to know when the roofer is going to come out and work on the roof. Just want to know what time he's planning on coming. It'll actually go through and interact with your data behind the scenes and then respond within seconds. Like give me a second to look that up and then responds within seconds and tells you exactly when that roofer is going to be on site. That's impressive stuff, that is.
+
+[00:26:43.810] - Chris
+Oh my gosh. Yeah. Anybody can recognize the value of that in their resto business. Holy cow. Right?
+
+[00:26:50.160] - David
+100%. And I'm super excited. He's actually a neighbor of mine. He and I have been talking a bunch back and forth I've been helping him with his kind of go to market strategy. He actually was at the trade show down in Las Vegas. What is it? Ces.
+
+[00:27:03.980] - Brandon
+Oh, yeah, yeah.
+
+[00:27:05.110] - David
+He was down in CES and he actually made his big announcement, his big splash there at CES here a month or so ago, and had a lot of interest because this is very cool. I mean, we think about from a contracting side, we think about it just from even solar panel companies or any kind of company where you have to interact with a consumer. There's huge potential use cases for stuff like this where you've got a servicing business. This is huge and next level type stuff. It's exciting. And he's actually made it work pretty dang well.
+
+[00:27:36.640] - Brandon
+It's super cool. I think one of the things that you're talking about a lot, too, is just like you had mentioned the fear factor, right? It's like, oh, yeah. The reality of it is it's less about replacement and it's more about refining where we're spending our energy. Right. And I think people can get. What's potentially spurring that fear around it is I've kind of developed an identity around this skill set or this task orientation, if you will, and then if something could potentially do that at the same rate or quality as me or better, then the fear is more around. Okay, but what value am I now? And I think maybe part of our opportunity is, man, that has nothing to do with it. Just imagine what could have taken, let's say a person and a half can now be done by a single person. Imagine the value that you're creating in your place, in your position, the role that you have on the team by just maximizing where you spend your energy and what you're able to accomplish with that, whatever finite period of time that you have available. I mean, I want to be careful because I don't want to overly plug some of our friends in the industry.
+
+[00:28:38.940] - Brandon
+But there are teams, for instance, where they're kind of the backbone to their system. Software offering is very heavily supported by AI. And one of the things, like, for instance, that we found in our own use case is we had to create our own onboarding process, right? So we have multiple consultants. Obviously, we'll want to continue to add those to the roster. And part of that is our onboarding. It was unbelievable what our team was able to accomplish in literally a week once we had. Okay, here's our plan. Here's what we believe the content needs to look like in order for it to be of value for our new consultant. And in seven days from zero, we built an entire onboarding program to include training video, I mean, you name it. There is no way that we could, like the amount of time it would have required on our behalf to record all those things separately to create the summary transcript. I mean, it was literally, you record a loom video, you plug that loom video in, and AI took over and it created the outline. And it was fantastic. It took little to no editing on our part to contribute to that.
+
+[00:29:49.210] - Brandon
+And I just thought to myself, in seven days, I built an onboarding program from zero. That's all tech, that's all AI. That gave us the ability to do that. And so for me, it's like the excitement is I get to spend more time doing the shit I care about, right? I got the value that my team member needed, but my energy spend was half or less of what it could have been under different circumstances. And to me, that's like, the magic for us to be thinking about is it's not taking away from you. It's actually giving us the ability to do more of what we're good at. Like the stuff that actually creates value 100%.
+
+[00:30:24.630] - David
+I mean, it's not about replacement, it's about augmentation. That really is what it. I mean, maybe someday, right, maybe we run into that world of Skynet. I don't know. Let's just hope that we've got some bounds around that right when we get there and. Or if we get there. But the reality is, it is about augmentation. It's that extra hand that you could use, like, have it help you. There's no question. Yeah, it's brilliant. It's a brilliant use case for it, too.
+
+[00:30:49.100] - Chris
+One of the other current things, because I think an obvious use case we're seeing all over the place on LinkedIn is using these large language models like chat, GPT and mid journey, and Dolly four, and all of these tools. We're seeing a lot of content in our industry being put out. Both industry related images. I got to admit, as a guy who came up on the whole side of sales and branding and marketing and stuff like that, the introduction to Dolly, to be able to create article images or post images, solved a huge problem that a lot of salespeople and marketers have of, hey, I've got this piece of content or this topic that I want to post to on socials, but finding just the right image that doesn't have a watermark on it, and having to go through and buy stock imagery and all that kind of like Dolly four was, holy cow. But I think what we've seen, even just over the last three or four months, we have some really prominent industry leaders that are posting a lot of this content right now. There's kind of a vanilla quality that all of these start to take on to where it's like, oh, well, there's a Chat GPT or a dolly image.
+
+[00:31:53.720] - David
+Yeah, you kind of start picking it out.
+
+[00:31:55.640] - Chris
+Yeah, that's a mid journey image that somebody concocted of themselves. I think of one of my budies, who's a remote estimator company guy, and he has these cool. I've seen him in person, like he and I FaceTime occasionally, and he's got this mid journey image of himself in his ads and stuff. It's really cool. There's nothing wrong with it, but we're starting to be like, oh, that's an AI image. Oh, that's an AI article that almost has this otherness to it. And I'm curious if you have some thoughts about how his restores, because a lot of people are jumping on this bandwagon to write marketing content, blog articles and stuff to generate SEO benefit and so forth. Just as an armchair quarterback, I know this falls a little bit outside of your scope leadership, but just your own interest in AI. Do you have any suggestions, or have you been deploying any specific behaviors to better personalize the AI content that you're generating for various uses to avoid that whole MeToo vanilla? Everybody's using this the same way kind of effect.
+
+[00:32:58.410] - David
+Yeah. Well, I will say if ever your content includes the words we aim, it's almost a dead give. So if it says we aim to whatever instead of we want to, or we hope to, or I don't know why, but you can almost always call that. Nobody speaks like that. We aim. I've never said that in my entire life, but it's funny. It's Aaron Bronco and I are president. He and I joke often how we can pick out like, is there, we aim. There's we aim. It's right there. Yep. We know that was totally, somebody generated that out of GPT. But I think that it's all about the it. And candidly, I think using AI to help with content and content creation, I don't see anything wrong with that at all. As long as it's still true to you and true to what you believe and true to all those different things. I think it's all about prompting and how you prompt. I think that is how you get better content. I think that is how you get better imagery. And I don't know if you guys saw. I'm really excited about that. OpenAI just announced their video creation.
+
+[00:34:04.030] - Chris
+Oh, man.
+
+[00:34:04.860] - David
+And I'm super excited about that. I think that's going to be a lot of fun to play with. That'll be another experiment with my wife, probably, but I'm very excited about that. But I think it all boils down to how you actually prompt the AI. If people will often say, write me a message that tells people about my business, and I do roofing, okay. I mean, it'll come up with something. Is it the right thing? Probably not. Is that a good prompt? Probably not. You got to really hone in there and get in there and actually understand. I mean, we're creating an entirely new industry on the computer science side of the business that is around prompt engineers. That's a thing now. Didn't used to be a thing, but it absolutely is. How do you prompt the AI to do exactly what you want? I'll give you, for instance, in exact analysis, we built claim summary functionality that we introduced at elevate that we're really excited about. It summarizes all of the assignment that's gone through exact analysis. There's a lot of data. We get a lot of notes that are uploaded. We get interactions that are happening with that assignment, and we created this brilliant summary.
+
+[00:35:04.650] - David
+That was not an easy job. It seems like that would be really easy to do. But I will tell you what, bringing in AI and working with the large language model, we got a lot of hallucinations where we just make up stuff because there was not enough information. We could sit here and ideate about what hallucinations are. Is it just the AI realizing that it's self aware? I don't know. Is it dreaming? I don't know. We could go off the rails here if you wanted to go there. But nonetheless, we got a lot of hallucinations where it would just make up stuff, literally. The prompts that we built into our AI, within exact analysis, is massive. It's a novel in and of itself. So that we didn't get all of this made up stuff that we were seeing. There may have been allusions, too. So I'm alluding to something happening, but it isn't actually stated that it happened. So the AI would say, well, it happened. Well, we don't know that. We can assume, but we don't know that. Don't say that it happened when you don't know. You get that often, especially when you add a lot of data.
+
+[00:36:01.240] - David
+And LLMs do a really good job with unstructured data. That is what they're for, is bringing together unstructured data. And we found that it would go sideways all over the place. So as you're building out some of your content and trying to prompt it, make sure that you're prompting it with the right things, make sure you're giving it context. It needs context. If you don't give it context, you just say, I'm a roofer. That's not going to help anything. I'm a mitigation contractor. That's not going to help that much either. What kind of mitigation contractor am I? What do I focus on and how am I better add those things to the AI and let the AI kind of chew on that a little bit and build some content for you that actually is more appropriate for who you are and what your business does.
+
+[00:36:40.930] - Chris
+All right, Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, bloodlight consulting group. As all of you, you know, Brandon and I, this is our passion project. Headhart and Boots is, but it's also a way more and more that our consulting clients find us and in effect, they interview us, right? Those of you who've been listening to show for a while, you get to know who we are, right, what we're about. So if Headhart and Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow. And we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you, too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:37:40.180] - Brandon
+That's what we do.
+
+[00:37:41.220] - Chris
+That's what we do is we come alongside restoration company leaders, we help equip them and we help support them in that growth trajectory. So if you're looking for that, go to Floodlightgrp.com. Potentially, we could be a great match for each other.
+
+[00:37:54.360] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our premier partners. We work really hard to vet those folks that we believe bring a level of value to the industry that it can really be leveraged in a way to have a sincere positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring. We see value in the way that their leadership teams and their partners are developed. And we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out floodlightgrp.com premier partners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business. It almost kind of goes back to just, again, that posture question or that frame of mind question is, what I'm hearing you say is the opportunity in front of us right now is if you're going to start getting your hands dirty with this stuff is it's more about just practicing that, right?
+
+[00:39:01.700] - Brandon
+How do I ask the correct question? How do I feed intel into the system to make it understand me and the request better? I'm thinking, gosh, there's probably opportunities for us to take some of our strongest Google reviews where somebody actually contributed something specific besides just the five stars I think about. We can introduce mission and vision statements, core value statements from our company to help kind of guide that AI to understand who it's promoting better. But I think in general, and I saw our team doing a lot of this as we're starting to practice and try to deploy this as much as we can, is just put the reps in practice. Fun little stuff. I mean, ten minutes, 15 minutes with your coffee in the morning, practicing what you need to respond to or how you would respond via email to an adjuster, don't send it. Right. But let's plug in the information and see if after two, three prompts, could we get an email that actually summarizes our thoughts really well. It articulates it clearly, it makes it so that it's easy for that audience member to consume and understand where we're going versus the wall of text that we tend to email to people.
+
+[00:40:10.600] - Brandon
+But again, I guess what I'm hearing you say is the Reps come in with that prompting, learning how to feed it information to make it more efficient, more accurate. Yeah.
+
+[00:40:20.710] - Chris
+One of the things that came to my mind is I'm just curious. I'm curious in your mental, because I know you think about a lot of this stuff, right? So any resources, any YouTube channels that you find yourself regularly going to any Reddit groups that you tend to follow on this area that have maybe both strategic sort of narrative around it or tactical stuff like sharing of prompts and that kind of. Any influencers or channels and things that you follow?
+
+[00:40:46.970] - David
+Yes, there's a lot, I do subscribe to a lot of channels on Reddit around AI, and there's a million of them, and I probably subscribe to half of them, honestly. And each of them has their benefits and each of them has their noise, for lack of a better term. There's a lot of people that are, and you get a lot of trolls that get on there, too. Right. And so it's hard to kind of identify.
+
+[00:41:06.610] - Chris
+Yeah, I get it.
+
+[00:41:07.720] - David
+There is just an AI Reddit channel. Like, it's just AI. And you can go in there. They have an open AI Reddit channel as well. I mean, if you want to get more vanilla type stuff, that's probably where you want to lean forward is more of the official Reddit channels and stuff that you can get into because some of the, there's some fringey stuff that gets on there and there's some intriguing stuff. No question. I like to read a lot about it. There's a few channels that are intriguing that I get a little bit more into that are more about the regulation around AI. I mean, if you've read Elon Musk's latest biography, he gets into know, obviously an early pioneer with OpenAI and split away because he felt like it was not going the direction that he wanted to go and built up Grok and put that into Twitter, or x rather. Sorry, can't get over calling it Twitter. I got to break that habit. Everybody still calls it Twitter. I feel like I get a lot into that, too. Where, how is there going to be some regulatory requirements around AI? For the longest time, there wasn't regulatory requirements around just bitcoin, around a lot of these different things that were kind of new and novel and bleeding edge.
+
+[00:42:12.900] - David
+We didn't really understand very well to understand enough to be able to get our arms around regulations and how do we build things with some future insight in mind. And I think we're running into that a little bit with AI as it sits today. As we're investing billions and billions and billions of dollars into this, we've got to make sure that we've got our arms wrapped around what that looks like and how we train. I mean, our models that have been trained have our own biases built into them. That's the reality. Right? A human has to train it. Humans have bias, unconscious or otherwise. There's bias that gets trained into those models and you ask it questions and you will see that bias. Some of those come to fruition via the hallucinations. Some of those just happen organically just by asking it questions. And you start recognizing that we as human beings have our own bias. And if we're not careful, we build that bias in. If we start, I mean, again, we're going to get a little dystopian here. If we start building AI models that believe that we've got to save the world at all costs.
+
+[00:43:12.740] - David
+If humans are the biggest reason that we're crushing the world, the next natural step would be, well, we need to eliminate. And that's a little crazy and dystopian, but there are those theorists that are out there, right? And Elon Musk is one of them, that feels like, hey, if we don't train AI appropriately, we end up working ourselves out of our own job. Right? We're going to end up being eliminated by virtue. Know, we get in the matrix. Right. And that's what we're dealing with. We're not.
+
+[00:43:39.170] - Brandon
+Yeah, yeah, right.
+
+[00:43:40.280] - David
+Exactly. So we've got to be careful and cautious. I'm intrigued by just some of the people talking about how do we do this appropriately as opposed to we're just rushing to the finish line and just want to create something that is going to be amazing. I want to have a robot that does all my work for me and that sounds incredible. We got to hurry and get there as quickly as we can and not worry about what that actually even means for sure.
+
+[00:44:01.260] - Brandon
+I think, again, because I know it's so easy on this topic to jump out to 100,000ft. And I think I'm just kind of thinking in my mind, our client who brought the question, it's like, okay, what can we give them that's really concrete here? Even as we weave in kind of these bigger kind of concepts or brainstorms around the topic, is that where you're going?
+
+[00:44:22.420] - Chris
+Just a slight variation or just on that track? Yeah, I was going to ask you, you're the product guy, you're the head of product, so you live in a world of product roadmaps, features. What are we going to build? What are we going to roll out when. All that kind of stuff. What are people willing to pay for it? Right? All those things. I'm really curious, what do you believe contractors and restorers want? And without you talking about top secret stuff, obviously, but just what are you fantasizing about? And thinking about when you put on your five years outbrain based on what you're seeing kind of come to fruition in the AI space right now. What are some of the opportunities that you see for Verisk? But just in the restoration space, applications use cases like those two things. What do you see that contractors say that they want or need? And then where do you see AI coming in to satisfy those things? Maybe more in like a strategic view versus you telling us know verrous secrets?
+
+[00:45:22.910] - Brandon
+Feel free to tell us the secrets, too. David.
+
+[00:45:24.940] - David
+Hey, you know what? I got plenty of them. I'll try and keep a lid on as many as I can, but I like to talk, so sometimes they may leak. It's fine. I was just getting trouble later. But I would say as I think about the contractor, as I think about the contractor's workflow, I mentioned earlier, a big part of the way contractors work, and a big part of what contractors do is managing the work. That's a huge portion of what they do, managing the work, making sure the right people are there at the right time. I feel like oftentimes rounding up subs is like hurting cats. It's hard to get a subcontractor in when they say they're going to get in. It's hard to get work done when they hope work gets done. And then you've got the whole bookkeeping aspect. You've got all of that back office type stuff that is extremely difficult and time consuming. I have an admin that may be working on all of our bookkeeping. I have. Or an accountant that's working on all of our bookkeeping, making sure that we're getting payments out, we're getting payments in, we're paying our bills, but also paying our subcontractors or our suppliers or whatever.
+
+[00:46:22.750] - David
+There's so much effort that goes into that. Honestly, do I anticipate that you're going to have a robot swinging a hammer for you in the next ten years? Not even a little bit. I don't see that happening. I mean, I've seen the Tesla bot. Yeah, it's okay, but it's not that great. I've seen what, Boston Robotics. It's all awesome, don't get me wrong, but nowhere near where it needs to be to do any of that type of work. But what I do see the benefit coming from is actually some of these other things I think about. Something that we use every single day is office 365. So we've got office three, six, five, and we have copilot in office three, six, five. It's insane what copilot can do for you. I can have Copilot do a transcription of a meeting that I just wasn't able to attend. And I can ask him copilot questions about the meeting. What were the takeaways, what were the action items, what was Dave supposed to do and get done? All of those types of things. That's a use case for me. It's a use case for anybody, if you really think about it.
+
+[00:47:16.570] - David
+To summarize emails, too, I mean, I get stuck on chains that are 50 miles long, and I look at that and I think, oh, this is going to take me 20 minutes just to read through the email string. Copilot, summarize that for me. That's an interesting use case, right? In and of itself, if you think about that. Yeah, 100%. And it's not insanely expensive. It's something that you can purchase and add to your office 365 license. And it's powered by Chat GPT. So you also have the ability to chat with it too, just like you can with Chat GPT. If you were to log into Chat GPT and it's part of the copilot license fee, that's hugely beneficial. And that's something just with Microsoft, you can actually have it. You open up word and I could show you right now. You open up word and literally copilot pops up right out of the gate. It reminds me of, do you guys remember the old clippy? Yes, but it's now copilot. That's clippy, but it pops up this screen, it says in a few sentences, describe what you want to write and you can literally tell it what you want to write and it'll generate it for you right there in word without you having to do anything else.
+
+[00:48:17.610] - David
+This is all now built in if you want to build a spreadsheet. And hey, I'm doing an accounting spreadsheet where I'm trying to do a cost benefit analysis for whatever, it will literally build that out for you and you can hook it to your data.
+
+[00:48:29.600] - Brandon
+That's very approachable. That's like using that tomorrow in business.
+
+[00:48:35.380] - Chris
+Is there an analog that you're aware of within the Google apps environment?
+
+[00:48:39.440] - David
+I don't use Google, like Google Docs or anything like that, so I'm not aware of, you know, Google's got, what's it called now? They just changed the name barred.
+
+[00:48:49.500] - Chris
+Yeah, barred was barred, but they just changed again.
+
+[00:48:52.460] - David
+Yeah, they changed it anyway. I can't, but it's barred. I know that they're starting to push that into all of their different products right now. They've got it on Google search and stuff. I haven't seen it in my Gmail, so I don't know, maybe it's in Gmail too, but I haven't seen it there yet. But I anticipate it's going to happen here sooner rather than later. And you're seeing it with Grok and Twitter, you're able to like, if you're subscribed to premium, you can actually chat with Grok and stuff, which is pretty impressive too. I've seen some of the stuff that's come out of that, but I think that's one of the places what I'm seeing and from just a vision perspective, or what I'm hearing throughout the industry with some of our partners, third parties and things like that, as well as something that we're focused on internally as well, is how do we automate some of those processes that are currently manual. Like I said, you think about getting the work done, you think about moving things along. One of the things that I'll mention that is available in some of our products right now and will be coming into, we're going to be expanding into more of our insurance based products is the ability to turn an estimate that you build into an actual schedule and that schedule into work orders associated with that schedule.
+
+[00:49:53.350] - David
+So if I build that estimate in xactimate, I can then turn it into a full blown schedule combined with, okay, these are the type of trade that I'm going to need. This is the timeline that it should take for this specific job. Based on the quantity, we're going to put it in phases, we're going to build all that out for you. You don't have to do anything now I've got a project schedule just based on an estimate and I can do that with a click. That's useful. You spend a lot of time scheduling those things and then you can manipulate, modify it, get you 80% of the way there, and then the rest of the 20% you can shift and move and whatever. And we have that available today in one of our products. We're expanding that type of functionality so that now I literally just build out something and it automatically triggers a series of things that happen automatically. That is where I see the future of AI going within the contractor ecosystem. You think about exact expert within exactimate. It's really trying to guide you into creating a better estimate so that you're not leaving money on the table and that you're charging appropriately, not that you're overcharging, but you're charging what you should be charging, right?
+
+[00:50:54.770] - David
+What makes sense. And to get the policyholder whole, that is a version of AI exact expert. It's built right into the tool. It does it in real time. And you can sit there and you can build your estimate and it says, hey, you added carpet. Did you mean to add pad? Maybe not. Maybe so, but it's up to you. I'm just flagging it for you. So you're aware, right? And I'm kind of training number one, but also making sure that you're not forgetting almost like a spell check as you're writing your email or your word doc. So I see a lot of that coming. I see a lot more automation happening around that. But one of the other things that I will mention is, as we here at Varysk, look at how we can improve the quality of life is what I'll call it, the quality of life of the contractor. We recognize that a lot of that back office stuff. How does a contractor make the money? Contractor doesn't make the money by doing a bunch of back office stuff that candidly can be considered a waste of time. And many contractors I've spoken to have said exactly that.
+
+[00:51:49.840] - David
+Like all that stuff just waste my time. I got to get paid. I get it, but that's not how I get paid. I get paid by actually swinging the hammer. I get paid by being out there with the policyholder. I get paid by doing the work. I don't get paid by managing the work being done. I see a significant push in the industry with many of our providers to really try and automate more of that, to really try and get there. But one of the things that we're focused on here at exactware is how do I improve the quality of items that I'm adding into my estimate? How do I improve and understand what I should be adding to the estimate? If you go on some of the different Facebook groups for contractors, and I'm on there all the time, actually, I'm totally just a fly on the wall. I don't interact very often. Every now and again, if we release the contractor bundle, as a contractor, you get discounts on some of our products. If you call in and you bundle some of our products, you actually get some discounts, which is pretty cool if you're a contractor.
+
+[00:52:40.620] - David
+But I'm on there all the time and I watch all these interactions that we get from our contractor customers, and many times they're asking questions around, what is this thing? I took a picture what is this? I'm describing it. What is it? It's this thing that sticks out of a roof that looks. It's circular and it has kind of like a cap on top. I don't know what this thing's called, but I need one of them. Can you guys point me to the right line item? All the time. I see this all the time. Now, I can't put into xactimate. There's this cylinder thing that's sticking out of a roof that doesn't work right. Like, it's not going to come up with a line item based on that, based on a description. And if I upload a picture into xactimate, it doesn't know what it is. It's not going to say, okay, this is the recommended item. But as we look into the future of xactimate, that's what we're looking at. How can we start introducing features around that type of concept? Because we recognize that there are a lot of times where, whether it's a contractor, it could be an adjuster, it could be anybody that they don't even know what that thing is, and they take a picture of it and they're asking the question, ask the system and let the system direct you.
+
+[00:53:41.180] - David
+What a great and brilliant use case for artificial intelligence to be able to identify and then direct you toward the appropriate line items based on what you're trying to do. So as we look here at Varysk, and more immediate term, those are some of the areas that we're targeting, that we're pushing know how. Can I have a chat, if you will, with a price list? Some pretty cool potential there, I think.
+
+[00:54:02.660] - Brandon
+Yeah, that's interesting. I think that's very tangible stuff. I don't think that's so far out right on the horizon that people are like, yeah, sure, be nice someday. I think those are things that. And of course, you're probably being a bit cryptic, but those are things that are. We're not talking five years from now. This is stuff that we can very easily see in the near future being available to us and enable to leverage it.
+
+[00:54:23.840] - Chris
+What does this mean for estimators in our business? And more sort of future focused, what would be your suggestion to people that have developed a really great career, a really successful career, estimating either remote estimating work, or internally as an estimator, project director person in a restoration company? What would you suggest they do to prepare for the inevitable change? I mean, do they need to become adept at prompt engineering? Is that the direction? Is there still going to be a role for estimators in our industry, or is it quickly like. I think a lot of people are afraid of going to get kind of consumed by the AI functionality that's coming out. What would you say to an estimator right now?
+
+[00:55:05.120] - David
+I don't see, again, it's like anything else. Are we getting rid of marketers and droves? I don't think so. I think what we're seeing instead is that marketers are becoming even more valuable by leaning into the technology. So to some degree it's prompt engineering, but it's also knowing what is good and what is not good. Right. AI can only get you so far. We still need people. Can it make you more efficient? Yeah, 100%. It can make you more efficient. But is it going to replace you? No, I don't see that happening anytime soon. I really don't. That's not pandering, that's truth from my perspective, an estimator. I had an adjuster ask me that exact same question. Do you think I'm going to have a job in five years? Yeah, I do. I just think you're going to be more efficient in doing it. I think you're going to have to do a lot less of the busy work and a lot more of the work that matters. An adjuster, a contract factor. I think you're going to have more interaction and more interactivity with that policyholder. Be worried less about all this, et cetera.
+
+[00:55:57.580] - David
+That takes up a lot of your time. It's just going to make you more efficient. So as I think about an estimator, you're still going to have to have eyes on it. I don't see that going away anytime soon. Can it get you, like I said, 50% of the way there, 70% of the way there, maybe, and hopefully, but somebody's going to have to make sure that it's right. Trust but verify. That's going to be the mantra going forward. So I'll be able to put through my productivity may be only two or three estimates a day that I'm working. Maybe I can do five or six or seven a day instead. But do I see that estimator going away?
+
+[00:56:28.540] - Chris
+No, but we do see, and we have seen this over the last even 10, 15, 20 years, right? As emails come up and these job management softwares have become ubiquitous and all these tools companies are adopting, and there are some people who dig in their heels like, hey, this doesn't change anything. I know what I'm doing. There are people that just put their head in the sand. I can still do it the old way and leaders are becoming less tolerant of those foot draggers. It's like, hey, you're either going to put your notes in the system or you're not going to have a place here. Likewise, what would you say from a professional development standpoint, do you think estimators, and we're hyper focusing on estimators. I realize there's a whole other host of roles that are going to be impacted by AI. What would your suggestion be? As somebody who's serious about staying on the cutting edge and progressing with the industry, what do you think estimators today should be exploring, getting comfortable with? How should they be starting to change their mind about how they're approaching their work?
+
+[00:57:30.080] - David
+I would say lean in, don't lean out. To your point, putting your head in the sand and saying this is the way that we've always done things is not going to, I mean, you will not maintain an edge against your competition. If you don't lean in, the competition will be able to do more faster than you will and that will make you, if you want to work your way out of a job, that's a perfect way to do it right, is just say, hey, I do it the old school way. And I had a conversation with a contractor, this has been a few years back, but we were at a trade show and the contractor came up to me and he said, I don't need your tools. I have a better tool and it's all right here. And I said, that sounds great. And he was there with his daughters who were taking over his business, and they said, dad, this doesn't work for us. We don't have access to you right here all the time. We are taking over your business. We need something like this. Call us. They've been a customer since. You've got to lean into that mentality at some point that will go away and you're going to need to leverage these tools to make you more efficient, to help you get more done.
+
+[00:58:29.920] - David
+So when I think about what would I, the recommendation to any estimators that are out there is as these things start coming around, as you start seeing the shift, lean in, don't lean out. Don't say, hey, I'm worried about this. Say, hey, this is going to help me be better and I'm still needed, I'm still useful, no question. But I'm even more needed, more useful because I have leaned in and I am more efficient because of it. So it sets me apart from other people around me who may be leaning out of it without getting into too many specifics. But that's probably what I would suggest.
+
+[00:58:59.520] - Brandon
+It kind of gets me thinking along the lines, because we've started to have some conversations with folks around this actually probably early in 22. And it was just this idea of like, look, I think what AI and the introduction of kind of emerging technology is, it's reminding us of that one thing that all of us have that AI really probably isn't going to replace in the immediate future. And that is our humanness, like our ability to build relationship. Right? And so there's this thing, like, the way that I think about it, there's kind of like two things. One is the expertise, meaning that person that's been around the block, they've seen firsthand those little variables that can have a profound effect on a project, right? It's timelines, it's customer experience. It's these elements that dumb tech for in quotes, is not really well equipped to own and be responsible for. And so part of what I feel like I've been communicating to people is, look, I think your ability to build rapport and friendship relationship with the person in front of you double down. It's going to be the most valuable asset that humans bring to an organization when it comes to their frame of mind around, let's just be honest, the data entry of creating an estimate, they have to undervalue that.
+
+[01:00:16.310] - Brandon
+They have to move on. I watch so many estimators where their inherent value that they've created for themselves is the fact that they can write a very comprehensive estimate. And it's like, guys, our ability to capture data is going to replace those things. Like you said, it'll write 80% of an estimate, your field time. It's your expertise to help the nuance be understandable. Like, why should we make this decision over that decision and using your experience to do that as part of, let's say, the auditing process or people really digging in, I have to see it in order for me to write a good estimate. That is a really poor frame of mind to have because the tech is getting really great at putting eyes on stuff for you. It's what are you doing with that data that once it comes back from the field? So I think you're spot on. It's an efficiency thing. There's going to be this stuff that happens, that ten x is our productivity. But I think just mentally, it's like this shift of think about the parts that humans do well and lean into that and let the data entry part be done by the dumb tech because it's going to happen whether we want it to or not.
+
+[01:01:26.880] - Brandon
+Like, efficiency will win, right? It's for profit companies that we all build and work for. So anyways, that's just kind of where my frame of mind has tried to be around. That is, gosh, guys, don't get caught up in the data entry part. Think about the humanness, and then what can you do to really leverage that in terms of skill development and growth? I got a little preachy there, but I feel strongly about it. David, that's good. Feel strongly about it, man.
+
+[01:01:52.770] - Chris
+We've covered a lot of great ground. This has been fun. I think unless we pivot off into talking about Teslas again, I could talk.
+
+[01:02:01.610] - David
+About those all day long, too, and.
+
+[01:02:03.690] - Chris
+We could nerd out on Teslas.
+
+[01:02:05.610] - Brandon
+I think I have a question. Yeah, so, David, I know, know the reality of it is in our industry is, and I think part of this is just the blue collarness of what we do, right. Is there's this interesting dynamic that's constantly happening in terms of what tech is trying to bring, what large organizations like Averisc is doing, because the industry does demand it, right? Like the consumer demands the things that you guys are building and developing and trying to bring to market. And then there's this weird balance of us as contractors on the other side trying to kind of get in step with this stuff as it comes to market, trying to understand the dynamics behind it. Meaning like, what's Veris, why versus me as the contractor? Where do those lanes merge? And so without getting too crazy and completely opening Pandora's box, I'm really interested to just hear from you, like being on that tech side and the development side. What are some words of wisdom that you could give us as the contractor to just take a breath? Like at the end of the day, we are actually all trying to fulfill the same mission, right?
+
+[01:03:16.340] - Brandon
+Like, what can we be thinking about? How can we begin kind of framing our perspective about our relationship to a verisc, for example, and tech companies like yours as they relate to our industry. Is that a fair, are you cool to go there?
+
+[01:03:31.430] - David
+Absolutely. Happy to. I would start with this in my previous role before the role I'm currently in, which. Pretty freshly minted in the chief product officer role here, but in my previous role, very focused on the contractor. I have a very high appreciation for contractors and what they do every single day. I have actually canvassed for a roofing contractor working for Varisk, did a canvassing after a hailstorm, knocking doors, trying to sell us fixing roofs for this contractor. It was amazing. I've never been better at sales in my life than when I was working for him. But it's been a day. And just to get into the mindset, into the boots of the contractor, that's really what I was trying to do. And I've done this not just that one time, I've done it multiple times. I've been out with many contractors on site working with them. I've got pictures of myself doing grass cuts and stuff for folks that are contractors with our default business where they have to do mowing lawns and things like that. And I was out mowing lawns with a contractor for a day and I had my Varis polo on and I'm sitting there covered in dirt and grass and all that stuff.
+
+[01:04:31.290] - David
+And I loved it. I loved it. But I think that Verisk, and specifically pes, has really begun leaning in to our contractor customers. We care so much about our contractor customers, and I will say that in the past it may not have been as prominently the case as I've started to see. There's been a fundamental shift in the way that we look at our contractor customers and the way that we want to lean in with our contractor customers. We want to help our contractor customers be successful, just like we do the entire industry. We are stewards for the industry holistically. We're a very fundamental piece and we hold a very fundamental role within the industry and we take that extremely seriously. But trying to serve many, often you don't serve many very well. We've been perceived to have focus on areas that I think the contractors have felt like they've been forgotten. I will say that here in the last couple of years that I've witnessed it change personally, and I've been part of that. I've tried to be part of that change to really focus in on our contractors, listen to what our contractors feel, how they feel, what they think.
+
+[01:05:36.440] - David
+Last year, went out to the RAA conference and I sat down with a number of folks and had lots of really good conversations with them about what keeps them up at night. Certainly not the same thing that keeps me up at night, but doesn't make it any less important. In fact, it probably makes it more important. And I appreciate that about our contractors. And so we've really tried to lean in. In fact, we have created a portion of our business that is now focused on our contractors, and we're going to have things that you'll see coming out for our contractor customers very specifically because we believe so heavily in that and want to make sure that we're serving every part in every segment of the industry. And when I talk about contractors, I talk about mitigation contractors. I'm talking about roofing contractors. I'm talking about the whole gambit of our specialty contractors as well as our general restoration contractors, because you are an important part of this ecosystem that we're part of. And we want to make sure that we're covering off on everybody and have focus on everybody. So I think that as I think about how we have interacted with our customers and how we want to interact with our customers and how we interact with our contractor customers, like I said, we're leaning in heavily.
+
+[01:06:43.220] - David
+One of the things that we heard was, man, we start putting together all of these different products with verisk and it starts adding up very quickly. And I jumped in. I said, you know what, we got to give discounts to our contractors. They add a lot of products, and we've got to give them a contractor bundle specifically for them, that they can get some relief because they pay for a lot of different solutions. And they're small businesses in many cases. These aren't necessarily these massive conglomerates of organizations. These are folks that are out there swinging the hammer themselves. It makes it really hard to spend all this money. How can we bundle these things together and create some kind of discount structure for them? And we built a discount structure for our contractor customers. It's one of the things we did last year specifically only for contractors. Nobody else gets that benefit, but our contractor customers do. And we want to continue to lean into that. So we're very specifically focused on developing. We've got a number of different user forums and groups that we've built where we are interacting with our restoration contractors to make sure that we're building the right things, whether that's an exactimate, whether that's in an exact analysis or Xasp or that's in more of our contractor focused products like contents track or for our contents contractors or in restoration manager.
+
+[01:07:52.450] - David
+And for our restoration contractors, we're really trying to expand our reach into the contractor community to make sure that we're building what's right by them and make sure that we are focused on what they need as an organization. So I mentioned all that, and I know that was a lot, but I think that there's been a perception that Barris hasn't really paid a lot of attention. And I can tell you right now we absolutely are.
+
+[01:08:14.140] - Brandon
+I think what's cool about some of the things that you touched on is, and again, this is my opinion. Right. It's not nothing set in concrete, but I feel in general, groups like Verisk at large, I think Ria has taken some really strong shifts and pivots in terms of how they're leaning in to unify the voice. I think there's a ton of steam and momentum behind them. I do feel, in general, there's a real opportunity for all of us to begin coming to the table and shedding a little bit of what was. And I know that's hard for a lot of us to do when you've spent multiple years kind of banging your head against certain obstacles or feeling like the kind of communication that comes out of some of the firms associated with our industry has been one way for a long period of time. But I think it's interesting. It's like with ourselves, right? They say every seven years, we become a different person. I think in general, those different people every seven years are the leaders of these organizations. And the only way that we're going to get some lasting change is we've got to give freedom for people to have changed.
+
+[01:09:18.470] - Brandon
+Whether that's, and I know it's not like you guys were doing anything negative per se, but just like that, like, your organization is making shifts, you're maturing in certain perspectives, you're changing some of the initiatives, which means we've got to come to those conversations with a different set of expectations. We can't be locked in on what was. And Raa, I think, is doing a really good job of that now, too. Where, man, their advocacy board and some of the things that they're doing on our behalf is becoming a real powerful influencer. And so I want to show up to those relationships with some grace and say, okay, yes, there was a past, but we're talking about right now. What are we doing right now? And how can I be responsible for the way I'm receiving this audience? Because if I just show up expecting more of what was, I'm going to get exactly that, right. Like, there's not going to be much room. But anyways, dude, it's been actually a lot of fun. Super approachable guy, man. I think sometimes we lose context that all these leaders in these organizations are human beings just like us.
+
+[01:10:17.260] - Brandon
+And so it's fun just to hear you nerd out with us, share some of these common points of interest, for sure.
+
+[01:10:24.140] - Chris
+And then maybe next time we'll riff on Tesla episode, because I know that'll resonate with some of our audience. So maybe that's podcast number two with David.
+
+[01:10:35.200] - David
+There you it. I love it.
+
+[01:10:37.240] - Brandon
+Well, thanks again, amigo. We really appreciate your time. And I think in general, we were able to just touch some base on some things that either we've been operating from a place of fear or just straight up we don't know. And I think this starts to give us some traction on how to posture and frame our mind around this stuff. So thanks again, man. We appreciate you.
+
+[01:10:54.550] - David
+Absolutely. Thank you for having me on. You guys. Really appreciate it.
+
+[01:10:57.240] - Brandon
+All right, brother, see you. All right, everybody. Hey, thanks for joining us for another episode of head, heart, and boots.
+
+[01:11:04.680] - Chris
+And if you're enjoying the show but you love this episode, please hit follow. Formerly known as subscribe, write us a review, or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

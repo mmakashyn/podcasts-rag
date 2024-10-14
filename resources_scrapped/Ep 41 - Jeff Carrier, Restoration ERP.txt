@@ -1,0 +1,281 @@
+﻿[00:00:00.310] - Brandon
+Christopher.
+
+[00:00:02.030] - Chris
+Yes, sir.
+
+[00:00:02.880] - Brandon
+Christopher Nordike. All right, dude, this episode is a little bit weird, guys. Not weird in a bad way. It's weird because we're actually recorded this section with Jeff Carrier of Restorationerp.com. It was actually part and will be part of the commercial sales master course coming out in May, depending on when this episode drops. So you'll hear kind of an interesting transition because eventually he moves into a product demo. That being said, this is not a product pitch episode.
+
+[00:00:35.010] - Chris
+Not at all.
+
+[00:00:35.640] - Brandon
+We really just kind of dive into a better understanding of emergency response planning, how that kind of connects with the sales process, and how we can leverage that tool. And it happens to be that Jeff Carrier's background is really well suited to speak to that. And he has developed he and his team have developed a platform that for independents and companies that don't have some kind of digital ERP supporting system. It's just Brad just hands down is great.
+
+[00:01:06.030] - Chris
+Yeah. I would just say Jeff is a really smart sales guy. He's just decided to create to build platforms for salespeople rather than being out there producing himself. I mean, he's a really smart business developer, and that comes out in this episode. It's really good stuff. This is something for you as an owner. This is for you. This is also something for you as an owner or GM to share with your downline. Because I think one of the things we say all the time is everybody's in sales. If you're going to develop a really thriving, rich commercial sales environment, your company, everybody needs to understand the playbook. And so, Jeff, we get into some tactical stuff. We talk strategy, all the things. And ERP are a big everyone's wanting to understand them more. How do you sell these ERPs and MSA and all these acronyms? We get into it. So enjoy.
+
+[00:01:57.120] - Brandon
+Hold on. See you.
+
+[00:02:05.430] - Chris
+Welcome back to the Head, Heart and Boots podcast. I'm Chris.
+
+[00:02:08.890] - Brandon
+And I'm Brandon, join us as we wrestle with what it takes to transform ourselves and the businesses we leave.
+
+[00:02:16.170] - Chris
+What you think?
+
+[00:02:17.290] - Brandon
+It's kind of serious.
+
+[00:02:19.230] - Chris
+Should we laugh?
+
+[00:02:25.210] - Brandon
+Jeff, thanks for joining us. I know you're a busy man. You guys have been in full development mode and lots of things on the horizon. So thanks for taking the time to hang out with us. We've really been looking forward to spending a little time with you and wrapping our heads around commercial sales and obviously the tool that you've brought to Market Restoration erp.com. So thanks again, ma'am.
+
+[00:02:45.670] - Jeff
+Yes. No, I appreciate you guys having me on.
+
+[00:02:48.000] - Brandon
+Kind of one of the zones that we like to start normally is just giving people an opportunity to learn a little bit more about why in the heck do we have this guy on our show in the first place. And one of the things that Chris and I have experienced in our exchanges with you is there's a lot of rich selling experience that you're bringing. And obviously that's part of what led you to developing the platform that you have. But I just kind of want to start there, like, give us the four or five bullet version of where did you come up in regards to your relationship to our industry, and then obviously, what diverted you towards the starting of the restoration?
+
+[00:03:25.290] - Jeff
+Erp.com, yeah, just to kind of start all the way back, I suppose. I got my start up in the northeast doing sales and, like that boiler room type of sale that you see in the movies where people are pounding the phones like 100 phone calls a day, and they've got scripts and got processes and all that straight out of College. And I think that's where I learned a lot of my foundation that looking back at it was not fun, exciting during the process. But then afterwards, when you're in more of a management role or you get tasks with other things, you draw from those experiences being up the northeast being such an aggressive sales role type of company. And so a lot of my background is kind of rooted in that. And so when I got into the rotation industry, I was essentially tasked with increasing commercial sales and building out a sales and marketing team. And through almost a decade of doing that in the restoration industry, I eventually moved on and towards where the restoration company and I started a digital marketing agency, and we helped out different restoration companies with digital marketing.
+
+[00:04:38.300] - Jeff
+One of the things I quickly found out and speaking with these owners, is that it was all great that we're providing some online visibility, we're providing some leaves, which was, generally speaking, 100% residential, but of course, water and commercials like one a, one B in terms of what people want, how can I get more water? How can I get more commercial no matter how many times I kind of mentioned in reference? Well, this is what we did. This is how we did it. You guys might want to look into this process, which is setting up disaster fairness plans, Prelog agreements, whatever you want to call them. There's a lot of names in the industry for them, but I just kept on getting the same question asked and asked over and over again. So really, I came to the conclusion that something kind of has to be built and put in with a system in place to help these primarily independent and local contractors to compete with the much larger guys when it comes to going to acquire commercial facilities, pre loss agreements, and essentially increasing their commercial sales. So I draw a lot on in terms of the implementation process.
+
+[00:05:40.740] - Jeff
+That sales experience all the way back from when I was up in new England and to getting fortunate in working with the developer to kind of put what I had in terms of what I saw working with facility managers and risk management, what was important to them, what was important from the independent restoration contractors perspective when it came to price and presentation and branding and put that together inside of frustration.
+
+[00:06:02.860] - Brandon
+Erp, it's an interesting collection of perspective. And I know Chris will want to hammer on this some more, but right out of the gate, the thing that stands out to me is this start, right, the boiler room start where you had very heavy process and scripting. And one of the things that Chris and I kind of wrestle with all the time is that there's almost a complete lack of anything like that when it comes to selling professionally in our industry. I know that the boiler room sale can be a little, let's call it Gray for lack of a better description. But that process, like you saw, people come into an environment with little or no experience, and the next thing you know, it they are grinding the kind of sales that a lot of companies would love to be receiving in their door. So I don't know, tell us more about that. Where do you see that process, procedure driven selling, and how you've kind of carried that into what you're doing now?
+
+[00:07:00.510] - Jeff
+A lot of times when I have these conversations with either business people, salespeople owners, combination of all of them, the part that will trip them up kind of to your point in this industry is they love the idea they want to go and do it, and then they have roadblocks in terms of, okay, how do I get in front of these people and how do I measure this? And measuring in sales and reservation industries and generally difficult, especially when you're targeting insurance agents and other people that can't just purchase from you. Right. Because obviously they're waiting for a disaster. And so it's a very different sales process from that perspective in terms of waiting for a sale. And so because of my background, I found it best in terms of how can I at least try and forecast success? What are the actual quality contacts that are going to lead to a measurable results? That's one of the nice things I think about in commercial sales is that there are some measurable things, like if you get a facility that tells you they're going to give you all their work and they're a million square feet, pretty much you can guarantee that you're going to have something going wrong within the year.
+
+[00:08:10.060] - Jeff
+So I think that's one of the attractive things with commercial sales. But the part of all leading up to that part of getting that agreement is where people have a little bit of trouble and usually the owners aren't necessarily they don't have the background, let's just say boiler room processes. So they hire someone they hope they can go out and execute, but they haven't been given the guidance. And so I do think that there's a need in the industry for helping provide that.
+
+[00:08:38.850] - Chris
+Boy, there's so many different directions we could go because commercial sales is such a new topic, relatively speaking, in the industry. One of my first exposures to emergency response plans was right as I got into the industry, I was coming from being a state farm agent or from the insurance side. And when I first got in and came into the company that Brandon and I were building, we had a part time marketer. And so I spent three, four weeks just riding along with her, getting a feel for the kind of conversations and stuff we were having with agents, so to speak, and then over time, getting out and pursuing some commercial relationships in the area. What I found is I started talking with a lot of different commercial customer segments, some of the local private schools, hospitality, senior living, et cetera. I started to encounter quite a number of them that had a so called emergency response plan that one of the big brands had developed for them. And then from that experience, I started asking around. And sure enough, a lot of these larger franchise brands have a requirement that their branches are putting so many of these ERPs in place every month.
+
+[00:09:48.390] - Chris
+Long story short, what I discovered is I actually asked a few of these people, hey, can we look at it? We pulled the binder down off the shelf and it was only about 20% completed. It was not a complete plan, but it was in this fancy looking binder on their shelf. And I asked them, have you ever done anything with this? No. Here's my question. I found often people had a real tepid response to my overtures around emergency pre planning, emergency response, because they'd already, quote, done it with somebody else. And I wonder if you encountered that in your market and how you went about creating kind of a renewed interest in re establishing the value after somebody has already given their time over to some kind of extended conversation with somebody and they ended up with something that was really not all that value added or functional. Have you had that similar experience?
+
+[00:10:39.790] - Jeff
+Yeah, well, you bring up a couple of different things in there. One is some of the facilities are especially now and more recently getting a lot more aware of this. So we're seeing that at Restoration Europe, where back when I first started, I'd have to say, at least in my market, it was relatively a blank campus. It was relatively new. This is over pushing ten plus years ago, and it was relatively new. So the big objection there was making sure it was important to them and then putting in the correct amount of time or dedicating time and seeing the value in it. But your analysis in terms of the binder on the shelf is spot on. And I think that's almost to kind of this day. And what we're trying to help change is that in the past it was a very static sales program. Let's get our foot in the door. Let's do I think it was a little new, like when we had a blank canvas. It was different to walk through the facility, gather the floor plans, put it in a binder, and it was different enough where it worked, probably even before then, too.
+
+[00:11:48.520] - Jeff
+Now what we're seeing is we're getting companies come to us saying they have a high rise that wants to put a plan in place and they want to know how to do it. They've got certain industries that consist of living that are requiring for them to have a plan in place. And so now what we're seeing is not only are the commercial facilities being a lot more aware and Proactive, now we are seeing some restoration companies saying, well, we know other people are offering this in our market. How do we go in and then sell essentially what they have and differentiate ourselves with a plan? Because if everyone showed up with a binder that's 20% full or they're collecting the same amount of info, then it's going to be a lot more difficult, again to differentiate themselves. And when we first launched Restoration Europe, July 1 of Hurricane season 2020, right, Middle Covet, one of our plans right from the Gecko was we wanted to make sure that this was an actual program and tool that almost the facilities and they can, in theory, purchase themselves. And we want people to stop only thinking about, hey, we're just going to collect some info and it's going to be static.
+
+[00:12:59.020] - Jeff
+This is actually a program. And I think it's kind of unique in a way that it's something that the facilities could actually purchase themselves. So there's a lot of value in there. And some of them probably have a program that could be similar vendor management, document management, getting notifications on items, stuff like that, accessing 3D scans and onboarding practices. These are all things that definitely defend yourself as you're in the market. And now you need to distinguish yourself from one plan to the next.
+
+[00:13:31.100] - Brandon
+Yeah, I think that's an interesting concept. There is that we saw this, we've done some obviously some interaction with the back end of the program with you as well. And it definitely was a tool that I kind of came to the perspective of, wow, this is actually the client. The prospect could have this, own this, use this, and it has a lot of value to it. It's not a document storage Center, I guess. I think the reason we even bring that up is that I think that part of the struggle that we had when we were doing ERP plans is one what do we do with the information? Where does it go? Where it becomes viable and accessible by our teams in some kind of way that actually adds value to the way that they respond. But more importantly, it was like, how do you make that connection with the client by the ERP's valuable and with a tool or resource where it's like it can actually facilitate their own internal needs as well? Well, then all of a sudden that sell is more like you need this and you know it, right. Like we're just giving you access, if you will, to the tool that we put this into place.
+
+[00:14:36.970] - Jeff
+I think it's such a different approach because you can even start with what are you using currently for XYZ and XYZ? How do you onboard your employees? That's such a different start to the conversation. And really these facilities, if it's approached this way from the rest of the industry, which I think more and more is going like we're trying to lead the way in terms of going towards that in the sales process and them being a partner, like a true disaster fairness partner, not just we're going to come in and we're going to provide a little bit of value priority response back in the day was like the ultimate thing. That was part of the plan, right? Well, now it's changing and we see it changing with platforms like Frustration, ERP and other facility platforms. And now we're talking about onboarding. We hope that our ERP members are providing services like lost scenario, run throughs and budgetary things, maybe even bringing someone in who's a disaster preparedness expert once every twelve to 24 months. I think the idea can start really snowballing once they start thinking bigger than just this is a priority response plan, and that's the only reward that the facility gets.
+
+[00:15:53.110] - Brandon
+Yeah, that's a big deal. I think one of the things that I was kind of pondering when you said that was what is changing in terms of the salesperson that has the capacity, I guess, to take a tool like an ERP planning system, whether it's your guys'platform or something similar, I'm not even sure there's anything else. But what does it take to use that tool and deploy it as a peer partner, like you said, that's obviously language Chris uses quite a bit versus what we've seen. Right. Versus what that stereotypical sales role has looked like?
+
+[00:16:30.610] - Jeff
+I think that's a great question and definitely another one of the challenges, I think, in the industry, when you're a hiring manager or an owner, like when you're looking to hire someone, what is it their target market is going to be going after, and what are their strengths and weaknesses? Because all of that plays a role. And that's why you probably really want to work with someone who is good at identifying those things and people providing those types of background personality tests, because one person who does great at selling to the insurance market could very well and most likely is going to be completely different and you want someone from the commercial market. And that's just how it is. There's different types of personalities you should be going after. And you have different type of facility and property manager. And risk manager is a different type of person and personality that you need to be interacting with at the insurance level. And there's a lot of good courses on those out there, not just restoration specific, but just, like sales identifying that would be really beneficial for a lot of restoration companies to go through.
+
+[00:17:35.160] - Jeff
+And I've gone through them myself. And when you go through them, you quickly start seeing, okay, I'm really good at selling to these types of people, engineers, facilities, or these other types of people that are more fun, outgoing. Like, there's just a different personality that caters to your trains, weaknesses.
+
+[00:17:53.480] - Brandon
+Here's the first thought I was thinking, okay, what is that difference? Like, you've been in the boiler room, right?
+
+[00:18:00.580] - Chris
+Yeah. Give us the archetype.
+
+[00:18:01.840] - Brandon
+Yeah.
+
+[00:18:02.140] - Chris
+Who is it?
+
+[00:18:03.120] - Jeff
+Well, for example, in the commercial world, you need someone who is definitely more process driven, a little bit more. That cuts straight to the chase. They can be a little bit more aggressive with the decision maker. They need to be more upfront with the decision maker. And more to the point, if you're going into a meeting with a risk manager who's short on time and you're a long winded storyteller, those two things don't match up.
+
+[00:18:33.770] - Chris
+Wow. So agree.
+
+[00:18:35.240] - Jeff
+And so it's those types of small things that you don't think about until you really go through one of these types of courses or get it on paper. They have the four quadrants of what type of person someone is. I've had these in the past, and now you're making me think I need to refresh my memory on this. And then where does your potential customer fall? Which Quadrant is to be following? And then how should you be selling to them? What are the quick bullet points on? Are the decision maker? Well, then this is how you should be selling to them. Are they more of a personality type driven person, outgoing, like a salesperson? You sell to another salesperson, which is a lot of, like what? Insurance agents are completely different than a risk manager in this example. So you can be more friendship related storytelling to an insurance agent than, say, a risk manager.
+
+[00:19:26.470] - Chris
+All right, let's take a minute to recognize and thank our MIT Resto Mastery sponsor, Accelerate Restoration Software. And I'm fully aware, by the way, that when I say those last two words, restoration software, that that instantly creates heartburn for some of you out there. Right? Because we probably all fall into one of two camps when it comes to software. We've either cobbled together kind of a version of free website tools and spreadsheets just to make our business work, or we're in the camp where we've adopted one of these existing restoration platforms, one that has all the bells and whistles and supposedly does it all. But we can't get our team to consistently adopt it and input information to it. Yeah.
+
+[00:20:11.630] - Brandon
+And that's really where Accelerate has honed their focus. They've created a system that's simple, right? It's intuitive and it focuses on the most mission critical information, I. E. Guys, your team will actually use it.
+
+[00:20:26.280] - Chris
+Let's talk about sales. Right? After years of leading sales and marketing teams, the biggest trick is getting them to consistently update notes about their interactions with referral, partners and clients. And the essential piece there is there's got to be a mobile app experience. And in our experience, the solutions that were previously out there were just too cumbersome and tricky to use.
+
+[00:20:49.730] - Brandon
+Yes. Imagine, guys, how your business would change if your entire team was actually consistently using the system.
+
+[00:20:57.380] - Chris
+Do yourself a favor.
+
+[00:20:58.680] - Brandon
+Go check these guys out at Excel Restoration Software.com, Forward slash MRM, and check out the special offers they're providing to MRM listeners.
+
+[00:21:09.550] - Chris
+All right, let's talk about Actionable Insights owners. Gms you can't be your business expert on all things estimated you might have been three years ago when you're writing sheep in the field, but the industry is always changing and so are the tools. If you're the smartest person in the room when it comes to Xaction Matterport, how does that scale you're the bottleneck. I know I'm preaching to the choir, but this is where actual Insights comes in. They're a technical partner that can equip your team with the latest bleeding edge information and best practices and then update them with webinars and training resources when the game inevitably changes again. For this reason, we recommend actual Insights to all of our clients.
+
+[00:21:49.780] - Brandon
+Yeah, three of the kind of big things that stuck out to me when being introduced to AI and their team. First off is this consistently updated training. I mean, at the end of the day, these guys are the experts. They're out front all the time. They're constantly learning new trade secrets and ensuring that your team's got access to those things. A 3700 plus page database of exact same templates. I don't know what else to say here other than don't reinvent the wheel. It's already available. Download it, copy it, use it. Bam database of commonly missed items. I think this is huge. So many of us can change the numbers by just moving the needle a couple of points and those commonly missed items can make all the difference in the world. So go check them out at Value Gitinsights.org FCG.
+
+[00:22:42.010] - Chris
+Boy, that totally matches my experience. Recently I've been thinking in terms of, like, today's B to B salesperson in our industry or frankly, in others. It almost feels like a journalism degree. Somebody who's learned how to ask curious questions and really tease out the important information. Like, I was just on a coaching call with one of our clients and I'm like, look, the whole objective of our meetings and commercial sales is just to understand the truth. Just to understand the truth of this prospect. Situation, what's their past experience been with the restoration industry? What are their preferences in terms of how they deal with damage events? How does it affect their normal day to day operations when they have a damage event occur? Like, how does that change their role and affect their team? It's almost like we're learning how to interview people. And it's funny because I've met a number of really successful salespeople and some of them have journalism background. I'm like, oh, it makes sense.
+
+[00:23:42.610] - Jeff
+Open ended questions are like the number one thing you want to have and be prepared for. And of course, according to the person. And you've got a good point too in terms of the question. But for another couple of examples, compared to the insurance agent and risk manager, if you're talking to a facility manager, your focus is going to be probably a lot more driven on their pain points and problem solving. They have an issue to your point. What is it they're going through and how are we going to solve them with this plan? What is in the plan that's going to help them solve it? Where in the past, you never talk about onboarding, you never talk about accessing 3D scans or your vendor management when they're out on vacation, how to security contacted by person for each utility, stuff like that. Then if you're talking to an engineer or a finance person, which oftentimes, sometimes finance gets brought into this decision process is they're very numbers focused. So you need to change your focus on your direction of how you're talking with someone depending on how they fit into these quadrants. And engineers and finance love numbers.
+
+[00:24:49.910] - Jeff
+So if you can provide numbers to them, like obviously downtime, but efficiency and having access to this and maybe not going over on document day, that expires, stuff like that, you can speak their language to them. That's how you're going to resonate more.
+
+[00:25:07.370] - Chris
+Can we talk about the onboarding piece? Because actually I have two sort of parallel stories in my head about that. When you first said onboarding and leveraging the ERP processor platform, I was thinking about it as a functional tool for the client in onboarding, say in an engineering or facilities environment or maintenance environment, that they can actually use this platform as a tool for onboarding new employees into that role, which is a really interesting concept. But then I also heard you saying what I thought was utilizing the tool as an onboarding mechanism for new commercial clients.
+
+[00:25:45.140] - Jeff
+Is it really both the first one for sure, right. And that's where we're trying to flip the script on its head in terms of walking into a facility and what's the value proposition of the plan? It's not just a priority response anymore. What are your needs in the property management world and multifamily world? Their turnover is crazy high. So how do they educate and reeducate and re educate all their maintenance, tax and engineers and property managers on the property. What if it was all laid out and all they had to do is log in and they can see exactly where everything is located? And then new commercial clients, they have their own turnover. So even if it's an existing client, but they have new like your new contact, they have a new property director. How do you retain that customer? Do you have a 20% filled out binder that was filled out two years ago? That's not going to retain them too well. But if you show up and say, hey, we had a plan in place with Chris already. We've got all your properties laid out. I just want to show you how to access it and keep it up to date.
+
+[00:26:46.650] - Jeff
+Then you can onboardrecame them as well.
+
+[00:26:50.550] - Brandon
+That's a really interesting perspective. I think that that's something that a lot of us maybe get stumped by or stumble with is that turnover. And one of the things that we've told a lot of people and obviously that we do some teaching on is the value of commercial in a lot of these roles, they do move, they move from different ownership groups, different companies. Right. Like, there's this natural cycle of them staying in the industry. So there's this positive of them taking you to the next company, which is great. But I think sometimes we do have this experience where it almost feels like the attrition associated with that same person moving, though, doesn't always feel like the gas tank is getting more full, right? It's just like we're kind of hovering in that same space. So using a tool like this as the lead of that half the conversation versus this panic, I need to get this person out to lunch so I don't lose them. But it's more like, hey, I'm showing up for you on your behalf because this is something you have access to and you may not be aware of it.
+
+[00:27:51.600] - Brandon
+I love that approach. How do you set that up? We try to keep some of this as tactical as possible because a lot of our folks listening are like, what the hell am I going to do with this information tomorrow? What does that reach out sound like? If you were in the salesperson, you just had one of your lead contacts moved to a different portfolio ownership group, and you want to keep your claws in this first one. How do you set the stage for that?
+
+[00:28:14.220] - Jeff
+I think you just show up, you'd have to introduce yourself as the XYZ person that does their fire and water loss over the last X amount of years. I understand that you're new. I'm here to just schedule a time with you to show you what we already have in place. We already have an agreement. Part of that agreement is that you actually get access to if you're using Restoration or Peak, you already have access to an online platform that's got all of your property data that you may or may not be aware of. I just want to show you it can access it, how you can update it, how you can onboard new employees, maybe touch on some other points that was already an issue with the prior person, and then you can have a few benefits. When we had this with Brandon in the past, he was able to keep all of his vendors updated and a couple of other bullet points have that ready. And hopefully at that point you've been doing work. You can easily get this to sit down and walk through presentation with them. Then you execute that, and then you make sure that they know that they can onboard their own people.
+
+[00:29:19.110] - Jeff
+If you need to come back out to update any information, I'd be happy to do that. So something along those lines, a couple of touch points there, and then somewhere, especially in the commercial world, you always want to make sure you have a good understanding of how often they want you reaching out. And it's going to be different. How long relationship. But is it once a quarter, once every six months? Is it once a year? Because when you have someone in an agreement, it really doesn't have to be a whole lot. That's one of the other benefits is they have an agreement. If they haven't used you all year, then you might want to start checking in on them. But in theory, they should have some kind of calls or inquiries, mold or water, and then you do your and that's called servicing the account. Right. That's a relatively easy side of things. And that's where you just want to make sure that you kind of fall in line with whatever they expect.
+
+[00:30:11.480] - Chris
+So let's talk about the onboarding of new clients. So I'm a restoration company. We take advantage of the restoration ERP platform. We deploy it, I think one of the elephants in the room, so to speak, for restores that are listening to this. And we come across this in our own clients as we're teaching them how to deploy ERPs and master service agreements and so forth. There's this feeling of overwhelm when they start to look at the interface and they're like, oh, my gosh, it's going to take if we on board, say, a property management company that has 15 properties in our service area, this is going to take forever to gather all this information and deploy this. The response that we've always had is, hey, look, it doesn't have to be immediate. We can sort of look at it as a project. Over the next three months or six months, we're going to be in a process of onboarding all of your properties and getting all of that data input into the platform. And so that's kind of the doable way that we've sort of laid that out for folks. But do you have any tips on that?
+
+[00:31:15.830] - Chris
+Of how do you see some of your users deploying this with multi site groups where there can be a fair amount of a lift getting that information set up?
+
+[00:31:28.090] - Jeff
+I mean, I think you're definitely right. You're not going to go into this and say, hey, you got 15 properties. We're going to get all this knocked out in four weeks. I do find that usually it's pretty appropriate in terms of why this company has 100 properties. But usually that means that's a large account for you, right? So whatever it is, it seems to be appropriate for how much time you do want to be spending on them, because if they have 100 properties, they could probably start giving you work within 30 days. So there's that to consider from the reservation perspective, that should scale quite appropriately. The other part is you do want to make sure you start with the priority buildings that they have probably preexisting conditions. Your client can guide you on that. But you spoke to a lot in terms of we don't want to overwhelm, not just a restoration contractor, like if the restoration partner was gunhoe and they're ready to go. And you have to remember that the clients probably thinking the same thing. So when you're in there doing your presentation, we got to remember who we're speaking to and then speak their language again.
+
+[00:32:30.340] - Jeff
+If it's the engineer, if it's the risk manager, risk manager probably not going to care on how much time it takes to walk through the buildings because they're not the ones doing it. That's probably going to be the engineer and facility manager. And the engineer is going to have different questions. So we want to make sure that we don't overwhelm them at the same time. And what I've found is we really want to cater towards what it is that they actually care about in this process. Do they have a different tool that does vendor management or not? And this goes back to your journalistic, maybe questions have these open ended questions and figure out what fits for them, at least to start off. So that way we can get that contract, we get that square feet under agreement, because a lot of people it's going to vary. It's going to be where if you have a guy who's been controlling the business or the properties for like 30 years, he's walking through the thing a million times. If you're showing him more work, he's going to be a little worried. You make it feel like a lot easier for him, then he's going to be more apt to possibly sign on and obviously agree that this is a good thing.
+
+[00:33:33.590] - Jeff
+Some people are going to be very type A and want everything put in like nuts and bolts and everything. Right? So that's where you just really kind of have to listen to the client and let them kind of lead you in terms of what they actually need.
+
+[00:33:51.400] - Brandon
+One of the things that we did often was we would prioritize locations that let's say had server centers or that had maybe remote power or a power backup was located at a certain facility, or maybe it's an HQ element or a hub of some sort via communications or whatever other infrastructure. Again, I like the idea of letting the client lead that through our open ended questions and getting those kinds of priorities and answers that we're looking for. But I'd say in addition to that, there is this kind of study, study your client. And if it's not a prospect, maybe talk to a friend, relative or an acquaintance that's in a similar industry or has a similar role and ask them preemptively prior to showing up to pitch to a prospect just so you can even have some language to use. Right. I'm thinking that same example that you gave Jeff, like the idea that we could say, like, hey, the first thing that comes to my mind that we'd need to prioritize first is any facilities that are housing your data backup or whatever. How's that sound to you? There's just that element of, okay, this person is connected right now.
+
+[00:35:02.520] - Jeff
+How to put this in place? Absolutely, man. That's a great point. In terms of a little bit I was going back to it's not only about priority response anymore, like educate yourself. Like, I would go to the length of having my salesperson. If I find that I got the right person, I would put them through some kind of disaster preparedness course, online certification, just put them through a one day, two day. I don't know. We do this all the time where we put them through commercial drying specials course. I've got like recertification through and I didn't do any technician work. But it's knowledgeable do the same thing. If you got someone selling this, put them through one of those one or two day business continuity program. Another really good idea, though, in terms of onboarding and rolling out multiple facilities. One really good idea now that we have online and to get adoption, because again, this is as much as their platform that they could easily purchase that you're just having providing for free is help them on board one location and have their other building managers who are responsible for that one, building upload their own individual data.
+
+[00:36:07.840] - Jeff
+They could have 20 buildings done in one week if each of their building managers could appropriately do that.
+
+[00:36:14.330] - Brandon
+That's an interesting perspective.
+
+[00:36:15.870] - Chris
+That's a great idea. Yeah. I think we inherently as salespeople, we just say yes to all of it.
+
+[00:36:24.550] - Brandon
+Yes.
+
+[00:36:24.900] - Chris
+But wait, there's more. We're going to do all this for you, right. We just want to be that person. And yet I think we don't realize that a lot of times these companies expect, like internally when they adopt a new piece of software, they incorporate new process in their business. They're accustomed to putting some effort out and doing it themselves. That's interesting.
+
+[00:36:47.890] - Brandon
+Have you kind of experienced, too, that it's like the adoption is different, like the ownership, if you will, of that integration probably totally is different than if they're just kind of sitting around being a victim of how fast or what little or what lot I do. Right. As the salesperson?
+
+[00:37:02.930] - Jeff
+Yes. I have a little bit of a different perspective because I didn't have restoration ERP. Right. So I didn't have this ability, but I did see a lot of adoption differences. I mean, one of our clients who is kind of regional, had all of their property managers get all of their data collected for us on a drive. And when we went out to do the walk through with them, she better have had the drive. Otherwise, the regional was super upset and we would do the walk through and then you have others again, just going back to having them lead the way where they were content with or they say they get you the data and it takes them a little while. Sometimes those could be smaller organizations. So the adoption is different depending on the type of person. And maybe if they had a recent need or issue, maybe they had a related disaster that wasn't too long ago and it went really bad. And you have good timing and the timing has worked and they really need to get a plan in place or insurance is asking for it. There's a lot of dynamics that can definitely change how that applies.
+
+[00:38:09.200] - Jeff
+And a lot of it, too, will depend on who you're talking to, what type of person they are, if they have their things squared away. A lot of people just manage properties differently. Good property managers, bad property managers. Property managers are really good. Had their budget in order. They're good to work with. They see the value in it. They're going to provide you the data. They're going to be more adopted to it.
+
+[00:38:28.120] - Brandon
+There's almost a sense of filtering your prospect based on their level of engagement with the concept a little bit.
+
+[00:38:35.690] - Jeff
+At the end of the day, it's 100,000 square foot office space, and there's a lot of issues or hotel you want it. It's just when you go from one to the next and you're selling from two different kind of completely different people in terms of how they are in terms of managing your property, you can distinct to two different styles and you can have the same exact sales cadence. Right. Like we talked about before and obviously have different results. So that's why it's important to have that type of sales process and cadence, because if you're fly by night and you change it up or you think that it worked on one person for the one reason versus another, and then you get upset. Sometimes it's not all about you. If you have a consistent approach, sometimes it's about the client same time.
+
+[00:39:19.010] - Brandon
+Yeah, I think the consistency of the approach is what gives us the ability to actually iterate and make positive change. Otherwise, just changing so many variables at the same time, you don't know which ones were the ones that had a positive or negative impact, right?
+
+[00:39:31.200] - Chris
+Yeah.
+
+[00:39:31.650] - Jeff
+Consistency, support.
+
+[00:39:32.730] - Chris
+So one of the things that grabbed me and this is just kind of more of a detail, but you guys have a mobile app presence as well.
+
+[00:39:39.290] - Brandon
+Can you talk a little bit about that?
+
+[00:39:40.340] - Chris
+Because I found that fairly unique from some of the other types of products I've seen out there.
+
+[00:39:45.030] - Jeff
+Yeah. So when we first launched and there was probably like a couple of initial goals where I want to make sure that this is something that the facility would actually want to use or could literally purchase themselves. And two was I wanted to make sure it's portable. And three coming from the registration industry. And I think this is like one of those things like, unless you're in the industry doing it, you might not distinguish to put this at the forefront, but we really wanted to make this look and feel like the restoration company that was going out there and presenting it. They're actually not going out there presenting our stationarp, and it's attached to their website. And they can get their own custom branded app. We have our own as an example, but we have clients that have their own app in the App store, Apple. And I've seen some of them in the past where it's a third party app and it's like a pretty generic call emergency call button of sorts. This is a full blown disaster preparedness solution that again, these facilities, like what the reservation companies are giving away with something like ours, could be worth thousands of dollars a month to some of these facilities a month.
+
+[00:40:59.850] - Jeff
+And so we're trying to wrap their head around that how crazy that is and what they're just giving away because some of these facility management programs are pretty pricey. And so, yeah, they can access a branded app from the restoration company similar to what certificate has and access their property and update it. And they could set up different user roles. So of course, if you get lower level technicians, they cannot edit and alter the data. And then if you need to have different rules for onboarding new employees, we have different roles for that. If you have certain people that should be only seeing one buildings data versus others, you can filter and hide people through that. So there's a lot of things that we've learned as we've launched that there's different needs out there, different types of clients that our ERP members have.
+
+[00:41:50.550] - Brandon
+So I know some of the folks listening, they're probably hearing a lot about a product. And so I just want to be really Proactive in saying why specifically we're highlighting this and how it relates to our listeners and why we think it's important and really what it is is that Chris and I are really adamant about teaching folks that we've got to stop approaching our prospecting from this place of we need your business and really turning the corner towards what are the values that our team can bring to this individual that are important to them. And one of the things that stuck out to us when we saw your platform was there is a way for us in a very viable, concrete, measurable way to produce a value or bring a value to the client for the sake of the client. And then for us we get to reap the benefits of a really positive by product. And that by product is a client that's loyal to us, a client that sees that we're actually providing a tool of value. And then there's all sorts of opportunities then for us to gain trust and increase our loyalty with that relationship.
+
+[00:42:56.780] - Brandon
+So for those of you listening, I just want to be really upfront about that. We're not a product pitching podcast, that's not what we do. We see a lot of value in Jeff's product at Restoration ERP specifically because it gives you a viable tool that you do not need to spend money on to develop, that you can go out tomorrow and create a real viable value added solution for your client. And I think there's an opportunity to remove a lot of the intimidation from adopting ERP, selling and MSA type arrangements with clients if you've got a backbone or a tool that you can just learn how to deploy versus coming up with methodologies and systems and processes yourself. So that's important to me. We're very diligent about protecting our show and our listeners. And so I just want to be Proactive and say that I think in the past and we touched on this a little bit earlier.
+
+[00:43:49.840] - Chris
+Like ERPs were essentially a marketing tool. Like it was a formalized excuse to sit down with customers and establish some time and grade with them. It's kind of the excuse for us to do a property walk and build some affinity and rapport. It was really a marketing tool. And I think what Brandon and I were excited about as we looked at it and part of the reason for that is because it was so static, it was so analog. Right. It's like we put together this folder, this binder, this PDF that we email, whatever the case is, and it just sits there. It's not a living document or really a platform that can be updated and utilized. And I think we just see the potential of integrating this more into the relationship. Right. This gives us a basis that's value added for the customer for us to check in and update our phone tree that's inside the ERP document to if there's been a major renovation or a Pip completed on a hotel that we go in and we do another scan or we update the details. Maybe there was a new elevator shaft installed and a new wing of the property we need to document.
+
+[00:44:54.590] - Chris
+That gives us another reason, intentional, value added reason to engage with our customer in a way that's actually helpful to them versus it just being another marketing touch, which I think is what a lot of the ERP activity has been in the past. It was kind of the cool, shiny object that we could talk about.
+
+[00:45:12.830] - Jeff
+It hasn't really been updated in forever, right? To me, it seems like it's kind of maybe getting a little revolutionized just kind of recently. We still have lots of people that we run into. They're trying to solve this and they're solving it by going through Google Drive, right. Like that's their new process too. But they're realizing themselves they need to get less static. And I appreciate you guys having me on here and talking so much about restoration ERP, but we've hit on a lot of really good points in terms of what type of person you need to actually execute this type of sales process, making sure you have a good, accurate sales process and sales cadence in place. None of these things like restoration piece aren't going to help you sell the ERP program or your MSA by yourself. You need to have these other things in place. So it's important for everyone who's listening to not lose sight on that. And that's what you guys have done such a great job of identifying is all the other pieces that we've included in our sales and support training center and so forth. What you guys are building in terms of the tool is nice.
+
+[00:46:16.700] - Jeff
+Our goal was to elevate people who already had a plan in place, because a lot of people do. They've got a program that works pretty good. One of the other challenges, when you have an older version, when I used to run static kind of binder strategy, was you're definitely capped on top of quality of building. I mean, when you get to a big regional, high end facilities, they might already have a plan in place. Like we talked about earlier, how do we differentiate their plan to what you're going to be offering? And we see clients now that walk into a Hilton, that walk into an assistant. So it's got ten locations around them. They have 155 page PDF document of their plan. This is a true story, like 155 page document of their plan, big assisted living facility, several locations. And that's their plan. Well, now they get to walk and say, well, let's dice that up. Let's put it per building. How can you find out which vendor which shut off it is and sifting through 155 pages of PDF? It's impossible. So the goal is to also get into those next stages of level of types of facilities by going online, by partnering with them, speaking to them about these other things that we've discussed today.
+
+[00:47:31.840] - Jeff
+How else we can help them with the true value added approach? It was good when it first started and it still works a little bit to this day. But just walking in and just kind of setting up a walkthrough and prior response definitely doesn't have the same cache.
+
+[00:47:46.600] - Brandon
+Yeah, for certain. Okay. So for those of you listening, we're actually about to switch directions. So this is actually a slot that we're going to be adding to the commercial sales training curriculum that's getting launched later this month. And so Jeff is going to be doing a product walkthrough for us. We're going to transition to that. We're going to say goodbye to our listeners and then obviously if you guys end up using the sales training or participating in that, you'll have an opportunity to see a detailed walkthrough of restoration ERP with Jeff in the meantime or if you're not going to be buying that module, where do we send folks so that they can get a grip on your guys'product and what you guys are doing as a team?
+
+[00:48:26.560] - Jeff
+Yeah. If anyone's interested in learning a little bit more just head to restoration erp.com. We're one of the few staff products that even has pricing on our website and you can sign up for a demo for whenever you want. If they're not checking out in your module already, they can send us an email through that. Anything like that.
+
+[00:48:44.120] - Brandon
+Right on. All right, my man. Well, thanks for joining us for this portion and we'll see you on the other side.
+
+[00:48:48.990] - Jeff
+All right. Thanks, guys.
+
+[00:48:52.150] - Brandon
+All right, everybody. Heath, thanks for joining us for another episode of Head, Heart and Booth.
+
+[00:48:56.650] - Chris
+And if you're enjoying the show but you love this episode, please hit follow only known to subscribe. Write us a review or share this episode with a friend. Share it on LinkedIn. Share it via text. Whatever. It all helps. Thanks for listening.

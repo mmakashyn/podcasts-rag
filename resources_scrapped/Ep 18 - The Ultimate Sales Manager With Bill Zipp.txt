@@ -1,0 +1,777 @@
+﻿[00:00:02.800] - Chris
+Welcome back to another episode of the MRM podcast. I'm Chris,
+
+[00:00:06.330] - Brandon
+and I'm Brandon. Join us as we discuss business life and legacy.
+
+[00:00:11.370] - Chris
+It's business time.
+
+[00:00:13.080] - Brandon
+How are you doing, brother?
+
+[00:00:14.740] - Chris
+Good man.
+
+[00:00:15.480] - Brandon
+You've got a guest for us today?
+
+[00:00:17.470] - Chris
+Yeah, I am excited about this guest today.
+
+[00:00:19.720] - Chris
+So I first met this guest maybe 15 years ago ish... I was buying some radio advertising for one of the businesses that I've owned and and I met Bill through that because one of his sales reps when he was a sales manager, helped me with my account. That was kind of the first time I interacted with Bill and then later hired him as a coach in my state farm business. And he helped me with employee development, certain kinds of leadership training and stuff like that. Well, fast forward, 15 years later, Bill has grown a massive international sales consulting business.
+
+[00:00:52.970] - Chris
+I mean big Fortune 500 companies work with Bill. This is Bill. he's not part of a big consulting firm. Like Bill has developed this portfolio of clients and has just been very, very successful teaching companies how to sell and how to effectively manage sales people. So as we were putting together our podcast guest list, I'm like, man, I think this is so appropriate for our industry right now, and we're going to dive deep into all the reasons why. But let me tell you a little bit about Bill.
+
+[00:01:22.720] - Chris
+Bill Zipp. He's got such a cool last name.
+
+[00:01:24.990] - Brandon
+I know I love his last name.
+
+[00:01:25.680] - Chris
+How would you like to be born with the last name Zipp... right.
+
+[00:01:28.650] - Brandon
+rockin.
+
+[00:01:29.100] - Chris
+I actually did ask him. Okay, Is that your real name? You have parents with the last name Zipp, or is this like a fad, like a brand? a brand you built Bill. But anyway, Bill is the President of Leadership Link. He helps heads of sales achieve double digit growth through a proven people first approach. That's kind of his tag line. clients that Bill's worked with, I mean, it runs the gambit. Have you heard of 3M?  one of the largest industrial manufacturers and product developers in the world. Cisco SAP Concur, SAP Concur. Oh, yeah. So all you people from BELFOR  that just love documenting your expenses...in Concur.
+
+[00:02:07.980] - Chris
+Well, Bill probably helped teach the person who sold that account BELFOR. So you can thank Bill. ADP one of the largest payroll processes companies in the world. He's also had deep experience teaching sales in the senior living space, and that comes up a little bit in our podcast. He's also the author of THE ULTIMATE SALES MANAGER PLAYBOOK
+
+[00:02:29.340] - Chris
+and that was another thing that kind of brought Bill top of mind. When he was writing that book he sent me an early kind of review copy.
+
+[00:02:36.640] - Chris
+And with my... I've been in sales for the last 20-25 years, and there were so many best practices, actionable Nuggets like stuff that even having been in sales and leading sales teams for as long as I have, I found it really powerful. And it reminded me of some practices that maybe at one point I was disciplined in, but I kind of sluffed off with, and it certainly gave me some ideas of things that we can use with our own clients. So I highly recommend that book and good news.
+
+[00:03:08.560] - Chris
+Bill is giving away three copies of his book, and we thought it'd be kind of fun to tie in a little not a contest, but we'll challenge.
+
+[00:03:17.680] - Brandon
+Yeah.
+
+[00:03:18.320] - Chris
+So we have a question for you here and it's something to keep in the back of your mind as you're listening to the podcast, what are the Four Truths of a sale? Did I get that right?
+
+[00:03:27.880] - Brandon
+Yeah.
+
+[00:03:28.860] - Chris
+There's four components that make up a sale, a sales process, and so listen for those. And what we want you to do is just email
+[email protected]
+
+[00:03:43.240] - Chris
+That's my personal email address. Email me the answer to the Four truths of a sale, and the first three people to respond with the right answer. We're gonna drop ship them a book.
+
+[00:03:54.300] - Brandon
+Get a free book.
+
+[00:03:55.400] - Chris
+That's kind of fun.
+
+[00:03:56.180] - Brandon
+And this is a legit book, I mean, you're gonna hear from the show this man, he brings it. There's so much information like listen to this first run on the drive, but be prepared to circle back around with a notepad. This one's legit.
+
+[00:04:13.780] - Chris
+And it's the kind of thing, too. If you have a larger restoration company, you have, say, a sales manager or what you're calling a marketing manager. This is potentially one of those episodes to share around your organization, your leadership team, because there are probably some behaviors, some principles that maybe at one point you are acting out of. But this is a good chance if you're like any of the other organizations that we've seen have been a part of that... Maybe we've slept off on some of these things.
+
+[00:04:43.050] - Chris
+It's just so good for the beginner restorer that's  trying to build a sales channel in their business to the more advanced ones that have full teams of sales people. There is a lot to learn in this episode.
+
+[00:04:58.430] - Brandon
+That's awesome. Let's get into it.
+
+[00:05:00.760] - Chris
+Well, welcome to the MRM  podcast, mr. Bill Zipp.
+
+[00:05:04.760] - Bill
+Hey. Good to be with you guys. I've been looking forward to this is going to be a blast.
+
+[00:05:08.880] - Chris
+I've been looking forward to this, too. And Brandon and I've been talking back and forth about this. I mean, sales is one of those things that obviously every single service business needs. But it's amazing to me how few service companies have a real bonafide sales process. I think sometimes we can stumble into a measure of success. In fact, I've had clients that I've worked with very successful. They can reach millions of dollars in sales without any kind of real formal sales organization in place. They're just leading out of pure hustle and charisma.
+
+[00:05:41.180] - Chris
+And so there are those unicorns out there. But our industry, I think often really struggles when it comes to sales. We tend to call it marketing. I'm sure you encounter that a lot being a sales guy.
+
+[00:05:52.310] - Bill
+Yeah. Because people want to run from sales, but let's call it what it is and let's do it honestly.
+
+[00:05:57.380] - Chris
+That's exactly right. Yeah.
+
+[00:05:59.160] - Brandon
+Yeah.
+
+[00:05:59.400] - Chris
+We're afraid to... A lot of people are nervous about what the sales title implies, because I think many of us have this impression of the pushy used car salesman kind of thing. Right. Or now, we have the experience of the pushy spammer LinkedIn proffesional.
+
+[00:06:19.170] - Bill
+Right,right, right exactly
+
+[00:06:21.380] - Chris
+Sending us these four page sales pitches, cold.
+
+[00:06:24.620] - Bill
+Right.
+
+[00:06:25.230] - Chris
+And so I talked to you a little bit about this beforehand where we wanted to go with this episode. I think right now we're literally on the cusp as a disaster restoration industry of having to figure out a new approach to business development, because for the last  30 or so years kind of this coming of age period for disaster restoration, insurance claims and so forth. We've gotten into the habit of doing what I call candy and smiles, and we've couched it as marketing...
+
+[00:06:57.130] - Bill
+sure
+
+[00:06:57.430] - Chris
+because we're basically going into insurance agent offices, property management offices, et cetera, and filling candy jars and handing out swag and smiling and being friendly.
+
+[00:07:06.060] - Chris
+And that for a while actually worked really well because we were building a relationship with the people that were most likely to refer us. A person calls their homeowners agent when they have a broken pipe from their house, and it works because they would say, oh, yeah. Well, you need to call ServPro or you need to call XYZ Restoration. They're great. You know, they'll really take care of you. Well, now what the industry's experienced is that there's all these third party organizations that are now centralizing claims for companies, claims are being directed to an 800 number.
+
+[00:07:39.820] - Chris
+There's a lot of pressure on insurance agents as far as sales targets and cross selling. The service component oftentimes takes kind of a back seat because of such a high pressure to produce in order to meet their compensation goals and so forth. And so where we used to have this kind of army of referral partners out there, it's not as reliable as the system anymore. So our whole industry is having to rethink and really learn now how to sell, how to go out, turn over rocks, Hunt... Find the business like woo people, but take people through a process, close them.
+
+[00:08:17.580] - Chris
+What is it like to close a new customer in the restoration business? And so I picked up your book, The Ultimate Sales Managers Playbook. And when you were first, in fact, you sent me a copy. I didn't pick it up. You were nice enough to send me an early pre released copy, and I started digging into this and I thought, oh my gosh. I've been in some sort of sales management, really, for the last almost 20 years in some capacity. And I realized just how much of the fundamentals I'd either let slide or that I just really never had a great grip on.
+
+[00:08:51.260] - Chris
+And as I was going through the chapters and I'm going through these kind of steps or attributes of sales management outlining your chapters, I'm like, Gosh, this is basically our industry needs a primer or a primmer on sales management, because a lot of the owners and general managers in our business have never had to be sales manager, you know.
+
+[00:09:10.920] - Bill
+But you're exactly right. The kind of owners I bumped into are one or two things, either you have the owner that came up on the operation side of the business. And sales is an absolute mystery to them that you rub a magic wand and it happens. And we, of course, know that doesn't happen. Conversely, you have the owner that sells really intuitively and really instinctually and can't scale it. Can't duplicate it. It would be like asking Steph Curry, how do you shoot a three point shot? And He goes, "Well, I just shot a three point." Right.
+
+[00:09:45.250] - Bill
+And so when you do something intuitively and instinctively, you can't duplicate it, you can't scale it. And so the people I work with, the entrepreneurs I work with fall in either one of those camps, and both need the kind of help of learning how to manage salespeople, manage a sales process and build their business in a scalable, reliable sense rather than the magic wand of sales.
+
+[00:10:10.700] - Chris
+Well, you know, it's so hard hitting about what you just said is you just described. I think it's fair to say, Brandon and I on the two different types of senior leaders, right, Brandon?
+
+[00:10:23.640] - Bill
+Yeah.
+
+[00:10:24.000] - Chris
+Military leadership, background, construction, very like lots of deep operational experience. And me, I am that instinctual, charismatic sales figure that you could ask me how I sell, and I've got a lot of answers for it, but it's all based on survivor bias. It's like me trying to describe what I did or how I did it. And I've struggled with that.
+
+[00:10:46.140] - Chris
+I've struggled
+
+[00:10:47.550] - Bill
+well, you just sell. Yeah. Yeah. My first sales management job was over all these salespeople, and I'd been the most successful sales person on the team,so of course, I got the job. And then, like, why can't people just sell it? And  just shoot the three point shot, and it really was a wake up call to learn how to get an executable  process that has certain milestones along the way that could be managed that could be compensated too that could be coached too that could be hired too.
+
+[00:11:18.440] - Bill
+And that's kind of the backbone of the book with a whole lot of other things to it.
+
+[00:11:23.980] - Chris
+Yeah, so let's just step into this conversation then about... And we're speaking to an audience of...From what feedback we've gotten a lot of general managers a lot of mitigation managers, a lot of people that are leading teams for the first time, and they've never even had to think about a sales person. Maybe they have a salesperson right now, but they're not actively managing them. Maybe at most right now, they have a sales person that they're seeing in the hallway a couple times week. "Hey, how are things going?" "Oh,Things are going great.
+
+[00:11:53.310] - Chris
+I just got a job from this one customer," and that's kind of the extent of their sales management. Can you start to kind of unpack a framework?
+
+[00:12:02.940] - Bill
+I will. I'm gonna do it in two ways. I'll go into a little bit of history because you brought up how this industry is seeing a real change in the way they do sales where you can't go in with the swag and the smiles. But that's how I was trained to sell 20 years ago, and relational selling was the thing. You go in and with the swag and the smiles and you do talk to them, and then you'd mentioned the picture on the wall and you do all this stuff.
+
+[00:12:31.500] - Bill
+I was trained, this is what I was trained. The more they talk to you, the more they'll buy from you. That is not true anymore. It just simply isn't true, and there are three reasons why it's not true. First, no one has time to talk to you anymore. No one has time to talk it's 20 years ago. Yeah, a manager would say " yeah, yeah,  let's talk . sit down."  An hour later you're still talking about the fishing trip in Idaho or something. It doesn't happen anymore. Managers are crazy busy, and if you spend five minutes there, they want you out of the office.
+
+[00:13:08.160] - Bill
+So people are crazy busy. So the whole relational approach to sales is not gonna work because they're crazy busy. The second reason why it doesn't work is because of budget demands. And you're seeing this right? Outsourcing of claims and the intense budget constraints and just the good old boy friendship or the good old girl friendship...."yeah, go with Mary go with Bob." It doesn't work because everyone's price conscious, everyone's talking about money and have budgets and they're under constraint for budgets and they're being pressured. The third reason is in the average business to business buy, there are four to six decision makers. Four to six decision makers in the average business to business buy.
+
+[00:13:56.250] - Bill
+That means you have to schoomze five people for every sale. How are you gonna do that? You just can't do that. And half those people you don't know who they are or you don't have access to to schmooze anyway. Consensus buying has become the norm now, even in the non business to business buy where a consumer purchase. Two or three people are weighing in on that decision. I mentioned to you I have deep experience in the senior living market. Well, you know what? Two to three people, maybe four to five people are even weighing in on that decision.
+
+[00:14:29.640] - Bill
+There's not enough schmooze in the world to go around. So relational selling is dead. You can't just talk people and have them buy from you. Not that you shouldn't be relational... You, of course, need to build, report and have respect and have a relationship with the whole idea of just keep them talking and they'll spend done,gone, over, dead.
+
+[00:14:51.480] - Brandon
+I'm like, well, that's gonna...
+
+[00:14:53.260] - Chris
+I know, I just want to let that hang there for a minute.
+
+[00:14:56.790] - Bill
+Yeah.
+
+[00:14:57.180] - Chris
+You are 100% true to my experience. 100%, right?
+
+[00:15:01.410] - Bill
+Yeah. So what you need now, like you said, is a framework, and this is something I help companies do create a framework. What I call the four truths of the deal, the four truths of a deal... And the four truths of the deal  quite simply is this: who, why, when and how. Who, why, when and how. And first is the who, who is your buyer? And again, who are the four to six people weighing in on a deal and what are their priorities? What do they want?
+
+[00:15:35.630] - Bill
+Who are they and who are your resistors? Who are your challengers? Who do not want to buy from you? Because you need to know who's going to put their hand up and put your hat on and be your champion and who's going to say absolutely no way, never from them and challenge it. And so really managing the buying matrix is understanding who is the decision maker, who's the check writer? Who's the challenger? Who's the champion? And understanding this relational network in your companies. And it requires a sale person that is not just a backslapper and a gladhander but a salesperson who's emotionally intelligent and relationally savvy and is really able to build positive, productive, professional relationships in target companies.
+
+[00:16:28.820] - Brandon
+There was a lot that just happened. Yeah, there's a lot there. And I kind of want to camp out on this profile before you move on to other aspects of this because I think what we see the most often is people are not hiring the correct profile because we don't understand what our job is in terms of conducting sales. So dive into that a little bit. Talk about the profile for who can be successful now.
+
+[00:16:57.400] - Bill
+Yeah. Well, let me tell you the bad news and then let me tell you the good news. The bad news is out of the general population. Only about 10% of the general population have the DNA for any kind of sales. So that's the bad news. The war for sales talent is real. And some of what I do is I help my clients find top sales talent and it's tough. It's hard. And I'm a professional consultant. Alright. So if you're just throwing an ad on Craigslist, forget it.
+
+[00:17:27.000] - Bill
+It's not going to happen. Or even indeed. So it's hard because it's such a small set of the population. The good news is is the classic polyester suit used car sales person, that's not what we're looking for. We're looking for someone with a relational acumen.Now  I'll get into it later because the why is the same thing. They need to have business acumen be able to uncover pressing business challenges and monetize them. And so being able to read a balance sheet, being able to read a profit and loss statement and know how to impact that with the investment in your products and services as business acumen.
+
+[00:18:05.720] - Bill
+And there's relational Acument. So we're not looking at the backslapper. Yeah, someone that can build a relationship, but someone who in a respectful, trustful, credible way, connects with you, understands your business needs and is able to monetize the investment in your services in a way that makes sense.
+
+[00:18:25.150] - Brandon
+Dude, that's huge for anybody listening right now...
+
+[00:18:27.620] - Brandon
+This is a notebook session, and there should have been a whole lot of notes that just went down on paper. And of course, we're going to talk about how people get their hands on your book, of course.
+
+[00:18:37.130] - Bill
+oh sure.
+
+[00:18:38.200] - Brandon
+But this is huge. I mean, just that in and of itself, there's a lot of gold that was just mind. So anyway...
+
+[00:18:43.210] - Chris
+One of the things that we talk a lot about with all our clients relative to the sales approach is humility and curiosity. Curiosity..... So I had some corporate sales training earlier in my career with Sentos Uniform and Laundry Company. Their sales system was called requirements based selling, and it was kind of my first introduction to pain solution selling, essentially going through their prior service invoices finding discrepancies and other service failures and getting an agreement that solving those problems was important to them. But what we found in our industry, what's difficult, I think for some sales people to understand, especially those coming from the smiles in Candy legacy, right?
+
+[00:19:28.760] - Chris
+Is no longer good enough to just hang your banner and wave your flag about. We're awesome. Because of all our features and benefits, we got a fleet. We have a more sophisticated app for tracking your claim, whatever the features and benefits are. Instead, where we found the most traction is by approaching with this humility and seeking pain. Hey, Mr. And Mrs. Property manager, facility manager, COO VPO. Tell me about your experience with our industry. Tell me about the experience you had with our industry. You've had damage events at your different properties.
+
+[00:20:04.830] - Chris
+How is that gone? Oh, you worked with this company. Well, what about their people or their process did you like and what parts did you not like? What's your experience been with our industry, and then speaking to those pain points.
+
+[00:20:16.940] - Bill
+Yeah.
+
+[00:20:17.990] - Chris
+And that's a very different approach, right. Than what most of the industry has...
+
+[00:20:23.950] - Bill
+But it's successful, though. See, that's what's succeeding today. And I'm seeing it. So I work around the world in consulting with sales companies large and small. That's what's succeeding today. The chess bumping bravado people turn off, they don't want it, they don't like it. And you may get one by, but you won't get two three four five and six. And the sales people that are really succeeding today become the trusted advisors of the company companies they serve. And that's what's working. And that empathy and humility that you spoke about.
+
+[00:20:59.880] - Bill
+Yes. That's what gets the conversation started. And then how can I help you grow your business? How can I meet pressing business needs in a way that makes the investment make sense. That's what's working today from the perspective of worldwide sales and consulting.
+
+[00:21:21.960] - Chris
+Yeah.
+
+[00:21:22.590] - Brandon
+love it.
+
+[00:21:23.790] - Chris
+yeah, I find it interesting. I'm sure you see this on your end too. you work with technology companies and service companies and in all kinds of different categories. The trend I'm seeing is that the sales people I know personally, in all these different industries, there's a much more professional quality to sales people that I'm encountering now. And in many ways, many, many of them have College degrees, degrees in, like, professional degrees in finance or engineering. You're seeing a lot. I've seen more and more engineers coming to the space of sales, and I think it's because the skill set is different.
+
+[00:21:57.800] - Chris
+It use to just be a charisma game.
+
+[00:21:59.690] - Bill
+Yes exactly.
+
+[00:22:00.570] - Chris
+It use to just be are you good at golf?
+
+[00:22:02.760] - Bill
+Exactly.
+
+[00:22:03.490] - Chris
+Do you like to drink? Do you know how to talk and make friends?
+
+[00:22:06.550] - Bill
+Right.
+
+[00:22:07.300] - Chris
+And I think people are tired. Like you said earlier, they don't have time for those kind of business relationships anymore.
+
+[00:22:14.500] - Bill
+And frankly, I don't want those kind of business relationships.
+
+[00:22:18.710] - Chris
+I don't either
+
+[00:22:19.900] - Bill
+I just I don't want to hang out with a bunch of guys that get drunk after work, they'll get fired and they'll tarish my brand and my reputation. So I actually steered away from that stuff over a decade ago with my consulting practice. And I'm really glad I did. But let me come back to it. This. Still, though, there are some core sales characteristics that are still really important. You still have to build rapport.
+
+[00:22:45.860] - Bill
+You still have to be able to connect with people in a genuine, authentic way. But you still have to build  rapport. You still have to have a competitive drive, not the kind that we see on Mad Men or that type of thing that destroys everyone. But you still want to win. You still want to be on top of the leader board. You still want to make a president's club. I mean, so there are still some core features. Maybe they've matured over the years, but they're still there.
+
+[00:23:17.670] - Bill
+And that's what makes that DNA finding that DNA super important.
+
+[00:23:22.370] - Brandon
+It's huge. It also makes sense why it's 10%, not exactly a larger number.
+
+[00:23:29.050] - Bill
+Right. Exactly. They're driven, they're competitive in a good way, not in a destructive way. And then they still have that ability to connect with others. And so. But you're right, Chris. I'm seeing more and more sophisticated, more professional salespeople rather than scoundrels.
+
+[00:23:48.490] - Brandon
+Yeah. Well, and I think that there's a piece there associated with the number expectation, too. And I don't want to keep us off that framework. We got to get back there. But I think it's important there's this mindset switch that has to happen with business owners that were...In order to get the 10% to get these sophisticated sales professionals not talking small pay rates. And so how do we figure that into our financial planning?
+
+[00:24:15.910] - Bill
+Yeah, that's really good. I just actually cut a video, I haven't released it yet, but I cut a video on sales compensation. It's not well understood. I'll give you the short handed version of it.  you basically want half of your sales compensation guarantee and half of it in bonuses and commissions? If you're out of that matrix, you'll simply pay people not to sell. You want to give them enough base so that can make the house payment, make the car payment, put food on the table without freaking out and worrying.
+
+[00:24:48.260] - Bill
+But you also want to have enough bonus, Commission and bonus so that they get paid when you get paid. And that's fair. They got skin in the game. So right now you see professional sales people earning around $125,000 $150,000 $200,00 but only half of its guaranteed on target earnings. Big chunk of it is legitimate bonuses and commissions based on sales. Again, we're back to that 10%, not very many people want to gamble half of their livelihood on Commission bonuses and commissions. But there are people out there that wouldn't have it any other way.
+
+[00:25:29.330] - Brandon
+Well. And doesn't it kind of speak to that character grouping that you were talking about? It's like they're not afraid to bet on themselves.
+
+[00:25:36.280] - Bill
+Right.
+
+[00:25:36.970] - Brandon
+And that's when you know you got a winner.
+
+[00:25:38.930] - Bill
+Exactly right. Exactly right. Now, conversely, these people at times are hard to live with. All right. So I'm gonna say, Conversely, these people at times can be difficult. a Good salesperson is going to make you feel uncomfortable at times, and they're get all fired up and everything, but they won't go rogue on you. So just understand your salesperson probably is not going to be your best friend in your company probably shouldn't be. Go get a dog, if you need a friend. A good salesperson should push you should be driven and also know when to say, all right, you're the boss, and I'll follow you.
+
+[00:26:23.000] - Bill
+And mature professional sales people also know when to drop it and move on.
+
+[00:26:29.040] - Brandon
+I like it. My gut says people are hearing a different version rather than what's in their head. There's no doubt in my mind what people are hearing right now is not what they've been thinking. So let's get back to that framework, right. Okay.
+
+[00:26:43.660] - Bill
+Yeah. So "who" once you understand your "who" in that buyer matrix, a handful of people, not just the one person, then you need to know why. You need to know what are the pressing business problems you're solving? What is the pain and what is the gain? In that order, adults and humans, on the whole, make decision to relieve themselves of pain and then to achieve gain. And so we need to know what the internal drivers of change are that are causing pain and how we're going to solve them.
+
+[00:27:13.180] - Bill
+And then how that longterm gain will result as a benefit. You need both and creating the business case for investing in your products and services monetized by losses kept and gains gained. And that requires business acting.
+
+[00:27:33.320] - Chris
+Understanding how all the dots connect. One of the things I think is contributed to my success in sales is curiosity and being curious about your customer's business and how it works.
+
+[00:27:46.440] - Bill
+Yes.
+
+[00:27:47.990] - Chris
+Matching their language, like learning to match the terminology that they use in their business for certain things. I found to be really key as well.
+
+[00:27:56.890] - Bill
+Absolutely. But I I think what you have, Chris, is informed curiosity, not just random curiosity. Your curiosity is informed by asking about certain things, and that's where vertical industry knowledge, whether it be senior living or the other verticals that your industry serves. You have this informed curiosity, and that leads you to ask the kind of questions that unlock pressing business problems.
+
+[00:28:26.020] - Brandon
+Yeah. Yeah.
+
+[00:28:28.120] - Bill
+And then the next two in the framework is "when" and "how" and what I mean by "when" is creating a sequence of events. Most buyers don't buy from an industry every day. They don't buy software every day. They don't buy disaster restoration services every day, almost by definition, you don't like to disaster rate, you know. So if we have a problem, or we live in New Orleans.
+
+[00:28:55.290] - Chris
+Exactly.
+
+[00:28:57.520] - Bill
+You don't buy it every day. So you don't know the sequence of events. This should happen, this should happen, this should happen, this should happen.
+
+[00:29:05.350] - Bill
+And so it's really important that we lay out the sequence of events from start to finish. So there are no surprises. And this is what you should expect here and expect here and expect here not every natty little detail, but simply the sequence of events that they should expect from. This is what you're investing in, and this is what you're getting it from the implementation of the software or an intervention after an event.
+
+[00:29:32.640] - Chris
+I hear you describing leading the customer through the process leading the sale.
+
+[00:29:39.830] - Bill
+Yeah. Because they don't buy from you everyday. Most of them they just never done this before or I do it rarely, maybe once a year. So it's really important for them to know the sequence of events and what date is going into it which.
+
+[00:29:58.500] - Chris
+It's funny. I used to be really intimidated earlier in my career, and even now, I find myself intimidated when I meet with the CEO or a COO or somebody in a big  highfaulutin position, right. But what's really interesting to me is every time I find myself at that table with those people, what I discover 90% of the time is they are much less confident about that buying process and what their criteria is and how they're purchasing that service or evaluating it that I would have thought. Like, they're really dependent on me helping to navigate the process. And I think that's a big mistake that salespeople make is they're waiting for the other person to tell them how the process they're going to...
+
+[00:30:40.100] - Chris
+They want the process to go, and even sophisticated business people, they are necessarily sophisticated at buying things .
+
+[00:30:49.400] - Bill
+Well, because they know their industry, their stuff, like in senior living. They know senior living, but they don't know XYZ. And it's where we need to pivot from informed curiosity to becoming that trusted advisor and guiding them down the path. But I think you hit a point. Those of us that sell for a living, we tend to have this imposter syndrome. And so we get into those situations. We overcompensate by talking and talking and talking rather than saying here's, step one, here's, step two, here's, step three, here's, step four and making it really, really clear.
+
+[00:31:26.430] - Bill
+And again, professional sales people not with arrogance, but they come in with a confidence and they're able to present the solution sequential steps to me.
+
+[00:31:37.360] - Brandon
+To me I'm Kind of like I'm just picturing some of the rooms that we've been in in the past. And when you've got this leader, that probably already feels the natural pressure of "got to have it all figured out" anyways. So then when someone comes in to sell them something and is not helping that process have a smooth transition of events, I can see how it's setting your buyer off. They start to probably retreat into this whole, "oh, gosh. Now I going to act like I know what's going on."
+
+[00:32:05.880] - Brandon
+Inevitably, they probably almost step in the way of their own purchase process, right? Yeah.
+
+[00:32:10.890] - Bill
+Because they're filling that void of leadership, and it's their natural thing to do. But they don't know what they don't know. And so in filling that void.  You know you're doing well when they're asking questions, real substantial questions, maybe even offensive questions to you kind of objections. Like, well, how the hell do you guys do that? It's like that's a good question.  you know that a CEO is not engaged when they're just nodding their head, you know what they're doing? They're waiting for wrap this meeting up and get on to the next meeting.
+
+[00:32:48.880] - Bill
+And so it's measured by the quality of questions. They're interrupting you and they're asking questions. And they're really involved again, as salespeople, we tend to want to shrink from objections. They're buying signals. They would not be bringing  it up. They would be nodding their head and wrapping things up to get on to the next meeting. If they weren't bringing up these uncomfortable questions, that allows you to prove the fact that you're a trusted adviser.
+
+[00:33:19.410] - Brandon
+Gosh, I love that. That's huge. That's a get comfortable being uncomfortable right there.
+
+[00:33:24.610] - Bill
+Yes. exactly right.
+
+[00:33:27.300] - Bill
+Exactly right. And here's what I have to do because I face this, I'm a one man show. I decided a few years ago I was going to do this as an independent consultant, so a lot of people will put how in the world can you do that with one person? Now my temptation is to react and to snap back and become defensive and tell everyone how smart I am. You can get what I'm saying?
+
+[00:33:52.180] - Brandon
+I'm glad I'm not alone, Bill. I'm glad I'm not alone.
+
+[00:33:55.140] - Bill
+That doesn't work. It's this? Oh, I'm glad you asked that question. That would be if I were you, I would be really concern about it. I can one guy know that? So let me explain to you what I do to stay sharp and how I think that brings an advantage to you. Not everyone wants to work with me, and that's fine. But this is what I bring, and I think this is an advantage to you because I'm beholden to no one. So just letting that, yeah... Being in that space and letting that discomfort happen and not reacting to it, not being defensive and in flushing it out, it's really counterintuitive, but it's when sales becomes rich and rewarding.
+
+[00:34:39.310] - Brandon
+I would say, too. I think for a lot of the companies, I guess that are represented in listening today, I think there's this piece then that we need to remember... We have to prepare our sales people for the industry. So if there's going to be an advisor, if it's not slaps on the backs and smiles and they're going to be an advisor, then we have a responsibility as leaders then to help introduce the technical aspects of what we do. They should be participating in production meetings. They should be spending time in the field with our technical staff, learning their job, seeing what they do.
+
+[00:35:14.370] - Brandon
+They don't have to be a certified specialist, but having a good grip so that they're comfortable enough, that when a question like that comes, they can say, "hey, here's what I understand about our process. Here's how we do it. And I have a ton of confidence in the team that will deliver when the call comes in."  Right.
+
+[00:35:32.310] - Bill
+Exactly right. Exactly right. Enough, but not too much. Right. They need to know enough about it, but we don't want to make them a technician, because then they'll go down the rabbit hole and your buyer doesn't need to know that much. But you're right, Brandon, they do really need to have a sense of professional confidence about the work that you're doing. And again, how we're going to meet pressing business needs with the investment that makes sense. And a certain amount of content is required on, I'm going to make an investment.
+
+[00:36:04.650] - Brandon
+Right. Okay, "how"
+
+[00:36:07.660] - Bill
+Yeah. So the secret sauce here on "how" is buying takes goes in steps. Rarely are you going to go on in one call and close the deal. I know it happens, but it's rare, and so there needs to be specific steps of action that the buyer takes along the way. And the reason why the buyer takes it is that the buyer needs to be engaged and you ask them to do meaningful steps along the way. That's the "how" that's the secret sauce. For example, for myself, I'll have a first call with someone, and if it goes really well, I'll ask them to complete an assessment.
+
+[00:36:47.280] - Bill
+I'll ask them to do something, and assessment cost me a little bit of money, but by asking them to do something, they start becoming engaged with me before they give me any money. And then the next meeting, I meet with them and we debrief the assessment. And then I may ask them to let's have one of your employees take this assessment or so forth. Find reasonable steps of action that the buyer can take, because closing a sale is...
+
+[00:37:18.650] - Bill
+The seller takes an action, the buyer takes an action, the seller takes an action, the buyer takes an action, the seller takes an action, the buyer takes an action... We close. Typically, the seller takes an action, the seller takes an action, the seller takes an action, would you like to buy my stuff? No. And so the "how" is every step along the way, maintaining some kind of engagement as defined by a reasonable step of action that the buyer takes along the path.
+
+[00:37:51.850] - Chris
+All right, let's take a minute to recognize and thank our MIT Resto Mastery sponsor, Accelerate Restoration Software. And I'm fully aware, by the way, that when I say those last two words, restoration software that that instantly creates heartburn for some of you out there, right. Because we probably all fall into one of two camps. When it comes to software, we've either cobbled together kind of a version of free website tools and spreadsheets just to make our business work, or we're in the camp where we've adopted one of these existing restoration platforms, one that has all the bells and whistles and supposedly does it all.
+
+[00:38:31.490] - Chris
+But we can't get our team to consistently adopted and input information to it.
+
+[00:38:37.430] - Brandon
+Yeah.
+
+[00:38:37.680] - Brandon
+And that's really where Accelerate has honed their focus. They've created a system that's simple, right? It's intuitive, and it focuses on the most mission critical information ie guys, your team will actually use it.
+
+[00:38:52.250] - Chris
+Let's talk about sales,right.
+
+[00:38:54.030] - Chris
+After years of leading sales and marketing teams, the biggest trick is getting them to consistently update notes about their interactions with referral partners and clients. And the essential piece there is there's got to be a mobile app experience. And in our experience, the solutions that were previously out there were just too cumbersome,  and tricky to use.
+
+[00:39:15.680] - Brandon
+Yeah. Imagine, guys, how your business would change if your entire team was actually consistently using the system. Do yourself a favor. Go check these guys out at Excelrestorationsoftware.Com/MRM. And check out the special offers they're providing to MRM listeners.
+
+[00:39:34.980] - Chris
+All right, let's talk about Actionable Insights... Owners, GMs you can't be your business's expert on all things estimating. You might have been three years ago when you're writing sheets in the field, but the industries always changing and so the tools. If you're the smartest person in the room when it comes to exactamat and Matterport, how does that scale? You're the bottleneck. I know I'm preaching to the choir.
+
+[00:39:58.110] - Chris
+But this is where actual Insights comes in.
+
+[00:40:00.350] - Chris
+They're a technical partner that can equips your team with the latest leading edge information and best practices and then update them with webinars and training resources when the game inevitably changes again. For this reason, we recommend actual insights to all of the clients.
+
+[00:40:15.620] - Brandon
+Yeah, three of the kind of big things that stuck out to me when being introduced to A.I. And their team. First off is this consistently updated training. I mean, at the end of the day, these guys are the experts. They're out front all the time. They're constantly learning new trade secrets and ensuring that your teams got access to those things. A 3700 plus page database of exactamate templates. I don't know what else to say here other than don't reinvent the wheel. It's already available. Download it, copy it, use it, bam.
+
+[00:40:46.490] - Brandon
+database of commonly missed items. I think this is huge. So many of us can change the numbers by just moving the needle a couple points and those commonly missed items can make all the difference in the world. So go check them out at value.Getinsights.Org/FCG.
+
+[00:41:09.270] - Brandon
+How many back and forth do you see? Is it a variable of the product or what are we seeing?
+
+[00:41:14.920] - Bill
+Yeah, it's a Variable of the product. So in senior living, it might be a tour, it might be a visit, it might be coming to a concert or an event. It might be having the family. Right. So a senior living buy maybe an 18 to 24 months buy, but if it's the tour and then you never hear from them again, you'll never hear from them again. So you hook them in with actions. Now, for me, my average buy takes three to six months. And so every month or so as moving down the process with a few actions, your by maybe 30 days,it may be a week, but you still need to ask buyers to do a reasonable step of action with you.
+
+[00:41:54.960] - Bill
+And if they don't do it, they're telling you something. They're not into you.
+
+[00:41:59.480] - Chris
+That's what we're describing, it sounds a lot like what sales people call a "trial close." You're taking the polls. Kind of like what you refer to earlier with with the questions, right? You know, a CEO or a buyer is engaged when they're asking tough questions. It's almost like a trial close. They're in it.
+
+[00:42:18.000] - Bill
+Yeah, it's a "trial close" on steroids because you're really asking them to do something. It tests the degree of their interest in you. It also will insulate you from the competition. I've had people say to my competitors, I'm working with Bill when no money has exchanged hands. We're just working through an assessment process... And they say, "oh no, I'm working with Bill Zipp."
+
+[00:42:44.740] - Bill
+So these actions not only engage buyers, and then I tell you how hot they are for lack of better word, but it also insulates you from the competition because they become engaged with you and close off others.
+
+[00:42:58.270] - Bill
+And so that's the "how" what are the reasonable, reasonable, meaningful steps of action? And what I tend to do is what can we front load that we would normally include in a service package? What's really something affordable? like, for me it's an assessment. Typically, we get started engagement and have you do an assessment. Well, assessments don't cost me that much because I'm buying them at cost. I'll front load it and provide it as an upfront assessment that leads to sales rather than.....
+
+[00:43:30.240] - Bill
+What is in your industry that is affordable enough to front load and give away?
+
+[00:43:35.830] - Brandon
+One of the things that we do. We won't get too into the nitty gritty just because it's very specific. But I think an example that might fall in line here, and I just want your feedback on it. One of the things that we work with a lot of companies on, and this is that we didn't come up with it, this is pretty industry standard. Is this idea of kind of an emergency response plan or a priority response plan. And obviously we've got a little bit of labor hours associated with delivering that and in collecting data.
+
+[00:44:01.960] - Brandon
+And then you might have some print or some costs to produce that piece of content. But it is an opportunity where we're getting the prospect, the buyer to engage with us. They're having to provide information, they're having to interact with us. Is that an example that falls in line with this?
+
+[00:44:18.660] - Bill
+it's exactly right. So instead of getting started working with them and saying, hey, let's put this emergency response plan in, let's frontload it. You get to know them, they get to know you, you build relationships, you get this indepth knowledge, you give it to them. Doesn't cost you a lot. And I've even seen people even maybe charge a little bit for it. On the whole, it doesn't cost you a lot. You give it to them, and that relationship is started out. And I refer to this is selling by serving, selling by serving.
+
+[00:44:47.490] - Bill
+Just start serving. Serving in.... Not giving away. I'm not talking about giving away from me free coaching. I'm not giving away six months of free coaching, I'm debriefing an assessment with you. Right? So it's selling by serving, and it feels good. It feels to me like it has some integrity. I'm gonna offer something to you. A true, honest,  gift, not some made up thing. Right? So a true, honest, helpful gift. And then if it makes sense for us to continue working together, let's do it.
+
+[00:45:19.320] - Brandon
+I like it. I love that.
+
+[00:45:20.610] - Chris
+Yeah, and in the process your building relationship like Brandon example with the priority response plan. It involves the customer scheduling time to do a step walk of their properties with the restoration company. And that time and grade. I think that's part of what you're talking about is you're establishing some time and grade with that person in the process. And I love how you said that. Where you have some clients are like, yeah, I'm already working with Bill where you haven't even sent them the first invoice.
+
+[00:45:49.690] - Bill
+It's actually right.
+
+[00:45:50.650] - Chris
+We've experienced that too.
+
+[00:45:52.210] - Chris
+Yeah, because when people invest their time with you, it's almost like it would be cognitive dissonance for them to do that if there wasn't some business objective to it.
+
+[00:46:03.990] - Bill
+Exactly right. This is the reframing of relational sales. It's not the smiles and swag and talk about the fish on the wall. It's actually being a trusted business advisor who is credible and is honestly helping their business. That's what a professional salesperson does.
+
+[00:46:23.610] - Chris
+That's so good, man. I want to take a turn because I know there's a lot of people listening that are... Talk about operational leaders, they just feel like a fish out of water. Now they're probably taking notes like Brandon, and they're like, okay, this is great. I know what I'm looking for now in a salesperson. I have a sense of what their activity is going to look like. Can you lead us through a framework of sales management now? and  let's pull from some of your book.
+
+[00:46:48.790] - Chris
+How should an operational leader think about their sales people? Because many of the people listen to this, by the way, they have maybe one sales person that are probably calling a marketer. They probably have one sales person on their team. Some may have two or three. And like we described, they probably have a very informal accountability process, goals, expectations, those kind of things. So walk us through. What does it like to develop a professional sales operation?
+
+[00:47:14.580] - Bill
+Well, you need a professional sales process. So we really need to start creating metrics and milestones for... Who? Why? When? and how?  alright. And so you need a professional sales process. It's not magic. We don't wave a magic wand and sales appear. It's a professional sales process with sequential steps with milestones along the way that trigger one to another. And so really, it's setting up the professional sales process. And then with milestones and metrics along the way, you're able to have objective conversations with your sales personnel about how many first appointments are scheduled, how many emergency response plans have been put in the door, how many proposals have been presented, and what percentage of those proposals have gone on to close and at what dollar amount. It's really thinking through milestones and metrics at every stage of the sales process and defining those objectively and managing to them objectively.
+
+[00:48:23.440] - Bill
+The greatest gift that you can give to a salesperson is clarity. And this is what clarity looks like in the beginning of our sales process in the middle of our sales process than at the end of that sales process and having positive, productive conversations with them all along the way.
+
+[00:48:44.970] - Chris
+Man, you start to unpack that a little bit? So I love that. Let's dive into what that accountability... Because when I think of accountability, I think of there's certain things that somebody's going to be routinely accountable for. And then there's a rhythm or a frequency of when am I going to be accountable for them?
+
+[00:49:08.340] - Bill
+Yeah.
+
+[00:49:08.940] - Chris
+Can you talk about that?
+
+[00:49:09.750] - Bill
+So I'm a big advocate of weekly cadence for sales. Sales is a weekly game, and you have weekly cadence. The best sales organizations in the world, the ones I work with, they have a weekly cadence. And about the only time when they get out of that weekly cadence is maybe end of quarter, end of year, when we're frantically trying to push to the number end of quarter end of year. But you have that weekly cadence of 30 to 45 minutes, and what's the agenda on the cadence? It's a sales process, right.
+
+[00:49:44.830] - Bill
+And above the pipeline, whether clients were building relationships with within the pipeline, and you just talk through that weekly cadence, and then you begin to build forecasts for a business that's out 36, 60, 90 days based on what's moving through the pipeline and really using the science of the sales process to manage the weekly one-on-ones. Or if you have more than one salesperson weekly team meetings where you work through this pipeline. And the pipeline and the projections for 30, 60 90 and really running your sales Department like a business person, not a magician.
+
+[00:50:24.400] - Brandon
+You know, one of the things I just heard you say, Bill, was this... It's not... I didn't hear you asking questions on "so how is it going with so?" And "so How's it looking with so and so retirement?" No, it's very measurable data. It's this many types of leading activities, and then here's the lagging indicator or the result of that previous weeks activities. Is that where you're...?
+
+[00:50:52.690] - Bill
+Yes of course...And we also may talk about, for instance, specific retirement services. And we may talk about all their properties in the Northwest, and we may strategize for it, but it's in a framework of a sequential process with metrics and milestones. And yeah, for example, Pacific Retirement Services is a big player in the Northwest in senior living. So, yeah, we may strategize with those accounts, but it's yeah, it's not... It's with deep insight and the business acumen. The business acumen, frankly, you're asking sales people to take with your customers and prospects you want to take with your sales person.
+
+[00:51:33.490] - Brandon
+I dig that.
+
+[00:51:34.350] - Brandon
+We kind of touched on this a couple of times and Chris keeps using the term a lot of our people in our industry call their "staff marketing teams."
+
+[00:51:42.080] - Bill
+Yeah.
+
+[00:51:43.120] - Brandon
+Please dive into that. Give us this Crystal clear difference between marketing and sales. What are we talking about?
+
+[00:51:51.050] - Bill
+So the purpose of marketing is lead generation. I think marketing has been oversold. I think it's been oversold with social media. It's been oversold with Google AdWords and all this stuff. Marketing generates qualified leads. Marketing, qualified leads and QL, that's the output of marketing. It will not sell a complex deal with multiple decision makers. It simply won't. And so marketing messaging is "y'all come," and it's fine, it's good, but that's marketing. Sales is a professional business man or woman, a trusted advisor that gets to know the business needs of specific clients and prospects and monetizes and meets those needs.
+
+[00:52:40.930] - Brandon
+Love that.
+
+[00:52:41.960] - Bill
+And the thing is, this is, there's nothing dirty about sales. And our senior living goes through this a little bit, right. So you go in and you meet with a marketing advisor, and it's not, no you're here to sell me a property. And the best one say it's sales, we're going to do the sales, but then our sales people are going to act with integrity. And I think that's the key. It's not what you call it. It's how you behave.
+
+[00:53:06.110] - Brandon
+There is so much of this reshaping of just little it's thoughts, perspectives that got lodged in our brains at some point in our history to merge those two because sales is too hard of a word or too harsh of a word right.
+
+[00:53:22.950] - Bill
+Yeah. And I think it's important to understand what marketing does for you. Marketing should get you qualified leads. But that's all it's gonna do for you. And the companies I work with, actually, at least half or two thirds are self generated leads by sales people anyway. All the marketing in the world can only get enough leads for about a third of the business. Really good salespeople are sourcing their own leads as well, through the relationship network that they're working. Marketing has been oversold and people pour a ton of money into it and they don't get anything out of it.
+
+[00:54:03.040] - Brandon
+Can you dive into that?
+
+[00:54:04.510] - Bill
+Said the Salesperson.
+
+[00:54:05.170] - Brandon
+Right? Well, yeah, that's tradecraft right there. So dive into that a little bit... The creating your own marketing or that lead development that's being generated by a sales person. What does that look like? Give me some examples.
+
+[00:54:20.800] - Bill
+Yeah. So it looks like asking for referrals from businesses. It looks like going into other departments of larger corporations. It looks like checking in with past contacts that maybe didn't close and reigniting those. It looks like going to LinkedIn and doing some research and seeing who knows people that you want to know and on asking for an introduction, it looks like some of the old school stuff, like when we get to go to an event or a conference, you know. It looks like some of that as well.
+
+[00:54:56.100] - Bill
+It's the heavy lifting, you know, I know you guys work out and I detest core work. Absolutely detest it, I hate it. But you got to do it to be strong. Prospecting is the same way you have to do...You got to make your calls, you got to send out your emails, you got to ask for your referrals, you got to keep good live prospecting. And that 10% DNA, they don't mind it, they're willing to do it, and for some of them, it's even fun. Bit of a game.
+
+[00:55:24.500] - Brandon
+Yeah. I think what's so perfect about this is that I think it is creating all sorts of clarity around who's doing what. Some of the questions that Chris and I are asking around this is because we just get all this language mixed up. The expectations that we place on our personnel is goofy. It's getting split up between multiple people, and really, what I'm hearing you say is... Our most powerful asset that we can spend money on is going to be a professional that knows how to build a pipeline with lead generation and then follows a key process to close a sale.
+
+[00:56:02.460] - Bill
+Yeah, exactly right, Brandon. Exactly right. And that's what I find is working so well today.
+
+[00:56:10.610] - Brandon
+I think it's cool. I think we feel pressure to try all these other things for a lot of reasons. I think the crunch on personnel and trying to find good team players is a real struggle, and I think people are fearful of it. I think any of us that are running businesses is if we think that really the most critical tool here is to have a person, the right person in that seat doing that job function. There's a lot of us, whether we're doing it consciously or subconsciously or wanting to draw back from that and say, Well, can I throw my money at a PPC campaign?
+
+[00:56:45.050] - Brandon
+Can I throw it at this membership or whatever.
+
+[00:56:48.520] - Bill
+In my experience, no you can't. There's nothing that can take the place of a professional sales representative.
+
+[00:56:57.540] - Chris
+One thing I wanted to pick your brain on was reporting. So I heard you describe this weekly sales meeting, and that makes sense to me. But do you advocate for any kind of, like, standardized reporting?
+
+[00:57:12.060] - Bill
+Yeah, no, absolutely. I think the gold standard is Salesforce. I think there's a new version of Salesforce called Salesforce Lightning or something, I don't have the right word. Salesforce has become bloated and with chat and all this stuff, but it's really important for sales professionals to know these are not your leads, it's your company's leads. These are not your customers, it's your company's customers. And so that information belongs to the company and needs to be captured. And it needs to be collated. Alright, that being said, sales people hate doing that.
+
+[00:57:49.000] - Bill
+That's absolutely just... It's tough for them. There's a couple solutions to that. One is that only capture what you're gonna act on, right? You can capture 22 different things in Salesforce, and you only act on two or three. So don't capture what they act on, but my daughter sells for Medtronic and Medtronic realizes this and so there's an admin available to her at the end of the week where she does a brain dump for an hour or two, and the admin puts it all in Salesforce for her.
+
+[00:58:21.770] - Bill
+Yeah, but it's an hour or two. Right? And what is... It doesn't cost anything. Well, an hour or two and Becky would rather die than have to do to that stuff.
+
+[00:58:34.230] - Brandon
+I can see Chris twitching right now.
+
+[00:58:37.480] - Chris
+Yeah, right.
+
+[00:58:38.280] - Bill
+now if you can't get that recognized, alright  it's part of your job keeping track of everything. They're not your leads, they're your company's leads. They're not your customer, your company's costumer. As a matter of integrity, that data needs to be captured. You can get hit by a bus and the company... So, recognize the company also needs to recognize that many salespeople are detail averse. So give them the help they need, have them empty it out of their brain, getting into Salesforce, but it must be captured and it must be kept.
+
+[00:59:11.290] - Brandon
+I love that.
+
+[00:59:12.310] - Chris
+That's great.
+
+[00:59:13.090] - Brandon
+Can we hit the onboarding? Kind of like, how do I set the foundation? I do some Rad hunting, I pull a miracle out and get the top 10% person. What now? How do I get them set straight?
+
+[00:59:28.600] - Bill
+Yeah. So you have 90 days, basically, to do it. The average on boarding in United States takes eleven and a half months. Can you imagine eleven and a half months before they're on quota is like, seriously, that's the average. And so really don't do that. You're not helping all the money lost by the salesperson. Put a plan together, put a checklist together like it were a flight plan, and go through every last thing. That 1st 90 days, they should feel like they're drinking from a firehose.
+
+[01:00:00.900] - Bill
+Shadowing everyone in the business, learning the business, being introduced to people. There's a couple of reasons for this. One is you want them to be successful as fast as the possibly can. Don't go out to eleven and a half months. And Secondly, God forbid, but this happens, we want them to fail faster. In other words, if by chance, you made a bad decision and statistics tell us that one out of four times you are. You need to be able to quickly understand it and move on.
+
+[01:00:32.210] - Bill
+It's not good for the salesperson to twist in the wind at a job there not gifted for and it's not good for you. And so another reason why this drinking from a firehose 90 day onboarding thing is to be successful as fast as you can or fail fast. So everyone knows, like, this isn't a good fit.
+
+[01:00:52.660] - Brandon
+one of the things that we hear all the time, like, "what should our sales person be producing in that 1st 90 days, or six months or whatever?" What's your perspective on that? I know it's a broad question, right?
+
+[01:01:06.290] - Bill
+within 60 days, there should be sales.
+
+[01:01:08.500] - Brandon
+Okay. And you're saying, hey, that's the answer. It doesn't matter what industry you're in like... We should see results.
+
+[01:01:15.410] - Bill
+I work with very sophisticated technology companies, and, yeah, they're learning sophisticated software, but they're saying, no, you should be selling something in 60 days. You're not on full quote until 120 days, but that's four months, guys. So, yeah, you get a ramp quota your 1st 90 days, but sales is very clarifying. You know? And, yeah, don't wait for three months before they felt something. Yeah. 1st 30 days, they're learning they're growing. They may not have the most complex contracts coming in, but, yeah, they should be selling stuff as soon as they possibly can.
+
+[01:01:54.790] - Brandon
+So in a scenario, and this is some of the nuances I can just hear as an operator, like, I'm having the same thought. But so a lot of what we sell, right is a promise. We don't know when someone's going to have a fire in the B wing or whatever, right?
+
+[01:02:09.060] - Bill
+Yeah.
+
+[01:02:09.750] - Brandon
+So I'm a new sales person. You're telling me I should close a deal in 60 days. Is that the same as, like, I need to be having a contract that's worth dollar amounts? Or are we saying I need to be producing signed priority response agreements? I need to have, like, what would that difference look like?
+
+[01:02:29.710] - Bill
+Do people pay you for priority response agreements?
+
+[01:02:32.990] - Chris
+They don't typically
+
+[01:02:34.570] - Bill
+That's a pre sales. That's a pre sales thing. And forgive me because I don't know your industry as in depth as I might, but I would suggest to you that we want actual real money within 60 days. Salespeople sell it's what they do. So if you're not charging for a priority response agreement, that's a pre sell. That is what we were talking about earlier, under the "how" of the framework, and there should be some money exchanging hands soon, 60 90 days.
+
+[01:03:08.220] - Bill
+And I'll qualify that because I don't know your industry like you do. But on the whole, that's what I'm seeing.
+
+[01:03:15.720] - Brandon
+And I think the reality of it is that just like we as the operators have to be doing our own due diligence to establish the appropriate leading activities that could net a closed sale in that 60 days. The expectation remains the same. I just think that there's some expectation now as a leader that we have to take a hold of and say, we know how our industry works if we have the right person doing the right things, what's the number? And then we own that.
+
+[01:03:45.120] - Bill
+And then you own that, like in senior living, you have a sales cycle of a year to 18 months. So you're going to adjust some of that based on that. But even in senior living, someone will stumble across something and it won't have a one call close, even in senior living, that happens. And so we're not looking like they're bringing in hundreds of thousands of dollars, but something's gonna cross the finish.
+
+[01:04:10.820] - Chris
+Hey, Bill, I know we've got a limited amount of time left. One of the things that I think you've probably encountered in the service industry. Or maybe it's just true across all different industry segments, but one of the dynamics that I've seen over and over again. Well, frankly, both in my experience at State Farm and also in the restoration industry is just this synergy or lack thereof, between sales and the actual production or service Department delivering the service. And what I've observed is when a company is struggling on the service delivery side with quality, maybe they get a bad customer review or their short staffed, or there's something that's causing challenges on the service delivery side.
+
+[01:05:02.720] - Chris
+It can have a real profound impact on the sales person's ability or confidence to go out and sell. And so one of the things we talk with our leadership clients about a lot is how critical it is for them to be... When they're making an investment in their front end sales Department, hiring their first sales person or expanding or whatever, making sure there's an equivalent investment in shoring up their service delivery. So that a promise that the salesperson is selling, they're competent, right? That service can deliver on that promise.
+
+[01:05:39.270] - Chris
+And I just love if you would speak to that a little bit, and if you have any advice for operational leaders about how to kind of navigate that tension.
+
+[01:05:48.160] - Bill
+Yeah, I think you're right. Professional sales people, the ones that are worth their weight in gold are really it's their reputation that they're selling. And they put their integrity on the line every single day for your business. And so it's really important to be able to match that integrity in sales with integrity in service. And so you do. And both you and Brandon have used the word promise, and we need to fulfill our promises to our customers and clients, and then your sales will do well. We also need to recognize integrity is not perfection.
+
+[01:06:28.180] - Bill
+We also understand that. So some salespeople expect perfection, and I think that's not what we're looking for either. There's nothing perfect this side of eternity. And so that's not going to happen either. And many times when you make a mistake and then go back and deal with it and own it and make it right, it cements a lifetime relationship of sales. And so we're not talking about being perfect, but we act with integrity. We fulfill our promises, and when we don't, we say sorry and we make sure we do.
+
+[01:07:00.800] - Bill
+I think that's the kind of synergy that'll work, and you'll keep professional sales people working for you. The other, they'll be gone very quickly.
+
+[01:07:10.970] - Brandon
+I've seen our teams, including me, get really defensive when a salesperson comes and says, here's the feedback I'm getting from my client or my prospect, or they want to be engaged, and they're asking questions about this first job that they've finally gotten a yes on. And so I think part of the mindset shift, too, for folks, is like our sales people are our production team as well. This is a United front. We're all on the same team. If they're asking us questions, we need to like those questions, the same hard questions we're getting from a prospect that what actually wants to buy, right. If my sales person cares, right?
+
+[01:07:55.580] - Bill
+Yeah. So here's the twist. So salespeople, they tend to be wired to be Super frank and more assertive. And if the salesperson goes directly to a frontline worker or a manager, they may be too frank, they may be too strident for that. So salespeople often have difficulty in crossfunctional communication. Because they're on the competitive line every day being told no ten times, and then they go internally. I often suggest that an owner facilitate that communication. They become the dumping ground for the salespersons tanks, and then the owner, who most of them aren't wired as aggressively as salespeople.
+
+[01:08:40.360] - Bill
+Then the owner deals with that. But when a salesperson goes directly... Many times, that can go sideways just because they're just wired so differently. So that's just some of the dynamic, the interpersonal dynamics.
+
+[01:08:56.240] - Brandon
+One of the things that's super refreshing about this conversation Bill... First off, obviously, there's a technical expertise that's spilling over because I think in half the time you've said more than I constantly do in a two or three hour session, so kudos to you. But here's the thing that is just smacking me in the face is this unapologetic understanding of how the game works. So, therefore expecting people to change what they're doing to meet the demands of the game. Everything that you're saying, like, you know, maybe we can't have a warm and fuzzy conversation with the right kind of sales person.
+
+[01:09:35.240] - Brandon
+So therefore, we need to create a strategy that still lets us win. It's going to be hard to lead the right kind of sales person. So our culture piece can't be limping because we don't want to hire the right person. Everything that you're saying is so unapologetic. Here's the standard, you measure it, you meet it, or you don't. Period. It's not a grey conversation. Everything that you're teaching, this is the game. So I think our listeners what we need to be very careful of is not trying to filter out with some form of excuse or preconceived bias that we can't do the things that you're talking about in our own businesses.
+
+[01:10:14.710] - Brandon
+This is the game. We do not have a choice other than to change the way that we're playing so that we can succeed in the game.
+
+[01:10:22.390] - Bill
+Yes. And this is a game, and then here's some grace. All right. So if we work together, you would discover I'm very intense, I'm very driven, I'm gonna get it done, I want to win, and then we go out after work and have some beers and hang out and laugh and play with each other's kids and cry with each other when our parents pass on. So here's the game, and then here's grace. And I don't think one should undermine the other. We should be gracious and then play the game to win.
+
+[01:10:52.470] - Bill
+And we should play the game to win and be gracious. And in my career, that's who I wanted to be, and I think that that's inspiring, it's challenging, and then it's also comfortable.
+
+[01:11:06.940] - Brandon
+Yeah, it's worthwhile.
+
+[01:11:09.110] - Chris
+I think that you just created a really natural wrap up moment there Bill, it's really good. Can you talk a little bit about how our audience.... I mean, I think there's gonna be a lot of people who are like, "wow, there's a lot I can learn from Bill."
+
+[01:11:23.470] - Bill
+Sure
+
+[01:11:23.950] - Chris
+we definitely, I definitely recommend that everybody get a copy of your book, and you've been so kind as to give away a few books. So we've got a giveaway that we're gonna do. But apart from buying the ultimate sales managers playbook, what are the different ways that people can work with you?
+
+[01:11:40.280] - Chris
+Yeah, just reach out to me, Billziip.com my website.
+
+[01:11:44.920] - Bill
+And there's.... You can read my blog, you can watch videos. There is a form, just reach out to me. I think even on my website, you can schedule an appointment....and we'll talk. So let's talk. And I think if the kind of thing I'm talking about is the kind of thing that stirs something up in you, reach out. Let's talk. Let's have a meeting. I've helped lots and lots of owners like yourself. I eat breathe, and sleep sales, and I love it, and I think I can help you.
+
+[01:12:18.640] - Bill
+Let's hang out.
+
+[01:12:19.850] - Brandon
+Right on.
+
+[01:12:20.480] - Chris
+That's awesome, man. Hey, thank you so much for joining us. We really appreciate it.
+
+[01:12:24.710] - Brandon
+Thanks bill. It was pleasure.
+
+[01:12:26.650] - Bill
+Alright, gentlemen. It's great to meet you. What a fun afternoon.
+
+[01:12:29.940] - Chris
+Yeah, awesome man. Have a great day.
+
+[01:12:32.043] - Brandon
+Thanks again buddy.
+
+[01:12:32.340] - Bill
+All right, take care.
+
+[01:12:33.460] - Chris
+Bye bye.
+
+[01:12:36.720] - Brandon
+All right, everybody. Hey, thanks for joining us for another episode of the MRM podcast.
+
+[01:12:41.200] - Chris
+And if you got something out of it. Share it with a friend. Hit subscribe. Hit Follow. Leave us a five star review. Thanks a lot.

@@ -1,0 +1,320 @@
+﻿[00:00:07.450] - Chris
+Welcome back to the head, heart and Boots podcast. I'm Chris.
+
+[00:00:10.870] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:00:17.650] - Chris
+Man, I love this industry. Greetings from Cocoa Beach, Florida.
+
+[00:00:23.590] - Brandon
+Today's an actual Florida day. It's been sketchy up till now. Be honest, it hasn't felt like we were in the sunny landscape of Florida.
+
+[00:00:33.940] - Chris
+We've been incredibly lucky. It's been raining up until this point and we've had sun every day we've been here. Have we? But it's been windy and it felt.
+
+[00:00:43.650] - Brandon
+Like the first two days were.
+
+[00:00:44.900] - Chris
+They were.
+
+[00:00:45.570] - Brandon
+Yeah, yeah. It didn't feel like Florida today actually.
+
+[00:00:48.910] - Chris
+Feels like I almost didn't pack a jacket. So just kind of a PSA for all of our listeners. If you're going to Space Coast, Florida in February, yeah, you might bring a hoodie.
+
+[00:00:58.910] - Brandon
+They actually do have a winter. It may not look like where you're from, but it's Florida's version of a winter and it is actually cold.
+
+[00:01:05.390] - Chris
+It's been kind of like 60s, low 60s, upper 50s. Anyways, all right, I digress. Some people don't care that are listening. So we're going to talk today about conflict resolution, managing conflict within our business. Brandon and I are experts and pros on having conflict in our businesses, like some of you are. And we're going to talk about some strategies that we picked up along the way for managing conflict and building a culture where conflict doesn't become our bottleneck, where drama doesn't become the thing that's holding us back. Because for a lot of our businesses, it's certainly been true of businesses we've led over the years that it can really be a thing that takes over if we don't have a way of stewarding our culture to eliminate that trauma and work through it, clear the table together, all that stuff. So we're going to dig in then it might get. See, we'll see. It's going to make you think. That's for sure. Before we dive into that, let's hit our sponsors. Liftify.com. Liftify. We all understand the value of Google reviews and we've been hammering on this. Can you do it yourself? You absolutely can.
+
+[00:02:20.430] - Chris
+But I think there's a level of repetition and redundancy you have to build into your system and there has to be a consistency element. There's a lot of discipline required. And let's face it, most of us, as companies are not good. We have so many other things tugging at our sleeve. If you can have an outside third party that's really owning that, isn't that a better solution? Right? Are we digital marketers? Is that our wheelhouse? No, but liftify and their team, they are. They understand Google, they understand the importance of it, and they've developed systems and processes and automations and software solutions to facilitate it. Just call them. You owe it to yourself to get a demo and see what they can do for you. They convert 20% to 25% of your jobs into Google reviews. If you're not consistently generating that, what are you waiting for? Call them. It's very affordable compared to other platforms like podium, bird eye and everything else. They're very cost effective and they're more effective in the results they produce. So just what are you waiting? Forward slash floodlight.
+
+[00:03:26.870] - Brandon
+All right. As you guys know, not only are you hearing it from the show, but many of you are beginning to get acquainted with actionable insights. So, actionableinsights. Getinsights.org. These guys are really, it's an interesting approach. So 501, so they're a nonprofit, and their leadership, or let's say the board that helps advise their team, is made up of folks on both sides of the table, carrier side, contractor side. And the advantage of that then is it's helping us create a more cohesive and I guess equal language, a platform where we're coming to an agreement about what it is that we can do and provide in our estimates, not only for us as the contractor, but meeting the carrier needs. Meeting the client needs. It's an interesting model. Anyways, I don't want to get too spun out on that. Look at it this way. Actionable insights is going to help you with all sorts of things, from white papers to training, training on the tech matterport, some of the tools of the trade that we're deploying. But more specifically, right now, there's an opportunity for you to get the actionable insights profile for xactimate. And this is essentially like an AI support tool on steroids.
+
+[00:04:35.980] - Brandon
+It's partnering with you as you're writing your estimate live, and it's feeding you insights in terms of, oh, see what I did there? Feeding you insights. Anyways, what it's doing is it's giving you live estimating support as you're writing your estimate. When I put in key terms or line items, it's looking at that and saying, hey, did you think about, or don't forget to include. Right. So that we're really capturing all the items that we can to make that estimate robust complete and as profitable as possible. So this is good for your brand new estimators to ramp them up, to bring them up to speed in a really quick and efficient way. And it's for our seasoned vets that honestly, it's like most of us, we forget more than we remember. And this is our way for not making the assumptions, not gleaming over those items, that when we add them up, they end up having a significant impact. So go to slash floodlight and find out more about all the resources they have available. But focus specifically in on this profile and see what it could do for.
+
+[00:05:40.530] - Chris
+Your team and answerforce.com. Floodlight answerforce our call intake systems, our process for taking and receiving inbound calls and converting them into jobs, right, it is the lifeblood of our business. Right? It's the heartbeat of our business. The phone rings. It creates an opportunity for us. And yet a lot of us are not very intentional. We're not very strategic about our call intake processes. Some of us don't even have defined call scripts and a consistent intake process that we train our people on. So first of all, get that in place. But then what do you do in terms of redundancy? What happens when your receptionist goes out for lunch? Who's answering the phones? Are you just forwarding it to another random person that happens to pick it up in the office? Is that going to create the same consistent call and take and maximize the conversion we're getting on these opportunities? Of course not. What happens when your receptionist takes a vacation? What happens when they're out on maternity leave or family leave? Right? We need to think about this stuff, right? Answerforce.com is a great turnkey solution for that. It's very flexible in terms of cost.
+
+[00:06:50.690] - Chris
+You can ramp up how much you're using them. When you have a storm situation, you can ramp it down. If you've got people out on PTO, turn answer force on, they're going to imitate the same call intake process that you've trained and equipped your receptionist with so that you don't miss any opportunities. They also are 24/7 so they can be a really awesome turnkey, high value solution for you in terms of your after hours call answering and so forth. So answerforce.com, you owe it to yourself to at least do a demo. If you don't have any redundancy in place, you don't have a backup option, a flex option for your call and take. They're a super cost effective solution. So check them out.
+
+[00:07:31.180] - Brandon
+CNR magazine guys, you know, we make the reference she's a friend of the industry, and we believe it and we mean it. Actually, I'm going through a little bit of Michelle withdrawal here, Chris. It's been a while since we've seen her. CNR magazine. You guys know Michelle and her team. They have been just absolutely laser focused on capturing critical content, critical news, the happenings, the buz in the industry, and providing a lot of free access to things that can support you and your team's development. Everything from CE credits to just general knowledge that can do nothing but help us in terms of success in the industry.
+
+[00:08:05.190] - Chris
+Scott turned us onto that. It's their in focus edition that they come out where you can earn CE credits by leveraging that. It's awesome. I didn't even know about that, but Scott had been following that for a long time.
+
+[00:08:16.980] - Brandon
+He spoke really highly of. Yeah, I mean, guys, Everything from podcasts to interviews to, like, what is it called? The in focus.
+
+[00:08:25.410] - Chris
+In focus, yeah.
+
+[00:08:26.660] - Brandon
+I mean, there's so much that she's doing in our favor. So take advantage of it. If you're not a subscriber yet, go do it. I think it's as simple as providing your email address and get subscribed. Start receiving that free content that helps you and your team leverage those things in your success. All right, dude. Conflict resolution. I mean, fortunately, in our business, you and I never have conflict, so we have no context for this. But let's just act as if.
+
+[00:08:53.770] - Chris
+Dude, honestly, man, I can't. Should we just talk about the hot tub conversation we had yesterday?
+
+[00:08:59.110] - Brandon
+Hey, man, that's up to you.
+
+[00:09:00.610] - Chris
+I got to be honest, man. I'm recovering from that conversation not because I was offended by it, but I communicated to you last night on the deck. I feel a little bit embarrassed, as an owner of the company, when you're being held accountable for your behavior. There's certainly an ego thing that you feel. But I think the biggest thing that I felt was just kind of embarrassed. You and I are business partners, and it doesn't feel good to have to have one of your business partners kind of call you out on your bullshit.
+
+[00:09:36.250] - Brandon
+Yeah.
+
+[00:09:36.910] - Chris
+And yet, in the same way, I feel really grateful for it. So better to know than not know. 100% and one of our company value. So I don't know where to begin. I'm a little bit mealy mouth around this whole thing, so maybe you can help us walk into this, but sure. So you came to me. I didn't initiate this conversation.
+
+[00:09:59.490] - Brandon
+Yeah.
+
+[00:10:00.050] - Chris
+Why don't you set the stage, and you have my permission to just share all the detail however you want to present it. So I think it would probably be good. And you and I didn't even talk about this, but if there is any backstory in terms of maybe how it came up for you, whether it was just an observation that you had made exclusively, or if there was bits and pieces from conversations with other people on our team, just maybe set the stage and then we can talk about our interaction in the hot tub.
+
+[00:10:26.910] - Brandon
+Well, I think, first off, I think it's very important to kind of set the stage with the fact that this is a perfect example of everyday life within our organizations. Honestly, the challenge is that in most companies, these conversations don't happen because we're not ensuring that they do. And I think that that's something I just want the listeners to hang on to as we walk through this a little bit together, is the fact that we have to be brave in the first place to address things head on and talk about things in very clear and concrete manner. And that can be challenging for people to do because most of us are afraid of conflict. And anytime we're not in complete agreement or we're not going to have a conversation that's all around the hoorah and the. Yeah, yeah. It can feel like conflict and it makes us pause or sometimes be paralyzed to where we then don't address some of these situations, and they ultimately grow into something that becomes extremely toxic or very dangerous to our business because we just didn't get in front of. So. And you can tell by the fact that Chris is willing to talk about a subject like this openly.
+
+[00:11:33.170] - Brandon
+It's a testament to the kind of leadership and the people that we have inside our company. We are all trying to do this, and we're all trying to be better at having these kinds of conversations because they grow us as individuals and they certainly iterate the team and set the stage for continued success and growth. So just kind of that as a background. So leading up to this moment.
+
+[00:11:52.450] - Chris
+And I just want to say, I just want to, again, give you full permission. I think the more detailed and gritty we are, the more people will be able to maybe find some analogies within their own business, because I think this interaction, while I'm not minimizing, I think that some of the types of things that we're going to talk about, there's comparables in everybody else's business between owners and other leaders. So just feel free to be as raw and unfiltered as you can.
+
+[00:12:23.070] - Brandon
+So let's set the stage so essentially, over the last several months, as part of our strategy as an organization, Chris and I have been investing both time and energy and resources into establishing people, building people into the team that will begin to take on some of more of the day to day tasking management leadership, so that Chris and I can continue to focus our time and energy in the right places as owners. This is a story that all of you most likely listen to or have some kind of relationship that sounds similar, whether you're the owner of the organization or you're a key leader developing your downline. This is a normal cadence happening in all of our businesses. Well, as part of that, we hired what we refer to as a business manager. For a lot of restoration companies or service companies, this might be the equivalent of an operations manager or production manager. This is somebody on the ground that is taking on a lot of the driving of systems and processes so that we're all executing on them on a consistent basis. And part of doing that is that Chris and I, for instance, spend a lot of time on the road.
+
+[00:13:32.610] - Brandon
+Not only are we service providers to a book of clients, but we're also on the road promoting our business, providing training to other partners in the industry. So, all that to be said, we wanted to make sure that we had someone in house that could be available, that could continue to help hold the team accountable and continue to make progress, even when Chris and I have bouts where we become somewhat unavailable to the team for various reasons. So we hired a pit bull to come in and help us build out that system and that process. And he's done a really great job of being what we've asked him to be.
+
+[00:14:04.180] - Chris
+We've talked about him several times in podcasts already.
+
+[00:14:06.720] - Brandon
+We have. So over the last several months, we had this introduction of a new relationship that was both challenging for Chris and I as owners and challenging to the rest of the team because there was a heightened level of accountability. And that always feels awkward at first. And focus and focus, laser focus on details, right? And for all of us, I think we've had these moments where we bring in someone that we know is better for our business, but there's this transitional period where we go from what we were to what we were aspiring to be. And in that, it's hard. It's hard. It rubs up against egos. Anyways, interesting thing happened is that as part of all of this is going down, we literally had these moments where Wayne, many of you guys already know that was having to have these intentional interactions and relationship building experiences with everybody on the team earning, trust building rapport. Right. Working through all these conversations. Well, Chris and I are no different. We are just like everybody else on the team. We understand we're asking for systems and processes and accountability to be implemented, which means we have to fall under that accountability just as equally as well as anybody else on the team.
+
+[00:15:17.060] - Brandon
+So I think everyone listening can relate to some kind of an experience that falls under those kind of general.
+
+[00:15:25.320] - Chris
+And I would just add, too, something that has really contributed a lot to my self awareness in this area and the attitude, at least I asked Barice that tuned me into I want to make sure I'm behaving in a particular way, is the fact that we've seen in so many of the client businesses we've worked with, not all, but some, where the owners or the senior leaders were working to establish greater levels of accountability and commitment and standardization, and there was an aspect of their behavior that wasn't aligned with that. They were not making themselves accountable to the same processes. And so there's this cognitive dissonance of basically, do as I say, not as I do. So you and I have seen that over and over again, and I think it's been a powerful learning experience for you and I. Oh, yeah, we've talked about this before. We had a lot of years in the industry operating. But what you and I have learned by being an outside third party, as a consultant to other restorers, dozens of them across the United States of varying sizes, that's been an incredibly powerful learning experience, because it's allowed us to remove ourselves just enough to see a lot of things in this business more clearly.
+
+[00:16:43.370] - Brandon
+100%.
+
+[00:16:44.100] - Chris
+And that was one of the things that I know has jumped out at both of us over time, is just how easy it is for owners, gms, senior leaders to exempt themselves from the same requirements, rules, core behaviors, accountability that they're expecting out of their downline team.
+
+[00:17:04.680] - Brandon
+Do as I say, not as I say.
+
+[00:17:06.070] - Chris
+And this is basically a story of that.
+
+[00:17:09.370] - Brandon
+Yeah, it is. I think that's a perfect way to put it. And I think one of the things that we're going to do, just to give this some additional context as we go through this, I'm going to tie this back to our core values. These are ours internally, and how they impact the way that we went about having this conversation and addressing this particular issue inside our company. So Wayne, as part of his role, he is helping us manage our internal, let's call it decision making and progress making. Right. We use a tool called Monday.
+
+[00:17:39.400] - Chris
+It's our job management it's our job management.
+
+[00:17:41.610] - Brandon
+Right. It's our place where we're recording initiatives that we're working on. We have assigned folks that are responsible to those things, and we drive progress through that. Well, as we're adopting this, we're creating new behaviors. And so those behaviors require. Require us. We've made commitments. We're not going to let date go past due because otherwise, and you guys know this in your own project management software, if we just ignore dates or they're not a standard that we're held accountable to, they become vague and worthless, and then they get ignored. And so we made a commitment to each other. We won't let dates go past due. We made a commitment that when we're using this dashboard or this tool system, that we are going to respond in a timely manner with communication that's happening within the platform. And the reason that we've decided to communicate within the platform is because it tracks it and memorializes it. It gives transparency. So a guy like me in my position, can look at the tool and see how our team's doing in their prospective teams, how they're interacting with each other, how they're doing in our commitment to meeting or exceeding standards.
+
+[00:18:44.630] - Brandon
+And then the third thing is that if we need to make a date adjustment, that there's a conversation, it's done proactively, and we move it with a sense of purpose, not an excuse or because we failed to meet a timeline.
+
+[00:18:59.170] - Chris
+It was.
+
+[00:18:59.610] - Brandon
+We looked at this, we identified something that's having an effect on our ability to deliver on that date. And so, as a team, we're making an intentional adjustment to it. The point of this is, and I think all of us can say, okay, this example is stuff that happens in our business all the time.
+
+[00:19:15.700] - Chris
+Think dash.
+
+[00:19:16.550] - Brandon
+Think Dash.
+
+[00:19:17.160] - Chris
+Right. Compliance tasks. And dash, like, expectations around, hey, when we create a new customer profile, we always put these elements in. Right. This is what we did with Monday. We developed all these things, these standards, processes for our team at floodlight.
+
+[00:19:35.050] - Brandon
+That's right.
+
+[00:19:35.530] - Chris
+And we put them in place. We rolled this out. It's been about six or eight weeks now.
+
+[00:19:39.680] - Brandon
+Yeah.
+
+[00:19:40.000] - Chris
+That we've had that up and running.
+
+[00:19:41.390] - Brandon
+And we're getting really close to this point where we can say with 100% confidence our team is using this the way that we've committed to using it. So, anyways, long and story short, get.
+
+[00:19:52.290] - Chris
+Into this case study.
+
+[00:19:53.500] - Brandon
+Yeah. So, essentially what happened. Dude, you got balls for letting me do this. But essentially what happened is that as we're all becoming more committed to this process to this commitment. Chris, bless his soul, was struggling the most with it. And so there was lots of dates that were running past due. There was lots of communication from Wayne as an example to him asking for updates, asking for information, making a suggestion. And there was a slow cadence to reply and or multiple cases where there was no reply. And finally, there was not a clear sign of proactive engagement about the due dates and moving them with a sense of purpose, which is what we've committed to doing. And here's what started to happen. One part of my job is I'm looking at Monday dashboards, and I'm identifying and monitoring our team's performance and commitment to it. And I can see that there's a gap. So the data, right. The reason we use tools and systems like this is that instead of me having an emotional conversation, I could point towards the data black and white fact, was this happening, yes or no? And the answer was no.
+
+[00:21:04.860] - Brandon
+In addition to that, in my working relationship with Wayne, he's in a role where I am soliciting feedback from him about how his relationship is with the team. It's mandatory for me to do that. It's part of how I coach him, hold him accountable. It's part of how I leverage him as an asset in the organization to be productive. And the feedback coming back from our guy was essentially, and I'm going to point towards our core values here, is that because these three things weren't being met, it was sending two signals. One, he felt disrespected, ignored, and felt like there was no way for him to do anything that actually helped move these things forward. Because this is the owner of the company. He can't fire him, he can't write them. He's. I'm asking him to be responsible for something that at the end of the day, push comes to shove, Chris can ultimately do whatever the fuck he wants. He owns the business. The second thing is that globally, it set the stage, because it's a public forum within our company, that what we say doesn't matter, that what we say doesn't matter. And I think at the end of the day, all of us, if we look at our companies and our businesses right now, you're in scenarios where you're talking aspirationally about what you want to be and what you think you are.
+
+[00:22:26.080] - Brandon
+And the reality of it is there's a giant gap that exists, and you may potentially be one of the biggest causes of that gap, because you're saying, do as I say and not as I do. Okay, so I want to point towards a couple things, and this is what makes Wayne very powerful as a team player. And it's also what makes this message so important. We established core values in our organization. They were not something that we throw up on a board somewhere. They're not shit we put on a wall somewhere. They're actually characteristics or behaviors that our team's committed to because we believe they make us and the team better. And I want to read two of them because they directly relate to what we're talking about. The first one is integrity. We firmly believe that what we say must always be aligned with what we do in all things. What we say is what we do. Clearly, in this particular moment in time, we were out of alignment. We were saying something, but we're not doing it. I. E. Our actions didn't show it. The second one I want to point towards to is respect.
+
+[00:23:37.120] - Brandon
+We treat everyone with kindness and consideration as fellow humans with similar needs, fears, dreams, and desire. Okay. And then the third one I want to point to, because these two really go symbiotically to each other, is this trust. We earn others trust through consistent, reliable actions, open communication. And what we refer to is obvious. Gas give a shit. Here's what I want to point out here. We earn others trust through consistent and reliable action. The reality of it is, in our organizations, human relationships are complicated. One of the fastest ways we can attempt to simplify those and build trust in a diverse workgroup is by doing what we say we will do. Right. If we think about our project managers, our estimators, our JFCS coordinators, think about what happens in our organizations when we have a standard and one person or multiple people consistently fail to meet and or really be held accountable to their actions, we are sending a massive signal that continues to break down trust and leverage. A failure to have alignment between said statement and actions to cripple our business, this is powerful. It's important to us and our team. And we had a situation where clearly we were failing.
+
+[00:25:04.410] - Chris
+Yeah. Wow. Okay. So this becomes more painful by the moment. The last core value that I think relates to this and what we're talking about today is our core value of openness at floodlight and openness being we value keeping a clear table between each other, right? That we want to keep short accounts. Just like with some of the things we teach about customer experience, about how there's this micro disappointments that can happen that don't rise to the level where a customer will complain because most customers don't want to be a negative nancy, a complaining person. And so they stack up until something triggers, and then all of a sudden, it's like the straw that broke a camel's back. Well, likewise, we see the potential for that. And so you were living in alignment with that core value. There was this story that was forming in your head, an observation you were making, and so your commitment to that value caused you to bring this whole thing up to me. It was yesterday in the hot tub, the hotel pool. We were waiting. It was before we were heading out to dinner with some clients and so forth.
+
+[00:26:13.250] - Chris
+And you took the opportunity to initiate. Do you want to talk about kind of how you led into that and maybe just unpack, too? I mean, if there was any. What was going kind of through your head as you were processing that, what made you decide that that was the time to bring it up? I don't know. Maybe unpack that a little bit.
+
+[00:26:30.990] - Brandon
+Yeah. No, there was some intentionality there. I think one of the things that's tough in Chris and I's working relationship is that we don't have a ton of downtime, and that's probably very similar to many of you. And your current cadence is there's not a lot of time for us just to sit down and work through strategy. And a lot of times we're having conversations on the go. And so I think part of what I was thinking about with yesterday's conversation is we're in the midst of an event right now. We're doing some training live in Florida. I know that takes a lot. It takes a lot of mental commitment for us to be in the moment, to be present, to be focused in on what our client is asking of us so that we deliver high value. But I also knew we couldn't let this conversation go terribly long. And so there was what I kind of perceived as a bit of a lull in our adventure this week, where we had a few hours that we weren't necessarily planning to have, where we could just sit down for a moment and have a conversation where it didn't feel like we were rushing to go to the next thing.
+
+[00:27:28.110] - Brandon
+And that was pretty important for me because I wanted to give you the space to kind of think about what we were talking about and not necessarily place this thing on you, where you had to immediately respond or take action. And I think that's important when you're having a conversation about stuff that's just going to be tough. I think we need to be cognizant of two things. Sometimes our audience needs time to process based on their wiring. And then it's important for us to build time when we're having a conversation about something that may be a bit emotionally charged and or fuel just be a challenge. I don't know a better way to say it.
+
+[00:28:02.910] - Chris
+Sure.
+
+[00:28:03.200] - Brandon
+And so we had this moment. It was also a place where we're going to be in the hot tub, which I think, in general, just kind of creates less anxiety, cools us down. Right. Kind of brings our levels down a little bit so that we're more receptive. And so that's why I kind of set the tone. I was like, this is perfect. I need to get this conversation started. In terms of concern, I think this is a common concern that's going to happen in our organizations, is there are moments in time where we have to act on behalf of a team member, as a leader. And yet it's a weird balance, because we don't want to get into a he said, she said where we almost dismantle what trust may exist between two members of our team. And that's a dangerous territory to get. As well as one of the leaders in our organization, I'm privy to all sorts of conversations and all sorts of variances, if you will, in the relationships between each team member. And Chris, too. He gets certain purviews or views into the working relationships with our people that maybe I don't get to see all the time, blah, blah, blah.
+
+[00:29:05.220] - Brandon
+So we're trying to protect that and honor that and yet address hard shit when it has to be addressed. So there is that thought in the back of my mind of, I want to be respectful to Wayne and Chris's relationship. I don't want this to become like I'm the parent swooping in to fix a problem that one of my people has with somebody on our leadership team. Wayne's fully capable of having his own conversations, and he does and he does, and he follows what we promote. And that is, your first action is always to go directly to the source and have a professional conversation, often leveraging that thing that we've talked about in the past. The story in my head, and just.
+
+[00:29:44.010] - Chris
+In complete fairness to Wayne, the reason why I believe you brought this up was this issue had become a pattern. So Wayne had actually, he had already personally addressed a version of this with me, one on one, ahead of time. And I did do some modulation, but in terms of my behavior and updating kind of the way I was interacting with the software and so forth. But it came up again a second and third time. And so you were coming into this after it had kind of become a pattern.
+
+[00:30:15.690] - Brandon
+Yes. Of disregard.
+
+[00:30:17.130] - Chris
+Okay.
+
+[00:30:17.560] - Brandon
+Yeah. Just in full transparency, he had communicated by this time that was an issue. He had felt like he had done what was appropriate to take action, and that action was not leading to a result. And we needed to do something different. But I don't want to under highlight either. I had to do my own investigating of that. I can't just take a story and take a side. It was a combination of our team doing what we've asked them to, validating or verifying that, and then inspecting for myself the data. Now, here's the reality. And it was interesting because when the conversation started, you had made the remark of, is that something that Wayne, I think, had communicated to you? And my response was, well, yeah, but Monday told me, and I think that that's important because, again, you'll be able to provide your perspective on this. That's what it boiled down to, regardless of what Wayne had said or not said or whatever, whether he was frustrated.
+
+[00:31:19.520] - Chris
+By it at that point or not.
+
+[00:31:20.730] - Brandon
+Yeah. Because he may very well, at this point, not said anything this very well was just my own investigation in Monday. And the point was, of the individuals on our team, there was clearly one that wasn't meeting the standard.
+
+[00:31:32.700] - Chris
+Yeah.
+
+[00:31:33.120] - Brandon
+Right. And so we needed to talk about that. So I don't know. What was your perspective when I pointed towards the fact. No, it's Mondays is honestly telling us this.
+
+[00:31:41.030] - Chris
+Well, to be totally candid, the moment you started talking about it, this situation, this failure of mine, it wasn't lost on me. I didn't need a whole lot of explanation or clarification as to what the issue was. You know what I mean?
+
+[00:31:57.430] - Brandon
+Yeah.
+
+[00:31:58.120] - Chris
+And I think when you brought up the issue, first of all, I appreciated how you brought it up because you were very respectful. It didn't feel accusational. It was really just you inviting me to take another look at this. This thing that I was already sort of aware of my failure. But the story in my head, I had all these justifications for why I was deficient on this. Right? I had these reasons. I had these justifications, these validations of why I had been off my game with regard to making these updates and responding to things and so forth. And so you just did a really excellent job of saying, look, man, this isn't in alignment with our company values. You're at risk of losing Wayne's trust. You're not reliable to him. He can't rely on you to respond on a timely basis in these things. The information you're putting in is no longer good because you haven't updated the due dates. All the things. I don't think that's the kind of relationship you want to have with Wayne or anybody on our team. I'm like, how do I argue with that? There's nothing to argue with.
+
+[00:33:03.800] - Chris
+Right? It just helped me get out of the story in my head and recognize I need to get my shit together. There's no more wiggle room. I'm setting the wrong tone for our team. All right, Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, bloodlight consulting group. As all of you, you know, Brandon and I, this is our passion project. Headhart and Boots is. But it's also a way more and more that our consulting clients find us and in effect, they interview us. Right? Those of you been listening to show for a while, you get to know who we are, right, what we're about. So if Headheart and Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow. And we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you, too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:34:17.700] - Chris
+That's what we do. That's what we do is we come alongside restoration company leaders, we help equip them and we help support them in that growth trajectory. So if you're looking for that, go to floodlightgrp.com. Potentially, we could be a great match for each other.
+
+[00:34:31.880] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our premier partners. We work really hard to vet those folks that we believe bring a level of value to the industry, that it can really be leveraged in a way to have a sincere, positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring. We see value in the way that their leadership teams and their partners are developed. And we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out floodlightgrp.com premier partners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business.
+
+[00:35:23.430] - Chris
+It's ironic, and a lot of times these things are right. It's ironic that literally four or five days ago, I was taking a lead role in a conversation with our team at a team meeting about our company values. So it's embarrassing, right? It's really embarrassing. But I had a narrative in my head of there was a dump of assignments and tasks that happened like, a week or so ago. And again, this wasn't the first time I've failed to meet the standard. So I don't want to minimize in any way the situation here. But the most recent sort of failing was there was a number of tasks that got dumped into my Monday assignments, and all of a sudden appeared on my dashboard. And I just, for whatever reason, with, quote, all the other things that I'm thinking about, worrying about, planning for travel, all the things in my head, I made a justification of, holy shit, I can't get to all of that today. All these due task items today, like, 28 of them or something. Instead of just breaking it down into small pieces like we teach people to do, right? You eat that elephant one step at a time.
+
+[00:36:32.350] - Chris
+I just instantly felt a sense of overwhelm. And I'm like, I don't have time for this shit. And one day turned into the next day. I didn't, quote, have time on my calendar to address that. And so I'm just like, all right, this is a weird circumstance. This is all the little justifications we make in our head. We're not saying the shit out loud, but it was just in my mind, it's like, I don't have time to deal with this shit. I'll have to deal with it on the weekend. Now, what I wasn't aware of was that there was actually some notifications, replies, questions that actually were way older than that task dump that had happened on my dashboard. Think about this in dash. Many of the people listening to this are on dash compliance tasks. You ignore compliance tasks. They're still sitting there when you go to log in. And then the next day, you get more compliance tasks, and the next day, there's more compliance tasks. And after a while, you don't realize that some of those are eight, nine days old. And somebody somewhere inside your restoration company keeps seeing that unanswered question or uncompleted task, and now it's starting to make them look bad because there's certain steps in the process.
+
+[00:37:38.560] - Chris
+They haven't invoiced yet for that job because you haven't done that thing to upload the photos into that thing. Right. And it was that kind of scenario.
+
+[00:37:46.350] - Brandon
+Yeah, 100%.
+
+[00:37:48.630] - Chris
+So that is what happened. And in my head, I wasn't saying, well, screw everybody else on the team. That wasn't the narrative. It wasn't like, hey, I'm the owner. I can do whatever the fuck I want to do. It definitely wasn't that. And I think generally, for probably most people listening, when they fail in this way, it's not a middle finger to the rest of the team.
+
+[00:38:07.210] - Brandon
+It's not. It's not malicious intent.
+
+[00:38:09.220] - Chris
+It's not 90% of the time, and I think that's true of our employees too. It's not malicious intent. Right. But it does quickly get out of control, and it was getting out of control. And so we had this conversation. So back to the conversation. So you said these things. I thought the way you did it was very respectful, and I would say that's typically true of our interactions with each other. I just want to mention this. What was going through my head when you were saying that, besides embarrassment, I felt small, like, my ego was like, I'm getting spanked here. There was some feeling of that, like, embarrassed that we even had to have this conversation. But I will say this, because I think this is something that even when my wife and I have these kind of conversations, or I've had this kind of conversation with other people who are important to me in my life, is I felt hesitant to apologize because I realized, okay, this has become a theme for me, and we're at a point now here where I need to make a decision. Am I going to let this happen again?
+
+[00:39:10.370] - Chris
+Like, do I want to have this reputation with Wayne and with you? And of course, the answer, it was a big, fat no. But then there was this part of me in the moment with you where, I don't know if you remember this, but I was kind of sitting quietly, and I was really hesitant to say, you know what? I'm sorry, man. I'm sorry we had to have this conversation. I'm going to get my shit together and make a commitment there. I was really hesitant to, because I'm like, okay, I've already told Wayne. When Wayne brought this issue up to me, I've already told him, hey, man, I appreciate you bringing this up to me. I expect you to hold me to the same expectations of anybody else on the team. I don't care if I'm the owner. I just want you to know that. And I've had that conversation with him, and then it happened again. This has been one of the things I've been dealing with in my life, because there's some things. There's some areas there that my wife and I circle around on. In the last couple of years, I've had to really ask myself, I've had to become slower to apologize, and instead just consider, okay, if I'm going to apologize, that ought to be paired with repentance.
+
+[00:40:13.030] - Chris
+And I don't know how familiar people are with the concept of repentance. It's kind of a religious thing. But this stuck out to me in a previous interaction with somebody. But repentance is the act of turning away from that bad behavior, or in religious terms, that sin.
+
+[00:40:28.590] - Brandon
+Yeah.
+
+[00:40:29.190] - Chris
+So it's a conscious turning away and making a decision to say, okay, not only am I sorry that that thing happened, but repentance is saying, all right, I'm not going to do that again. And it's kind of like in the Bible, they talk about God would ask them to make altars. They'd build up these stone altars, and it was a memento when they passed by that spot on the trail again, it was this reminder of, okay, I made a choice. I'm not going to do that thing anymore. It's a reminder. Anyway, get a little philosophical here. But in that moment, dude, I was thinking of that, and I'm like, all right, I have a choice here. I can either continue being the kind of person that flakes out on this shit periodically and internally, I'll have some excuse or justification why I'm so busy. I have all these other more important things, or I can make this the last time we have this conversation, which is a big commitment.
+
+[00:41:22.090] - Brandon
+No, I think that's a really important element of this in general, that people do need to sit in and consider, because I think it just goes back to that trust thing. I think it was Wayne. It might have been Wayne that told us about this kind of theory, right? Like, we can crumple up a piece of, okay, and could you flatten it back out? Meaning we can behave in such a way, and then we can apologize, but it doesn't remove the thing from happening. So just like the piece of paper, we crumple up a piece of paper, I can flatten it back out, but it will never be a clean, new piece of paper. It's going to look like it was balled up and flattened back out. And I think that's what happens when we continue to behave in one way, even if we are sincerely apologetic and we say we're sorry. The thing already happened. The damage has already been set. And so I think part of what you're referring to is if we're going to apologize, we have to take direct action to actually shift our behavior so that we're not just crumpling up pieces of paper and then flattening them back out and acting as if it's still a new piece of paper, because it's just not.
+
+[00:42:26.770] - Chris
+Yeah. So in the, like, I was listening to you and I was repeating back to you what I was hearing, but I don't know if you noticed this, and hopefully it didn't rub you the wrong way. I didn't actually apologize during our time in the hot tub. I didn't say, I'm sorry, Brandon, I'm going to do better. I didn't do that. But I was thinking those things because I really wanted to. Still. There was a part of me was nervous, like, can I commit to this? Can I really put this behind me and make a commitment here to myself and to the team, that I'm not going to flake out on this shit anymore? I had to think about it. And so I think we shifted conversations when you and I were. Whatever. We finished hanging out in the hot tub, and then we went back to go get ready for our dinner stuff. And when I got back to my room, as I was walking up to my room, I was thinking to myself, I'm like, all right, where am I at with this? And it just occurred to me, I'm, you know what?
+
+[00:43:20.800] - Chris
+I need to take care of this now. There's no room for me not to take care of this. With the direction that floodlight's going, the vision that we have for ourselves, for our team, for where we want to take the team and what we want to build together, there's zero room for me not to deal with this harshly. I have to be severe in how I react to this. This can't ever happen again. And so that conviction started to form in my head. There is no workaround. This can't ever happen again. And so then when I got back to my hotel room and I saw my laptop on the desk, I was like, I need to clean this up now. I can't wait. And we were planning on going to dinner. I didn't have time, so I texted you and I was like, hey, dude, you guys go. I'll catch an uber. I'll meet up with you. Just you talk with the client. Handle this for me while I finish up. And so here's another embarrassing part of this. A lot of times, our misbehavior. Well, I don't want to make a moral lesson out of this, but for me, what I realized when I got into the work of it, I got into money.
+
+[00:44:19.860] - Chris
+I started chipping away at the tasks. I was done cleaning up the mess in about 45 minutes, which is embarrassing, right? There's an embarrassing element to, like, how did I get so spun out? And I was talking to you about it after the fact that, for whatever reason, something just triggered my overwhelm and just my anxiety around. I don't have time for that. I got all this other stuff I'm trying to hit on. My anxiety sort of blew this whole thing up into something it really wasn't. And when I got in and I just hunkered down, which I'm routinely capable of doing, of putting the blinders on and getting shit done. But with this one thing, it was a blind spot that formed when I finally got into it. It wasn't the heavy lift that it felt like and caused me to punt, punt, punt, punt. Right? So that was a really powerful moment of truth for me, was to take action on that in one fell swoop and just be like, okay, I owe it to Wayne. I owe it to myself. I need to get this shit taken care of and cleaned up.
+
+[00:45:22.440] - Chris
+And in the behavior of doing that, I realized, God, if I just prioritize this, I chip away at this shit. This isn't something I need to avoid. This isn't something that I need to be intimidated by or overwhelmed by. So there isn't, like, necessarily a teachable four step process here, but hopefully, one, this is helping me memorialize this conversation. It's certainly now that it's out there for all of the world to see for the rest of my life and for my kids to listen to at some point, it helps me solidify that commitment. And I think this is just an example of the transparent feedback rich culture that we want to create in our company. So while this is embarrassing for me, this is also something that we are passionate about, is that when we fuck up, there's an opportunity not only for us to take ownership in that, but it can be a teachable moment for all of us. And if we don't get so caught up in our egos, like, I know this because I've seen this same kind of bad behavior by others. And so I know I'm not alone in it.
+
+[00:46:28.600] - Chris
+I don't have to feel ashamed. I can be embarrassed, but I don't need to be like, I'm a fuck up.
+
+[00:46:34.560] - Brandon
+Yeah. Right? Yeah.
+
+[00:46:36.270] - Chris
+It doesn't have to define me with the way we all respond to shit is what defines us, right?
+
+[00:46:41.700] - Brandon
+Oh, yeah. And I think just kind of for the sake of what happened, let's try to highlight some of the things that I think we could learn from this kind of experience or conversation that people could potentially take with them into their own businesses. I think, first, one of the things that we did is being clear on what our core values are. And it wasn't an exercise because a business coach told us to do it. It was because we wanted to be able to articulate a code of conduct in our business, because that's the foundation, then, of what would drive these kinds of conversations if we don't have that standard set for us. It's our core values. We wouldn't necessarily have a compass telling us we're off course. And so the core value establishment, like what you do with those, are very important. I think another thing is that we talk about standards, meaning that when we introduced Monday.com and what we were going to do on it, it wasn't passive language about, well, let's hope. We hope to. The goal would be, we got clear on these are three or four standards that our team is going to be committed to, unapologetically.
+
+[00:47:49.150] - Brandon
+So again, once there's a standard, then we can have a less emotionally driven conversation, and we can just point ourselves and our people back towards this thing that we all recognize as our commitment. This is not about your gut feeling. This is, we said yes to this, so therefore, we need to be held accountable to this because we said, this is what we're going to do. I think the third thing is that because we're committed to this kind of working relationship, we didn't let this go longer than it needed to. We identified there was action to be taken, and we stepped into having that conversation so that we don't allow that account to build up against us. Right. That we don't allow this weird, unspoken animosity or breakdown in trust to continue to pile and create the kind of scenario that someone fails, someone leaves, we begin acting or behaving in such a way where we become a self fulfilling prophecy. Right. And so I think those are three really important things. Like, we establish core values for a purpose. It's our backbone. It's our compass. We have standards, and standards are non negotiable. Once we all commit to the standard, then we can all talk about the standard in a neutral, less emotional way.
+
+[00:49:06.290] - Brandon
+And then we committed to keeping short accounts. So we're going to address things face to face and directly. And here's a fourth one that we actually didn't talk about yet in the story, and that is. So Chris immediately took action, which, again, it's like, that's better than a sorry, right? And though I don't know if you remember, but later that evening when we were talking, I said, hey, it's important to me that I'm glad that you did that, that you took care of those tasks. But don't forget to circle back around with Wayne, because that's the way that we actually close the gap here. Because if we don't do that, there's still room for Wayne to have a story in his head. Like, just because I jump in and in the moment, fix the thing I was deficient on, that doesn't build trust, because, like, what you alluded to is that happened before. And so there's no formal recognition of that failure. There's no formal recognition with the person that I wronged of. Hey, I see and can understand from your seat what just took place. And for a guy like Wayne, this is very important because everything he does in our organization is always from this perspective of the ultimate version of us in floodlight.
+
+[00:50:20.990] - Brandon
+And so for us not to circle back around with that individual, we're still leaving a gap that could potentially be bad for the working relationship between the two people and bad for the team as a whole. And I know inevitably you will do that with Wayne directly, but I think, not trying to make a lesson out of this, per se, but I think to a certain extent, we have a responsibility to do so. And I think those are those four things. Right? Like, in order for us to manage conflict well, I think we have to have core values that actually affect the way we behave. I think we've got to have a standard, and we talk to a performance against a standard, not an emotion. I think three, we deal with things quickly or terms, Chris will say severely. We just get in in a concrete manner and address it right away. And then, fourth, we take action. But then we come back around with that individual and we recognize with them what the failure was, what the impact was, and what we're doing moving forward to create a resolution or a solution to good.
+
+[00:51:26.060] - Chris
+That's good, man. I'm really looking forward to not having a lot more of these case studies in front of the United States of America and beyond. Now, I hope it's helpful. I hope that maybe some of the folks listening were convicted. It forced them to think of some ways that they're do as I say, not as I do. Right. And maybe it's not just within your business. Maybe this is a situation that you have with your spouse or with your kids or a friend or another business partner. It's hard to say, but hopefully it made you think, and you can use my embarrassment as a platform for leveling up your own behavior.
+
+[00:52:06.630] - Brandon
+I love it. Thanks for hanging out with us, guys. We'll see you on the next one. All right, everybody. Hey, thanks for joining us for another episode of head, heart, and boots.
+
+[00:52:16.320] - Chris
+And if you're enjoying the show or you love this episode, please hit follow. Formerly known as subscribe, write us a review, or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening. Our.

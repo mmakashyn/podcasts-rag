@@ -1,0 +1,560 @@
+[00:00:02.670] - Chris
+Welcome back to another episode of the MRM podcast.
+
+[00:00:05.580] - Chris
+I'm Chris
+
+[00:00:06.390] - Brandon
+and I'm Brandon. Join us as we discuss business, life and legacy.
+
+[00:00:11.370] - Chris
+It's business time. We talked about how we wanted to do tactical stuff and this is the MIT Resto Mastery podcast. So talk about things that are tactical to the restoration industry .Collections, accounts receivable collections. And it just so happens we've had a couple of clients that have brought this topic to our attention and in some cases pretty dramatic fashion where we found out, oh, my goodness, you got a lot of cash sitting out there, 90 plus days.
+
+[00:00:45.150] - Chris
+You need to get your stuff together. Right. Another podcast topic. Right.But I just think it's worth us talking about. And we're going to get a little nitty gritty, I'm sure, but also just talking about how we think about collections, how we approach it in our business, the systems, the attitudes, the perspective that we put on collections and AR because I think there's probably some best practices out there that maybe aren't serving as well, or I should say not best practice default practices and behaviors that aren't necessarily serving us and might be contributing to us getting into these cash flow crises or AR pinches we find ourselves in. So I don't know exactly where I want to go with that, but I think there's probably a lot that we can cover. And I think we should give some nuts and bolts tips on stuff. We found that that can help.
+
+[00:01:42.690] - Brandon
+Yeah, I think you're right on. There's a bit of a balancing act just because it's not a one size fits all kind of scenario. There are certainly a lot of tactics that we can talk about, some strategies that we can deploy on a consistent basis so that I think we'll have a really profound effect on your team's ability to collect consistently and in a timely manner. And I think you're right. I agree with you. I think a lot of this is mindset and it's more about how often are we talking about it and at what times in our business battle rhythms are we bringing it up are probably the most beneficial.
+
+[00:02:14.910] - Chris
+And just again, conceptually, don't you think we look at generally we look at AR the wrong way, because I think in my own observations and of course, I'm coming more from the sales, marketing, branding, leadership side, but for years I sat in on our our leadership meetings where AR was a piece of the conversation. And I think we even sometimes slipped into this where we kind of put a AR in an administrative box. And oftentimes we have somebody now a lot of times it's an office manager that's in charge of AR.
+
+[00:02:46.230] - Chris
+Sure.
+
+[00:02:46.670] - Brandon
+Yeah, I think you're right.
+
+[00:02:47.430] - Chris
+And depending on the skill set in the profile of that office manager, that can be a great role for them. But I think what we tend to think of it is like almost a I don't know the right way to say this, but like an entry level secretarial, somebody that's just sending out a boilerplate email hopping on the phone and being nice. And we've relegated it to this simplistic role. Yeah, we're just checking boxes.
+
+[00:03:12.660] - Brandon
+Yeah.
+
+[00:03:13.170] - Chris
+You're going through your call list.
+
+[00:03:15.210] - Brandon
+Yeah,
+
+[00:03:15.490] - Chris
+that is just this rudimentary entry level kind of administrative task collections is.
+
+[00:03:21.580] - Brandon
+Yeah,
+
+[00:03:21.960] - Chris
+we're just following a punch list. It's just an order taker position kind of role. And we lose track of the fact that it's actually more of a sales role in terms of like the best people at AR that we've encountered. The best person at AR that we worked with was pretty dang strategic and how they thought about it, how they talk to people, how they approach the conversations, the timing of their AR follow up, the different approaches they would take, whether it was a direct pay, say, a mold job that we were collecting money on from the actual homeowner itself, or whether it was the way that they approached adjusters, how they would talk to them in helping get final approval on payments made, or if it was a person, a carrier that they were talking to.It's a really nuanced role.
+
+[00:04:11.160] - Brandon
+Yeah. Yeah. I think it does require or can require a higher level of social awareness. So let's put it that way.
+
+[00:04:20.070] - Chris
+Yeah,
+
+[00:04:20.610] - Brandon
+I think the struggle with more of a sales role and I know this isn't what you mean...
+
+[00:04:24.450] - Chris
+I know that verbiage has a lot of baggage for people.
+
+[00:04:26.880] - Brandon
+Yeah. It almost gets to categorize. Right. But no, there's two things that stand out to me when we talk about accounts receivable or collection activities. One is it's a team sport. And I think that's actually where we get it wrong is that we and we can talk about this a little bit. But operational staff estimators, project managers, technical staff, we are going after the freshest target at all times. It's like, you know, a lot of these roles are paid on a commission basis.I think a lot of these roles that are interacting in the collection process are often dealing with lots of files, right, lots of projects, and so it's we're all kind of running around with our hair on fire. And so it's like the newest, shiniest, newest target, newest contract. Those can become prioritized by a default over finishing strong, finishing well and collecting
+
+[00:05:17.460] - Chris
+getting the money
+
+[00:05:18.000] - Brandon
+efficiently. And I think so remind me with this, because this is a little bit more free form.This isn't necessarily a training exercise. So we're going to bat around this topic a little bit. We're going to free form with this topic a little bit. So help me remember coming back to this idea that it's really finishing strong, has a profound impact on our ability to collect. And so I do want to come back to that. But no. So two things, right? I think it's a team sport. And B, like you said, this collection activity requires some strategic thinking, some quick on your feet, higher levels of social awareness for those individuals to do it well. And we see this time and time again, not only in our own businesses, our background in our business, but even with our clients, like when you talk to someone and they've got their stuff together at the center of it, there's this person that's really prioritizing the collection activity and they're smart, like they have a way of thinking about it.
+
+[00:06:15.750] - Chris
+There's a finesse, too.
+
+[00:06:16.740] - Brandon
+There's a finesse to it. There's a finesse to it. But it's a team sport. Guys, this is everyone on the team needs to participate. It's like you and I talk about sales team sport. Everyone has a role when generating sales. And I think collections is the same way. So where do you want to start on this man? How do you want to go?
+
+[00:06:33.480] - Chris
+I don't know. There's so many different directions we could go, because as you're even talking about that, some of the different angles are coming to me. So, for example, we've spent so much effort to build relationship with our client, our adjuster, contacts at the carrier, reporting back effectively and collaborating with the agent office. Right. To build up that referral partner relationship. We put so much effort into our jobs and I think a lot of times we just kind of whiff it.We just kind of throw the collections process to chance.
+
+[00:07:05.880] - Brandon
+Yeah.
+
+[00:07:06.420] - Chris
+And I think because we do that, it's possible to actually burn a relationship in the collections process that otherwise was going really well. And it could be that our collections person took a hard line like got too aggressive too fast in that collections process, wasn't sensitive, didn't ask any good questions about maybe where the files at what the hold up could be. They weren't curious. They weren't humble.
+
+[00:07:31.350] - Brandon
+Yeah.
+
+[00:07:31.710] - Chris
+They just kind of took this systematic hard edge approach,
+
+[00:07:35.370] - Brandon
+one size fits all
+
+[00:07:36.240] - Chris
+and that can really burn a client.
+
+[00:07:38.760] - Brandon
+Yeah.
+
+[00:07:39.390] - Chris
+And so I think there's that part of it is this disconnect when it comes to our customer experience, because we talk about this a lot with our clients. Your customer experience, it's the sum of all of a customer adjuster, referral partners, experiences with your brand from the very first interaction and exposure they have to your company to the most recent. And oftentimes that most recent or that last interaction was our pursuit of collecting the check, getting the payment. And so we have to deal with that is just another part of the customer experience process. And so I think I think there's something there is just changing how we think about collections as just another step in the customer experience process. And just by doing that, I think it'll put the right priority.
+
+[00:08:28.530] - Brandon
+Yeah.
+
+[00:08:29.040] - Chris
+On that part.
+
+[00:08:29.910] - Brandon
+Yeah.
+
+[00:08:30.420] - Chris
+I think another direction we can go to that we probably should touch on..... OK, so we can put the right person in that role and what does that maybe look like, what kind of profile makes for a great AR person?Maybe we can riff on that a little bit. But then, OK, if we find ourselves in a cash flow crisis, which often at least has something to do with where our AR and aging is at, what do we do?Like what do you do to crawl out of that hole? Because, holy cow, this has happened more than once where we'll find out from a client. They just had a great year. We're all focused on we had a great year. We had a great quarter. Holy cow. We booked a million dollars worth of business in Q1. This is looking to be our best year ever. And then we start digging, we start peeling the layers away and we realize, holy cow, yeah, we did a million dollars worth of business, but we've only collected thus far two fifty of it.
+
+[00:09:25.710] - Brandon
+Yeah.
+
+[00:09:26.400] - Chris
+What in the world is going on. We got six hundred grand of that or seven fifty of that out.
+
+[00:09:32.730] - Brandon
+hanging.Yeah.
+
+[00:09:33.660] - Chris
+We're essentially being the bank
+
+[00:09:35.610] - Brandon
+and what happens after ninety days and you haven't collected the one hundred percent
+
+[00:09:40.150] - Chris
+how much are you actually going to get.
+
+[00:09:41.670] - Brandon
+Who knows what the percentage drop off is daily after that. Right. Or even after sixty days.
+
+[00:09:46.410] - Chris
+So I think we do want to talk about that because there is some tactical things that when we found ourselves in that situation which we have more than once. What do you do? What tone do you set? What steps do you take to recover? Get your AR back in a healthy position and then maybe I think if we're going to talk about that, then we can also reflect a little bit on, OK, what are some practical like rhythms or behaviors so it doesn't get as out of control.
+
+[00:10:12.880] - Chris
+Yeah, right. So I don't know where we want to start with that. What's your thought?
+
+[00:10:16.850] - Brandon
+That's good.
+
+[00:10:17.350] - Chris
+So this is more your wheelhouse. I mean, admittedly, being the sales guy and being stuck in that side of the business, I haven't had to deal with like hands on as much as you have, certainly.
+
+[00:10:28.990] - Brandon
+Yeah. And you know what the reality of it is, is cash flow and collections can be a really intimidating subject regardless of what side of the fence that you're on. But I think also there's a reality that it actually can be a really fairly easy system to put into place and can be followed on a consistent basis. And when it is, it really does take a lot of the anxiety out of the collection activity. It's always amazing to me and I've experienced it firsthand. I've done it. I've been in the shoes. How often is operators, people in the field that we just are so uncomfortable to talk about money and our uncomfortableness actually just exponentially builds on what the clients are already feeling. And here's a reminder, OK, customers are not afraid to talk about money. There's all sorts of stress and anxiety already from their position because most of the time we're talking about events that are sudden and not planned. Their anxiety is over the unknown about the money and the process.
+
+[00:11:32.719] - Chris
+so true
+
+[00:11:33.610] - Brandon
+So if we're very diligent stewarding our customer and building the conversation about the financials as part of our initial process,
+
+[00:11:42.310] - Chris
+setting good expectations
+
+[00:11:43.370] - Brandon
+setting good expectations. Not only is it a comfortable conversation to have, but your client actually is really thankful for the fact that you've addressed the elephant in the room. So before we spin out on a little nuance, right. Because I think that's a little it's a tactical component. Let's do this let's break it up this way. And I'm spitball in here. But this will give us some framework. Let's focus on three different places. Let's talk about our behaviors with our client, our behaviors with the carrier slash adjuster, and our behaviors as leadership and accountability. What do you think?
+
+[00:12:21.090] - Chris
+That's good. In fact, can I lead off?
+
+[00:12:23.830] - Brandon
+yeah
+
+[00:12:23.950] - Chris
+I'll lead us in a direction on the our behaviors. And what you just started to hit on was setting a good expectation with regard to the money and our time. And I would guess and you tell me if my hypothesis is right ...One of the things you developed was the checklist as part of our process, because what we were seen observing, hearing from clients over and over with regard particularly to resto, but I think this could be said for all of what we do in disaster restoration. Our average customer has no idea what to expect and how the process is going to unfold from the moment they have their toilet overflow to the post construction, cleaning and punch list walk through. The customer doesn't know what to expect. Right. And money is just one part of that. But money is certainly one of the things that people are freaked out about. Most people don't understand their insurance coverage. They don't understand what their obligations are going to be. And I remember when you created that checklist, one of the things on there, because I've had opportunities to sit down and go through that meeting with clients is just stepping them through the money. What's going to happen? And talking them through the different variables in terms of, hey, when the insurance company issues the check, there's a good chance that both your bank and you are going to be written on that check.
+
+[00:13:41.770] - Brandon
+Right.
+
+[00:13:42.190] - Chris
+And here's what that's going to mean for us.
+
+[00:13:44.350] - Brandon
+Right.
+
+[00:13:44.680] - Chris
+You're going to receive that check. You have to endorse it, sign it over to us. Right. Unpacking very specifically what's going to happen. And it seems like to me when I look back that once we deploy that checklist document in the context of having a checklist, meeting with the customers. Once we got our estimators to do that, every single time. When we'd start build back on a project, overall that's stabilized our AR, ouraging process.
+
+[00:14:14.590] - Brandon
+Yeah, I think it certainly was not the silver bullet. It was one of the elements that, when executed on a consistent basis, had a positive impact.
+
+[00:14:23.710] - Chris
+Yeah, like when we would talk about it ahead of time, there was less variability. There's less confusion.
+
+[00:14:28.770] - Brandon
+Yeah. Yeah. So let's start there. So when we think about collections, there's an element of somewhat, there's some compartmentalization that happens. But again, it's a team sport. So let's just start with the client interaction, setting expectations, talking about process, talking about who's going to be on drafts when drafts are going to be delivered to us as the contractor, blah, blah, blah. Right. So let's start with that. You hit on a perfect example. Your team members need to be equipped. And I think where we're talking about this is not necessarily at a tech level, although I would petition that I actually believe in a continued advancement and what things a technician is addressing on a loss. I really feel like as an industry, we have really pigeonholed technical staff into a very limited capacity. At the end of the day, if we want people growing, loyal, adapting, I think we need to have higher levels of expectations on our technical staff. It also allows us to pay them more and be more competitive in a wage war. But that's a whole different topic anyways. When we're talking about your team members being a part of the collection process or the communication with your client. We're probably predominantly talking about project managers, estimators, and probably your division leadership. Right. So at a mit level, you probably have a division leader that's doing that. Here's the thing. Those roles and up should be very competent on the funding process of every claim. Meaning, internally you need to be teaching as part of a performance indicator. You need to be teaching your project managers and estimators to have a very competent perspective on where the money comes from, how it's distributed, what that process looks like. Because even if an estimator as an example is the one that is walking a client through a checklist or a process outline, we need to remember that the financial conversation is happening over and over and over from the very beginning to the very end of a project. Which means if your project manager is your primary client handholder. They need to be very comfortable having the conversation, because when change orders come up, when supplements are happening, if we're talking budgets with a client, part of that conversation also needs to be cash flow on that particular project.
+
+[00:16:56.290] - Chris
+Which includes them being fluent in the insurance side of it
+
+[00:17:00.610] - Brandon
+yes
+
+[00:17:00.610] - Chris
+from the standpoint of understanding how the payments are going to flow from the carrier in terms of the depreciated initial payment,ACV payment versus a replacement cost payout that comes after the fact. It's surprising to me. Now, of course, I have an insurance background, so I guess I'm a little bit .....I'm coming at it from a different angle. But it surprises me in the industry how few estimators, project manager level in technician, because I think this is something they can understand. Oh, yeah, it's a good for them to understand this, even if we're not asking them to engage in a conversation. Yeah, I'm surprised at how few field level leaders understand the ACV versus replacement cost aspect of the policies, because, I mean, we live and die by insurance coverage.
+
+[00:17:47.404] - Brandon
+yeah
+
+[00:17:47.980] - Chris
+Most of our businesses are predominantly funded by insurance revenue, and we don't know this. And it can be very confusing to the homeowner business owner as these payments start to flow. What's happening? Like they get an ACV, an adjusted initial payment. They're like, why the heck are they only giving us one hundred and twenty five thousand? Like this should have been three hundred and eighty thousand? WOAH WOAH WOAH WOAH what? We'll hold on, here's how it works.
+
+[00:18:12.290] - Brandon
+It's not the end.
+
+[00:18:13.420] - Chris
+Any time we can avoid..... This applies to so many areas of the business. Any time we can preempt those kind of confusing, stressful moments, benefits us and the customer and referral partners. Everybody.
+
+[00:18:25.810] - Brandon
+Without a doubt
+
+[00:18:26.440] - Chris
+Because it's such an emotional thing.
+
+[00:18:28.150] - Brandon
+Yeah.
+
+[00:18:28.630] - Chris
+When people feel like they're getting surprised with negative information, it knocks the whole project off kilter.
+
+[00:18:36.400] - Brandon
+It does
+
+[00:18:36.910] - Chris
+Like how many times have we seen that, were it's just a misunderstanding. But the client gets worked up, they get spun out. The story in the head starts
+
+[00:18:44.500] - Brandon
+oh yeah.
+
+[00:18:45.410] - Chris
+Now all of a sudden we went from having just a very simple misunderstanding, to now we're having to rebuild the customer's trust. Maybe somehow they think we did something wrong or we communicated something poorly.
+
+[00:18:57.620] - Brandon
+Yeah.
+
+[00:18:58.000] - Chris
+In reality, it's just we failed to communicate in advance of that thing happen.
+
+[00:19:02.690] - Brandon
+Yeah. This is likely to happen.
+
+[00:19:04.120] - Chris
+Yeah, right.
+
+[00:19:04.900] - Brandon
+Yeah. And what we see in those situations, we've got to be careful not to spin out on every one of these. But what happens often in those situations too, is that because they really don't know you from Adam yet, they start going to everyone else for, hey, what's your thought on this? Like this is what the contractor says it's worth. Here's what I got from the carrier. Right. So they have all these opportunities to hear, and often people that do not have any experience in our industry, giving them all this advice and input on what's happening; because we didn't own that part of the conversation and set the tone for it from the very beginning. And so getting back on track, here's where we're at. A, your team needs to be trained in such a way that they understand the ins and outs of this. It needs to be incorporated into your initial introductory process, i.e. "hi client. We're the team. Here's the team players. Here's the financial aspects. Here's how money is going to flow in and out of this project." Guys, to include stop work policies, OK. So we understand that we're working with clients that have not saved money. They have not been sitting around for six months picking out their new tile choices. These are often sudden events. Our clients are stuck in an awkward position when this happens, while we're negotiating with the carriers, getting funds approved, getting an agreed upon scope. We feel the urge to want to get work started for our client, and that's appropriate. But this is not retail construction often. there are things that need to be approved before we can start work. Otherwise, you're putting your company at risk and you're putting the client at risk at having some kind of out-of-pocket exposure that they didn't need to have. And so there is this reality that we want to get started immediately on a job. But in order for you to have a sustainable business, you cannot be spending money you do not know you have.
+
+[00:20:59.850] - Chris
+You're not a bank.
+
+[00:21:00.780] - Brandon
+You're not a bank.
+
+[00:21:01.560] - Chris
+You're not a financial institution.
+
+[00:21:02.970] - Brandon
+You've got to have some funds to be working with. However, finding some balance because of the nuance of our industry. Let's get some work started. Let's identify within our organization what's a fair and appropriate level of work to get started. Here's an example. I've got a home who's had not only the finished floor and underlayment removed, but maybe we've even cut into some subfloor. All right. How long are we going to have a client sit with a hole, right, to the out of doors, if you will, or into their crawl space while we're negotiating a scope of work? Well come on, let's use common sense. We know from a client experience we're not going to do that, but we're not going to keep spending in hopes that we get an agreed upon scope established. So let's go ahead and set some thresholds. Right. Based on the size of company  you are. Based on the type of jobs that you consistently do. What's a safe number that you and your team can spend on and monitor in your width that, once you start to see that threshold approaching and you haven't gotten funds collected on that job? You know when to push the stop button. Right? So it allows us to manage our client relationship, get some progress started,but at the same time, we don't overextend ourselves and compromise our company. So established that you guys. Build that into your process with your team, establish what your stop work policy is, and then again, as we're teaching our client and communicating to them the collection process, we're talking to them about what a stop work policy looks like. "Here's what we want to do to help you and get you started. Please understand, we do not want to expose you to any out of pocket exposure. We can't get really heavy into your project, until we've got approvals from the carrier and funds are starting to get released. However, we're going to go ahead and get started doing these things. Please understand, if we don't have this much money by such and such date, we would have to potentially stop your project."
+
+[00:22:55.110] - Chris
+yeah hit Pause.
+
+[00:22:55.740] - Brandon
+"Here's what our team's going to do to try to prevent that. Here's the role, Mr. and Mrs. Client that you have in helping us so that we don't have to do that as well." So, again, we're not going to go into every nitty gritty ounce of  this, but teach your team. Your team needs to be competent on the carrier. On the collection process. Where money's coming from,.Who's named on bank drafts. Right, the works. We need to be talking to our client about that from the very beginning to include establishing training and discussing our stop stopwork policy with our client. All right. Here's the other thing that I would say. Staying in our client communication practices in regards to funds. Change orders, upgrades. So we're not going to go way in depth on this. But guys, if you're operating without a change order form that's being signed and dated by your client, you're wrong. So figure that out . We would be more than happy to help with that. Customer selections form of some sort is another critical document. Again, we're signing dating, right. But change orders, let's talk about that as part of our communication with our client. Most of our clients, especially if we're doing a great job proactively leading them. Most people do not want to put their house back exactly as it was prior to the loss. They want to be back to a like-kind position, but most of us, if we have our house tore up for any reason, finally, this is the opportunity, right. And this is part of that client experience that we get to have. It's like this situation kind of sucked. But since we're here and I'm leading you well and we're being great stewards to the relationship, isn't now kind of the time to explore some of those things you wanted to do?
+
+[00:24:38.910] - Chris
+Island, granite countertop, open floor plan.
+
+[00:24:41.000] - Brandon
+We got it right. Right. And so this is that opportunity to get to walk your client through that. Provides some good, competent numbers, and then, guys, here's the critical piece. Get some money down! When it comes to upgrades, my perspective and we hear a lot of operators coming from this. Is if they do not have the funds to give you a significant down payment on that work, we may have a bigger issue in front of us than we really want to consider. So when it comes to change orders, we really aggressively pursue a significant down payment on those items. So here's an example again. You tweak your process to fit your team 50 percent down before we start that element and the remaining when that particular piece is done, not the whole project.
+
+[00:25:27.460] - Chris
+Right.
+
+[00:25:27.900] - Brandon
+So really looking at change orders as an isolated component within the loss as a whole. Now, many of you are probably saying, well, what happens when they're trying to use or move some of the funds to do one thing, to do something else? Again, we understand that. We understand there's conversations that come up about that. Meaning they had a laminate top, they want to upgrade. We're talking about that difference in price. Right. So they had laminate their old laminate. They're getting compensated for laminate. Great. That's awesome. But they want to go ahead and upgrade to granite. Let's just collect on that difference. That's what we're talking about. There's no insurance proceeds for that. That's an out of pocket expense. They either have the money or they don't. And so let's do that.  And that again, these are all the little things that begin to add up that have a profound impact on our cash flow. So using change order documents and requiring some down payments on that right away.
+
+[00:26:20.680] - Chris
+And this is the kind of thing that we're reviewing on a consistent basis in our production meetings. This is part of the review of the work in progress and documentation that we're looking at as a dashboard every single week.
+
+[00:26:34.860] - Brandon
+And we're going to get into that. I think let's hang there, because I think that. There's.... The accountability leadership behavior, kind of the mentality behind this is a real big component. I think I want to end with that. I kind of hang out in that space towards the end because it's really that's where the whole team sport component, I think, comes into play. So again, man, and there's so much to talk about in this. But again, we're training our field staff. We're making this part of our standard communication process with our client. We're establishing stopwork policies regarding funds collected versus expenses. And then we're really doing a great job of being diligent about collecting upfront on change orders or significant changes in scope that the clients adding.
+
+[00:27:16.740] - Chris
+Not being afraid of that conversation, because I think we are sometimes afraid of just opening up a can of worms. Like that they'll just be more and more questions, more and more to deal with. Meanwhile, we've got 15 files we're trying to process. And it's just going to...... It's the Pandora's box.
+
+[00:27:32.340] - Brandon
+Yeah.
+
+[00:27:32.910] - Chris
+Better to just do what the customers is asking and we'll figure out money later. No, that's how we get into trouble.
+
+[00:27:39.180] - Brandon
+That's how we get in trouble. That's how people go out of business, really. The other thing here, too is, I think teams need to understand........and some of this is happening less and less, and I don't want to pretend to know everything about the nuance of this and how it's impacting our industry right now. It's actually something that I'm really eager to get a guest on in the near future to talk about the banking side of this, because I think all too often we're not actually hearing much from the banks perspective on the insurance loss experience. So let's pursue that at some point. But a big thing to remember here is that there are normally some element of funds that get released right away at the beginning of the claim process. Most of the time we know those are some form of depreciated funds. Right. We need to be asking questions at the beginning of the loss, of, has an adjuster come out? Have you received initial funds? And then explaining what those often look like, because I think it's easy from a customer's perspective to be in this place of, well, I only got fifty grand or ten grand. One of the number is and they think in their mind, this is it, this is the end of the purse. And I think part of, again, competently walking our client through the process of reminding them that, "yes, there's often some initial funds that are dispersed on the claim. It's meant to be used to get the claim process initiated to start work with your contractor, but that there's still this live negotiation that's happening. That being said, we need to get those funds that have been released so that our team can get started on your behalf."  just not being afraid again to dive in, ask questions, get some clarity on what they know, and then fill in the gaps. Take the time to fill in the gaps of your client's understanding and go ahead and get some of those initial funds or those depreciated funds into process, whether it be at the bank, so that that can become cash flow or checks being endorsed over to your team and getting those into the bank. OK, those are the big elements. And again, I understand we're probably missing some of the little the little nuance here. We're just trying to give some broad perspective on what we're doing with our client. How are we behaving with our client in regards to money? And again, reminding everybody, guys, as part of our weekly updates, our communication updates to our client, you shouldn't be going long periods of time without something to do with the collection process, money, funds for the project being part of that update, being part of the ongoing communication. What do you think?
+
+[00:30:08.870] - Chris
+I think. I feel like that section is it's impossible to educate too much on the money thing early on in the process. Like, the more we talk about it, the easier it is to actually collect.
+
+[00:30:19.900] - Brandon
+Yeah. Oh, it really is.It really i. And one thing I want to remind, so for teams that have an internal person that's really going to specialize in collections, whether it be an administrative role or whatever, introduce that person's name to your client right away, because we're going to talk about this, I think, at the end when we go over kind of this attitude, overall attitude, behavior towards collections, we do compartmentalize on this really hard. Like we it's easy for project managers to go, well, I just get the job done. Someone else is going to handle collections, whatever the case may be.
+
+[00:30:51.250] - Chris
+not my issue.
+
+[00:30:52.030] - Brandon
+And even as we're trying to create efficiency, we're trying to make sure that everybody on the team is focused on the right things at the right time. It makes sense in your business model to have someone that that's all they do is eat, sleep and breathe collections. And we can talk more about that. If that's the case, get that person introduced to your client right away so that when that person calls and begins to connect with your client on their behalf, the name makes sense. It's not "well, I don't even know who I'm talking to in your company anyway anymore." All the things that. Right. That unravel. Let's go ahead and introduce that person to the process so that they can get started as quickly as possible.
+
+[00:31:28.700] - Chris
+Oh, man. Yeah.
+
+[00:31:30.040] - Brandon
+OK, let's jump categories.
+
+[00:31:32.140] - Chris
+What do we do when we get into a crisis?
+
+[00:31:34.450] - Brandon
+OK, are we ready to go. Let's hit adjusters first.
+
+[00:31:37.090] - Chris
+OK, yeah adjusters.
+
+[00:31:37.960] - Brandon
+I want to hang in that space. And you guys, here's the thing. When it comes to career adjuster communication, I think we'll touch on a couple of things here. There's so much here. And you guys know this. Out there, you guys are grinding day in and day out. This is tough. These relationships are strained often and it's just difficult. So my goal with this piece, Chris, as we jump into this a little bit, is to remind folks that even challenging relationships with adjusters, we need to understand what the world kind of looks like from their eyes, because often it comes across as malicious intent or combativeness. And then we feed into that story and it just can get way out of hand. Guys, the reality of it is, is the same strain and pressure you feel from running 20 jobs at a time. These adjusters are experiencing often at even a greater level. The workload that most adjusters and I dare say now, more so currently, the over consolidation, all the things right that are happening. Adjusters are operating with so many stinking files, man, their hair and ass is on fire. Right. Like it's nuts. So let's remember that when we're working with our adjusters. OK, so here's here's some things to consider. When we're negotiating a scope with an adjuster. Here's a practice I would encourage you in. This is not concrete. It's really an opinion. It's a professional opinion. Don't have your client tagged in all your communication with an adjuster when you're negotiating. There's a difference between negotiating and then following up to find out where the money is. And I want to talk about that because I think it's important. I remember early in my career we used to be a right and run teams for the most part. So estimates also ran their own jobs. And we had this scenario where I had an amazing new estimator not from an experience perspective, but just the right personality sales through and through. They just could get ink. They took really good care of a client just dialed in. And I remember getting a call from an adjuster who was absolutely out of his mind, pissed off.
+
+[00:33:56.110] - Brandon
+And the reason he was so frustrated is that from this adjusters perspective, what he felt like had happened is that my project manager had gotten that adjuster in the room with a client and was having scope negotiation conversations in front of the client. And the adjuster felt backed into a corner. Now, going back and sitting down with my project manager, that wasn't the intent at all. In fact, it was probably more so just making sure everybody's on the same page, which we've all been in those shoes.
+
+[00:34:26.960] - Chris
+Sure.
+
+[00:34:27.550] - Brandon
+But from the adjusters perspective, and that's where this has come up before, is guys, when we're negotiating scope, there's things that the adjusters and us operators understand about the process that our clients do not. And we need to be negotiating as professionals with the adjuster, with the carrier, to the point where if we do reach a point where we're not talking the same language anymore because of attitudes and egos and things like that, then sure, we get our client engaged.
+
+[00:34:55.270] - Brandon
+But until that happens, let's give the adjuster the benefit of the doubt. Let's have two conversations, two way conversations from industry professionals till we get on the same page about what we're doing. Now, once that scope negotiation is done and you've got an agreement and it's time to talk when money is delivered, boom, now it's time to get our client engaged in that communication chain, that email chain. So everyone's on the same page. So when the adjuster confirms with you X money dollars is being sent on such and such date, we don't have a client three weeks later that acts surprised that there was ever any money getting released on their job.
+
+[00:35:33.300] - Brandon
+But again, remember that, guys, there's a difference between negotiations versus follow up because we've got a skill established.
+
+[00:35:39.710] - Chris
+accountability
+
+[00:35:39.710] - Brandon
+Right. So that's always a big thing for me. Here's the other thing, guys. And this should be a practice, not a shoulda-coulda. This will be a difference maker. All of us are busy. All of us have too many files. All of us have too many clients that we're trying to take care of at any given moment.
+
+[00:35:55.950] - Brandon
+When you send an adjuster an estimate, set a calendar reminder for three days out, OK, set it out, put it in writing, follow up like a bloodhound. Hey, Adjuster, I'm just calling to follow up to make sure you got my bid package, my invoice package, my estimate, whatever. Because what you don't want to do is say, well, there's no way they're going to have time in the next few days to get to it.
+
+[00:36:19.380] - Brandon
+You're probably right. But we don't want to wait two weeks. And because we haven't heard anything now, all of a sudden we're calling the adjuster. And guess what the adjuster tells you when you finally get a hold of them? Oh, you sent your estimate. Oh, I never even saw that. So now we're two weeks into our collection process. They haven't even got the documentation to review. Now, granted, some of this can be an excuse.
+
+[00:36:39.240] - Brandon
+That's not the point. Right. So here's that practice. Send your bid package out. Set a calendar reminder three days later, follow up. And again, hey,reaching out, just making sure that you got my information. OK, then we're going to go ahead and set that follow up reminder every week on the calendar so that someone's doing it until the cash is collected. Now, here's our piece on this. The initial phases of collections. Again, this is an opinion, I believe professionally that your operational staff should be leading that conversation until we know that funds are dispersed or being dispersed.
+
+[00:37:19.740] - Brandon
+And again, unless you have someone in your collections team that has a lot of experience and can actually answer technical questions about that scope of work. You want your operational staff in that conversation, because what happens is you get an adjuster on the phone and unless you have the ability to address scope, adjust scope, answer those technical questions, how many phone calls will it take to get the answer you're looking for? So there's two ways to address that.
+
+[00:37:49.080] - Brandon
+One is you either keep your operational staff engaged in the collection process until an approval is given in a funds will be given on such and such date. Or you teach your collections staff that as soon as they get an adjuster on the phone, if there's question or push back, do not allow that adjuster off the phone. You say, hey, can I just put you on hold for just a moment because I know you're busy. And for the sake of time, let me get the PM or the estimator on that job on the phone right now. Let's get your questions answered so we can get this thing wrapped up. But that's however you address that problem. The point is, is once you get a busy adjuster on the phone, do not let them go until you can get some answers, OK? And that's just one thing to consider in that process. Again, I want to touch base on this busyness thing. There's two things to remember.
+
+[00:38:40.140] - Brandon
+Either you need to remember that the squeaky wheel is going to get the grease, so you need to be the professional squeaky wheel. The other thing to remember is your adjusters are busy. They don't hate you. They don't hate you. They don't hate the client. They may hate their job, but it's often not malicious intent. It's just a matter of them being busy and they're trying to do what they can do.
+
+[00:38:58.710] - Chris
+Can we also just talk really quickly before we move on to the next thing about an elephant in the room in our industry? And that is how often is money stuck in the pipeline because we don't have good supporting documentation? for the things that we're billing for. Right. How often have we come across that? Because we have a broken or incomplete mitigation process outline. We're skipping steps. We aren't training our technician, our field staff effectively to be consistently collecting the kind of photo documentation, notes, moisture logs, etc. that are necessary to quickly get adjusters to sign off on payment, right?
+
+[00:39:42.300] - Brandon
+Well. And I'll tell you more often than not, it's because no one's told the technician why the documentation is important.
+
+[00:39:49.990] - Chris
+exactly
+
+[00:39:50.550] - Brandon
+They've been told this is what we do sometimes at best, and they've been told do this or die, but they've never been told, hey, when you do this really well, this increases our ability to get paid in a short period of time, which allows me to continue to provide benefits, competitive wages. Right. Teach your team like they're not incompetent, they're not buffoons.
+
+[00:40:15.220] - Brandon
+They're humans with intellectual levels. And they can understand the process, you just got to share it with them.
+
+[00:40:21.520] - Chris
+Yeah, yeah. We want to be the easy button for these adjusters. Here's how we do it. It's you collecting awesome photos that really tell the story of the loss and the stuff that we're building for.
+
+[00:40:31.960] - Brandon
+Mattapoisett scans
+
+[00:40:33.130] - Chris
+all the things
+
+[00:40:34.930] - Brandon
+no, that's huge. And again, you're right, F9 notes like please do as much problem solving as you can prior to submitting your bid, package, estimate, package, invoice package, whatever you want to call it.
+
+[00:40:46.630] - Brandon
+Remember, adjusters have employers, they have bosses, they have protocols. They have internal processes. They have to follow. They have performance appraisals. They're going to get they have wages they're concerned about. They have retirement packages they're worried about. When you send half assed documentation and poorly supported packages in, they now have twice as much work to protect their own selves from their own internal processes. In order to get you paid, do the math right. Do the math.
+
+[00:41:16.300] - Brandon
+You know, I think that's huge. We're trying to partner first. There's dirtbag's in the mix, don't get me wrong.
+
+[00:41:22.300] - Chris
+Sure.
+
+[00:41:22.900] - Brandon
+But look at your bid. How easy is it without someone having twenty years experience to read what it is that you're submitting and say there's an argument for the things you're trying to charge for?
+
+[00:41:33.850] - Chris
+I can if I get press because I think that's something we lose track of is. That adjuster nine times out of ten has somebody they're accountable to. So if somebody else looks at that payment, audits that file and says, why in the world did you approve that? They have to have a good answer. You have to feed them the story, the answer to that question, right?
+
+[00:41:53.890] - Brandon
+Absolutely. absolutely OK. I think we end on the how do we get ourselves out of a really bad predicament? But let's go into kind of this kind of broader overview, leadership slash accountability in regards to this whole collections aging AR type scenario.
+
+[00:42:12.340] - Chris
+What are some of the battle rhythms we can put in place?
+
+[00:42:14.470] - Brandon
+Yeah, exactly. The first thing that stands out to me is how are we talking about this in a production meeting? And for those of you that may not be doing a production meeting, let's be clear on what that looks like. Chris and I and this is from our own experience, and this is working with some really great people and great operators with very large businesses. You've got to have battle rhythms to your week, to your month, even down to your days of these are consistent accountability behaviors, interactions, communication methodologies that we're using to do business.
+
+[00:42:47.260] - Brandon
+Right. One of those things is we just believe with one hundred percent certainty that at minimum, once a week, you and your key team members need to get together and review your live work. And during this meeting, we're talking about things like margins, jobs that have been approved but haven't been started yet. We're talking about work that is moved into work in progress and we're talking about costs versus funds collected. Right. These critical aspects of live projects.
+
+[00:43:18.310] - Brandon
+You've got to be doing this on a weekly basis. We believe that marketing teams, your key marketing personnel, not necessarily the entire team should be engaged in that because that's our opportunity to see what does that job doing? How does that affect my referral relationship over here? How can I help as a salesperson, keep the customer and referral experience optimal? Right. And then finally, collections. What are our jobs? Where is the funds? Where's money at?
+
+[00:43:46.330] - Brandon
+And here's what we think is really important for part of this meeting. When we see an account start to reach thirty days, whoever it is that's overseeing, whether it be an administrative role, one of the key leaders and owner, whoever is really owning the collection process, needs to speak up when they're seeing red flags. And any time we look at our aging and we see something beyond 30 days that hits that thirty one to sixty day mark, all of us should start having the hair stand up on the back of our neck.
+
+[00:44:16.300] - Brandon
+Not sixty days, not ninety days, not one hundred and eighty, but thirty one.  right. Once that happens, we as leaders should note it, be asking questions. And if you're the person from an administrative perspective, get people's attention. Hey pm so-and-so, I need your help. We should have had some moneys collected. It looks like the customer has it. I'm having a tough time reaching them. Right. This is a team sport again. Everyone needs to prioritize collections and everyone has just a little bit different relationship with the client. A little bit more push pull. Often we will see a project manager has a great relationship with their client when our admin staff tries to make contact with the client. It really doesn't go anywhere. As soon as the PM calls talks to the client....
+
+[00:45:01.930] - Chris
+movement.
+
+[00:45:02.380] - Brandon
+We got money! Team sport. It's why we believe these conversations should happen every week as part of your production meeting.
+
+[00:45:09.700] - Brandon
+That's a big one.
+
+[00:45:10.630] - Chris
+Which is a perfect segue into some tactics. What do we do when things do get sideways? They balloon out of control?
+
+[00:46:11.540] - Brandon
+Yeah. So first and foremost, leaders, you guys need to understand that there are times where we need all hands on deck and there are times that we as leaders have not done the best job possible to hold our team accountable to good collection practices. And we slip into these spaces that are scary. Those are the moments now for us to step in and first off, admit that we've had some failure as a leader and really own the fact that you play a critical role in allowing that spiral to take place.
+
+[00:46:44.800] - Brandon
+And I have been in those uncomfortable shoes more than once and they do not fit well and I hate it. But there's a reality that the team needs to hear you as a key leader, as the apex predator in your company, say really there is a lot of this that is my fault for allowing it to get to this place. Here's why that's important. Even if your team doesn't follow suit and admit all their wrongdoings and how they got there, the tone has been set. They know if you who they know very well is not the one on the phone calls.... Is saying, "I have a part to play in this," they're going to accept or be more likely to accept their role in the problem.
+
+[00:47:25.420] - Brandon
+The other thing that you do in this moment is that you're setting the tone for this. I need help. This is a team sport. This is all hands on deck. This is serious. The blame game is not the win, but noting it's a problem and it's time to come up with a strategy to overcome it. Those are all just key elements. That's good leadership.
+
+[00:47:44.830] - Chris
+Reallyimportant. And this is where it comes out. This is not just an admin problem
+
+[00:47:49.930] - Brandon
+correct. Yeah, exactly. That's where the whole team sport thing comes back into play. We have to start by acknowledging how did we get here? What role did I play as the key leader in this particular situation? And then we need to devise a divide and conquer strategy, i.e., we need to look at the players on our team and determine who can play what role in this. And then we need to literally look at these aging accounts and assign them in groups to whoever is going to participate in this recovery program, whether it be estimators, whether it be your key leaders and ownership team. Who are the players? Identify those people, take your group of aging accounts, identify the best personality, maybe because of their exposure to the job or it was one of their projects or whatever the case may be. They have a better relationship with the adjuster. Whatever, use some form of a prioritization system to assign that group of accounts to the appropriate person and then begin establishing measurables, i.e., here's how many phone calls we want to make a day. Here's the time window of day we want to make it because let's say a lot of these account representatives are on the East Coast, whatever.And you devise a strategy, and then as the key leader, it is your job to monitor and touch base on the execution and follow through of that.
+
+[00:49:10.300] - Brandon
+So here's just kind of an easy example. We've got ten accounts that are way out past 90 days, OK? I have two people that are going to help me chase this down. I have an office manager and I have an estimator, let's say, OK, and me. We're going to divvy out those ten files. We are going to establish that we're each going to do so many phone calls a day and that we're going to have a public space to note the accounts as we're making those follow up phone calls and gathering new information.
+
+[00:49:41.470] - Brandon
+Right. Who do I talk to? What date and time did I talk to him? When did they say payment was going to go out? Blah, blah, blah. And then we're just reviewing that strategy and checking in with the team daily until we get our goal met. Now, this might be counter and we actually had a conversation with a client like this not that long ago. Guys, it's OK to gamify this a little bit. It's OK to reward success here.
+
+[00:50:09.610] - Brandon
+And I know that sounds counterintuitive because we're asking ourselves the question, well, didn't a lack of performance get us in this position in the first place? Right. Maybe. Most likely there's some element of that.
+
+[00:50:21.280] - Brandon
+But do you want to have a principle that you're right-on or do you want your team to actually collect the money so the bank accounts full? OK, these are humans, let's not try to turn this into something it's not.
+
+[00:50:32.530] - Chris
+The incentives work.
+
+[00:50:33.700] - Brandon
+Incentives work. Turning this into a positive engagement works better than guilting the shit out of your team until they do what they need to do. Just walk away from what it could have and get dialed in on.
+
+[00:50:45.640] - Speaker 3
+Yeah, but what actions right now will win the game? And the actions are let's gamify it, let's track it, let's make it super public and let's reward the wins even though these wins are kind of a day late and a dollar short. Right, OK. And we see this all the time. It's like the principle in us is like, well, I don't want to reward......
+
+[00:51:05.110] - Chris
+We're rewarding bad behavior.
+
+[00:51:06.130] - Brandon
+Rewarding. But no, you're not. You're getting rid of right and wrong and you're winning and winning is the point. Right.
+
+[00:51:13.390] - Brandon
+So anyways, I think that that's what we're talking about. And again, there is lots of nuance on how you do this. But I think is that what you're going with that?
+
+[00:51:22.690] - Chris
+yeah, and again, normally we're not having a ton of chatter with admin staff and estimators where it's daily interaction.  hey, did you get hold of so-and-so?  what did they say? Oh I have an answer for you. I have that, I have a file with that note or or we get somebody on the phone. It's like, well, hey, I need those moisture logs. I can't pay you guys on that. And then it's the salesperson talking to that PM. Hey, can you get me those moisture logs I needed? I did get a hold. They said they can pay us, but they need this first. There was a lot of collaboration that was abnormal. It was different. It became a project that all of us were engaged in.
+
+[00:52:34.990] - Brandon
+No, absolutely. And again, I think because you kind of touched on the same principle again, guys, when you get to the position where this is a crisis, we've got a problem. We have to look at that and say, how do I be as successful with this problem right now? And do not spend an extra minute on the woulda, coulda, shoulda. Right. Now, what do we want to do once we get all hands on deck and we get the problem solved and we get the ship righted, then we go to hard core work on refining process. Getting back to the accountability, having an after action review and seeing what we're going to do to prevent from getting in that position in the first place.
+
+[00:53:16.420] - Brandon
+But I think like what you said, like what was part of that problem? Well, we didn't have good documentation. Well, is now the time to sit and bitch and moan about not having the right documentation or have someone tell you it's not their job? No, we're leading to win. We've got to get out from under the problem that we've created for ourselves. When it's over, then we do an after action review and we refine our process to make sure we don't get in that position again.
+
+[00:53:39.790] - Brandon
+But in the meantime, while you're solving the problem, all hands on deck, adapt and overcome. Not woulda, coulda, shoulda. No time for it. OK, so these are tough, our gig is we summarize our shows.
+
+[00:53:53.730] - Chris
+I feel like number one, the number one takeaway is it's impossible to overcommunicate about money ahead of time at the beginning of the project.
+
+[00:54:02.030] - Brandon
+Yeah
+
+[00:54:02.650] - Chris
+Like the more we invest in educating our team, the technician, the estimator, project manager, certainly our admin team. All people involved ahead of time, the more we invest in them, understanding how the money flows and how it works, the better we're going to communicate with the client.
+
+[00:54:20.440] - Chris
+The less surprises the client's going to have, the less possibility of that client getting frustrated and weirded out and calling their agent and complaining because they just don't understand and creating a negative impression that later we have to overcome with the agent or the adjuster. Right. The more we invest in setting good, clear expectations up front, the less we're going to run into collections, things on the back end. And then I think the second thing that we touched on was the
+
+[00:54:48.580] - Brandon
+adjuster relations.
+
+[00:54:49.650] - Chris
+Oh, yeah.
+
+[00:54:50.380] - Brandon
+Like, are we an easy button, right? Like, how much of our effort communication follow up notes. Whatever, like, how much are we doing with the background in our mind, with the understanding of these adjusters are more busy than they're even talking about. They have employers, they have employees. All of those initiatives and processes really at the end of the day, have not probably considered your company. They don't care.
+
+[00:55:16.710] - Brandon
+So what are we doing to ensure that our billing packages are as easy to get approved as possible? Do you not hear me say cheap. I'm not saying cheap to the bone competitive, whatever I'm saying. Are we noting? Are we providing documentation? Are we telling the full story in our estimate, in our invoice? So that adjusters not spending a bunch of time connecting the dots, building a puzzle to see if they can get it approved. Spell it out, tell the story, support what you've done.
+
+[00:55:50.580] - Brandon
+Huge.
+
+[00:55:51.270] - Chris
+Totally.
+
+[00:55:52.050] - Brandon
+And follow up. consistently
+
+[00:55:54.240] - Speaker 3
+And I think just to put a final cap on that adjuster piece. Right. It's us really thinking critically of how can we make this process not just good for our homeowner client, but thinking of that adjuster as another internal client of ours? How do we steward that relationship throughout the process to make it easy for them to give us money? How do we protect that realationship? And then the last thing, of course, is when we find ourselves in a crisis.
+
+[00:56:20.700] - Chris
+You talked about gamifying it, right. Don't be afraid to just incentivize the behavior that you need, which is we need to urgently collect this money. We need to make it a focal point. We need to put a time and date stamp on this. We need to set a target of by the end of this week, we want to have X amount collected. We want to assign roles, pick the proper roles. And in time of crisis, it is an all hands on deck kind of thing.
+
+[00:56:46.440] - Chris
+Right. It's identifying who would be the best person to go after these delinquent accounts and then executing on it just as though you were setting a sales goal for your marketing team to go make X number of new referral partner connections. Well, we're trying to collect on X number of accounts by the end of this week. It's definite. It's a smart goal. We make sure it's realistic, but we get aggressive and we make it the priority.
+
+[00:57:12.030] - Brandon
+Yep, absolutely
+
+[00:57:13.170] - Chris
+not an afterthought, not a quote admin thing, but we make it a priority. So I think that summarizes it.
+
+[00:57:20.100] - Brandon
+I think that's all there. One last thing. It's the overall attitude about cash, collections. Guys, this is a team sport. Do not be withholding information from your team. Now, I don't mean you need to let everyone in your team read your PNL, but we need to all be educated on where the funds come from? How they get into the building? What role everyone's going to play? And this needs to be one of the primary scoreboard elements that you're reviewing on a weekly basis as part of your production staff meetings.
+
+[00:57:55.440] - Brandon
+How is our aging? What has red flags? What do we need to do to fix the problem sooner rather than later? OK, this is an education process. There's y behind this teacher team, team sport. Get them engaged. Be proactive. Right. OK, thanks, guys. See you next time.
+
+[00:58:15.300] - Brandon
+All right, everybody. Hey, thanks for joining us for another episode of the MRM podcast.
+
+[00:58:19.890] - Chris
+And if you got something out of it, share it with a friend. Hit  subscribe. Hit follow. Leave us five star review. Thanks a lot.

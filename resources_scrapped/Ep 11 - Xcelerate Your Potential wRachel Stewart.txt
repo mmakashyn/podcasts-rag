@@ -1,0 +1,599 @@
+[00:00:02.680] - Chris
+Welcome back to another episode of the MRM podcast. I'm Chris
+
+[00:00:06.370] - Brandon
+and I'm Brandon join us as we discuss business, life and legacy
+
+[00:00:11.380] - Chris
+its business time
+
+[00:00:14.020] - Chris
+oK, this is a is a big episode for us
+
+[00:00:17.080] - Brandon
+big time
+
+[00:00:17.500] - Chris
+first interview. And I think we started  to get in a groove on just you and I talking, but we've been doing that for almost ten years. That's felt a little bit easy by comparison. So bringing  a third person in...I got the nerves.
+
+[00:00:29.980] - Chris
+But we were very intentional about this very first guest. And I think when all of you hear her name, she's very admired and respected in the industry. And now not just just being a restoration operator, but bringing solutions to the industry. So why don't you do the big reveal
+
+[00:00:46.900] - Brandon
+[ comment: https://www.titan911.com ] the big reveal. Yeah. So she got started in this industry basically in '08. So she joined team Titan, Titan Restoration based out of Arizona. I think we're probably starting to give away who the person is now.
+
+[00:00:59.230] - Brandon
+[ comment: https://www.xlrestorationsoftware.com ] Jumped in office, manager moved up to ops manager... General manager, ended her run with that very successful team as an executive VP, just posting win after win after win. Jumped in and started her own software company, so now most of you know, she's CEO and founder of Xcelerate Restoration Software, authored a book, Unqualified Success - Bridging the Gap from where you are today to where you want to be to achieve massive success. A mom, a wife, a runner.
+
+[00:01:31.210] - Brandon
+[ comment: https://podcasts.apple.com/us/podcast/restore-your-power-to-succeed/id1552006820 ] And most recently, she is now also a podcast host, Restore Your Power to Succeed.
+
+[00:01:37.900] - Chris
+And it's a good podcast, so we definitely recommend it. the other thing I've been trying to do this, we're doing this for all of our future guests. We're starting to research them and whatnot. And my takeaway is amidst all of this, there's a huge amount of humility which you and I really respect and appreciate in people. Right. And so it's like every stage of the way, and during the interview, you're going to hear she she talks a lot about just figuring it out as she goes.
+
+[00:02:03.250] - Chris
+Yeah, right. And that humility is really refreshing and I can really relate to it.
+
+[00:02:08.440] - Brandon
+[ comment: Joe Battisto Amazon review ] I found this quote, Joe Butisto, Batisto, Batista, Batista, Joe, sorry Joe, whoever you are, I apologize for murdering your name. But listen to this quote, though. I think this does an excellent job of summarizing this guest and the power that she brings to the show. Rachel creates successes within the organization she leads by developing a singular vision, driving focus and complete certainty that the team will achieve whatever they set out to do.
+
+[00:02:36.910] - Chris
+That's a powerful quote and a great one to end our introduction on, ladies and gentlemen, join us for our conversation with Rachel Stewart, the CEO and founder of Xcelerate Restoration Software.
+
+[00:02:51.700] - Rachel
+Thank you so much for having me and for the very kind and gracious introduction.
+
+[00:02:56.950] - Brandon
+Man there was a lot to work with there. I wasn't even sure what I should cut off or start because there is plenty to talk about for certain.
+
+[00:03:03.070] - Rachel
+Thank you.
+
+[00:03:03.970] - Chris
+Yeah, well, so both of us have really been looking forward to this. First of all, you are our first live guest on the show, and that's special. That's important. And  so we've been trying to settle in on where do we want to take this conversation? Because a lot of people you've been on other podcasts. You have this podcast that you do for Xcelerate. And by the way, I, I listen to another episode this morning and I'm like, wow, this is really good.
+
+[00:03:27.070] - Chris
+I listen to the Q&A episode that you did a couple of weeks ago.
+
+[00:03:29.980] - Rachel
+Oh, great.
+
+[00:03:30.580] - Chris
+Back in May. It's awesome. It's really, really good. One of the places I'd like to start and then Brandon can jump in and take over whenever. But I think I wanted to talk about vulnerability.
+
+[00:03:42.220] - Rachel
+OK
+
+[00:03:43.360] - Chris
+because as I listen to your podcast, I started listening to your book as well on Audible. And in just the limited number of interactions that we've had leading up to this, I feel like vulnerability is kind of one of your key attributes, like your willingness to be honest about your weaknesses, your shortcomings, maybe areas where you're unqualified, quote unquote, and  how you've balanced projecting competency and confidence to your team as you've grown at your time at Titan.
+
+[00:04:14.920] - Chris
+And of course, now running Xcelerate. Like how you balance that or even if you feel a need to balance, like authenticity, vulnerability and projecting this confidence and competency that your team can really follow and get behind. What are your thoughts about that? And how is that a wrestling match or is it just lean into your vulnerability and be totally honest? How does that look for you and your leadership? Or maybe how is that changed?
+
+[00:04:40.630] - Rachel
+Yeah, I mean, I think there definitely has to be a balance. So I think people need to be able to follow a confident leader that knows where they're going and is confident that they can get there. And especially like in the role that I'm in now. And when I was starting Xcelerate, you're jumping into a totally different industry where I have very little experience in terms of technology. Now, luckily, I backed myself with an incredible team that has experience where I don't.
+
+[00:05:08.860] - Rachel
+But you're starting a new industry. You're in a startup environment. You're working on maybe limited funds. You're doing a lot of things that produce maybe some uncomfortable situations for yourself and for the team. And so you really have to be able to have  firm belief in where you're going, what you're doing and in the vision. Now, you can balance that with the realities of things, but I think you have to temper that. I mean, I don't think you not all information is something that you should share with your entire team.
+
+[00:05:40.870] - Rachel
+And you really need to maybe have another support network where you share some of that. Other founders or other business owners or other people who are doing stuff similar that can absolutely relate to some of the stress that you're carrying on your shoulders. But I do think being absolutely honest and transparent with your team in terms of "ok, I don't know how this is going to work, I don't know necessarily all of the steps that we're going to take from here to there, but I am confident that this team can figure it out."
+
+[00:06:11.210] - Rachel
+That's where I think my confidence has come from, is I'm totally open to say I've been unqualified for every position I've held from office manager to even that executive vice president role and in Xcelerate, as a mom, as a wife, as well as a friend. Like, I'm figuring it out as I go, but I'm confident that I have the drive and the grit and the ability to figure it out. I think everything in life, we have access to so much information all of the time, even to the point where it can be detrimental.
+
+[00:06:51.250] - Rachel
+But if you want to learn something, you can figure it out for sure.
+
+[00:06:55.460] - Brandon
+Yeah, it's funny because when I hear you say it, it's so matter of fact, like this idea of being honest with what our current skill set is, with what things we believe we can handle, this this difference between confidence in the long term vision versus knowing exactly what step we're going to take next. You say it and as you're saying, I'm like, yeah, it makes perfect sense. Like, I don't understand why there is any question about that mindset, but the reality of it is, is that that mindset is not norm.
+
+[00:07:26.230] - Brandon
+Most of us have felt some pressure or reason that tells us we've got to walk into the room and have everything dialed in and figure it out before we can either A sometimes take the next step or B, be qualified to be a leader or hold these leadership positions. Why do you think that is? Like what is it that we are feeling this unspoken and maybe spoken pressure to have it all dialed in? Like we've got to walk around with the title that says we've got it all figured out.
+
+[00:07:56.800] - Brandon
+Where the heck does that even come from?
+
+[00:07:59.140] - Rachel
+I think that that for a long time. I mean, I think that is the way that everybody projected. There was very little honesty about where people actually were to get to where they are now. And I think that that was the good thing is I think those layers of starting to be pulled back and people are being able to talk about it more. But where I got it was just through experience one, like having experience diving into something that I felt totally was over my head.
+
+[00:08:29.050] - Rachel
+I had no knowledge about how to accomplish it, a very low skill set or training or anything like that, and being able to do it. Being able to show myself that I can figure it out. So that helped me. The other thing that really helped me was surrounding myself with more successful people. And when you start getting into honest conversations with those successful people that you look up to, that you think they have all dialed in and they have it all figured out, you recognize that they're dealing with the exact same struggles that you're dealing with and have dealt with.
+
+[00:09:01.660] - Rachel
+And so surround yourself with a lot of people like that going, oh, OK, they're just like me. I remember one time I walked into I was at a scaling up conference... I don't know if you're familiar with him. So I'm at a scaling up conference and they had somebody and I wish I could remember exactly who it was, but he had done several successful exit of technology companies and now had a fund where they did a lot of angel investing.
+
+[00:09:31.510] - Rachel
+So he's seen a lot of companies come and go and experience growing and scaling really successful companies. And he sat up there and he was just talking about like the first one of the very first technology companies that he did. And their whole motto was, "we suck less than the competitor." He was just talking about, like their whole thing was that they were going to suck less. They knew that they sucked, but they were going to just suck less than their competitor.
+
+[00:09:58.720] - Rachel
+And that was good. The way he approached the problem and I was like, oh, like he doesn't know what he's doing either. And so, like, being able to recognize that.  then the other thing that I've gotten, I think the most traction with is just surrounding myself with really talented people, like areas where I know that I have a weakness. OK, I need somebody that really is so talented in this area and like filling those gaps and not being afraid to give them the reins and let them run with it and really take ownership of of something where you're you just don't have the knowledge.
+
+[00:10:41.240] - Chris
+Have you always been inclined to do that, hire people better than yourself, like intentionally, or is this something you've kind of learned over time?
+
+[00:10:49.070] - Rachel
+Definitely. I think it's something that I've learned over time. And I think a lot of it came from. OK, so when I first got into restoration, the owner of the restoration company that I was working for, Russ Palmer, he had hired a consultant similar to what you guys are doing to come in and really tell him and be able to dig, dig into the business and be like, OK, this is where you need help and this is where you need a lot of expertise.
+
+[00:11:15.200] - Rachel
+So very from the very, very beginning, most of my work was done with this consultant and so I grew up learning how to like be able to take constructive feedback, being able to learn how to see where our gaps were, and then having the insight to just be able to trust him when he was able to say, hey, you need somebody in this area or this area or this area. And then we always surrounded ourselves with really good consultants or partners, whether it was our CPA or whatever it was.
+
+[00:11:48.110] - Rachel
+So I think that was a really big benefit to me, was the way that I grew up in the industry and the perspective that I had coming into it. Instead of coming from a place where I felt like I had to figure it out and then feeling some sort of like ownership of, oh, this is my process, I don't want to disrupt it. So I think that was something that really helped me.
+
+[00:12:11.840] - Brandon
+That's pretty powerful, actually. I didn't even think about what that would be like to literally start your career in an industry right out of the gate getting coaching or mentoring advice from somebody like that. That would clearly set a different tone than the average probably person starting a new franchise or getting into this business for the first time. That's powerful. Yeah. And give you a really neat perspective of not having to be afraid of taking really good input because it's kind of what we all need anyways.
+
+[00:12:43.100] - Chris
+So, yeah. Yeah. I think in general my experience is we're all working through this fear of being seen as incompetent as leaders. So I think that's kind of that ego fear of being seen as not qualified, incompetent for the task. Like we don't want to be seen that way. It's it's scary. And I think some people don't ever get over that. But clearly, that's something you've leaned into from an early point in your career. You got comfortable with that feeling of I don't know at all here and then I'm OK talking about it.
+
+[00:13:18.500] - Rachel
+Yeah. And I think it empowers your team so much. It really gives them the legs to to run with something and make it their own. Like right now we've got heads of our division for sales and marketing and onboarding and then customer success after and then our development team. And I've really just given them so much autonomy to really make that their own. Now I create the vision, I create the roadmap. I say, OK, in five years this is where we're going to be.
+
+[00:13:46.640] - Rachel
+So we need to be at this capacity at that point. But then like the nuts and bolts of how to get there, I turn it over to them. I'm like, you create a vision and come back to me with how you want to accomplish this and then we'll walk through it. If I need to get feedback, I'll give feedback. We can run across the other the members of the team or whatever, but it just gives them so much ownership of that and their passion like is sparked now.
+
+[00:14:15.380] - Rachel
+They can really put their finger print on things and feel like they're making a difference, that they have control. And that's been really awesome.
+
+[00:14:24.470] - Brandon
+Gosh, and in the current climate for hiring and retaining people. I mean, what you just said there is just chock full of really powerful advice for people to take note of is that's a game changer. By you treating your people that way and having enough confidence that you surround yourself with these wise people, with specialists like this, you treat them that way, they want to stick around like they're part of something that they're engaged in. It's a whole different level. They're not order takers, right?
+
+[00:14:54.470] - Brandon
+I mean, they they look at you and say, I am part of something. I have a symbiotic relationship to this company, they want to stick around. They want to see the fruits of their labor come together, right? They want to see the end result. Is that like an intentional piece? Did you see that mirrored for you where it was like, I can gain a lot of loyalty by treating my people this way? How did that kind of that stage get set for you?
+
+[00:15:18.900] - Rachel
+Yeah, so I do want to answer that. But before I do answer that, I do think that you have to hire the right people for that model to work. So you have to have people who are self driven, who are self-motivated, self directed. You can't have people who want to wait around and be told what to do or are too hesitant to be able to take any risk. So the first thing about that is that you have to hire the right people in order to do that.
+
+[00:15:47.370] - Rachel
+If you just tried to do that today in a regular organization, you might not have the right people on the bus. And that might really take a back seat. It might really hurt the organization. The other thing is you have to be the right kind of manager who doesn't micromanage. And some people need to be micromanaged or some people like to be micromanaged and get constant feedback on every single step of the process. And I also don't think that that's going to work as well.
+
+[00:16:16.830] - Rachel
+I think you could probably change your management style a little bit to cater to that. But with me being as busy as I am with all of the different things, I just don't have time to manage at that level. So I will say that you have to have the right people. The second thing is, I don't know if it was learned or if that's the way I really like to operate. That's the way that I flourish and that's where I really flourish.
+
+[00:16:41.370] - Rachel
+Running that restoration company is I was given a lot of autonomy and a lot of different areas and so that I was able to really take ownership and I really treated that company as if I was my own. And so that's the way that so much loyalty was garnered for me. And so what I'm trying to put together a team and we kind of centered around core values. Those are core values that are really important to me. So I'm hiring to that and then I'm managing to that.
+
+[00:17:08.760] - Rachel
+And so I can get really kind of depends upon the organization.
+
+[00:17:12.960] - Brandon
+So I'm kind of hearing you say and in there that a lot of that, like you said, that's driven by what kind of company do I want to have? So someone needs to do some form of an evaluation of what kind of organization do I want to create and then execute accordingly. So like what I'm hearing you say is that's not going to work it at every house. That's not going to work in every business. That's not going to work for every industry at any moment per say.
+
+[00:17:37.380] - Brandon
+Some version of it might be that. But you clearly had a vision for what kind of company you wanted to create. You hired accordingly. And now you're treating your people the way that aligns with that vision that you had established for your company. Is that a summary of what you said?
+
+[00:17:51.660] - Rachel
+Absolutely. I mean, I really think core values and the way that the organization starts is so key and then making sure that the people that you hire are aligned with that core value, those core values. And I don't think there's one right way to do it. I'm just giving you my perspective of what's working for me and something that it's a company that I want to wake up every morning and be a part of. And if that's not like your personality or your skillset, I don't necessarily know that that's like something that you kind of forced into your company.
+
+[00:18:23.550] - Rachel
+If it doesn't feel comfortable, I think you find what feels comfortable aligning those core values with your executive team. Make sure your executive team is all in alignment with those core values and then that trickles down to your front line folks.
+
+[00:18:37.290] - Chris
+I want to poke at something that you said and get more of your input on it. And that is you talk about just how your your lifestyle, your professional life is really busy. Like you have a lot going on. You're moving in a lot of directions. You were when you were at Titan, and it sounds like at accelerate  you're the chief salesperson in a way for the company and you're also managing the operations, overseeing the software dev teams and all those different functions.
+
+[00:19:03.060] - Chris
+And yet it appears you're creating a really special culture at accelerate like you did a titan, which takes some kind of discipline. So I'm curious, as you delegate, as you hire these great people, can you talk about just how do you inspect what you expect? Like how do you keep a pulse with your team on? Is everybody actually still heading in the right direction? Is my vision getting carried out day to day, or are we all starting to kind of drift?
+
+[00:19:31.290] - Chris
+Like, how do you how do you manage your expectations?
+
+[00:19:35.460] - Rachel
+I'm so excited to answer this! So one, I think that having an operational management system in place is very important. So I am a personal fan of scaling up, but I know a lot of people who do traction or something else. So having annual priorities like your five year priorities, your annual priorities that are broken out into quarterly priorities and then those priorities are broken out to the specific department heads. And that whole vision is really, really well communicated,is something that I think is foundational to being able to successfully run that.
+
+[00:20:16.120] - Rachel
+[ comment: https://cameronherold.com/vivid-vision/ ] [ comment: vivid vision by Cameron Herold ] I also think that creating a vision. I'm a huge fan of creating a vision. And what I mean by this is this is something that I actually learned from my father. He called it Visioneering. I've heard it called Vivid Vision by Cameron Herold. He's written a book about it. But it's taking where you want your company to be in 5 or 10 years and being able to write that out in very vivid fashion where it's really sensory rich, where you can feel it, smell it, hear it like all of those kind of things.
+
+[00:20:48.730] - Rachel
+And you can kind of see exactly how you could play a movie of it in your head. Right. You can push play and it kind of plays this whole scenario in mind. And you get a sense of like what the culture feels like, what the customer experience is like, what it feels like for the employees when they walk in every day, what people are inspired by all of that is kind of really written out in a very specific manner.
+
+[00:21:13.630] - Rachel
+And then everybody has a piece of that. Right. So at accelerate right now. What we're doing is we're creating that for each department... Is creating their own vision, and then we're going to combine that as a whole vision because we have some new department heads and everything like that. So it's really kind of a process of creating it right now. And so then that's something that everybody reads once a week or and plays it constantly. Now, there's a couple of things that happen, one,  you're all in alignment about where you're going and what the purpose is and what you're trying to achieve. Two, your subconscious really starts going to work because there is a disconnect between where you are as a company now and where you want to go.
+
+[00:21:54.130] - Rachel
+And your brain does not like that disconnect. So it's always trying to solve problems to get you closer to where that vision is. And so when you're doing things like taking a shower or going on a bike ride or playing ball with your kids or whatever, you're not even thinking about work necessarily an idea will pop into your head. That's like, oh, maybe this is a solution,ya know... And so your brain starts coming up and working when you're not working.
+
+[00:22:19.450] - Rachel
+So that's something I really am passionate about. The second thing then is once you have that and you start breaking that out into your quarterly priorities and your weekly priorities, then your team knows exactly what they're supposed to be accomplishing, what their highest priorities are and how they're being measured. I think KPIs are very important. I don't need to be able to track every single activity my people are doing. But if I can get a scoreboard and be able to see how they're trending on the big things, then that's really effective.
+
+[00:22:52.430] - Rachel
+Then we can make adjustments there and we do. we have a regular meeting rhythm that we feel like it's very important. We have a daily huddle where we can just jump on for 15 minutes and coordinate anything high priority and kind of just give updates on where we are with different things. And then we have a weekly company wide meeting for all of our team. And so I think all of those things are really, really important meeting rhythms.
+
+[00:23:20.020] - Rachel
+And they don't have to be long. They can be very specific to agendas where you're solving problems, you're eliminating roadblocks, you're talking about solutions for the next step, all of those kind of things.
+
+[00:23:32.800] - Brandon
+Listen, if somebody is going to stay tuned in to the show for any longer and you have not had a notepad out, please, I know we're probably driving or doing something, but, man, if there is a way, obviously, we're going to have shown notes when this is all over. This might be one of the episodes where you literally print the show notes and you go back through and do some highlighting. because you are hitting on some really key elements in terms of these things that you're referring to.
+
+[00:23:58.930] - Brandon
+These are leadership staples and this is leadership from all the way from small level organizations to very large, which I mean, who knows what you're building right now, right? I mean, software companies are meant to scale. They serve a very large population. You're  building the foundation for something that could get very, very large. Right. If everyone does their job right.
+
+[00:24:19.660] - Rachel
+And we have every intention that that's going to happen.
+
+[00:24:21.982] - Chris
+Love that.
+
+[00:24:22.090] - Brandon
+And I have no doubt that you have that intention.
+
+[00:24:25.210] - Chris
+Certainty.
+
+[00:24:27.100] - Brandon
+so I'm thinking this... The average listener, right, the're probably uh... I don't know let's give it a number. Maybe there are 2 million, maybe there 5 million. Right. Because the average restorer in our industry, they're not large outfits. These are fairly small staple type companies. Does this stuff apply? Like, if I've got five employees and I'm doing 1.8 million, I'd like to see 3.
+
+[00:24:51.940] - Brandon
+Does this stuff matter? Should we care about this?
+
+[00:24:54.760] - Rachel
+Absolutely. It matters
+
+[00:24:55.660] - Brandon
+why?
+
+[00:24:55.660] - Rachel
+I think creating the foundation now, like, I think...Getting your team on board with where you want to go, it's very hard to get your team aligned and moving towards something passionately because there's so much day to day that you can get sucked up in, oh, something happened on this job or this homeowner was unhappy or whatever, like just responding to that next loss or, you know, and if you don't have a real vision of where you're wanting to go and the other thing is being really intentional about what kind of work you want to do and what kind of business you want to run, because it's really easy to just start chasing revenue dollars.
+
+[00:25:31.930] - Rachel
+It's really easy to go, OK, it's just all about revenue and you lose sight of the actual type of work you want to do. And so you could get... And don't get me wrong, I think programs definitely have a place to to be effective in a company and everything like that. But if you're not careful, you can just start chasing that top line and you lose sight of where your bottom line and your some of the other things that you may be wanting to focus on.
+
+[00:25:59.230] - Rachel
+So I think getting those that team aligned and at some point you are going to scale and you've got people on your team right now and you need to be finding out right now whether they have the leadership qualities to scale with you or if they're going to be somebody that stays in that position, and you need to start keeping your eye out for that next person. And you can't do that without creating a vision and seeing how they can execute towards a vision, even if they don't have a title right now.
+
+[00:26:27.490] - Rachel
+So I do think it allows your people to expand, become more and grow. And then it also gets the company focused and in alignment and it creates patterns for how you're going to do it. Like I would like to say that we always ran, that I always ran companies this way and I did not. It was a very like learning as we go process. I didn't learn about scaling up until 2014 and we didn't implement it really into our company I think about 2015 or 2016.
+
+[00:27:02.380] - Rachel
+And so doing it at that point created a lot of culture shifts.
+
+[00:27:08.500] - Brandon
+Yeah
+
+[00:27:10.840] - Rachel
+and it was not an easy process. It was very uncomfortable for a lot of people. We ended up with a lot of turnover just because there were some people who didn't want things to change and then some people that we felt like didn't fit into that. And so doing it at that point just it's so much harder. I got into the middle of it and I was like, what did we do?
+
+[00:27:30.430] - Rachel
+We made this huge mistake. Like, things were fine, like they weren't great, but they were fine. But actually when we did that, we went from doing probably like 8 million dollars in annual revenue. And we consistently scaled with 9, 11, 14, 22. Like it scaled like at a very, very fast pace. So my answer to you is, yes, everyone.
+
+[00:27:58.570] - Brandon
+I love that. I think that one of the things that Chris and I kind of run into, I guess, when we're working with some of the smaller organizations, is that there is an element of you having to sell that concept... Because it's easy for us to say, well, it doesn't feel that needed right at the moment, the team still small. I'm going to focus on these other things that maybe give you a return on your time much faster, like those those short term gains. And we experience that. I mean, once a teams in the 30, 40's, and you're trying to do really large culture shifts as far as accountability and autonomy and all these things, it it is scary. It's scary. And if someone can just say, OK, the fruit of my labor right now, if I really get dialed in on vision and these strategic objectives, I may not see it for a while,but just this confidence factor that comes from... Yeah, but the foundation will be laid. Like I can just go to work laying bricks at some point in the near future and not have to go through this very weighty anxiety, I think filled shift with an organization full of people that just two days ago had no idea you were going to do this. So I think that resonates big time.
+
+[00:29:10.090] - Chris
+Yeah, I almost thought you were going to say culture shock before you said shift, because culture shock. I mean, we we went through a similar kind of experience where I think it's... we're in the trades. We do work with our hands. We use equipment.  We're doing physical work. And I think one of the things we experience is we were trying to make some of those shifts. We were shocking the system and making big changes is that there was a little bit of this attitude sometimes from our front line team that's like look, almost like we were navel gazing .Like we're being too neurotic or we're getting too sophisticated.
+
+[00:29:47.440] - Chris
+Like, what's the point of all this? Like we're implementing new software. We're making our process more specific and routine. And I think sometimes the rest of the team in the field is like, "how does this help me? Like what is the point of all this extra work now? I got to enter things into this app and I got to do all these things." I'm really curious if you could take us back to when you were at Titan and you're going through that process, you talk about creating a vivid, like full color vision and then communicating that, at least to your downline leaders.
+
+[00:30:16.660] - Chris
+I'm curious how this sounded to your front line team when you would have all company meetings? Could you channel your vision from Titan and can you share what did that sound like? Can you give us some bits and pieces that you and Russ put together in terms of what is the big vision for Titan? And how did you communicate that on kind of a big scale to the whole team ? And then maybe during weekly meetings or one on ones, how did that vision come out?
+
+[00:30:42.010] - Chris
+How did you communicate that?
+
+[00:30:43.720] - Rachel
+Yeah, so I wish I could tell you that the vision came before we started scaling up and it did not. That was later on. So to your point, it was rocky when we came in and said, "hey, we're going to start implementing these KPIs and we need to be able to track all these metrics. So there's going to have to be maybe some extra reporting" and all those kind of... Like I can't tell you how many times I heard some version of "let us just do our job."
+
+[00:31:16.090] - Chris
+If we had a dollar every time we heard that. Right.
+
+[00:31:18.490] - Rachel
+So and there were people who had been with us for seven, eight, nine years who were used to doing things a certain way. And you had to get to a point where you had to make maybe some tough decisions. Right. Like there are very good out in the field. They're very good at the product that they're producing, and yet we're going to be stagnant here if we can't shift. Right. we can't scale in this way. And so anyway, yeah, there was a lot of turmoil.
+
+[00:31:48.430] - Rachel
+And then there are some hard decisions that you have to make about like, is this really... How committed are we really to this vision and where we're going? And then making some tough decisions about what that looks like internally. So I do think starting that earlier and having people adopted into this culture where this is just the way things are done is definitely superior. So while Russ and I had really clear visions about where we wanted to take the company, that articulated vivid vision didn't happen until later.
+
+[00:32:23.260] - Rachel
+So the way that I did it, the way that I created it, was we had all of and I said when I say I created I did not create our team created it, but I directed how this was. And so I had all of our department heads come in and on their one-on-one's. And I sat down and I'm like, OK, close your eyes and I want you to walk me through what your ideal and ultimate department looks like in five years from now.
+
+[00:32:51.850] - Rachel
+And I want you to approach it from like let's say I was asking you to build me your dream house. What is your dream house look like? You aren't going to start with the foundation of probably the house that you are in right now on the property that you are in right now. And you're not going to say, oh, I'd move this wall and I would add this feature or whatever, we'd repaint. I know you're going to start, if I asked you what your dream house looked like, you were going to demolish the whole thing, or you're starting from a brand new piece of property. So I don't want you to come in constrained by what it looks like today. So I want you to start fresh, everything like that and close your eyes and just walk me through what your dream department looks like, what your dream job looks like five years from now? What you're doing?  How it feels? All this kind of stuff.
+
+[00:33:44.560] - Rachel
+And so they just started talking, I pushed record and I just listened and then added, tell me more about that. Or tell me more about this. You know, just interjected at certain points. And so each department had kind of built their own thing. And then we came together and we kind of did a rough draft for the company. And then as an executive team, we kind of looked at it and then we sent it... Then we had a company wide meeting where we kind of introduced what it was and we read it aloud.
+
+[00:34:15.070] - Rachel
+And then we said this is the very, very rough draft, but we want your fingerprint on it. We want your signature on it. Like we want you to feel it, see it, like everything. So then the department's took it and each one of the water techs got to talk about what they wanted their department to look like in five years from now. So they made edits and everything like that. Then it kind of came together. And then the biggest part of it is keeping it alive in your company.
+
+[00:34:43.570] - Rachel
+And when you have one that's a company wide that can be long to read through, the whole thing is five to seven minutes. And you don't want to do that maybe at the very beginning of every meeting. But if you could read through the section where it talks about what the sales teams look like and you really kind of  talk about some of the specifics of that for a certain meeting, when you can do that in two to five minutes. And then you're always kind of pointing back to that vision of what that looks like, kind of how it runs.
+
+[00:35:13.610] - Chris
+That's so good.
+
+[00:35:14.860] - Brandon
+Honestly
+
+[00:35:15.580] - Chris
+that's a cool process
+
+[00:35:18.550] - Brandon
+that's advanced leadership stuff. And I hope that for folks listening to this, we're talking to a real seasoned veteran on multiple different levels. But I don't and I think you'd be the first to say this just based on your humility is don't be intimidated by this. If you're hearing the stuff that Rachel's saying, this is maps to where we're going. Right. This is stuff that we can all, as individual leaders, be taking baby steps towards.
+
+[00:35:42.940] - Brandon
+You don't have to do all these things right now. We don't have to move into paralysis, if you will, because we're thinking, oh, my gosh, there's this giant chasm between what I feel skilled enough to do now as a leader versus some of the things and vision casting and scenarios that Rachel is talking about. So just one bite at a time. I think the real important part here to understand, though, is that if you're a business owner or a business leader in this industry, you do have responsibility to advance your skill set to think about what's required of you tomorrow.
+
+[00:36:12.940] - Brandon
+And the fact I think, Chris, you were talking about this is... Just kind of don't be intimidated by it, but start establishing a personal roadmap for yourself of, hey, there's some skill sets I want to start gaining to be the type of leader that my organization is going to need tomorrow and next month and the year after. And don't feel as if you've got to start from whatever you're barely getting accomplished today in your organization from a morning stand-to or what have you to these really advanced level vision casting scenarios that Rachel is talking about too.
+
+[00:36:43.430] - Chris
+Although one of the things you said that really resonates with me is, is that it's so much easier to start it when you're small, which we talk through with our clients all the time. Right. If you can get like these ruts built in the highway,  these behaviors like bringing up the vision at every single staff meeting, morning stand-to that kind of thing. You bring new people into the system. They can just slide into that rut. And it's just normal.
+
+[00:37:09.130] - Chris
+It's just normative. so like hearing about the company vision and where we're headed every day, every week is just how we roll. It's so much easier that way, like you talk about than transitioning a team of 40, 50, 60, 70 people into this new way of seeing the business. But you did it with a fairly large organization. You did make that shift, but now you're doing the same process with a smaller organization.
+
+[00:37:35.770] - Chris
+Right? I mean, as you I mean, where accelerate's at right now versus how many people you had on your team going through that process the first time.
+
+[00:37:42.820] - Rachel
+And I can speak to that a little bit. I think the difference with the smaller organization is you have to be more flexible in the short term goals. So we have tried to do quarterly meetings where we're talking about quarterly priorities that kind of focus on what needs to happen this quarter. But for us, things are changing so quickly and like we're having to be more dynamic just as we're trying to gain traction in the industry. So some things that we have maybe made a priority, we get halfway through the quarter and we're like that, that really doesn't need to be our focus right now and we don't need to do it.
+
+[00:38:18.730] - Rachel
+So I would say, so as a smaller organization, you might have to be more nimble and have that long-term vision of where you're going, but then be more flexible in the short term. But still keep those KPIs. You've got some key performance indicators that are really going to get you where you need to go in terms  of that scale. I will also say that you don't need to do this with the team. You create a vision for your company, just you or your spouse or your partner, whoever else is, like, really invested in that business or that company with you.
+
+[00:38:53.420] - Rachel
+Maybe you just have one other leader that you can work with and create that vision. And it doesn't have to necessarily even be the vision for your company. It might even be more important to create a vision for yourself of what kind of leader you're going to be in five years. And that's something that I always really like... was really important to me, because I knew what I didn't know, like I knew enough to know that I wasn't ready as a leader for that next step.
+
+[00:39:21.880] - Rachel
+[ comment: http://www.unqualifiedtools.com ] So I was always trying to think, OK, where is this company going to be in five years and what do I need to do right now to be that leader that's going to be ready for that? And I think that that was one of the catalysts for me. Writing my book was like, I need to be a leader who can be able to articulate really well a vision. I need to be a leader who can inspire people. I need to be a leader who is less involved in the day to day and more involved in the development and growth of my people.
+
+[00:39:52.690] - Rachel
+And so that's really what was the catalyst for this book, was, OK, how do I start doing that right now? And what are some of the skill sets that I can do right now? And how can I expand my reach of people that I'm influencing and also people who like the kind of talent that I could attract to our team? How do I get my name out in the industry more? How do I get more speaking opportunities so I can improve my ability to articulate what's in my head?
+
+[00:40:20.590] - Brandon
+And that was probably enough for us just to wrap up the entire show. this is pretty fire dude.
+
+[00:40:25.660] - Chris
+No, no, no I got more questions.
+
+[00:40:28.000] - Brandon
+no,I've got one, two. I'm beating you. OK, so and I think actually this may resonate with something you were saying earlier. OK, so we actually had some weird thought in our mind at the beginning of the show, and then it's gone off into a much better direction. We were just going to talk to you about this time thing, like we hear this all the time.
+
+[00:40:46.960] - Brandon
+I just don't have the time.
+
+[00:40:48.820] - Chris
+I'm busy
+
+[00:40:49.330] - Brandon
+there's one excuse, right? We were going to but...
+
+[00:40:52.090] - Chris
+We're so busy
+
+[00:40:52.750] - Brandon
+and it's that... We're so busy. so I think it's very difficult for a lot of us to look at your success list. I mean, even if we just referred to a little bit of the intro we touched on, you were doing some really hard things as a leader all simultaneously. Right. So there was a point of time, hopefully I'm correct here, where leadership of Titan, the beginning of accelerate, the book, And then, of course, all the real life. Right, the outside of work life, things that you do and prioritize and want to do well. All these things at some point were happening simultaneously. Is that is that right?
+
+[00:41:32.530] - Rachel
+That is true.
+
+[00:41:33.610] - Brandon
+So what did that look like?
+
+[00:41:35.830] - Rachel
+A very tough period where I had a lot on my plate. I had taken on a lot, and in addition to all of that, I had told my brother that I would pace him in a 100 mile race. And so I was like needing to get some miles under my belt and make sure that I was ready for that, because this is a huge thing in his life. I didn't want to miss out on it.
+
+[00:41:59.170] - Rachel
+I wanted to be there for his first hundred miler. And I thought I could do a good job at being his pacer. And but at the same time, I had committed to all of these other things, and it was a very busy period of my life. I yeah, it was tough. It was tough. And there was a lot of moments of self-doubt where I was wondering if I could do this, who I was going to let down in this process.
+
+[00:42:25.240] - Rachel
+So I think the biggest thing for me and I this is probably not where you want the direction of your podcast to go, but faith is a very big thing to me. And so a very big thing to me was including God in the dynamics of this and really like and being very vulnerable with him and honest with him about like, "I need you to come in here and help pick up the pieces of where I'm not doing." so, I look back on that and I can see so many ways in which He expanded my capacity and my capability and my ability to get things done in a very short amount of time.
+
+[00:43:02.320] - Rachel
+The other thing I would think is surround yourself with really, really talented people that you can trust to take on things, and you don't need to get involved. Like, let them really, really handle things. And you're going to encounter some failure there, but I'm not really afraid of failure. Like, there's so many so many things that are not permanent. Right. Like if we take a step or if we take a move in a direction and it doesn't work, that's OK.
+
+[00:43:29.530] - Rachel
+We'll own that mistake. We'll make it right and we'll pivot to another direction. ya Know. So that was something that I learned a lot during that period of time. The other thing I learned is that I don't ever want to do that again. So I think I was listening to your podcast the other day about the number of hours you can work and how much you're actually working and burnout and being effective at what you're doing. So I think that there was so much value in that.
+
+[00:44:01.960] - Rachel
+But I do think that for a short period of time it was critical to what I was wanting to accomplish. And what I really wanted to see was accelerate grow and be a real resource to the industry. And we were at that point, just like in very early development stages. And that is a lot of time, because you have to really be able to articulate very well and you have to work through this development process where you're learning how to communicate your vision to a development team, but then goes developes comes back and is it the same product?
+
+[00:44:38.320] - Brandon
+And there's a lot of expense if it's wrong.  You know, so you have to really you have to spend a lot of time and then you'll have to be thinking... When I was first learning how to run, accelerate, there was so much expansion that happened in the way that I thought, because one decision affects so many different things. And your long term ability to pivot or scale your software, so being able to learn how to think differently took a lot of brainpower.
+
+[00:45:09.380] - Rachel
+So the things that I was not able to spend as much brainpower on, I really was able to delegate to other people. And I think that's the time when our executive team at Titan really grew and was really able to expand because there was so much that they were just having to manage and take care of.
+
+[00:45:28.850] - Chris
+All right. Let's take a minute to recognize and thank our MIT/RESTO MASTERY sponsor Accelerate Restoration Software. And I'm fully aware, by the way, that when I say those last two words, restoration software, that that instantly creates heartburn for some of you out there. Right. Because we probably all fall into one of two camps when it comes to software. We've either cobbled together kind of a version of free website tools and spreadsheets just to make our business work, or we're in the camp where we've adopted one of these existing restoration platforms, one that has all the bells and whistles and supposedly does it all.
+
+[00:46:07.640] - Chris
+But we can't get our team to consistently adopt it and input information to it.
+
+[00:46:13.580] - Brandon
+Yeah, and that's really where Accelerate has honed their focus. They've created a system that's simple, right? It's intuitive and it focuses on the most mission critical information, i.e., guys, your team will actually use it.
+
+[00:46:28.630] - Chris
+Let's talk about sales right after years of leading sales and marketing teams. The biggest trick is getting them to consistently update notes about their interactions with referral partners and clients. And the essential piece there is there's got to be a mobile app experience. And in our experience, the solutions that were previously out there were just too cumbersome and tricky to use.
+
+[00:46:51.980] - Brandon
+Yeah. Imagine, guys, how your business would change if your entire team was actually consistently using this system. Do yourself a favor. Go check these guys out at excelrestorationsoftware.com/MRM and check out the special offers they're providing to MRM listeners.
+
+[00:47:11.960] - Chris
+All right. Let's talk about actionable insights. Owners, GMs, you can't be your business's expert on all things estimating. You might have been three years ago when you're writing sheets in the field, but the industry's always changing and so are the tools. If you're the smartest person in the room when it comes to Exactimate and matter port. How does that scale? You're the bottleneck. I know I'm preaching to the choir, but this is where actual insights comes in. There are technical partner that can equip your team with the latest bleeding edge information and best practices and then update them with webinars and training resources when the game inevitably changes again.
+
+[00:47:48.860] - Chris
+For this reason, we recommend actual insights to all of our clients.
+
+[00:47:52.100] - Brandon
+Yeah, three of the kind of big things that stuck out to me when being introduced to AI and their team. First off, is this consistently updated training. I mean, at the end of the day, these guys are the experts. They're out front all the time. They're constantly learning new trade secrets and ensuring that your team's got access to those things. A thirty seven hundred plus page database of ExactTarget templates. I don't know what else to say here other than don't reinvent the wheel.
+
+[00:48:18.950] - Brandon
+It's already available. Download it, copy it, use it. BAM. Database of commonly missed items. I think this is huge. So many of us can change the numbers by just moving the needle a couple points and those commonly missed items can make all the difference in the world. So go check them out at value.getinsights.org/fcg.
+
+[00:48:46.070] - Chris
+So again, channel your Titan experience because we have a lot of restoration folks who are listening. I think sometimes as owners and senior leaders where we have there's a quite a bit of autonomy in our roles. Right. A huge amount of responsibility, but also a lot of autonomy in terms of how we're spending our time and allocating our priorities. I think sometimes it's really hard to know how to spend your time as a GM or an owner effectively. And sometimes you discover after a really tough month or an unproductive week.
+
+[00:49:17.330] - Chris
+I don't think I spent my time very well. But it's kind of in hindsight, like in the moment, you just feel like in the chaos of the business, you're just going from one fire to another. And I'm just curious if you could reflect in your last few years at Titan, how did you approach your day? As a senior leader, how did you think about your day and what you were going to accomplish and what your priorities were as really one of the senior most leaders in the company?
+
+[00:49:43.400] - Chris
+Yeah. So in a real practical level, you don't like down it like boots on the ground. How are you thinking about your day when you're brushing your teeth or eat your breakfast in the morning and then moving through it?
+
+[00:49:53.600] - Rachel
+So the way that I spent a lot of my time is focused on those quarterly priorities. How am I getting the company from here to there in this quarter? And so those were my highest priorities and developing my team. Those were like the two biggest things was how am I growing the team? And so a lot of my time was spent thinking about them, thinking about where their struggle was, where their limitations were, where their roadblocks were, and how I was going to like we were going to overcome that and get to the next level.
+
+[00:50:25.950] - Rachel
+I spent very, very little time in the day to day operations of like customer issues, customer complaints, very little time doing all of that. Like, I felt like there were one very, very capable people who can do it much better than I would have more information than I did because they were involved in it and really giving them the autonomy to solve those problems. you know what our core values are, you know what our goals and mission are as a company, solve this problem in alignment with that.
+
+[00:50:59.960] - Rachel
+And so there was a lot of stuff that I never got involved in and never touched my desk. So then making I was a huge fan of yellow pads. I always have a yellow notepad and I'm always writing my to do list of the things that I need to get done. Inevitably, at the end of the day, there are still things on that list. And so then prioritizing what goes to the next day or what doesn't. So my yellow pad is like just an ongoing list of things that are getting checked off and added to that list.
+
+[00:51:35.750] - Rachel
+Again, I think being able to compartmentalize, like what are things that really aren't going to matter in a week. If it's not going to matter in a week, then let's not spend our energy on it. It'll resolve itself.
+
+[00:51:51.230] - Brandon
+That could be a real powerful tool. I think assessing that can be a little difficult sometimes to be able to give that a truthful evaluation of is this really going to be a priority in a week? And so can I turn that off right now in order to make sure that I stay laser focused on the right stuff? How do you how do you make that decision?
+
+[00:52:13.640] - Rachel
+Yeah, I mean, I think a lot of it is like turning responsibility over your team. So and this is a knock on the way that anybody, like manages their teams or schedules, their teams. But I know that there are some companies that tell their technicians every single day this is what you're doing from eight to nine. This is what you're doing from here to here. This is what I am like, lines everything out and then plays Tetris as new jobs come in and everything like that.
+
+[00:52:41.660] - Rachel
+And that's not how we would operate at all. We would say, hey, these are the five jobs that you have to be at. You're responsible to call the homeowner, let them know what time you'll be there to communicate with them to manage this job. Once you get there, you know the expectations in terms of what needs to get signed, what needs to get documented, what needs to get uploaded, what needs to be communicated. But then allowing them to have the autonomy to even run their own day without having to micromanage every step of that process.
+
+[00:53:13.370] - Rachel
+It's one building them into leaders, seeing who can learn how to communicate with the customer, who can resolve issues, who can communicate when there needs to be somebody else involved or another department, and how that gets crossed over to maybe reconstruction or how that gets communicated in terms of content or whatever. But really allowing them to do that and then putting somebody like a coordinator or a manager who they're reporting to as you scale it, maybe you're not at that size.
+
+[00:53:44.150] - Rachel
+So that's what I would say, is I just gave one example of where you don't need to be involved in what order they go visit customers or what order they decide to do what they need to do in their day. Let them be in control of that as much as possible. Obviously, you have some homeowners who have a schedule and you need to be there at that time, but communicate that to them. They've actually probably or the ones who know about that because the homeowner communicated it to them on their last visit.
+
+[00:54:14.000] - Rachel
+Hey, can we have the schedule? Let them manage that and let them learn how to solve their own problems. Don't jump in to solve every single problem. And then that way, as you scale, you have people who can do all of the stuff that you're probably doing right now that you don't need to be involved in or you don't need to hire done by somebody else as you grow.
+
+[00:54:37.460] - Chris
+Rachel, what would you say to the restoration owner, GM, or mitigation managers listening that says hold on, you must have a bunch of unicorns working as technicians like you don't know my guys or my team. They need to be told exactly what to do if I don't tell them exactly what to do things go crazy and stuff goes sideways.
+
+[00:54:58.310] - Rachel
+Yeah, I would say manage outcome, don't manage the process, manage outcome. And what I'm saying is not that you don't care about the process, obviously you do care about the process, but let them help in creating what that process is. And then you can standardize that, but then let them manage to an outcome. This is what is expected on every single job. And this is what it is like. This is what the outcome needs to be.
+
+[00:55:27.170] - Rachel
+I need to have all of these notes. I need to have all of these documentation and we need to be able to bill within twenty four hours or whatever it is. What you do from here to there, I'm going to give you control on how that happens, and then you come back and tell me how you're doing that and report on that, I'll give you whatever feedback I need. And then training your people in the areas where they have knowledge gaps.
+
+[00:55:49.340] - Rachel
+But I think people want to... My experience is that that's what people want to be a part of. If COVID has taught us anything, and now we have this labor shortage of people who don't want to go back to work, people want to have flexibility and control over their own destiny. They don't want to be told what to do and every single step. And I think you're going to attract those kind of people. And you're right, they may not have technicians that can do that.
+
+[00:56:16.190] - Rachel
+And then you know that those people are part of your team going forward. They might be a short term fix until you find the people who can do that.
+
+[00:56:26.120] - Chris
+Are capable. I love that. That's so good. What did you say? You said outcomes... Train to outcomes versus tasks. Is that what you said?
+
+[00:56:32.510] - Rachel
+Yeah. Manage manage results, I think is basically what about outcomes and managed towards that and then let people have more freedom in how they get there.
+
+[00:56:44.480] - Brandon
+Yeah. I love that.
+
+[00:56:45.560] - Chris
+Bring their own approach and style creativity.That's good.
+
+[00:56:49.340] - Brandon
+You know what for... I want to be really respectful of your time, Rachel. So one last question I think before we let you off the hook.
+
+[00:56:57.230] - Chris
+I've got two if you'll give us time?
+
+[00:56:59.960] - Brandon
+You go first. You go first.
+
+[00:57:01.400] - Chris
+OK, I want to talk to one of the things that comes up with our clients a lot. And we just we've experienced it, we felt it. Is what we've now called the desperation brain. Right. As you're growing there's periods where you have more work than you have people for. Right? You have more work than you have technicians to deploy. And you get into this frantic mode of we got to get some more people on board, maybe your temp labor that is your go to... you're just you're not getting the quality. That's not a good resource. You're trying to hire technicians. And we talk about this desperation brain and how we'll just plug holes. We'll hire the wrong people, we'll plug holes because we just need to be able to do the work. And I'm curious, have you experienced that desperation feeling? Have You seen it on your teams? You get in those modes. How do you manage against that when things are fast and furious and crazy?
+
+[00:57:55.310] - Chris
+Maybe it's a catastrophe scenario, weather scenario that's drummed up all this work or whatever. But how did you and your team manage for the desperation brain so you didn't fall victim to it and hire people that had no place in your team? Or make decisions that ultimately ended up biting you? Does that make sense?
+
+[00:58:15.560] - Rachel
+Yeah, so there's something and I think it maybe comes from seven habits, but I could be wrong. You know, the quadrants. Yeah, you have the four quadrants. And one is like you're putting out fires. That's the fourth quadrant. And in the first quadrant, it's being very proactive. And you've got like in these have to be done or these you know, and so I had a manager that I felt like was always operating in the fourth quadrant.
+
+[00:58:42.350] - Rachel
+And I'm like, you have got to get out of the fourth quadrant and get into the first quadrant, because if you're just going to continue to put it out fires until you're able to get to the root source of your problem here.  you need to be proactively working in this quadrant consistently. I don't care if you have to delegate these fires. I don't care what you have to do, but you need to get there so that you can solve the problems that are causing this to be a recurring issue, especially like in CAT mode.
+
+[00:59:13.580] - Rachel
+It is CAT, but we have pretty good indicators of one CAT is coming. We know when hurricane season is going to be almost every single year. For us in Arizona, we know what time of year we're going to have monsoons. Right. So your team needs to be talking about these solutions well before they ever become a problem. And it may happen that you guys plan for things that never come about. You don't have hurricanes that season. OK, well, great.
+
+[00:59:42.290] - Rachel
+Now, you just taught your team how to be proactive and how to plan and how to have a vision in place for something that is going to have to happen another time. They're going to be able to utilize this at another time. If you're right in the middle of it, I would say, rather than hiring bad people and training them poorly. I would say really look at your partners. Who in your area, who in your life, who knows the right people?
+
+[01:00:08.640] - Rachel
+So I do think that there are a lot of resources that you can subcontract. I think you can partner with another restoration company. I think there are other ways to solve problems instead of just filling holes with bad people. If you're getting into an estimating crisis... OK, what kind of technology can help you to be able to do really good scope's and notes that then can be sent over to somebody else to write estimates and to produce that. Like what other resources are in your toolbox?
+
+[01:00:39.630] - Rachel
+And so I'm a big proponent of finding the right people. So even if that's your partners. And so, I mean, I think that then I would say to listen to the people who are in the thick of it. So in your scenario, your clients really need to be listening to because you're being able to see stuff that they can't see in the midst of the chaos. And if they can trust that enough that they're like, OK, we invested in this for a reason, but let's trust them to help walk us out of this.
+
+[01:01:17.250] - Brandon
+I especially like the last part rachel, we'll be sure to highlight that many times. So you have done a ton. You continue to do a ton. Leading constantly kind of on these outer edges of your current capacity, kind of pushing those boundaries all the time. Is there a support network that you've built? Like how who's holding you accountable? Who are you talking to? Who's helping you see your blind spots as a developing leader? And how intentional was the creation of that group or those folks that you trust to be part of the inner circle?
+
+[01:01:53.640] - Rachel
+Yeah, I mean, I've talked a lot about this in my podcast. I think I've written a lot about this. I pushed this all the time... Is surround yourself with really talented people who are pushing the bar. They are a resource in so many ways. It's like if you're an owner and feel very isolated, you need to get out and get to a couple of industry events and start networking with people who are further along and smarter than you are.
+
+[01:02:21.450] - Rachel
+So that's something that I think was so instrumental in my growth. Is I one of the very, very first industry events I think I ever went to was at Warner Kruse's place in outside of Chicago, JC Restoration. And most I think a lot of people in the industry know Warner. Like he was somebody like at the very beginning that I'm like, this is who I want to be 10 years or whatever and start surrounding yourself with those type of people. Learn, start asking questions like how did you get to where you got? Like what are the things you learned?
+
+[01:02:56.740] - Rachel
+There's so many pitfalls and pain points that I don't have to experience if they've already experienced and I'm smart enough to be able to trust them. So I would say surround yourself with that network. As far as what I've done personally, we again, we've always had a consultant and we've had the most success with consultants. and we've cycled through different consultants, or coaches. There are really good resources in the industry, like you guys are doing such a service to restoration contractors.
+
+[01:03:26.040] - Rachel
+If they can go, OK, this is somebody that I can trust that's been there in my seat and that can help me guide through these things, that's so vital. And then they also have a huge network. If you're like, I don't even know where to start, hire yourself a consultant and then they can put you in touch with a lot of their other clients or other people in the industry that then you can have this network of people.
+
+[01:03:47.670] - Rachel
+So that's been awesome. I would say that, like right now in my current position, I just became a part of this start up foundation. It's like a nonprofit foundation. And what they do is they get founders probably ten or twelve a year, and then they put them together in an organization. They provide mentorship, they provide like resources. And then you also have this accountability where you have to report on KPIs and certain initiatives that you're focused on personally and as your company.
+
+[01:04:19.650] - Rachel
+And so you have this accountability network. And so I was lucky enough to be introduced to this,  and then I had to go through this interviewing process and we had to divulge a lot about where we were with Accelerate and if we were the right stage or whatever. And then we went through the selection process. But that was really important to me because what I'm doing now is so different than what I've done in the past. And I needed a different support network that could really hold me accountable and open my eyes to what I don't know and what I haven't been able to see.
+
+[01:04:49.410] - Rachel
+And their mission is to really help companies scale and grow. And so I'm like, that's where I want to be. So. Let me surround myself with other people, and I will tell you, I went to our first mixer, it's just starting off. You have to commit to like a three day retreat. And then after that, it's once a month for a half day, which is a huge commitment and you can't miss and all this kind of stuff.
+
+[01:05:12.580] - Rachel
+So I went to this mixer and I was sitting there and in the middle of all that, totally feeling like imposter syndrome and like, oh, my gosh, all of these founders are way further along, are way more skilled or have way more experience. And I'm like, I am in the exact right place. This is going to be so great for me. And so if you can surround yourself with people where you're filling that little bit of discomfort, where you're like, OK, one of these things is not quite like the other.
+
+[01:05:42.590] - Rachel
+That said, you know, you found your place. And dig in there.
+
+[01:05:47.050] - Brandon
+I love that. That's awesome. There's an element of feeling like that right now. Rachel, thank you. Yes.
+
+[01:05:53.660] - Chris
+Yeah. No, Rachel, I really hope we can have you back, because I've still I've got I've got my list of questions and topics that I want to dive in with you. So perhaps we can do a part two with Rachel Stewart here. But let's end on an update about Accelerate. What do you want people to know about accelerate? How is accelerate trying to change the game for all restorers?
+
+[01:06:15.250] - Rachel
+Yeah. So Accelerate was built like I didn't wake up one morning, go, oh, I want to do software. I woke up so frustrated with the technology options that we had in the industry and in this process of trying to scale being really able to get like the reporting, the metrics that I needed, but also have it simple for my guys in the field where it was very easy adoption. I didn't want to have one more conversation around technology like I wanted that eliminated from the conversation.
+
+[01:06:44.890] - Rachel
+I wanted it to be something where we were talking about the results of what technology can produce for us, and we were able to be able to talk about different conversations. So that's really why it was built, is just because I was frustrated. And in the process of doing that, I've just been able to see like even more what a need it is in our industry. And especially as like PE money is coming into the space, there's all of this consolidation happening.
+
+[01:07:13.810] - Rachel
+There's a lot of big entity... Like we're competing at a level that we weren't ten years ago. And if you think that you're going to be able to do the same things that you did 10 years ago and the same processes you did ten years ago and be able to compete with the PE firms that are coming in or the big entities that are growing, or if you're even one of those big entities that want to outpace the next franchise, you really need to be looking at your technology solutions and being able to see where they're going.
+
+[01:07:45.370] - Rachel
+So what Xcelerate is really focused on is we want to be that hub for the industry that makes all of these software talks come together and be able to manage a claim from start to finish in a very seamless, easy way. So we've really started to try to partner with a lot of the new technologies that are in the industry that are interested in doing something different. So far, the industry has been pretty closed, like you have a system that won't talk to another system.
+
+[01:08:15.580] - Rachel
+It's very hard to be able to get programs to talk together. And we really want to change that because a lot of other industries, that's really where they have gone and where they focused. So partnering with people who are doing different things Matterport, Docusketch Encircle, all of these different companies, making sure your accounting system is functioning and talking to your system and then like, what else can we automate? How about all of the VoIP systems?
+
+[01:08:39.790] - Rachel
+How about like texting and email? And what other slack? All of these other companies and technology solutions that have done really great skill things, but it's like a niche thing. How do you incorporate that in your workflow? And so you have all of these processes automated that you don't have to have an administrator clicking buttons doing. How do you make it so easy for your field technicians to complete what they need to do in the field and know what's happening next?
+
+[01:09:08.620] - Rachel
+How do you create those workflows? So that's really what Xcelerate has been focused on. We're really excited about the growth that we've seen and like how we are really helping contractors. That's really the most important thing is how do we help them be successful. I've been in their shoes, so how hard it is, how do we make it easier?
+
+[01:09:31.120] - Chris
+Well, and I think for people that are listening, that are users of Xcelerate, like all of that resonates with them. Brandon and I actually sat in with some clients of ours on a demo with Brady and going over the software, and it was really fun for us because we suggested, hey, you ought to take a look at this. To see the light bulbs come on and how accessible the software felt to them, like there wasn't that sense of overwhelm that I think all of us have felt when we were getting into a new business management software. Instead, they were like, oh, wow, that's going to make things so much easier. Oh wow, that's simple. Oh, that's easier than I thought. Which is what you want to hear about software that you're taking on, because it can feel really overwhelming and intimidating, I think, for a lot of operators. So. Well, listen, Rachel, this has been so much fun. I think there was a lot of gold here that people are going to enjoy listening to.
+
+[01:10:21.210] - Chris
+And again, maybe I think this calls for a part two, at some point. So best of luck as you continue to scale accelerate. And I know we'll be in touch.
+
+[01:10:32.550] - Rachel
+Thank you so much for having me on. I respect both of you so much and the work that you're doing. And so if you're not clients yet, you should be. Their doing really great things. And I thank you for what you're doing for the industry putting this content out there. I know it's a lot of work from personal experience, but it's elevating the industry. So thank you.
+
+[01:10:53.430] - Chris
+That's awesome
+
+[01:10:53.890] - Brandon
+That means a lot. Thanks, Rachel.
+
+[01:10:57.930] - Brandon
+All right, everybody. Hey, thanks for joining us for another episode of the MRM podcast.
+
+[01:11:02.520] - Chris
+And if you got something out of it, share it with the friend. Hit subscribe. Hit follow. Leave us five star review. Thanks a lot.

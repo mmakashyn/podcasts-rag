@@ -1,0 +1,560 @@
+﻿[00:00:00.570] - Brandon
+My brother from another mother was. I haven't said that since 1990.
+
+[00:00:07.620] - Chris
+It's been a while. Which part of the was all of it.
+
+[00:00:11.700] - Brandon
+You remember, like, that crazy list of commercials there? For a while, it was just, like, two minutes of different people going, what was that? I don't even remember what can't even remember what started. Yeah, I can't remember what they were felon, but I've never lost.
+
+[00:00:26.830] - Chris
+No.
+
+[00:00:27.450] - Chris
+Yeah, that's like one of those things is like, or Where's the beef? Yeah, that's like that. Oh, yeah.
+
+[00:00:33.290] - Brandon
+Little old lady. Where's the beef? Yeah, she was like the original version of what Snickers did with the gal from The Golden Girls.
+
+[00:00:43.220] - Brandon
+A white what's her name?
+
+[00:00:44.850] - Chris
+I don't know. I think it's because you're older. I don't remember.
+
+[00:00:50.910] - Brandon
+You're a real bastard, Christopher. Real bastard.
+
+[00:00:54.280] - Chris
+I think that's just right outside of my era, to be honest.
+
+[00:00:56.690] - Brandon
+Yeah, I'm sure it's just outside of something.
+
+[00:00:58.880] - Chris
+I think we spent too much time on this part.
+
+[00:01:00.550] - Brandon
+I really appreciate that. Well, guys, this opener was well worth your time because I know it was worth mine. All right, so we have a rad show. We have a returning guest, and quite honestly, I just like the dude. Especially after this episode, I felt like, man, we just got to see some of that more internal driver. Right. For him. We're talking about Zach Garrett liftify.
+
+[00:01:22.270] - Chris
+He's a real person, actually. He's not a robot. He's not a robot, like Zuckerberg or anything.
+
+[00:01:26.890] - Brandon
+He's not, like some kind of Borg cyborg. Cool dude, really good leader. And it's interesting the way that he is committed to playing a leadership role in his family and partnering with his wife. He's a good guy, man. Anyways, it's a good interview. It's fun.
+
+[00:01:44.190] - Chris
+Yeah.
+
+[00:01:44.430] - Chris
+So, I mean, we titled it Leveraging AI for Google Reviews, and we do talk about that. It's pretty awesome. And we get to know Zach a little bit. And I think just many of you that are listening to this are entrepreneurs, business owners, and it's really fun to hear not just about vendors and services that are kind of leading the industry, but learning about other leaders who have businesses outside of this. I think we all have stuff we can learn.
+
+[00:02:08.250] - Brandon
+Let's thank some sponsors, and then we'll get rolling.
+
+[00:02:10.400] - Chris
+Oh, hot dog.
+
+[00:02:11.180] - Brandon
+Yeah.
+
+[00:02:12.030] - Chris
+So this will be our very first AF read up.
+
+[00:02:16.650] - Brandon
+Yeah, I think you're could potentially be.
+
+[00:02:19.580] - Chris
+I think that this is our debut of Answer Force.
+
+[00:02:24.200] - Brandon
+That's right.
+
+[00:02:25.140] - Chris
+So Answer Force is a solution that I think dang near every restoration company needs. You may have a solution internally. You may have some other way of skillfully and consistently managing your call intake at all hours of the day, every single day of the year. But if you're like most people, Brandon and I included, this can be a bit of a struggle point right. Is managing those inbound opportunities. Right? Whether they happen in the morning at 10:00 a.m. They happen at lunch when your intake person is out at their lunch or after hours.
+
+[00:03:00.830] - Chris
+Right.
+
+[00:03:01.130] - Chris
+I think Call intake is something we all struggle with. And then, of course, those of you that have storms and hurricanes and natural disasters in your area, right, you go from 50 calls to 500 in a day. How in the world do you create a consistent experience for those people that are calling you and giving you opportunities? You do it with a partner like Answer Force. So they have a sophisticated technology backbone. It flexes with your business. There's no contracts that lock you in at a high price and keep you there regardless of how much you're using it. No, you pay for what you use. You can flex up, flex down. You have somebody out on the team like your normal call intake person. That's super awesome. We'll transfer it to answer force. They learn your process, they learn your questions, your whole intake questionnaire, and they're going to do it the same as if your normal person was in that seat taking that call, and they're going to give the same care, and in.
+
+[00:03:51.450] - Brandon
+Some cases, they can even tie into your CRM.
+
+[00:03:53.890] - Chris
+Oh, my Gosh.
+
+[00:03:54.490] - Brandon
+Leave that to them in terms of details of how, when and where. But that's an interesting feature.
+
+[00:03:59.350] - Chris
+So we're stoked about it, and we're still meeting and getting to know the team, but we're really excited to have this brand new partner. So go to answerforce. Comfloodlight. And they've got something special there. But again, it's like we never pick our sponsors based on how cool of a promotion they're going to do. It's like we pick them based on their value. Their value proposition is rad. And with Brandon and I having worked in the field, we can relate to some of the struggles in that area. I wish we'd known about answer force. Started in Portland, Oregon, actually, kind of some of our stomping grounds.
+
+[00:04:29.870] - Brandon
+That's right.
+
+[00:04:30.310] - Chris
+Anyway?
+
+[00:04:30.680] - Brandon
+Answerforce.com good leadership team. Liftify guys. Liftfy.com. You guys know, we've talked about them so many times. We love them. We believe in their product. We just had a client yesterday asking questions like, is this real? Is the kind of stuff they're talking about for real? And it is. And it's interesting. Yesterday, day before we were copied on an outbound communication between Liftify and one.
+
+[00:04:51.250] - Chris
+Of our joint, I checked, it was 100 reviews.
+
+[00:04:54.050] - Brandon
+Reviews. They got 100 reviews in a single month, all of them five star. I mean, just amazing. And so the interesting thing about this email that went out, it was basically an analysis of that month's activity, and it reported where the leads, how they came in, meaning what version of the outreach effectively drove that person to come in and participate and provide the review. And then it talked about all the different reviews that they got. I think there was 100 that were five star, and I think there were some others that were four point something or something like that, but it gave the stats the breakdown, where they came in, what generated that response, and then how effective was the activity. Guys, this is real analytics. It's not a game. They back up what they're delivering. So Liftify.com it is a now AI supported tool or resource for you to automate your Google review process for your company and then just skyrocket the level of digital experience or exposure that you have.
+
+[00:05:52.640] - Chris
+Well, Zack the CEO in this show, so in this show that's coming up, Zack, you're going to see why we're so fanatical about Liftify. Because the guy's heart, the commitment, the values, it backs up with the service offer.
+
+[00:06:07.170] - Brandon
+We don't really even talk about the product, so don't get the wrong idea. No, it's just the dude behind the system, right?
+
+[00:06:12.820] - Chris
+Yeah.
+
+[00:06:13.050] - Chris
+And what they're ways that they're really adapting and optimizing for our industry, in particular, because they serve all the different service verticals, but there's specific things he talks about here where they're optimizing specifically for restoration, which is really cool.
+
+[00:06:26.940] - Brandon
+It's super cool. Okay, last one, guys. And then we're going to get into our episode. Guys, give Michelle and the team at CNR some love. If you're not currently why is my brain breaking a subscriber? A subscriber. Thank you. I don't know why that word eluded me. If you're not guys, just do it. I mean, goodness grace the voice of our industry, bringing us lots of awesome content. She's a friend to the industry, and I know we've said that before, but I don't know if we need to don't skip.
+
+[00:06:52.860] - Chris
+Well, listen, we all get newsletters. We all get a lot of stuff. But if you're currently skipping over the CNR email in your inbox. Click on it next time. Yeah, because it's good stuff. Like, it's good content. It's introducing new vendors that are jumping into the industry, all of that kind of stuff. It's valuable. I used to be one of those people that skipped over it, and once I met Michelle, I was like I started clicking on them, like, oh, my gosh. Oh, there's really high value. It's good stuff.
+
+[00:07:16.590] - Brandon
+You're kind of biased because you write articles for them.
+
+[00:07:18.970] - Chris
+That's true. I like seeing myself in print. It makes my ego feel good.
+
+[00:07:22.270] - Brandon
+All right, gang, we got through the hard work. Let's go have some fun and meet up with Zach.
+
+[00:07:27.310] - Chris
+Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:07:31.030] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:07:37.750] - Chris
+Man, I love this industry.
+
+[00:07:41.570] - Brandon
+Hey, bro, thanks for joining us, man. We're really psyched to be able to hang out with you a bit today.
+
+[00:07:46.790] - Zach
+Hey, thanks for having me. Shirts look great.
+
+[00:07:49.190] - Brandon
+Yeah, we went full on.
+
+[00:07:52.790] - Chris
+You just got to flex.
+
+[00:07:56.310] - Brandon
+I do like the sleeves on these, by the way. My friends, they're not cut in the right way.
+
+[00:08:01.610] - Chris
+They're not loose. I put it on like, you know what? I kind of like this shirt. I think I'm going to wear this to the gym later on today.
+
+[00:08:08.350] - Zach
+It's good motivation to stay trim. They're not the shirts will call it out. Yeah.
+
+[00:08:13.360] - Brandon
+Keep bulking the arms, otherwise they don't fit the way you want it.
+
+[00:08:16.240] - Chris
+That's exactly right. So my mind is escape. Be me. Is this number two or number three for you on Headhart and Boots? Have we had you on a this is the second time. Okay.
+
+[00:08:26.280] - Zach
+I think it's the second time. Yeah, we did a Friday live one, too.
+
+[00:08:29.510] - Chris
+Oh, that's right.
+
+[00:08:30.130] - Zach
+Second time on Headhart and Boots.
+
+[00:08:31.530] - Chris
+Yeah, right on. It feels like we've been in this nonstop conversation the last six months or so. So you know where I wanted to start, we've had a chance to get to know you a little bit better because we have a lot of offline. We have a lot of clients who use Liftify and so forth, but I thought it might be kind of fun to start this episode with just a little more of a meet and greet of the founder and CEO of Liftify. You've accomplished quite a lot in a very short period of time. I think even since our first conversation with you, the business has grown a lot. And I think what's really relatable is we have a lot of people in the audience that are 20 and 30 something restoration company owners, and I think it'd be interesting, maybe just for you to share a little bit about your trajectory, if you're comfortable with that. First of all, is entrepreneurship a natural instinct for you? Did you grow up around it? Family, uncles, parents, whatever? I'm kind of curious about your origin story a little bit, and I don't recall if we've ever brought that up before.
+
+[00:09:28.660] - Zach
+Yeah, absolutely. I don't think we've talked about it before. Well, it's funny you mentioned that. Last Friday, I had my five year old son in the office with me because my wife was out of town. So I brought him in and he sat in here all day with me. And it reminded me of when I was growing up. My dad owned just a little local computer store, kind of before the days of Best Buy, where if you would actually go in, buy a computer from a local business. And I used to go in when I was five. I was his age. I'd play with all the screws and stuff, and it just reminded me of that. And that's how I kind of grew up. My dad owned a local business. Those markets changed. It was not all high growth and up and to the right. There were some really hard times and a lot of pivoting, and I saw that as a kid. I experienced the stress that families go through when you're running a local business. And even if things are changing around you. But, yeah, I grew up, my dad always ran his own small business, some years better than others.
+
+[00:10:20.340] - Zach
+There wasn't a crazy exit or anything, but it was enough to provide and get through it. And I always had a little bit of the itch. I spent seven years in the corporate world working for a fortune thousand company, kind of working my way up marketing. And I think part of my success in that world was I did have the entrepreneurial Itch and kind of we're going to do it mentality. I was young and so maybe a little bit overconfident, but my mentality was always, hey, I've only got one life, we're going to go for it and make a real difference. And in a 200 year old cable company, that was not common necessarily, but created a lot of opportunity for me to kind of stand out and go do stuff. And so that's always been my mentality is like let's go do big stuff. You only got one shot. Let's help a lot of people. Let's do really cool stuff. If you're not excited to get up every day and go do it, why are you doing it? Go do something else. So I don't know where that comes from necessarily, but always had kind of the entrepreneurial itch, I think related to I might get into this a little bit, but I think related to a lot of our customers and our growth.
+
+[00:11:22.510] - Zach
+I really care about our customers. I know every company says that, but in our space in the tech world, a lot of companies are large VC backed firms that they're just looking for an exit. Right. I think part of what a lot of your customers, we monitor the data. If we're not seeing the results, we'll pivot because I actually care about the small businesses and the people there, I think partly because that's how I grew up. I grew up in one of those families. And so when we meet the business owners we work with and the leaders and the teams, it means something to me. When we made a difference in their business, it matters. And so we really press upon the team on that every week. We read all of our five star reviews from customers as a team that week and we go through them and we celebrate those. And I want to build the cultures, we grow the team to really understand that and say, hey, at the end of the day, if we're not actually helping real businesses and real families and real teams and people, that's why we're here. So we're going to do that.
+
+[00:12:17.690] - Zach
+So I think a lot of that stems from being five years old and playing with screws in my dad's little computer store. That's pretty cool.
+
+[00:12:23.710] - Brandon
+Was he real communicated a lot in terms of what he was making decisions on and stuff like that or was it more just seeing it being exposed to it happening around you.
+
+[00:12:33.760] - Zach
+Yeah, I mean, probably like every kid that grows up in a small business, you get pulled into it. You're, like, free helping out with little stuff. But I think as I got older, he got more of the digital stuff and design and website design and stuff, and I certainly gave input on some of that, and that kind of got my interest in some of the marketing stuff. So I think even heading into college or my professional career, I'd already built websites. I'd already done a lot of digital stuff that a lot of people didn't understand. I could code a little bit. I'm certainly not a computer engineer, but I can get my way around it. And so I think some of that I did, but more on the technical side, probably, than the business side.
+
+[00:13:10.110] - Brandon
+Okay.
+
+[00:13:10.770] - Zach
+Yeah.
+
+[00:13:11.260] - Brandon
+That's interesting.
+
+[00:13:13.230] - Chris
+You have a young family, and you started a serious, like, scaled nationwide business. Are you guys in Canada? I forget, are you guys serving Canada yet?
+
+[00:13:23.410] - Zach
+Yeah, absolutely. We have tons in Canada. We got our first one in New Zealand a couple of months ago, so that was exciting. So yeah, all across North America and then New Zealand.
+
+[00:13:31.720] - Chris
+Wow, that's cool.
+
+[00:13:32.690] - Zach
+Yeah.
+
+[00:13:32.800] - Brandon
+I bet you were in a hurry to go see them live and just make sure everything's in, quote, working okay, right?
+
+[00:13:37.670] - Zach
+Yeah. I'm trying to justify the ROI there, but my finance guy is telling me it doesn't make sense yet. But we'll get there eventually.
+
+[00:13:44.880] - Chris
+Yeah, eventually. How do you manage yourself? Because both of us are married, and I'm 21 years married, three kids, now teenagers, and I look back on my first couple of businesses, and there was so much opportunity cost at the time, just the way I managed my own self, my head space and stuff. When I was really pouring into the business, my family was kind of suffering. My family connections were suffering a bit. And then I'd sometimes over index on the family thing, and then I felt like I wasn't doing enough in my business. How do you manage that, man? I mean, you've got a team. You have this international company now. What does that look like on a day to day basis for you as an entrepreneur?
+
+[00:14:28.730] - Zach
+Yeah, it's certainly not perfect. I could probably learn from you, Chris, get a few tips on how to do it. Well, I think it's been a journey. I think, like, probably a lot of people listening to this face, like, right at the beginning when you're just getting off the ground or you just take something over whatever, it's really hard, and you've got to kind of look at everything's in seasons, or at least that's how we looked at it. And I told my wife, said, hey, for this next season, I've got to get it off the ground. Right. And then we'll stabilize it a little bit. And there's got to be sacrifice, though I think there is. You can't do it all. I hate that social media lie that you can just be great at everything all the time. It's going to be perfect. That's not how life is. But you've got to be on the same page in looking at the same long term goals as your spouse. So I think for a season there was like I started this while I still had a corporate job and we kind of built it up until I could jump and there was working the day job and then pulling all nighters.
+
+[00:15:26.400] - Zach
+We had a two year old. My wife was pregnant with another one and it was rough. It was a rough year in a lot of ways. There's just no way to sugarcoat it. But I think one of the ways that I've helped manage it is having a lot of conversations even with my wife and just saying, hey, here's where we want to go. I want to build something and I want to give this to our family. I want to be able to do these things for us. And if we're going to get there, we can't just get a normal nine to five job and just do that. And so I think her buying into that vision and kind of seeing, hey, you're not just really abandoning us forever, this isn't an idol, that's more important to us, but this is a season where you got to go get this thing off the ground I think was helpful. So just like setting some perspective but just setting the expectations, probably not that different than when you arrive on the job site with a customer saying, hey, here's what we're looking at if we're going to do this when doing that.
+
+[00:16:19.580] - Zach
+But I think that's kind of big picture and broad and then I think you do have to pull it back. You do have to have the season. We're kind of in now where we do have a team and I coach T ball this spring and I tried to be the assistant coach and then no head coach was assigned, so I became the head coach, which was good. I'm glad that that happened, but you kind of have to just get back into it and say, I'm going to commit to this now. I couldn't have done this two years ago, but I can do it now because we've got a little bit of stability. Because I think you can always run the risk, too of saying there's always more to chase. So you can never get out of that loop as well. And so you have to pull back. Initially, I think very practically we've implemented something called EOS in our business or the entrepreneurial operating system, the book Traction. If anybody, many people have probably read that and seen that tons of our small business owners utilize that framework for how to run your business. That has been transformational for us as far as focusing on what's important, doing it for anybody that hasn't read that book and given it a shot, highly recommend it.
+
+[00:17:22.110] - Zach
+My team will laugh at me when I share this. We've implemented it personally, like, with our family, too. I have a family EOS Pulse meeting, and we do stuff on just where are we going and what do we want to do. And I know that's super nerdy, but it's been helpful to kind of organize things and keep things on track. So I think having an operating system also having a vision of the long term and then just also asking for grace from the people around you when you don't show up or when you're mentally not there, I think just candidly, what I struggle with the most is not even just being there physically and present. Our job is pretty remote, so that's easy for me to be home at night and stuff. But I think mentally, when you've had a rough day or you're stressed about a bid or you've got a big project you're working on, how do you stay in the moment with the kids and with your family? I'm still working on that. I'm certainly not haven't figured that completely out, but I think that's kind of my battle currently.
+
+[00:18:18.190] - Chris
+Dude, can you talk about that family EOS meeting? Because it's really funny. I was literally just talking to my wife about something like that because about three or four months ago, one of my buddies who's a serial entrepreneur, he talked about how he and his wife have a CEO meeting every Sunday evening, and he was describing that to me, and I'm like, man, that sounds awesome. Because the other thing I've been thinking about is keeping short accounts. Just this idea of we can allow things to stack up, not just with our loved ones, but our employees and stuff where we observe something that's not quite in line or something that bothers us, and we hang on. To it until a month later. Three months later, something comes to a head and it's like you've been carrying this thing, like this idea of keeping short accounts. What does that EOS Pulse meeting sound like with you and your wife?
+
+[00:19:05.030] - Zach
+Yeah, absolutely.
+
+[00:19:06.350] - Chris
+Do you involve the kids in that as well?
+
+[00:19:08.460] - Zach
+No, not the kids. That would be distracting. I mean, they're five, two, and nine months, so there would be no productivity.
+
+[00:19:14.280] - Chris
+If they were a lot of practical input. Okay. All right.
+
+[00:19:16.900] - Zach
+Yeah, there's no practical input. So I think the EOS framework is to really build a three year vision. A one year vision, and then quarterly metrics that you need to hit that one year vision, and then weekly you meet about it to talk about the quarter in your business. That's how EOS kind of the structure. And we do this in the business, too. It's a weekly kind of meeting Pulse, but you're just kind of looking at your kind of chart for the quarter of hey, these are the things we said we wanted to do. And in the business, it's much more like these are the numbers we're trying to hit. On the family side, it's more like, hey, what do we want to be in three years? How many kids do you want to have? Where do you want to live? What do you want to invest in other things? What are vacations we want to do, philanthropic things we want to do. And so you kind of break that down to this year. So we've just set some things that we wanted to accomplish this year, things we wanted to do. And then on a weekly level, part of it is just the logistics.
+
+[00:20:07.610] - Zach
+So we've kind of broken out. In EOS, you do different departments, so marriage is one like, our anniversary is on Sunday, so we talk about it kind of heading into which is helpful for me. So I remember kind of plan, but what do you want to do? Do you want to go on a trip? Do you want to stay? Do you want to have the kids? Just kind of talking about that before it just comes up for us. Like, parenting kids is another bucket for us. So that's everything from, hey was the T Ball schedule to, hey, we want to go took the kids to the Great Wolf Lodge last month. I got something my wife wanted to do that we just kind of talked about saying, hey, what do we want to do with the kids? To more of some of the household stuff, be another department for us. Spiritual, financial, so just kind of the major components of your life. We just kind of run through it, and it's just kind of open items. A lot of it's stuff that's just normal in day to day life. So what we do is we do lunch on Mondays is kind of our thing.
+
+[00:21:00.050] - Zach
+So my mom watches our kids on Monday, and so my wife comes over here, we just go to lunch, and that's kind of become a routine. So she likes lunch. We don't call it a meeting because she doesn't like calling it a meeting, so we just call it lunch, but we'll go over it and just kind of talk through stuff. And I think it's helpful for me, even running the business to say, man, I'm not, like, forgetting all these things at home that are important to me. It's like, hey, we've talked about them. These are things I need to do. It's not like, super rigid, but it's more just opens up an intentional time to just talk about life. Like, what are we doing? Especially in our stage, probably in any stage, but with young kids, it's like in the evenings, we don't talk a lot about life. It's just like chasing people around, making sure nobody hurts themselves.
+
+[00:21:42.130] - Brandon
+So it sounds like there's probably or safe to assume, right, that there was some differences between you and your wife's personality, natural wiring. How different are you? Because sometimes when we meet entrepreneurs and business owners, it's like almost two peas in a pod. Like, they're still very two different people, but they both like this entrepreneurial thing.
+
+[00:22:04.860] - Chris
+Most of the time not, though.
+
+[00:22:06.540] - Brandon
+Yeah, most of the time not, but sometimes. And we're just like, wow, that's insane. That is not either one of our marriages by any stretch of the imagination, but what does that look like for you? And then if there is some pretty big differences, how do you keep your wife motivated to participate in that kind of stuff like that you're talking about? Because it is pretty damn nerdy if we're on it.
+
+[00:22:27.150] - Zach
+Yeah, it is. So we're polar opposites. So she's a nurse by trade.
+
+[00:22:31.130] - Chris
+I want nurse.
+
+[00:22:32.250] - Brandon
+Yeah, okay.
+
+[00:22:32.900] - Zach
+Yeah, she did surgery, so Brain and.
+
+[00:22:35.500] - Chris
+I wine primarily, too.
+
+[00:22:37.000] - Zach
+Yeah, okay, that's awesome. Bring them next time we get together. They'll have plenty to talk about. So by the trade, she stays home with our kids right now. But by the trade, you go in, you're told what to do, you do a great job, you leave at the end of the day. That's what she likes, the idea of entrepreneurship. She doesn't want anything to do with our business. Now, of course I talk about it. She'll give me input because I ask her, but we're certainly not one of those couples. Like, we have customers who it's a husband and wife team or spouses or whatever, and everybody's in it. That's certainly not our world that we live in. So I think it's just kind of one is just Brandon doing it, saying, hey, this is important to me. I really want to do it. I think it's going to help our family going forward and kind of doing a lot of the work for it. I pretty much do it and kind of facilitate and then just get input, but it just really facilitates a dialogue. And I think the other side of it, we've seen value in it to where the buy in is a lot easier now because it's like, oh, we're talking about stuff way earlier.
+
+[00:23:37.370] - Zach
+We're not being rushed and trying to figure things out last minute on simple things like boarding the dog when we travel. It's like a friction point in our marriage. We're in counseling here, but the day before you leave, neither of us book the dog to board him. Silly stuff like that. When you're just talking about it way earlier, and you just say, hey, what do we need to do? Okay, we get it done. It just makes everything flow much better. So I think the buy in is way easier now. And even people like she would tell you she's not a goal oriented person at all, doesn't like that stuff, doesn't like to see it. But I think she values that. I do. And now that we're kind of into it, I think everybody wants to be intentional with their life. They want to accomplish things, right? I think some people are just more wired to set goals and go chase them, more entrepreneurial minded than others. So I think you just kind of have to lead it and just accept it. People are just different. It's not right or wrong, but it's been great for our life.
+
+[00:24:31.640] - Zach
+So you guys are talking about it. Chris I'd do it. This is not where I thought this would go, but there you go. Nugget for my personal life.
+
+[00:24:39.190] - Chris
+It's inspiring, man. It's like, who doesn't want a better marriage, right? Who doesn't want their marriage and their relationships to function better? And I think it is hard for entrepreneurs because we got so many plans, we got so many ideas and plans that we're always stirring around. And I think sometimes I forget to let my wife in on it and also to get into my wife's world, right? I can get so tied up in my world that me getting outside of myself to really be curious about my wife's world, that's not entrepreneurial is hard for me. Sometimes it's easy to just Netflix and chill or get the kids to bed, right? You can get into a pattern where it's just like, okay, I shut down my day. We collaborate with the kids, and then without fighting, it's not like you have a bad you know what I mean? But it's not intentional. So I love that rhythm.
+
+[00:25:30.130] - Brandon
+I think the reality is based on the true definition of Netflix and chill, most of us would be really happy if that was happening on a consistent basis, but let's not state it in the most literal sense. Most of the time, I think, too.
+
+[00:25:47.170] - Zach
+It does sound nerdy, like, on a personal level, to be like, man, you plan stuff and you set goals and stuff, but if you talk to somebody who's running a business and they said, hey, I have no goals, we have no processes, we have no structure to anything we're doing. We're just kind of showing up every day and seeing how it goes. You'd think, man, you're not going to accomplish a lot, you're not going to get very far, you're not going to do this thing super well where everybody on your team thrives. And so I think it is kind of silly in our culture that people don't apply that personally and say, hey, you should have some structure around it. If this matters to you, you should do it, figure out how to run it well, because you only get one life and the relationships and everything run well.
+
+[00:26:26.600] - Chris
+For the record, I don't think it's nerdy at all, dude. Yeah, I don't think it's nerdy to me. It's wisdom. And coming from somebody who's younger than Brandon and I, I'm just like, yeah, all right. That's motivational to me, man. So I appreciate you sharing that.
+
+[00:26:38.690] - Brandon
+No, I love it. And I think it's important, too, because I know in our house, what I struggle with is that I can make the mistake. And I've done this a lot over my career of not being intentional. There, like, being assumptive, really looking at it as, like you were talking about things like, as simple as the dog. I relate to that totally. Jean and I are getting ready to head out this weekend for a friend. Their kids getting married. Well, what's been kind of the biggest angst is, what the heck are we going to do with our 75 pound wolf? Like, he doesn't just go to the neighbors, you know what I mean? So I think it's this I often slip into this place where I'm giving so much, so much intentionality, so much planning, so much strategic development to the business. And I can just slide into this expectation that as soon as 607:00 hits and I turn that switch off for a little while in the evening, that I have no more responsibility. And now my kids are older, so it's easier for me to go into that mode because my kids are 21, 23, they're not at home.
+
+[00:27:41.620] - Brandon
+And what a disservice to one of the most valuable relationships to me, which is my wife, our partnership, really, I can't get up and do this shit if I didn't have her in my corner, but often I'm not leading that way. There's not a lot of strategy being deployed in our home, our home world. So I think this is valuable, and I think the reality of it is that even key leaders, you don't even have to own the business. I did this as a GM. I still was just bleeding everything out for my employees, for my people, my market, those target clients. And I just would not bring any of that commitment home. I think it happens probably more than it's not, to be honest. So I admire what you're doing, man. I think it's really brilliant, actually.
+
+[00:28:27.750] - Chris
+It's very good. Well, yeah, dude, we were planning to talk about AI and Google reviews and digital marketing.
+
+[00:28:35.420] - Zach
+Yeah. Let me throw one more thing out that I think is super important that I see a lot of business struggle with as far as, like, how do I manage? How do we have vision? I think I've been really intentional in just trying to surround myself with people that are older and wiser than me. Like, we have an advisory board. I'm in some roundtable groups with one faith based group and another one that's just other people that have done this. And I think it obviously helps on the business side and giving you kind of a plan, helping you see clarity, just have those people. But I think it's also up on the personal side, too, of people like, hey, don't lose what's actually important to chase what's not. It helps kind of recenter you and I think a lot of business owners are like really lonely in leaders and they just don't have a lot of people around them. And even if you don't feel like you have time, I just encourage people to you've got to get people around you that are like you, that understand kind of what you're going through and can just speak into your life.
+
+[00:29:27.160] - Zach
+Because I'm 31, I don't know hardly anything, but I can ask people that do and I could avoid a lot of those mistakes by learning and relying on them. And I just want to throw that in because I see that a lot. Like business owners, I feel like they're just really isolated in their world and you've got to get community around you.
+
+[00:29:44.600] - Brandon
+To get to where you want to go with that. I think a lot of times business owners, they may see the value in that, but the right groups, I'm actually great. I'm really happy you brought that up because I'm going to wrestle with it with you for a little while. It can be costly. I think those groups, when you participate in the right ones, there's a significant investment because the group that launched that, the leaders that are participating in M, seeing those things, they know how to get the right people in the seat for that community to really be weight bearing, for it to be valuable, and it costs significant amount of money. And then there's time commitment. How do you in the early phases of developing your business, how do you know to prioritize that? Is it just a gut instinct? And so you commit and once you're committed, you're in what drove your commitment to the group to spending that money for yourself, really, right?
+
+[00:30:40.960] - Zach
+Yeah. And I think there's a lot of different groups and stuff. Like what we faced is a lot of the groups like YPO or other types of things like we aren't even qualified for because you have to hit certain revenue targets. You have to be on growth trajectories. We're not even there to participate in those. And those are very business focused ones. I think that where I kind of started was and this is kind of how we started the business. But customers people that I ran into just said, hey, I've got this idea, it's working. Would you grab coffee with me? Like really like one on one people that I was like a second connection to in LinkedIn terms, people are oftentimes willing to help. So a lot of it's just that individually kind of just asking people for input or coffee or a zoom or whatever and just getting some input and building those relationships. And then it can also be different kinds of groups that you do get involved in more formally, just business ownership or leadership. And I think there's different flavors. I think one that I participated in is more of a faith based and whole person, one like, hey, it's all business owners.
+
+[00:31:43.080] - Zach
+But it's like, hey, you as a person, it's not that costly, but it's also not sitting there sharing leads and figuring out looking at your metrics and stuff and doing that. So I think it's just as you look for it, it's like, what do you want or feel like you need out of a group? And also just seeking out people individually and saying, hey, we had some technology questions on kind of where we're going. I just met with a couple of people who are CTOs that really scale businesses. They just did coffee and cost me $4 for their coffee, but they gave me a lot of input and it's not a lot of time for them and it's not something we're going to do every week. So I think just continually learning and just seeking and being humble and saying, hey, I'm trying to do this. Would you help me? I've got a couple of questions and a lot of times people will say yes.
+
+[00:32:28.670] - Chris
+All right. Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, Bloodlight Consulting Group. As all of you know, right, Brandon and I, this is our passion project, headhart and Boots is, but it's also a way more and more that our consulting clients find us and in effect, they interview us, right? Those of you been listening to Show for a while, you get to know who we are, right, what we're about. So if Head Heart, Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow and we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:33:27.960] - Chris
+That's what we do. That's what we do is we come alongside restoration company leaders, we help equip them and we help support them in that growth trajectory. So if you're looking for that go to floodlightgrp.com, potentially we could be a great match for each other.
+
+[00:33:42.120] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our premier partners. We work really hard to vet those folks that we believe bring a level of value to the industry, that it can really be leveraged in a way to have a sincere, positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring. We see value in the way that their leadership teams and their partners are developed and we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out Floodlightgrp.com Premierpartners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business. I think the key part that you're seeking, you're asking, you're proactively, the one reaching out and trying to get those kinds of conversations initiated which is a good reminder for me.
+
+[00:34:43.850] - Chris
+The same thing that is coming to my mind too is I think you have to be willing to engage in the right conversations with people. It's like I think of a lot of our friends and it just makes me kind of inspires me to think, yeah, they are probably just as challenged, lonely at times, sort of isolated in their own business development as we are as business owners. I think a lot of times we forget to go to that level with folks. It just ends up being sort of business networking chatter that we engage in and just being like you say, maybe it isn't always about joining some really exclusive group but it's deciding to take those existing relationships to a little bit different level where we engage about those things, the higher level things. That's cool, dude. Well, let's get in. Should we make the turn here?
+
+[00:35:29.520] - Brandon
+Yeah, we better. I got another list of things that.
+
+[00:35:32.990] - Chris
+We got into the head and the heart a little bit. Now we can get into conversation. Love it.
+
+[00:35:38.190] - Brandon
+Maybe we'll drag you back into a conversation and keep diving into some of this personal development stuff because it's good, dude. And the reality of it is not everyone's getting a clear picture of this yet, but they certainly will as you guys continue to dominate in our industry, you are moving. And I think when we hear younger men and women talk about the things that they're using to develop themselves, their businesses, the level of impact that they're having, all of us should pause and listen. It doesn't matter if you're 60 years old and you've been running a resto company for 20 years, the game's not over. You might be in the third inning but we got lots to do still and so I think it's just a great reminder when we watch people, I think we can get caught up in the branding and the different things which are all like those are viable business decisions and actions we all have to take. We don't need to make it what it's not. But the real power in a guy like you is what you're doing personally to set the stage, to take advantage of the doors when they open and that kind of stuff.
+
+[00:36:42.510] - Brandon
+We just talked about in terms of the way you're managing your relationships and going through the seasons and being proactive and being aware and honest with yourself about when I can and can't do things. That's really the foundation that you're building on. So we have to touch on that stuff, really. So mission critical. All right, let's turn the corner. So in one of our offline chats with you, obviously you guys are incorporating some new AI tech into the system at liftify, so we're going to talk about that. But more importantly, there's an opportunity for all of us to demystify this concept and begin identifying real, tangible, not kind of Sci-Fi ways that we can incorporate this into our business. And you seem like the perfect person for us to begin leveraging that conversation with, so I'm just going to turn it over to you. I think maybe a place to start, Zach, is what's got you hyped about it. That's not hype. Like, what's the reality of AI that's got you excited that we can grasp onto?
+
+[00:37:41.090] - Zach
+Yeah, well, it's not going to solve all your problems or it's going to fix everything. So that's the general theme, right? Fix everything and run my business, run my family, for me. So to be perfect, I think what is exciting for us about it is just like efficiency. It's going to help people do the things that are probably not as high value, add faster and better. Certainly we're seeing that in our platform. We'll talk about some of those things, but I think for me, that's exciting. To sit down and write a job description, it's just awful. It's especially my visionary personality, right? Well, now you don't have to anymore. You can get 90% of the way there on some of those things. So I think for me, that's what I'm excited about is this technology allows you to just focus more on what's super important that you have to do to move forward, and then you can utilize tools to do some of that other stuff. That man, for me, just kind of weighs me down. Just like the sludge that you have to go through running a business. And so just identifying those different pieces with AI and how can it help you with some of the efficiency stuff, I think, is what I'm excited about.
+
+[00:38:47.350] - Zach
+I think a lot of times people are we get the question certainly of like, hey, is Google going away? Is everybody just going to ask chat GPT what restoration company they should use in an area? And I say, well, I wouldn't bet against Google. They got their own AI and they've got 95% market share, so I wouldn't bet against them. But also, even if that happened, you got to understand that all AI is just going out to the Internet, looking at data points, consolidating a lot of information, and then delivering something of what it thinks is the best output from all those data points. Right. So as it relates to reviews, and we're getting this question a lot, is people are like, reviews going to matter as much? What's going to happen? Like, well, you only have one business. That's a big data point, is all the people that have voted for you, what they said about their company, so you better keep doing that. You better do more of that, because now they're scanning more and more stuff when it relates to your company, if people are searching that way. So I think all that to not get down the review rabbit hole, but I think people sometimes think it's going to change too much.
+
+[00:39:50.780] - Zach
+That's kind of what Google is, right? Just goes out, grabs information, pulls it back for you. It's just in a different form. And so I think some of the hype is purely just hype. But I think what's not hype is it can drive true efficiencies and help you do things better and faster that are maybe not the highest value add things that you should be spending your time on.
+
+[00:40:10.690] - Brandon
+I think that's an interesting point, is that I think we have kind of created something out of nothing to a certain extent, that it literally is just a really intelligent search bot right now. That's kind of its primary purpose that it's serving is even in some of these software applications, essentially what it's doing is just fast at going and retrieving information, right? So we've used it in a couple of different formats, and it would be the equivalent of my son doing a research paper and spending however many hours combing the Internet for examples, paragraphs, blah, blah, blah. That's really what the tool is doing. Well, it's not thinking.
+
+[00:40:49.630] - Chris
+Yeah. And it seems like in order to really take advantage of the technology, you have to speak the language of the technology, which I think it's kind of embarrassing to say this, because I sort of think I'm somewhat of a techie person. Kind of is that just like with Google, there's a certain syntax that Google uses for really being a power user and searching for stuff on the Internet. There's language to it that if you don't know that language, you're really only leveraging 50% of Google's capability, right. If you don't know some of these search commands and so forth in the way that you're phrasing questions on Google. And likewise, it's even more sophisticated with chat GPT. Four, if you don't know how to talk to chat GPT, the output you're going to get is pretty rudimentary. You can't like, I have I did a job description and it was like, you say, maybe 80% there. But I think if I had known how to really prime Chat GPT, I probably could have gotten a lot better output from it. So how much does that play into it? Man have you found any resources that are great at teaching the language of these AI models?
+
+[00:42:03.040] - Chris
+How did you get up to speed on this because you're obviously now leveraging your company.
+
+[00:42:07.430] - Zach
+Yeah, we're definitely still getting up to speed and figuring out how to leverage it. I think a balance for us probably just like a restoration owner is like, how much should you try to be an expert at this and being an expert at this versus just be great at your job and then utilize the tools that are out there to get you 80%. That's kind of the mode we've taken. Obviously we've integrated it and stuff, but that's not really understanding the back end. That's just more how do you connect right to it, which is straightforward. So I think for us, we've just said, hey, how can we get 80% more efficient at some of those things? And let's keep running with where we're going. I don't need to be the foregone LinkedIn expert on AI. That's not what we're selling, that's not what I'm doing. So I would say we're mediocre probably at our understanding of how to use it, but I would say it's good enough. I have friends, I'm sure you guys do too, who they get so far down the rabbit hole, right, that their value extraction is not near their time investment.
+
+[00:43:04.910] - Zach
+So I just caution people on that, that it's not going to solve all your problems to utilize it, but stay focused on where you're going, what's the prize, what's that three year EOS target that you're hitting on? And stay focused on that.
+
+[00:43:15.900] - Brandon
+So one of the examples of us kind of incorporating it into our business, I'd like to share that really quick and then I'm really interested, I think, to just kind of kick off maybe where we go down a rabbit hole of working through some examples of how teams could actually be using this. I just would like to share an example and then I want to dive into what Liftify is doing because again, I think it's a perfect example of leveraging time for value by using the tool, but kind of a rudimentary way that our team used it. And I think this is important to note the balance between the relationship component and then leveraging it, like you've said, to kind of do more of these mundane tasking is. So our team, we have a small team. We're pretty much still in the startup phases to a lot of ways. And so our team did an exercise where we were working through establishing our core values. And our team is small enough right now that we want the folks that are part of the team right now to play a pretty integral role in that and contribute to it.
+
+[00:44:09.260] - Brandon
+So anyways, we did this exercise over a series of weeks where as part of our team meeting, we were going through these core values and first we did them as individuals, then we did the ones as we thought were relevant to the company, blah, blah, blah, long story short, we settle on our five, right? So then there's like this part that can really eat up a lot of time of where now you've got to kind of create the definition of these core values, right? Like, what's the behaviors? What are they now for our business? And we literally plugged them into Chat GPT and in 15, 20 seconds got, like you've said many times, like this, 80% of what we wanted, a really.
+
+[00:44:48.970] - Chris
+Good just quick editable outcome versus we might have labored over that for a couple of hours or something, right.
+
+[00:44:56.480] - Brandon
+Maybe dates by the time you get distracted and do all the things. And it was like literally an instant. We had a really strong foundation to work for from that. We could just kind of tweak it and make it our own. And I think one of the things that we wrestled with potentially at the beginning is, did we devalue then those definitions? Because we didn't go through the labor of writing it, that we allowed Chat GPD, right? And the reality of it is it was just articulated much cleaner than we probably would have on our own anyways.
+
+[00:45:31.330] - Zach
+Yeah.
+
+[00:45:31.550] - Chris
+And the question is, I think over time anyway, with values and a lot of this other stuff that we might use it for, we create the values, we go it's like we're going to be redefining what those values mean to us over time. But to be able to just have that accomplished and then move on to the next important thing is so cool. So how have you guys identified its benefit within liftify? What's the application there?
+
+[00:45:59.760] - Zach
+Yeah, absolutely. Well, and I get that too. Is it inauthentic for us to use this? What that comes down to is just pride, right? I could have wrote it. It just came back in 20 seconds, 80% of what I could have done. So just embrace it and just use it.
+
+[00:46:14.420] - Chris
+My thoughts are better than the rest of the universe.
+
+[00:46:17.100] - Zach
+Yeah. No one has ever thought about values before. We're going to think about them in this hour as we sit here. I think for us, a few different ways. I mentioned job descriptions for us, super taxing to do. We found help doing that. Idea generation. So if you're thinking through a problem, like, what are the ten steps to do mitigation or something, you're looking at putting something together and maybe it spits back a bunch of stuff and two of them are terrible ideas, right, but it gets you a lot of the way there. I think we've been putting in some just random ideas, things that we're trying to think through, and it's pretty good at giving you some buckets to think about, even if it's not totally accurate, what it's saying just helps with the thought process as you're thinking through different challenges with your team or whatever. So that can be interesting. Social posts take forever to write. Well, so we're using it for all of our social media posts. Again, we're not just using it right away. We're taking the 80% and then editing it so it's still real. But we'll do a lot of facts, different things about reviews, why they matter, how they help your business, and then plug that in and have it spit out a little summary of it.
+
+[00:47:26.290] - Zach
+That's just easy to share on social, so that's an efficiency thing for us. And then long form like marketing materials, like blog posts, press releases. For us, we have new partnerships and stuff we're launching. Just plug that in, you've got a pretty quick 500 words you can edit and get out there. So all those things are really helpful at our stage. We don't have, like, a content team or a copywriter to write a lot of that content. So those are some of the ways for us that we're actively using it.
+
+[00:47:55.110] - Brandon
+Those are really user friendly and applicable. Sorry, I'm trying to see my iPad with my 40 something.
+
+[00:48:03.130] - Chris
+Oh, you didn't bring your oh, God.
+
+[00:48:05.120] - Brandon
+Don'T even get me started. Your readers gosh going quasi depressed right now. Zach, you got to help me through this, man. Okay, now there's a little bit more high speed way that liftify is incorporating AI. We've had an opportunity to kind of see some of the insides of it before it even went live. But tell us about that, because that's got some legit return on investment, I think, for folks.
+
+[00:48:29.830] - Zach
+Yeah, absolutely. So the most tangible, easy way that this immediate release can help you in your business is the number one complaint that we get from customers when they start getting more reviews. Like, oh my gosh, how am I going to respond to all these reviews? And after you do, like, four and I've done it, it's like, what else do I say? I know I need to respond. I know it's good for SEO. I know it looks good publicly as well. To respond, it's nice to thank people, but man, what do I say? And so what we've done in our platform is to put in basically a button on the reply where it can use AI, and we'll generate a response for you that's completely custom it'll, pull in your business name, look at, read their comments, and try to spit something back and again. It's the 80 20 rule, right? You might want to fine tune it a little bit before you post it, but if you're going to post two or three sentences to respond to every review from a customer, instead of that taking five minutes, each takes about 15 seconds. And what we're seeing a lot of people are doing is owners are starting to offload that to their office teams where they didn't want to give up that control to an office manager or somebody there at the front desk.
+
+[00:49:38.110] - Zach
+But now it's like, okay, use this, tweak it a little bit and go. Ahead and push it, push it live. So I think that's live in our platform now. A lot of our customers in the short bridge between when Chat GBT launched and we launched ours, we started hearing, hey, we're copying our reviews and putting them in and then we're pasting it out. So we just put it in the dashboard so they didn't have to do that. But that's a tangible way that you can make responding to reviews easier for your business and doing it in a really unique way every time, I think that's where it is today, where it's going, is actually being able to read job attributes. So if we're connected to your CRM and we can see it's a water damage remediation or fire or whatever, having it read that and pull that into it as well, and to just be able to completely let it auto respond if you want, I think that's coming for us as well. Being able to just let it say, hey, we're just going to let it always respond and read some of those things.
+
+[00:50:37.130] - Zach
+I think it's still developing, which is kind of the exciting part, too. Like, this is only phase one, right? I think there will be a lot more development of it, but it's already really good. I mean, you read it, you're like, man, that's better than the response I could have come up with. But it's a couple of these words and we're going to hit send. So that's a tangible way in our dashboard that we've implemented it and we've gotten really great feedback from our customers.
+
+[00:50:59.090] - Brandon
+Yeah, I think for some of those teams, I'm just even thinking about some of the teams we work with that you do. I mean, they're getting hundreds a year, hundreds of new reviews, and you're right, that's a pretty substantial time commitment.
+
+[00:51:11.840] - Zach
+I think.
+
+[00:51:12.250] - Brandon
+The other thing I like about it. So one of the things that we talk a lot about with teams is and this is a saying that we heard many moons ago by somebody I can barely remember who it is, but they just had this saying of make it easier to do the right thing than the wrong thing. And I think things like what you're referring to, that gives us confidence as leaders to offset, to delegate, to put that in the hands of other people on our team. And it's never been, in most cases, malicious intent why we don't it's not even necessarily because we're control freaks or all the many things that we get dubbed right. But a lot of it is just, this is my baby, we started this business, this brand was built on my handshakes. And it's hard for us to hand off those relational components like that because we're nervous that it won't feel like it did when we built the business. And I think these are great examples of ways that tech can be leveraged to get the same kind of communication or commitment outcome that we need, making it easier for our people to do the right thing, essentially, or better.
+
+[00:52:14.140] - Zach
+Right. Take a negative review experience is a good example. A lot of times the owner is the worst one to respond to that because they're going to come guns ablaze and it's personal. You got to kind of talk them off a ledge. And the sentiment analysis with a lot of these tools. Like if you respond to a one Star review, the template it gives you helps get you 90% of the way there to how you can say it, how you want to say it tomorrow when you read it, not what you're feeling in the moment, but how you're going to want to respond to it if somebody reads that. And so I think it can be helpful for everybody, but it can certainly allow you to kind of delegate that and do some of those things much better. I think the other piece is that's kind of at a very micro review by review level, the other side of it is the macro review. So take a business that you guys work with that's 1015 locations, running thousands of jobs a year, multiple states, whatever. It's a large business. The other part of what AI is going to allow us to do, and like we can do in our platform as well, is to begin to analyze the results in a macro trend.
+
+[00:53:16.090] - Zach
+So identify sentiment. Out of all the fours and five star reviews that you got, what are people calling out? People projects, what kinds of projects, what's going well in our business? And then on the other side, what's not going well is it always a technician and being able to draw those insights and reading the reviews and reading all of that, where, yes, you could have always exported it in Excel and gone one by one and started tagging things, right? But I think this AI is going to allow you to just decipher information way clear and just suggest to you, hey, here's the things we're seeing. Out of hundreds of these data points, that's going well. Here's what's not going well. And it can help businesses solve for problems much faster than they could by just hiring an intern, going through 100,000 Excel rows. Those kinds of things I think are really exciting around the technology. Just as an example, it applies to all data. But Reviews is one where if you're a large company, work a lot of large HVAC companies, they may have 400 jobs a week that they're doing. Like, you need a macro view into how you're doing.
+
+[00:54:16.210] - Zach
+You can't look at it one by one.
+
+[00:54:18.050] - Brandon
+Yeah, that's huge. That's really intelligent.
+
+[00:54:20.360] - Zach
+Yeah.
+
+[00:54:21.000] - Chris
+So I wanted to go back to what we were originally talking about actually before we got online, if that's all right here, as we kind of round out our time together. You've been innovating, so Liftify has been innovating in the restoration space, specifically. And I think what really caught Brandon and I is we were hearing a much bigger story of a technology company that's really tuned into their customer experience after the sale.
+
+[00:54:46.530] - Zach
+Right.
+
+[00:54:47.080] - Chris
+Do you want to talk about that a little bit? Because I think in this industry, it's one of those the software as a service where it's like once people close that deal and you're paying X amount per month, with most companies, it's like you get what you get without naming names of other people. In that Google review space, there's definitely that feel, and they work across multiple industry categories, and you kind of get what you get, and they're as good as they are. And with you, you opened up our conversation this morning with, hey, we've actually been adapting and figuring out some new things in the restoration space specifically, and we're seeing better results. Do you want to talk about that? I mean, this is your audience. Man yeah, absolutely.
+
+[00:55:28.230] - Zach
+Well, restoration is its own beast. It's what we've learned over the last 18 months of working in the space. I think it goes back to this first, Chris, my background, why we started the business. We don't want to just be a software company that just sells stuff. We want to actually solve this problem and care about the businesses and drive the results. And so part of our whole model is, like, we analyze the results every Monday. It we've got a board of people that aren't hitting the conversion rates we want from all the industries. Like, we review it. Why is this happening? What's going on? What are we going to do to change it? And then the other side, what are people that are getting 40% conversion rates? What are they doing? We're learning and actively trying because we care, because we think this moves the needle in the business. So what I mentioned at the beginning of the call related to it was, hey, what we started noticing is our restoration customers, when we were just doing kind of our standard flow for any business, where after the invoice is sent, we automate it through, like, QuickBooks, the common one.
+
+[00:56:25.310] - Zach
+With our restoration customers, we weren't hitting the conversion rates that we find acceptable. Probably a lot better than what they were doing previously, but still not to like what I would consider. I'm proud of that. I think their potential is so we started getting on calls to them and figuring out the question we always ask is, what is that ideal moment to ask for review? Just walk me through the process. From Jobs Complete, you get the cos sheet. Tam I'm learning some terminology in the industry. Where does that go? And what we heard from everybody in the restoration space is, you know what? When that customer gets that bill, sometimes higher than they thought, sometimes it's not clear what insurance is covering, or maybe they have a deductible they didn't know of. That's actually not the best time. That could be the worst time if expectations weren't set well on the front end. And so we kind of said, okay, well before that is actually the best time. So right when the job is done, when they move back into their home or whatever, the project is done. But typically that invoicing could take a week or whatever afterwards, that's the moment we've got to get there.
+
+[00:57:30.610] - Zach
+And so we started talking about it. The challenge is a lot of times there's no automation capability at that moment. It all happens at the invoicing stage. So we figured out a process in a way to make it really easy for the team to get it to the customer right at that moment. And if you want to know how to do that, schedule a demo with us. I'll show you. But the goal was really, hey, we want optimal results and optimal timing. And so we've kind of changed our even onboarding with restoration customers to say, hey, look, the industry is kind of unique. We can automate everything on the back end and do it at the quickbook stage. But if you really want to do better than that, you're going to do it at the optimal time and then probably even coach your team to do it a little bit in the field. But I wouldn't rely totally on that. But we're going to give you kind of three layers essentially of how you can do it and you get to choose the level of effort you want to put in and you can utilize the tools or not, but here's what you can expect with these different pieces.
+
+[00:58:24.650] - Zach
+And I think that's just a really different experience for a company than just, hey, buy software, log in, figure it out, good luck, which is kind of the space that we're in. And so we just don't feel like businesses need more of that. We think they need to solve the problem. And now we have 100 restoration companies running utilizing this. We've got the data to say, hey, we know how to do it. If you have this problem and you're like every other restoration company, we can drive you reviews. Here's the path for you to do. It's almost like a playbook or recipe for restoration. So we're still refining it, we'll keep refining it, but we've made some significant changes because we're just looking at it saying, hey, this industry, something is different about it. Like we need to get on the phone and figure this out.
+
+[00:59:06.140] - Brandon
+That is true. I mean, I think the way that you highlighted that before you launched into that piece is really good. That is unique. Just as a reminder for folks that listen to the show, I think if you're watching right now, it's kind of humorous, right? We have like our CNR cup up. We've got our liftify shirts on today was kind of over the top. But I think what's important to remind everybody is we are very particular in our relationships. It's not a fee for relationship type of scenario. It's the groups that we put on our sponsor page, the folks that help us contribute to the show, keep the show going. They're teams like your team, Zach, where there's a commitment to service to the end user. Like, there's a purpose, there's a mission behind the business, and there's a willingness to take action to prove that. And I think in my mind that's a great example, because in most cases, like what you've already highlighted, you're already getting good results. Even without refining, even without iterating, they're already better than most other versions of anything somebody's going to use to get Google reviews. So the fact that you're still so dedicated to making sure the product meets and exceeds the expectation of the client is a real testament.
+
+[01:00:21.500] - Chris
+Yeah, a lot of these other companies, a lot of these other companies coming out of Silicon Valley and Austin and blah, blah, blah, it's like, Arr, more arr. Let's just get more revenue. Get more revenue. And we get that. That's what it is when you have a venture backed company, and at the same time, there's just so much value in when you see someone where customer experience, there's clearly a really customer centric money will follow the success we create for our clients. I just love that, man. It's awesome. And it's so funny. As you were talking about the numbers review that you guys do, it sounds a whole hell of a lot like our production meetings that we run in the restoration industry, where we're looking at GPS of current jobs. We're looking at cost versus collected. How is this we're keeping track of those metrics because they tune us into how could we be better on these individual jobs or clients or whatever. Right.
+
+[01:01:13.110] - Brandon
+Okay, I have a question for you. This is a little, maybe potentially open Pandora's Box a little bit. You have an interesting perspective of our businesses. Right? So we're restoration contractors. We partner with Liftify, and Liftify essentially sees the difference between what we say we do and what our clients tell us we actually do.
+
+[01:01:33.660] - Zach
+Right.
+
+[01:01:33.950] - Brandon
+It's a pretty interesting perspective to hold. Not to put you on the spot, but what do you see as maybe the top one to three things? That is a gap. It's an expectation gap where we're telling you right. How great we are as a restoration contractor. But then you're seeing these differences, these gaps, what stands out.
+
+[01:01:56.550] - Chris
+I'm sure you guys follow negative reviews.
+
+[01:01:58.800] - Brandon
+Yeah.
+
+[01:02:00.230] - Chris
+What is that?
+
+[01:02:01.400] - Zach
+Yeah, give me a second to think about that.
+
+[01:02:04.390] - Brandon
+We totally threw you on that one. Like, on the spot.
+
+[01:02:07.540] - Zach
+I'll tell you one thing that we've seen from businesses we work with who acquire new locations, and then they go and they try to get reviews from those businesses that has been rough because they're acquiring typically a struggling business, right? And then sometimes I don't think they fully understood the true bad experiences that some of those customers have or the brand reputation that they really have to invest and build, especially in your guys'world. If you screw up somebody's house and their house isn't put back together, that is real. It really matters if you do it right and if you do it wrong. And so I think one of the things I've seen is people that are buying new markets, even if the numbers look okay on paper when you go to buy it, maybe do some additional vetting and understand how is this company been representing themselves in this market for this season? And do we have a huge brand problem that we're going to have to invest in? And should we invest in doing commercials, doing things that say, hey, we have a new ownership. We're going to run this different. We own this business over here.
+
+[01:03:08.970] - Zach
+We have 4.9 stars. We're going to serve this better? I think a lot of people are kind of caught off guard. They think, hey, it's a good business. We'll run it. We'll start doing it. And they quickly realize, oh, that wasn't a very good business, and there were some real problems that people have. So that's something that sticks out. And if that exactly answers your question, I think the other thing that I've seen as well is it all comes down to people. So if you're getting some negative reviews, typically what we see is it kind of centers around the same individuals on your team, right? And so a lot of people, their initial reaction is, hey, let's just filter out how to block them from let's just not stop asking their customers for reviews versus when I'm in the conversation with the owner. The real question is, hey, how do you fix that problem on your team? Because these aren't fake. These are real customer experiences. And there's a theme here with the business. And so we have worked with an HVAC company in Florida that just comes to mind. Huge business. Twelve locations, thousands of jobs a month.
+
+[01:04:10.290] - Zach
+And they have 95% of the reviews are positive, but because of the volume, they got significant bad reviews in the last month, you get ten, and you got 300 good reviews, but still ten. And their owner this week, I talked to him, hey, I know you didn't have ten before. You didn't have anything. He's like, I love it because it points out the job we're doing when it's not good. And I'm going to bring it up in the team meeting, and you bet those people who their names in that bad review, they're not going to do it again. That next week. And if they do, they're not going to be here the next week. So it's fine. Just get us reviews. I'll fix the quality problems. And so I think that just that sentiment of, hey, let's not focus on not getting bad reviews. Let's focus on providing great experiences, and then the positive reviews will flow, and let's actually fix the business. And I think people are just sometimes try to put a Band Aid on it, if that makes sense, versus actually getting to the root of it.
+
+[01:05:00.820] - Brandon
+I think the reality of it is there's probably some hesitation regarding the consistency of reviews, because we are all a little gunshot to hear the truth. I think there's a reality.
+
+[01:05:12.270] - Chris
+We are. But that Florida guy, that's pretty inspiring, man. I mean, that's great leadership. It's like that's that kind of boldness. I think we all need it's. Like, let's deal with what's in front of us and let's keep moving. Let's keep moving. Let's not try to optimize for hiding. I can't think of a single successful business we've worked with where they put any energy into hiding negativity and bad.
+
+[01:05:35.520] - Brandon
+Results or skirting it, working around it.
+
+[01:05:38.570] - Chris
+Yeah. Maneuvering around. Yeah. So that's awesome, man.
+
+[01:05:42.350] - Zach
+And I'm looking at their numbers right now. Like, they have 400 positive reviews this month and 40 negative reviews. 10% are negative, but once they drill into it, a lot of it's around price and, like, setting the expectation with the customer, and you can also control who you're asking. But his feedback was to go back to the managers and say, hey, when we're quoting a new HVAC Furnace install, we need to be really clear up front what the price is. Right? And he didn't know that before. He probably thought they were doing fine with it. And so I've just loved his reaction to it, because it's not, hey, how do we exclude everybody who only spent a couple of $100 with us and didn't end up doing the $10,000 install? His approach is, hey, let's keep asking everybody we go into their home with, and we're going to get better at those pieces so there are no surprises. And even if people think we're too expensive, they had such a great experience that they're going to leave a positive review. So the technician was really nice. We chose to go another direction. That's the standard he's setting internally with his team.
+
+[01:06:37.490] - Brandon
+That's a huge I mean, I'm hearing numbers that you're talking about. So they had 400 reviews in a single month. Yeah. They're moving some business through that system. Well, there's a testament to how has that been possible? Because that leader clearly has been thinking about their business in a real, legitimate, strategic way. This is only probably one of many times they've been faced with some kind of truth and walk the high road, and that's why their business looks the way it does. So hats off to them. And a great example, I think, for us to contemplate as we continue to drive the reviews and do the things that we need to to manage our our digital presence. Okay, so we are always try to be really good with time commitments because we know that the folks that we have on the show are super busy. So let's just remind everybody who you are and what you have so that people know where to go. And then, dude, leave us with one nugget, one thing that in regard to our digital presence, in regards to reviews, regards to AI, that you feel like, hey, it's not rocket science, but this thing's important.
+
+[01:07:37.270] - Brandon
+Hold on to this, and then we'll wrap things up and get you out of here.
+
+[01:07:40.720] - Zach
+Yeah. Well, I'm Zach Garrett with Liftify founder and CEO. So we help businesses build stronger reputations online. So if you want to have the strongest reputation, have the most reviews in your market, and be at the top of Google, we can help you do that. So that's what we do. And as far as a nugget to leave, I'll just keep it centered around the AI and responding. Like, respond to your reviews. You have to. It's good for search customers care. Even if you generate reviews, if you don't respond to them, you're missing out on probably 30, 40% of the value of that review, even from a search perspective. So whether you're using AI or something, get reviews, but respond to them and respond to everyone and commit to that. Have some onto your team. Own it and saying, hey, we're going to respond to every review, and even the good ones that are just five stars, we're going to respond and utilize that because it's going to help us rank on Google. Love it, dude.
+
+[01:08:29.430] - Brandon
+Thanks again, man. We always love having you on the show. We appreciate you being willing to share your time.
+
+[01:08:34.760] - Chris
+It's good, and I feel inspired. So one of the other things that you talked about earlier as we got to know you a little bit, was just this idea of having a weekly EOS meeting with your wife, and I'm like, man, I've been thinking about that, talking about that for a long time. It's time to do, and some of you listening, I think, may want to take advantage of that as well. Right? It's like, you got a healthy business, but your home isn't healthy, your marriage isn't healthy. How exactly are you winning at the end of the day? Right? We need healthy relationships around us in order to enjoy the fruits of our labor. So anyway, that was awesome. Liftfy. Comfloodlight and yeah, you're kind of lame if you don't have a strategy for maximizing your Google reviews and you haven't talked to Liftify yet. I mean, get on the bus, man. Come on.
+
+[01:09:21.650] - Brandon
+Seriously, get on the bus.
+
+[01:09:22.950] - Chris
+Good to see you again, man.
+
+[01:09:23.960] - Zach
+All right, thanks for having me. See you guys. Bye.
+
+[01:09:27.730] - Brandon
+All right, everybody. Hey, thanks for joining us for another episode of Head, Heart and Boots.
+
+[01:09:32.280] - Chris
+And if you're enjoying the show, you love this episode, please hit follow. Formerly known as subscribe write us a review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

@@ -1,0 +1,563 @@
+﻿[00:00:07.610] - Chris
+Welcome back to the head, heart and Boots podcast. I'm Chris.
+
+[00:00:11.110] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:00:17.830] - Chris
+Man, I love this industry.
+
+[00:00:20.930] - Brandon
+How are you?
+
+[00:00:21.650] - Chris
+My head's a little muddy this morning. But you know those mornings where you up, you got a lot of things tugging at your sleeve.
+
+[00:00:26.870] - Brandon
+I kind of feel like there's been about 365 of those recently, probably. I'm sure no one listening could relate.
+
+[00:00:35.440] - Chris
+I'm sure nobody. Exactly.
+
+[00:00:37.630] - Brandon
+Everybody's just living their best life and everything is super easy, right?
+
+[00:00:41.020] - Chris
+Okay. We're going to hang in this kind of more operational, tactical pocket. We did a thing on standards recently, and then we do have more of a professional, personal growth kind of episode that's coming out soon here with Alex Duda, which will be a fun mix up, but we're going to kind of hang in this pocket on just some operational stuff. Did that standards podcast really become our number two most listened to podcast already?
+
+[00:01:06.630] - Brandon
+Already, yeah.
+
+[00:01:07.580] - Chris
+Holy cow.
+
+[00:01:08.160] - Brandon
+It bumped up right behind the whole pm changing our project manager mindset, which is interesting. I mean, I just think at the end of the day, we're all looking for more hacks. What can we be thinking about our business? What are these real concrete things that we can be adopting and deploying? Ring a bell?
+
+[00:01:25.600] - Chris
+Yeah. None of these things are rocket science or brand new or whatever. But I think all of us, we just get these blind spots to develop. It's like when you're driving, right? You just get accustomed to staring out the front windshield and you forget to check your blind spot.
+
+[00:01:40.260] - Brandon
+That's right.
+
+[00:01:40.670] - Chris
+Especially now with all the newfangle cameras. You don't even have to look back anymore. We've all become so numb.
+
+[00:01:45.370] - Brandon
+Thankfully, we get warning signals.
+
+[00:01:46.970] - Chris
+I don't know how that analogy really works. But anyways, let's dive in. So before we jump in, we're going to be talking about feedback rich environment. What does that mean? What does it mean to your business? How do we achieve it? How do we develop that within our companies and Whatnot? So we'll dive into that, but before, let's get into our sponsors. And I'm going to start with our brand new sponsor, which is so fun because we've kind of been tracking with these guys for a while. We've been recommending them literally to every single client we work with. And it's another one of those clients like our other sponsors, frankly, where we almost universally have raving feedback.
+
+[00:02:20.630] - Brandon
+That's right.
+
+[00:02:21.050] - Chris
+And that's kind of our expectation for any sponsor that comes on the head Howard Boot podcast is we have to be a raving fan. Otherwise why would we recommend them regardless of how much whatever money they pay us, right? So actionable insights. If you've worked with actionable insights, you've gone to their exactimate training, various different training courses and programs. Maybe you've even at your company, you guys have invited them out for live trainings, which I've heard are really fantastic. Then you already understand the quality and the discipline and the thoughtfulness that they apply to all of their training and just how aggressive they are in staying up on all of the latest changes and iterations within the exactimate and estimating space. But then also every single time there's a different line item or there's some different feature in exactimate, they are the first to grab it and roll out some kind of teaching tutorial on it. It's just incredible. But their exactimate, their new profile that they have inside of exactimate, super powerful, is such a game changer for the industry because I think one of the things it does, it really levels things out across your estimating team.
+
+[00:03:24.340] - Chris
+We all have new folks that we're training up in these roles, and this new exactimate profile can really help reduce errors. Also, avoid your maybe younger estimators, but even those we were just talking about blind spots, I think even people have been estimating a really long time. We can start to forget line items and leave things out. It ultimately affects the profitability of our estimates. Right. So no more estimating mistakes, no more missed line items. The actionable profile really helps level the playing field for your entire estimating team. For the folks who've been doing it a long time, awesome. It's going to help them not miss those little line items that add up to make a big difference in the estimate. And likewise for your new people, it's going to help them learn the system as they go, as they're building quality estimates.
+
+[00:04:06.100] - Brandon
+That's right.
+
+[00:04:06.640] - Chris
+So it's just a fantastic tool for your entire team. Go to slash floodlight. Excellent programs, excellent products, and a really high quality team over there.
+
+[00:04:17.620] - Brandon
+Love those guys. All right, liftify. Liftify.com floodlight. Zach and the crew, they are still crushing, man. I would tell you what, it's been fun watching some of the feeds over the last several weeks because they've been on a bit of a tour de force, handing out awards to their clients across the United States that have just been killing it at an elite level with getting those and earning those five star Google reviews. And of course, the impact to all these entities is that they in turn are growing. And so there's a lot of momentum and excitement behind that. Just a really gifted and talented team that's continuing to iterate their program so that it continues to get these high rates of participation, 2025 plus percent participation, which just skyrockets the number of Google reviews that we can be getting over the annual basis. And then of course, with that, we've talked about it a lot. It's that consistency and the recency, if you will, that we're getting those. And so there's just an awesome partner where our service delivery won't affect the effectiveness and the consistency of which we're getting Google reviews. So lock in on liftify.com. Michelle the funny thing about CNR is I think we're going to kind of see the placement of our conversation about CNR kind of move around a little bit in terms of where it pops up in the show.
+
+[00:05:35.880] - Brandon
+But all that to be said, look, guys, if you are not, I want to say supporting, but I guess the reality is let CNR support you. If you're not a current subscriber, if you're not leveraging all the different media toolkits that they have available to us in terms of CE credits, podcasts, interviews, all the things that Michelle and the team over in CNR do in our benefit are crazy. And they just continue to climb, they continue to expand what they have access to. So please, CNR magazine, take a look. And by the way, when you look them up, cnrmagazine.com, right? And it's, and a, and d, take a look at what's going on there and do yourself a favor and make sure that that media, you've got access to it, that it's coming into the inbox, it's hitting the mailbox, and that you're paying attention to their newsfeeds because they're always crushing content for us here in the industry.
+
+[00:06:24.660] - Chris
+And last but not least, answerforce.com. A quick shout out, actually, as part of this testimonial or sponsorship, read Edward Merzoian. He's a restoration entrepreneur down in southern California. Killing it down there in the LA area. I just saw a post in one of the Facebook groups and he was talking about, he was really like exhorting all the other restorers, like, look, there's a massive opportunity. Like he's one of those guys swinging for the fences big time, love it, shooting to the moon. And he tends to seek a lot more of his advice and so forth from outside the industry, like the tech industry and pacing off of them. How are other companies leveraging technology and so forth? He's a big advocate for that. And I think that's a lot of why you and I are such big advocates for Answerforce.com is it's a technology tool, having a bolt on call intake partner that you can flex up, flex down as needed. Right. Their service. So all of us have probably experimented with answering services of some kind. Some are great. We believe answer force is in that category, and some not so much. In fact, very recently I called one of our clients and got there after hours answering service and was like, oh, no, this is not good.
+
+[00:07:35.700] - Brandon
+We're not going to narc you out.
+
+[00:07:37.080] - Chris
+What is the purpose of a call intake partner like answer force? Well, it's to create redundancy in your call intake process. Because what do you do when your receptionist out to lunch? Do you just forward your phones? We've talked about this before, and so I'll kick that dead horse. It's absolutely unacceptable when you think about the value of those inbound calls and how much money you spend time, whether you're doing pay per click or not, you likely have salespeople out there. But just the overhead and investment that you have into your business, the value of every single call is significantly higher than you're probably thinking or remembering. And therefore it makes sense to have a part like answer force have a redundant call solution so that for every single call that comes in, you have a consistent intake process so you maximize your conversion. If you're not really dialed in on your call intake process, you are not maximizing your capture rate and conversion of the leads coming through your phone.
+
+[00:08:28.980] - Brandon
+That's right.
+
+[00:08:29.490] - Chris
+So check out answerforce.com. Floodlight packages start at less than $370 a month and you're not locked into any pricing level. You can go up and down based on storms, travel, all the things. Receptionist out on family leave or whatever, leverage answer force to have a consistent call and take process.
+
+[00:08:48.380] - Brandon
+Love it. Love it. Okay, dude, so we're going to get it.
+
+[00:08:51.310] - Chris
+We're done.
+
+[00:08:51.900] - Brandon
+That's it. All right, it's time to get into the meat of the show. I think we kind of have a bit of a communication focus coming. I think that we're going to have several episodes that kind of touch on this topic. But here's where I wanted to go today is specifically what has been deemed a feedback rich environment. And this is something that we leverage pretty hard when we do our two day operational leadership seminars. And it's just this idea that inside our businesses, right, there's everything from multiple stakeholders on each project. We have just a plethora of different types of personalities, skill sets, roles, responsibilities, job titles within our organization. And then you strap onto that all the different strategic partners, sub relationships. At the end of the day, regardless of what kind of service business you run, our businesses are built on the backs of human beings. Helping people. Helping people. Okay. And I think one of the things that I see, I've done it. We make this mistake. There's strong chance that we've had a hiccup in the last several weeks in our own company where we don't quite. There's a strong chance, guys.
+
+[00:10:04.030] - Brandon
+Yes. If for some reason you thought that our businesses don't struggle the same ways yours do, that would be a bad mistake.
+
+[00:10:10.910] - Chris
+Dude, I was talking with Johnny G. This is a little bit of a side note the other day. And he's like, you know what, I'm so curious. Do you and Brandon ever fight? Do you guys ever get into conflict? How do you get through it? And I'm like, dude, one of these days I swear I'm going to bring an issue. We're going to have a real, we're.
+
+[00:10:30.110] - Brandon
+Going to do one lot story in.
+
+[00:10:31.470] - Chris
+My head, conversation about the breakdown, because it is so universal. I was actually, as you were bringing up this whole feedback rich environment thing, the question I want to say is, what about it is so hard because everything we're about to talk about, it seems very accessible. It seems like, well, yeah, we need to do more of this on paper. And as we're about to talk about it, like, hell, yeah, I'm going to bring this up at our next meeting.
+
+[00:10:56.410] - Brandon
+That's right.
+
+[00:10:57.000] - Chris
+But then when the emotions get into it.
+
+[00:10:59.860] - Brandon
+Yeah, it's easy to talk about, difficult to live.
+
+[00:11:02.680] - Chris
+Then when the personalities get into it and then we pull our file folders on each other.
+
+[00:11:06.940] - Brandon
+Oh, man.
+
+[00:11:07.480] - Chris
+And when we start assessing what this person means by what they're saying and we have all of these internal reactions, well, then it's not so easy.
+
+[00:11:17.220] - Brandon
+Yeah, right. Yeah.
+
+[00:11:18.150] - Chris
+But anyway, keep going. I'm sorry.
+
+[00:11:19.370] - Brandon
+No, you're spot on. I think there's great foreshadowing there on what's to come.
+
+[00:11:24.060] - Chris
+Sometimes we have this happen, my God, we're navigating all of this shit just like literally lives.
+
+[00:11:29.630] - Brandon
+That's right.
+
+[00:11:31.070] - Chris
+Learn with us.
+
+[00:11:32.210] - Brandon
+I think one of the big things that basically that I just feel like we get faced with on a consistent basis is there's just these constant gaps, if you will, between perception and the stories, just the way that we're viewing the world. And so I think first I want to kind of highlight some of the most common things that I'm sure all of you have experienced or are experiencing. I know these are things that Chris and I's teams over the years have experienced, where these misses happen because we're not creating a feedback rich environment. So I think the idea is, let's just kind of spotlight just a few examples, context, and I think what I want to do from there is just kind of highlight some actual concrete tools that we can begin to deploy in our teams to help with some of this, to help reduce the noise and increase the amount of feedback that's coming and going up and down our food chain. Right. Whatever. You guys get it.
+
+[00:12:24.780] - Chris
+Gird your loins, folks.
+
+[00:12:26.070] - Brandon
+Gird.
+
+[00:12:28.030] - Chris
+Get ready for it.
+
+[00:12:29.220] - Brandon
+Get ready. Okay, so here's kind of a first one for me that I see happen all the time. And it was very frustrating for me because it was happening in our team, and it was like we had moments where it was worse than others, for certain. But I always would get frustrated because it was in such conflict with what we really wanted, what we thought we were promoting, and what we thought we were building principle on. And one of those is the whole us versus them gap that can open up in our companies between our downline staff and personnel and our leadership teams, whether that be department heads, senior level pms. Right. Gms, the whole deal.
+
+[00:13:05.580] - Chris
+How early do you think that started happening for us? Was it 20 people? Was it 40? Was it 75?
+
+[00:13:11.740] - Brandon
+You know what I think the reality of it is, Chris, is that when I look back, I would say, oh, yeah, it was probably not until we got to 20 and 30 people. Then I look at our team now.
+
+[00:13:19.660] - Chris
+I know.
+
+[00:13:20.240] - Brandon
+Right. And we're not a big team.
+
+[00:13:22.100] - Chris
+Yeah. We don't have 20.
+
+[00:13:23.140] - Brandon
+We don't have 20. We're a small team. And it exists right now. Yeah. It pops up in our businesses when there's two relationships. I think it can rear its head.
+
+[00:13:32.550] - Chris
+I think there was a period, though. When I look back, maybe it was around 20, I don't know. But there was a period. We were moving so fast that I think it was a blind spot. We were kind of oblivious to it because the team was small enough that we were having all of these sort of ad hoc interactions. It's like marriage. It is in the sense of you can be talking a lot and still have this fracture in communication and understanding.
+
+[00:13:57.280] - Brandon
+That's right.
+
+[00:13:57.820] - Chris
+I think that's the irony, is some people listening to this would be like us at that time, where it's like, oh, no, we're a tight knit team. It's free decor. Hell, yeah. All for one. One for all. And we were. We were in that mode 100%.
+
+[00:14:10.850] - Brandon
+We are now.
+
+[00:14:12.040] - Chris
+Yeah, absolutely. And these fractures, these misses, these gaps in what was heard versus what was intended to be communicated.
+
+[00:14:21.670] - Brandon
+That's right.
+
+[00:14:22.320] - Chris
+Still exist.
+
+[00:14:23.650] - Brandon
+Yeah. I think what we do is we kind of fail to plan around it, and then we don't put controls or systems in place to ensure that we're following through on it. Right. And so some of this us versus them gaps, here are some examples of how that showed up. I've got team members in the field that feel as if leadership doesn't know what their world feels like in the field, doesn't understand, and or they're not recognized consistently for their effort or their input. And we've seen sometimes, as a consultant, it's very interesting because we get such a clear view into the business, and we can see this breakdown happening, and you can clearly see how both parties don't understand why. Right. So easy to look in on someone else's. Right. So there's this gap. And so ultimately, what's happening is even if leadership is well aware of what their teams are going through, and if department heads are doing a great job taking input from the field, there's conversations happening in a leadership team meeting, for an example, where they do understand, we do see what is going on. So then how does that gap exist?
+
+[00:15:28.060] - Brandon
+How is it that our frontline staff don't realize it? Well, what we saw over the years is because the communication would only go one way and because there was no, hey, I wanted to circle back with you on this suggestion that you made. They just think, well, I did this two or three times. I never heard anything back. They don't care. They're not listening. Right.
+
+[00:15:46.510] - Chris
+Oh, man.
+
+[00:15:47.100] - Brandon
+So common. Another thing, just in terms of performance, it's very common for key leaders, project managers, department heads to have a real firm grasp on their winners, and they know it and they're proud of them, and they probably are speaking into the individual. But because we don't create a way for that communication to go all the way up the food chain and then for that to somehow be recognized and communicated back to that person, this perception of no one outside of this person knows how I'm doing, knows that I'm valuable, knows I'm contributing and winning in a major way. And honestly, most of those things are absolutely addressable. If we build in some tools and some cadences to our day to day business practices that can ensure we're addressing that gap.
+
+[00:16:37.060] - Chris
+You know what I mean, dude? And frequently, I feel like, I take it to this marriage analogy, but it's just so prescient. It's just so right there. This happens a lot. I notice this a lot in my marriage. My wife and I have a pretty good open dialog that's just always ongoing about all the different things. But one of the things I notice that I feel is when I communicate something that's important to me or whether it's a neutral thing that I just. Is important to me at the moment or something that I'm frustrated with or whatever, I communicate it. I notice when there isn't a circling back, you know what I mean? There's something internally to me like, hey, if this was important to you, this thing I shared, I feel like I'd like for you to bring it back up, to circle back and say, hey, I was thinking about that thing you brought up. And oftentimes that does happen, but when it doesn't, it feels like a huge gap. And I think our people, very similar, like what you're talking about, we don't often think. We just figure, they mentioned that thing.
+
+[00:17:32.020] - Chris
+They wrote a little note in the suggestion box, and it was just out of sight, out of mind. They got that thing off their chest, and we kind of, I think, have a tendency to minimize that thing, especially in leadership, because we have a lot of big things that are on our plate. Problems and opportunities. And so when somebody talks about a suggestion about a tool allowance, or, hey, we need our uniforms washed more frequently, or, hey, we could use more support or help or training on this thing, I think sometimes we can make the mistake of filing that as a small thing. Oh, I'll come back to that at some point, and then it totally falls off our radar, and we don't understand the impact to our culture in the moment. Right.
+
+[00:18:12.770] - Brandon
+It's like somebody immediately gets buyers remorse, and then they're getting it a lot. Right. Especially if you're one of these companies like we've always been, where we're promoting these healthy cultures, and we're communicating the kind of, we're using this aspirational language of what we want the company to feel like. And your employees are sitting in an all company meeting thinking, yeah, it sounds good, but every time I tell somebody about something that I think is important or has merit, doesn't go anywhere. This is all false. It's snake oil. And that's worse, right, than us just not setting the stage for that. And I know 99% of the time this is not malicious intent. I think it's a combination of a couple of things. I think one of them is what you just brought up in terms of we're just kind of doing this internal prioritization and it feels small maybe in the context to us we label it as such. But what we don't realize is that we are not stopping to think about it from the employees position. Who's not responsible for the entire p l. They're not responsible for the strategic initiatives on the horizon for the company.
+
+[00:19:19.880] - Brandon
+They've been tasked with this role and they're saying, hey, this thing is important to me based on my role, right? And I think, again, just like relationship, it happens to us too. It's very difficult for me to see where I've not circled back around, let's say, with my spouse, with my kids, with you. And you're acutely aware of it. And we know how much it sucks, but it's just difficult to get out, kind of out from behind our own shit, to recognize the position of the other player. And I think that's why as an example, it's so important for us to introduce tools and cadences. Because if we just do it based on our head or how we think or the context, that's where we continue to perpetuate the problem.
+
+[00:19:57.660] - Chris
+I remember back to remember when we started doing the quarterly surveys, team surveys. I feel like that was a really important move for us because that was us creating a system around inquiring and listening and providing feedback. It gave us a very definite thing. It's like, okay, every quarter we're going to send out this anonymous survey. Then at the subsequent leadership meeting, once we gather all, we're all going to pump, hey guys, fill out the surveys. We get as much response as we can. Then as a leadership team, it was added the agenda. We talked through it, then we had several meetings. It was a topic in several leadership meetings and planned for pretty much. It was a constant dialog. It became a static agenda item, either leading up to the quarterly review or presenting the results of it to our team at an upcoming all company meeting. And then of course determining how are we going to respond to all these requests. Because they were various. They covered the whole gamut, from more training to some disgruntled relationships with their upline supervisors, to tool allowances. We want a hot tub in the break room, that kind of stuff.
+
+[00:21:06.660] - Chris
+But to me, that was a big step forward because otherwise it was just all of us trying to be responsive to our team.
+
+[00:21:13.500] - Brandon
+That's right.
+
+[00:21:14.060] - Chris
+And then the tyranny, the urgent kind of taking over.
+
+[00:21:17.500] - Brandon
+Yeah. It's so common. It's so common. So, again, I think those are common. Right. Or common spaces where we get these kind of misinformed ideas and perspectives because there's not good feedback in place. So this whole us versus them, this gap of understanding between upper echelons of leadership and our frontline staff, I think another one that pops up very commonly, in fact, we're going through some of this ourselves, is when there's a misalignment or two different perspectives on what expectations there are. Roles, responsibility, the outcomes, what's winning looks like, what does efficient output look like, what's the expectation, the concrete deliverables. And when those gaps exist, like when we allow that to be vague, we. Then again, we create another space that commonly shows up because we don't have this kind of feedback rich environment to address it. And so we'll have a team member that especially common is moving into a leadership role for the first time. You've got this individual that's built a career and their identity and their value based on a trade, craft or skill set. We then say, wow, you've done such a great job. We trust you. You're now a key leader.
+
+[00:22:24.200] - Brandon
+You're running a department. But then we've not reset the expectation of what a concrete win looks like for them. And so we begin. We were just talking about this with a team not long ago. You see this gap open up between the two people where at the beginning, everybody was really amped up and psyched. We knew they had a ton of confidence and capability. We were excited about that. And then it's just like these micro disappointments based on a lack of communication begin, and you see this relationship gap, and then our expectations begin to lower, and then we almost create a self fulfilling prophecy. And so that's another, I think, real common space for this to show up in our businesses. And then I think, a third kind of really common one, and we can start getting into some tools, is expectations with our clients.
+
+[00:23:07.950] - Chris
+Right.
+
+[00:23:08.330] - Brandon
+It is so easy for us to have all these assumptions because we do job after job after job, and we're not really paying attention to the fact that in 90% of these cases, this is this person's first time, or they go through it so infrequently that every time it's a thing. It's not just business as usual for them, right? Yeah. And especially as we start to dig.
+
+[00:23:31.490] - Chris
+Into commercial, every scenario, the parties involved, the property involved is different. And so our clients are never an expert. Right.
+
+[00:23:43.670] - Brandon
+It's very common. Okay. So I think everybody can relate to those. Of course, as you're thinking about this, they probably just kind of start unfolding. Right. There's so many different experiences that we have because of this failure to create this communication environment, this feedback rich environment. So, all right, let's dial in. Let's cover four or five tools maybe that we've seen, that we've leveraged, that we've watched other teams leverage very successfully.
+
+[00:24:07.650] - Chris
+Where do you want to start?
+
+[00:24:08.350] - Brandon
+Kind of help these. Well, I think, let's go. This sounds silly, but let's start with a coaching summary.
+
+[00:24:13.450] - Chris
+Yeah.
+
+[00:24:13.800] - Brandon
+Okay. So for us, what we deem or when we're thinking about a coaching summary, all we literally mean, guys, is a way for us to professionally and non aggressive, invasive way summarize these key communications or conversations we're having with our people. And the key here is both great, where we're recognizing alignment with standards and process and when we have a performance challenge that we're coaching our person up. And what's interesting about coaching summaries as a tool is that they really, if you think about those three examples, they really have an effect on two of those kind of lanes of lack of communication or miscommunications. Right. Certainly around performance expectation. We get to address that, get in, talk about it, and then I think two, giving them insight like, hey, the team does see you. This is formally being recognized. I think both of those can be assisted with this tool. So this coaching summary, guys, essentially what it is is we ask people to create a template. There's basically three key points that you're going to address and you just create an email template in gmail or in outlook or whatever your platform is, and you equip your teams who would ultimately be responsible for having these kinds of conversations with this template in their email system.
+
+[00:25:32.810] - Brandon
+And then we build it into the blocking our time, blocking cadence, like where do you spend your time? What are you focused on? Blah, blah, blah. This would be one of those things. And a coaching summary addresses these three things. First, it isolates or identifies where, when and what the topic was. Where were we? Right. It was at the so and so job. Stand up, whatever. We talked about this thing. Now if it's something that we're out of alignment, we just use really clean language of the standard is x. You were currently doing whatever right. Whatever that gap is and or if it's something where somebody's crushing, we want to do the same thing. We want to say, this is a great example of x core value or of us being in alignment with our process or being a customer experience focused company, whatever. Tie it into the what? What are we talking about? Why is it important? What's the context? The second thing is what you promise to do as my team member. Right. We address this thing. It's either in alignment or out of alignment. Right. Second piece is we just talk about what you, as the team member have in that conversation stated you're committed to doing.
+
+[00:26:42.000] - Brandon
+And then the third piece is what we are committed to doing as that leader, as that team lead.
+
+[00:26:49.540] - Chris
+So I just say what's happening in my guts? And it's so funny because you and I have really developed this and perpetuated it together over the years. Right. This has been kind of a core theme, one of the culture elements that you and I believe in. And I think it's always felt a little bit awkward to me because for the same reasons that corrective conversations were always a little bit more of a struggle for me, and not to say they weren't for you, but I think especially my orientation coming up on the sales side of the business and being a small business owner, you have such a woo orientation that I think sometimes those corrective conversations can be tough for some business owners. Some of you are like, hell no. I'm going to tell it straight. It's like, okay, that's great. Not all of us. That's our default wiring. Right? And I think also, as an employee who's gotten feedback over the years, generally speaking, feedback can feel really awkward. And I think one of the things that maybe we've underemphasized when we bring this up is I think this thing of coaching summaries is a really great thing to talk about at all company meetings.
+
+[00:27:49.340] - Chris
+Just explain up front, like, look, guys, here's the intent. So that when people start receiving, so if you're intending to implement this, which I think would be a great idea, introduce it at your, roll it out with your leadership team. So this is going to be a new thing. Let's communicate it to our team so they don't get broadsided by what may feel like, even though we're describing it in sort of simple, casual terms, as just a routine, mundane practice for us, keeping a feedback rich environment. To a downline employee who's getting this from their boss, it's still going to feel corrective. Might have a little bit of fear, like, oh, what is this?
+
+[00:28:25.070] - Brandon
+Absolutely.
+
+[00:28:25.380] - Chris
+You know what I mean? It's just like getting a write up to them. But I think if we roll it out and we say, look, guys, here's the intent and you should expect that when you're doing something rad, you're also going to hear about it in these coaching summary emails to memorialize it and potentially, look, we see you doing something rad, we want to make sure that not only do you know that was rad, but I want to copy your leadership.
+
+[00:28:49.490] - Brandon
+There you go.
+
+[00:28:50.080] - Chris
+So that they know I caught you doing something rad. I think it's really good for us to speak openly and you need to message this to your team so that when they start seeing, there won't be this visceral, stomach churning reaction, let's face it, that oh, shit moment of. How big of a deal is this? Oh, no, I've never gotten a write up before. Oh, man, this is my second. What does this mean?
+
+[00:29:13.820] - Brandon
+100% right. And it's going to fluctuate. And I think the reality of it is, too, as we kind of talk about these other tools, I think everyone needs to pay attention to the fact that none of these are a silver bullet. In fact, if we only do one as an example, you're not really creating a feedback rich environment. We maybe are creating a single lane of communication and it still may be heavily one sided.
+
+[00:29:35.260] - Chris
+Yeah, you're right.
+
+[00:29:35.900] - Brandon
+And so there's just this value of we're creating an expectation in our company environments where people are going to know very clearly where they stand. And, you know, we've touched on this in a myriad of different ways in other shows. But again, this email summary, this is a simple tool for us to deploy.
+
+[00:29:53.000] - Chris
+But we have to.
+
+[00:29:54.060] - Brandon
+We have to. And here's a suggestion, just like we say, this is kind of a time old thing of we correct in private and we lift up in public. Same with this. And you kind of alluded to it. When I'm going to be sending a coaching summary that is absolutely corrective, it's just between me as the key leader and my team member. But when I go to send that same email summary out that coaching summary after I just had a great conversation letting somebody know they rock and rolled, well, then I'm going to put every single human being on our company I can think of in the food chain on there, right? It's going to be all the way up to ownership, GM level department, fellow department leaders, and it's going to be obvious to my team member, wow, everyone saw this. And if you think back that gap, the US versus them, this is part of the way that we can physically address that in a real tangible way.
+
+[00:30:43.150] - Chris
+A lot of teams, more and more are using chat platforms for this and that's totally acceptable. I think the key thing is documentation, timestamping, date stamping. But of course, like Slack has, that creates an archive of all that stuff. So there is an HR purpose to this. We do want to underscore that there's a time and date stamp, right? It's as though we were putting a paper copy in their file in that sense. So there is a purpose to it, but there's a bigger cultural purpose to it. I just thought of this because I like things that rhyme and really simple to remember. So it is praise in public, criticize in private. But what you were saying it, I'm like, praise in public, poke in private.
+
+[00:31:20.400] - Brandon
+I thought, oh, let's not, no, we're not private.
+
+[00:31:23.220] - Chris
+Let's not perpetuate that. All right, keep going. All right, Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, bloodlight consulting group. As all of you, you know, Brandon and I, this is our passion project. Headhart and Boots is, but it's also a way more and more that our consulting clients find us and in effect, they interview us. Right? Those of you who've been listening to show for a while, you get to know who we are, right, what we're about. So if Headhart and Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow. And we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you, too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:32:26.100] - Brandon
+That's what we do.
+
+[00:32:27.120] - Chris
+That's what we do is we come alongside restoration company leaders, we help equip them and we help support them in that growth trajectory. So if you're looking for that, go to floodlightgrp.com. Potentially, we could be a great match for each other.
+
+[00:32:40.260] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our premier partners. We work really hard to vet those folks that we believe bring a level of value to the industry, that it can really be leveraged in a way to have a sincere positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring. We see value in the way that their leadership teams and their partners are developed. And we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out Floodlightgrp.com premier partners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business. So the next tool is, did you like that segue?
+
+[00:33:37.490] - Chris
+You won't be able to forget that next time it's going to come out. You always praise in public and poke in private.
+
+[00:33:42.240] - Brandon
+Private. Oh, boy. All right. Okay. After action reviews. So this is another tool that we brought up many times. And again, the goal here is to consistently be trying to create alignment with standards, expectations, and continuing to communicate as a team. Where are we at? Where can we make improvements and where are we crushing? After action review. So we're big proponents of creating what we would deem a workflow. Okay? So whatever mitigation recon processes, it's this idea of here's what we do, here's how we do it, here's who's doing what, and here's the deliverables. Well, the cool thing is that can ultimately now become the backbone of an after action review.
+
+[00:34:19.110] - Chris
+That's a playbook.
+
+[00:34:19.950] - Brandon
+It's a playbook. Right. It's the context of which we lead that conversation. So after action review, quick reminder. And I'm moving through this stuff fairly quickly because I know these are items that we've brought up. This is kind of like a Consolidated reminder. These are the tools specifically we're using to create this feedback environment. Feedback rich environment. Okay. After action review, it's a non emotional, non personality driven conversation where all party members that helped produce that loss from start to finish looks at the project and we begin having a conversation around. In this context of here's the standard or the process, did we do it? Yes or no?
+
+[00:35:01.180] - Chris
+I like this analogy. I think sometimes you just kind of grin when I do it. But I like this analogy of the autopsy because I think it helps give a mental picture of what we mean. By, it's this dispassionate, non emotional. You take all the personalities out of it. I have this picture in my head right in the morgue. You got the detective, you might have the district attorney, but you've got the coroner that's pointing at the. But the body's dead. There's no changing what happened. And I think that's the whole point with these after action reviews, is that the job is dead. We're doing this at the conclusion. I mean, the purest form of an aar is at the end of a job. We've closed out the file beginning to end. It is done. And it could have been a great job. It could have been a crappy job. Both are valuable, but I think the important thing is the job is dead. There's not a ton of value in finger pointing, but there is a ton of value in getting a really accurate picture of, okay, how did this job in its entirety, compare to what our ideal process and standard looks like?
+
+[00:36:07.750] - Chris
+Comparing against that, it's like, okay, if you had a live body that was in perfect health laying next to this dead body, where are the deltas? Like, where are the differences? And then honing in on those. Anyway, so I love that word picture. So it's get everybody there that's involved, and then one by one, walk through the process. Think of it as, like, head to toe. We're looking for all the clues on the table.
+
+[00:36:32.070] - Brandon
+That's right.
+
+[00:36:32.580] - Chris
+So we start at the very beginning of the workflow with the stakeholder that started that. And again, their job is just to present what happened. And then as a team, we're like, oh, we missed that step. Is that correct? Yeah, something came up, and I sidestepped that thing. I planned to come back to it, but it never got back to it. And then on to the next step. Right. All through all the stages of the process, from the initial call, intake to the final invoicing and collections.
+
+[00:37:01.260] - Brandon
+Right. It's full start to finish. It's an assessment of how we did. Role by job title, not person's name, personality. And it's an assessment. Did we do what we say we do, yes or no? And if we didn't, why? What happened? What impacted that? What are we doing to correct it next time? And. Or do we need to think about this piece of the process? And so if we go back, the purpose of it is to create that feedback rich environment where everyone's crystal clear on expectation, and they know that we see what it's like to live this out in the field, and the kinds of things that can have a negative impact on what we're doing and how consistent we can be. So, again, we're addressing a lot of elements that affect us, or where these lack of communications can get in the way of our success. And so it is very likely that this is a perfect time for us to identify. Hey, I know that we've identified. This is what we're going to do here. But two, three, four jobs, it's very difficult to get commitment to that.
+
+[00:38:00.090] - Chris
+Why?
+
+[00:38:00.400] - Brandon
+What is going on here? Is there something we're not understanding? And again, recognizing that communicating with your team members, their input is being heard, and you're consistently clarifying what the standard is. What's the deliverable? Very powerful.
+
+[00:38:15.210] - Chris
+I haven't thought about this in a while, but just to wrap this tool, and we can move on to the next one, is, I think if you're a company that has more than 20 people, or you're approaching that, I think it's super valuable for the owner to try to prioritize showing up for those.
+
+[00:38:28.210] - Brandon
+Oh, sure.
+
+[00:38:28.880] - Chris
+Because, again, that whole ivory tower thing.
+
+[00:38:31.300] - Brandon
+That's right.
+
+[00:38:31.730] - Chris
+It's real. Like, our people accuse us of it, and sometimes we can feel really defensive. You don't understand anymore, but the reality is, after a while, we don't understand anymore.
+
+[00:38:39.360] - Brandon
+Yeah.
+
+[00:38:39.660] - Chris
+Things do change.
+
+[00:38:40.580] - Brandon
+Absolutely.
+
+[00:38:41.000] - Chris
+Things change in our own business. Things that we get, all that stuff.
+
+[00:38:44.840] - Brandon
+It's difficult. You start being a company that's doing a couple of thousand jobs a year. You are not connected to the nuts and bolts. I mean, there is a gap that begins to open up, and rightfully so, if you're in the right lane, based on your job title and your responsibilities, it is likely you should be. Gaps will open up.
+
+[00:39:00.640] - Chris
+Yeah, totally.
+
+[00:39:01.440] - Brandon
+And this is a great way to keep that alignment. All right. Kind of a third tool that we've referred to a lot. We're not going to do the whole story, the whole thing. Yeah, but it's conflict.
+
+[00:39:10.890] - Chris
+That was you preemptively.
+
+[00:39:13.010] - Brandon
+You guys just heard me.
+
+[00:39:17.570] - Chris
+We're not going to let Nordike.
+
+[00:39:19.070] - Brandon
+I should have just tapped my foot, Chris. We do not have.
+
+[00:39:21.480] - Chris
+We're not letting Nordike introduce this one because the clock is ticking. That's so funny.
+
+[00:39:26.040] - Brandon
+Well, you guys have probably.
+
+[00:39:27.330] - Chris
+We went to this leadership seminar a few years ago. Let me tell you all about it.
+
+[00:39:32.150] - Brandon
+Okay. So, in general, though, it's conflict management. Right? This is that place that we ignore, or we get really banked on this whole separation of personal and professional, or we compartmentalize and look, our businesses are made up of human beings, and I know we beat on this all the time. If I work in the organization, I'm influencing the organization based on my humanness. I don't compartmentalize. I don't become a robot just because I walk through the fucking front door of a company. And so ignoring our responsibility to equip our teams to understand how to do conflict management in a healthy way is asinine. Like, it's just straight up silly. So that means we have to develop tools as leaders on how to effectively manage conflict between each other, between our fellow leaders, peers, and then our people. And it's just like these after action reviews, just like an email or a coaching summary. It has to be a thing where we teach, and then we follow some kind of framework or process that starts to help remove some of the emotion and equip our teams with a skill set. That's very scary. The average person, I think conflict and public speaking, right, kind of hold this title of scariest shit ever.
+
+[00:40:51.280] - Brandon
+And I think what we undervalue is what conflict means internally. This does not mean a hefty disagreement where there's a battling match. Yes, that can happen. But our guts, we respond to conflict anytime we may not agree fully with what someone is saying or doing, right? Anytime there's friction to us. And most people, it feels like conflict, and they begin to behave in a way that's default to them. So, okay, so where are we going with this? So, Brene Brown, not going to unpack the whole story. Shame researcher, brilliant woman. Absolute, like, heavy hitter in terms of influence and business leadership. Brilliant. She's a brilliant woman. She discussed a tool or a concept where we go to the individual, where there's some kind of relational conflict, meaning we had a meeting or an exchange that just ended weird. I walked away feeling funky, frustrated. Clearly, we're not on the same page all the way to. I mean, who knows? I feel like we need to do x in our system or our process, and somebody feels like we need to do y.
+
+[00:41:57.860] - Chris
+Disagreements, conflicts, disappointments, all of that.
+
+[00:42:02.120] - Brandon
+Right? So the idea is this healthy framework and what the language that's used is important, just like an after action review. The process is important. This is the same way. And the concept is the story in my head, meaning I'm going to the person where I need to establish clarity and understanding around perspective, intent, expectations. And what I'm doing is I'm leaving a back door. I'm not painting them into a corner and putting them on the defense like a caged animal. I'm just going to them and saying, hey, my perception or my perspective of our last conversation was this. And I know that's probably not what you meant, or that's not likely what you intended. Right. And so it sounds a little bit like this. Hey, so and so. Hey, Chris.
+
+[00:42:50.690] - Chris
+Yeah.
+
+[00:42:51.210] - Brandon
+We met yesterday.
+
+[00:42:52.350] - Chris
+Give me a real one.
+
+[00:42:52.970] - Brandon
+I'm going to give you a real. I'll come over the. I think I got a real one.
+
+[00:42:56.890] - Chris
+All right.
+
+[00:42:57.270] - Brandon
+No, I don't have, like, really excited.
+
+[00:43:00.640] - Chris
+To react in real time.
+
+[00:43:01.680] - Brandon
+We met yesterday. We talked about the fact that you were going to respond to so and so and walk them through how they should expect the job to start.
+
+[00:43:09.980] - Chris
+Whatever.
+
+[00:43:10.440] - Brandon
+And when I mentioned that to you, you kind of just made this comment to me, like, yeah, dude, I know. Now, listen. The story in my head on that response was that you're not like, this is important to me, man. This client is important. It's a big target for us. It gave me the impression that you weren't taking it as seriously as I am. Again, I know this is the story in my head. I know that's probably not accurate. Will you just help unpack that for me and get us on the same page?
+
+[00:43:35.520] - Chris
+But that was perfect, right?
+
+[00:43:36.880] - Brandon
+And what happened in that? There is a lot of respectful posture and language that's happening in that. First off, I'm being crystal clear that my perception of what happened may not be the fact.
+
+[00:43:49.940] - Chris
+Yeah, let me respond. Listen, bro boy, I'm sorry I made you feel that way, because really, what happened is I just got off the phone with my 17 year old, and I was just feeling really sarcastic in the moment, and you were just. Now that I think about it, it just kind of spilled over on you. I'm sorry, man. I get it. And totally serious. I know we got to follow our process. I know how important that is.
+
+[00:44:09.740] - Brandon
+See, I know that if you're kind of listening, right, that this seems almost like tongue in cheek or that we're trying to create a process out of normal human behavior. And, guys, the challenge is this is not.
+
+[00:44:23.140] - Chris
+It's real.
+
+[00:44:24.370] - Brandon
+There's a real need for it, and it's not happening. We don't address things like this where we're teaching our people or deploying a tool where we're equipping them to have mature conversations right. With the people that can, at times, rub us the wrong way. This is so common. It is so common for me, as a key leader, to have a conversation with one of my downlines where I just feel like we just coached the heck out of this situation. Everybody's on the same page. We're crystal clear. I walk out of the room. I begin launching into my day, and what I don't know has happened is that my employee is still totally spun on one phrase or sentence that came out during an hour long one on one as an example. And they never, like, they were unable to keep moving through the conversation. So I walk away thinking it was rad. And unbeknownst to me, they're stuck. They're butthurt. There's a challenge there. They've got hurt feelings. They're frustrated, whatever. How powerful would it be, then for that individual to shoot me a quick text and just say, hey, Brandon. Hey, do you have five minutes?
+
+[00:45:25.830] - Brandon
+I need to follow up with you after our meeting. Sure. Absolutely. And for that individual to approach me that way where they say, look, I know this may not be the truth. The story in my head is, you said x, and I totally spun out on it. Like, I'm caught on that. It made me feel like this, or it gave me the impression that I'm failing or I'm wrong, or you don't agree, whatever. And then for us to have a mature conversation, to tie up loose ends and correct that understanding gap, it could be one of the most powerful tools you deploy in your organization. Period. Period. And it applies with our clients full stop.
+
+[00:46:01.760] - Chris
+Oh, my gosh. Everything. Yes.
+
+[00:46:03.800] - Brandon
+Like, what happens when a client communicates something to you? And how often, then do we begin taking off acting on this impression that we had about our client but we don't really know? Like, there's something in the back of our mind that says, I'm not entirely sure what they meant by that.
+
+[00:46:19.340] - Chris
+Okay, so pause.
+
+[00:46:20.610] - Brandon
+Call the client, and use the same thing. Hey, Tom. Hey, Jojo. The story in my head after our last meeting on site was, this element's really important to you. And it kind of caught me off guard because my impression is, shouldn't x be the primary focus? I just wanted to get on the same page with you. What are you thinking, dude?
+
+[00:46:38.900] - Chris
+I think. And just to kind of tie it all up, make no mistake, this takes courage.
+
+[00:46:44.630] - Brandon
+It really does.
+
+[00:46:45.590] - Chris
+It takes courage as a leader. And I think there are some kind of subcultures and there's gurus and stuff out there that are like, f your feelings, keep your feelings out of your work. Emotions have no place in business and all that kind of stuff. And I understand what I think they're trying generally to convey, and it's not evil, and it's not wrong, it's just that emotions are real. So it's like you can choose to just ignore them or sidestep them or not give them airtime in your business, but they're still there. They're inside you. Whether you like to believe it or not. They're impacting the way others perceive you. Because if you think that you have active emotions inside of you relative to an interaction you have with an employee or a partner or a colleague or something like that, and other people aren't experiencing your emotion, you're fooling yourself. You're fooling yourself, you're fooling yourself. And if it's happening in you, it's happening across your entire team. And when we started to deploy this tool, it was profound. The change in the overall morale and drama. Now, it wasn't a panacea, like it wasn't a fix to everything, but it was a fix.
+
+[00:47:56.940] - Chris
+It was over time. But I'll tell you, this stuff takes courage.
+
+[00:48:01.460] - Brandon
+It does.
+
+[00:48:02.190] - Chris
+It takes courage and it takes thoughtfulness. Because some of you fall on the side, more like me, where it takes an immense amount of courage for you to lean into that difficult story in your head because you're primarily concerned about how the other person is going to react and anticipating them reacting negatively. And then on the other side of the spectrum, some of you are like, hell yeah, I'll get into it. And then you run roughshot over the top of that person. This tool is predicated on giving the other the benefit of the doubt.
+
+[00:48:31.870] - Brandon
+That's huge.
+
+[00:48:32.500] - Chris
+And on my side of things, the wooer default behavior is that I have to recognize in that moment that when I choose not to share the story in my head, what I'm inadvertently communicating to that individual is you can't handle the truth. I'm discounting that person.
+
+[00:48:49.130] - Brandon
+Sure.
+
+[00:48:49.450] - Chris
+That's what I'm really doing. From a place of integrity. That's exactly what's happening inside my heart is it's not worth it for me to bring it up to this individual because either I don't think they can handle it, I don't think they'll give a shit, or they're not capable of modulating their behavior. And then on the other side of things, there's the unwillingness in your anger. And I say anger, just the spectrum, right? In your anger response of we're going to talk about this and running roughshod is you're refusing to give the other the benefit of the doubt. There may be some piece of it that you don't understand. Or you don't know.
+
+[00:49:23.300] - Brandon
+Absolutely.
+
+[00:49:23.960] - Chris
+Both are wrong. And so finding that this tool helps us chart down the middle path.
+
+[00:49:29.250] - Brandon
+And I think, don't underestimate how awesome this works when you are having an intentional conversation, coaching conversation with your employee, there's something powerful about. Again, I may have the wrong perception. I've got some gut instincts here. I think I've got data that supports it. Don't come in with judge and jury. Same thing. Hey, so and so XYZ happened. The impression I got is you're skirting the process, you're ignoring the process. Why correct me? Help me get on the same page with you. And you know what the reality of it is. The story that you posed for them is correct. Well, then it achieved its goal just as well. It's a very respectful, powerful tool that often will prevent someone from getting onto their heels in a defensive posture, which makes the outcomes normally significantly better than what they would otherwise be. Okay, one last one here, and then we'll just wrap this up. Is be consistent in deploying a one on one cadence with your staff. I really think that quarterly is like, literally the worst case scenario. And if you can, on a consistent basis, once a month, sit down with an employee, a team member, and really be connecting with them for their personal professional growth within the organization.
+
+[00:50:40.170] - Brandon
+Meaning that the one on one is centered around, hey, what are your career goals here? And let's look at the tools, the resources and the paths that are available in our organization to help facilitate where you want to go. And then it's your job as a key leader, based on that input, based on those conversations, to continue to guide and empower that person to take advantage of all the things that are available to them within our organization. If we don't do that, you have zero understanding honestly of where your person is in their path. With our company, in a one on one environment where the focus is on them, for them, you're creating a lot of trust in that relationship. You're closing a lot of those gaps in terms of understanding and perception of their place in the company and their value in the company. It does a lot to destroy that wall of that us versus them when they have key leaders showing them in behavior that they care about me and they are willing to help me do the things that are necessary for me to make it. And this isn't passive. It's not all Lala.
+
+[00:51:48.460] - Brandon
+Sometimes the conversation is, hey, for two months you've told me this is a priority. We outlined what steps you need to take, but I don't see you taking those steps. Talk to me. What's going on here?
+
+[00:52:00.310] - Chris
+Yeah. You know what it makes me think is it's more, and this is appealing again. So I'm speaking to this Persona like me, right, where your tendency is to avoid those critical conversations, those one on ones. What you're describing is it's less criticism and it's more course correction. Totally. It's establishing, what course do you want to be on?
+
+[00:52:18.650] - Brandon
+That's right.
+
+[00:52:19.050] - Chris
+Like, you want to be general manager someday. Well, here's the path. Here's the requirements. Here's the skill base required. Here's the routine behaviors. We have to see we're at all that stuff. And then this thing that I'm seeing is out of alignment with that. These are not leadership behaviors. These are something else. Can we talk about that? Right. It feels different.
+
+[00:52:35.720] - Brandon
+It does.
+
+[00:52:36.070] - Chris
+It feels different to the person leading the meeting.
+
+[00:52:38.650] - Brandon
+That's right.
+
+[00:52:39.220] - Chris
+And it also feels different to the recipient, too.
+
+[00:52:41.760] - Brandon
+And there's nothing about this or any of these tools that's passive, that allows people to get away with things like. No, it is the exact opposite. These are consistent, respectful, professional ways for us to close those perception gaps between us and our team members and stakeholders and ultimately just create an environment where people know what's going on, they understand their place, they understand what resources and tools are available to them, and we're respectfully working alongside of each other to close those perception gaps. This stuff is critical. So for us, if we want to continue to build teams that can scale, that can take on new market opportunities, that can create higher levels of employee engagement, blade, yada, yada. We've got to have businesses that have these tools being deployed so that we have a feedback rich environment that our team members are succeeding in.
+
+[00:53:36.720] - Chris
+So good. Hey, listen, if this show has been valuable, the absolute best thing you can do is share it, right? Text the link to a friend, drop it on LinkedIn so your friends see what you're listening to. And subscribe to the show if you haven't already, so you get tuned in. Every time we have a new episode, we drop episodes weekly and we've got a fun year ahead of guests and topics. So thank you for listening. I think that's it. Over and out.
+
+[00:53:58.270] - Brandon
+We'll see you next time. You all right, everybody? Hey, thanks for joining us for another episode of head, heart and boots.
+
+[00:54:09.200] - Chris
+And if you're enjoying the show or you love this episode, please hit follow, formerly known as subscribe, write us a review or share this episode with a friend. Share it on LinkedIn. Share it via text, whatever. It all helps. Thanks for listening.

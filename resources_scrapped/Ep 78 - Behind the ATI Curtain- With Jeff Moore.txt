@@ -1,0 +1,403 @@
+﻿[00:00:00.090] - Chris
+Hey, good morning. Man.
+
+[00:00:01.810] - Brandon
+What people missed before we started recording was you verifying. I guess verifying is the right word, that it's your job to tell me what to do.
+
+[00:00:09.520] - Chris
+Yeah.
+
+[00:00:10.000] - Brandon
+So that's good. I'm glad we're clear on that because now I feel like...
+
+[00:00:13.270] - Chris
+Only when necessary, it just happens to be necessary on the regular.
+
+[00:00:16.890] - Brandon
+Yes. I feel like the future of my continued development now is so much clearer.
+
+[00:00:22.550] - Chris
+It's hinging on my ability to tell you what to do
+
+[00:00:25.200] - Brandon
+now I can blame you, essentially for the outcome, but
+
+[00:00:27.950] - Chris
+I'll do my best.
+
+[00:00:28.800] - Brandon
+Okay, let's get into our show today, my friend.
+
+[00:00:31.050] - Chris
+Yeah, we've got a great guest, jeff Moore, president of ATI.
+
+[00:00:34.830] - Brandon
+Yeah.
+
+[00:00:35.710] - Chris
+Part of the Moore family. This was really our chance to get to know him.
+
+[00:00:39.610] - Brandon
+Yeah.
+
+[00:00:39.920] - Chris
+And of course, when we say that name, a lot of people are like, well, of course everybody knows about ATI and most people are familiar with the Moors. I mean, it's a pretty extraordinary success story. Like, great American success story. It's really fun hearing some of his background. And we go to some places in his story that I don't know if Jeff's publicly shared some of the things that we get into in this. I think we were really not shocked, but we just thought it was really cool how transparent and candid and just easy to talk to Jeff is. He's very relatable and down to earth, and I guess I shouldn't have expected any different. But we get into kind of his story and some of the family story and some behind the scenes stuff. We talk about what it's like to have a family company that's multiple hundreds of millions of dollars and some of that origin story and some of the stuff they've learned and figured out the hard way as they've gone. I was probably most struck by his humility.
+
+[00:01:40.990] - Brandon
+It was a major thing.
+
+[00:01:43.390] - Chris
+I think a lot of us in the industry really admire ATI and what the More family has done. And so we come into the conversation with just a tremendous amount of admiration and respect and all that and just his humility and willingness to share the mishaps and the struggles and, hey, I'm good at this, I'm not good at that. Just some of that real open sharing was really fun, really cool to see.
+
+[00:02:05.460] - Brandon
+And then he kind of kicks into a whole new gear when we begin talking more about RIA. Just to clarify here, guys, it's not an RIA pitch. And however, he does a really great job of providing some real clarity around the opportunity with RIA and what that means to our industry.
+
+[00:02:25.640] - Chris
+Well, in the necessity. And I get it. And I think you and I have really got turned onto it by him. It's like, yeah, if we're going to be successful as an industry, really establishing our trade as a real, true, recognized trade craft, we have to be aligned. We have to have a common voice. It doesn't mean we all have to disagree. We're going to have things we wrestle over. But I just love his perspective. And he is fired up and passionate. And you get the sense from a guy like Jeff when he zeroes in on something, he's committed to it.
+
+[00:02:55.510] - Brandon
+Yeah.
+
+[00:02:55.750] - Chris
+So there's a rising wave happening around RIA that is exciting to you and I. So much so that we're going to be at the conference for the first time this year. We're really stoked about that.
+
+[00:03:06.380] - Brandon
+Yeah.
+
+[00:03:06.720] - Chris
+We're going to bring Headhart and Boots to the RIA experience there in Florida. So whatever. Anyway, there's our little pitch, our little soapbox about. You should come to RIA, too, and come hang out with us.
+
+[00:03:17.150] - Brandon
+That's right. All right, dude, let's get into this.
+
+[00:03:19.550] - Chris
+Get into it.
+
+[00:03:20.130] - Brandon
+All right.
+
+[00:03:27.650] - Chris
+Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:03:31.290] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:03:38.010] - Chris
+Matt, I love this industry. Hey, Matt. We got a special guest today, don't we?
+
+[00:03:43.590] - Brandon
+We do. We do.
+
+[00:03:44.970] - Chris
+So, hey, everybody. We're here with Jeff Moore, president of ATI, board member at RIA. Probably has a bunch of other titles we're unaware of, but we've got an interesting conversation teed up with Jeff. So it's super excited to have him. But before we get into that, we've got some sponsors to thank. So, Cnr magazine, you guys heard us talk about them. We're advertisers in Cnr and it's been good for our business. It's lifted our podcaster listenership and it's driven clients to us. It's been awesome. Michelle and her team, she's building a world class team over there, and it's obvious they are the premier publication for our industry. And it's been fun to watch her grow. And I mean, the articles I was just reading through the March April edition, that's like chock full of awesome stuff. And there's an article by yours truly as well. So it was fun seeing do not buy it. It was fun seeing my name in print. I'm not going to lie. Right? It's always sort of a fun little thing.
+
+[00:04:40.440] - Chris
+But, yeah, if you're not a subscriber.
+
+[00:04:41.780] - Chris
+Yet to Cnr, what are you waiting for, right? I mean, this is the industry journal to know what's going on. Hear about all the latest M and A activity. What are the big companies doing? What can we learn from them? Right? It's good stuff. Do you read Cnr, Jeff?
+
+[00:04:54.680] - Jeff
+I do. It's funny, I just got the recent article. I was in our corporate office yesterday and we got a box because I make sure all of our managers, project directors, estimators get copies. We're also an advertiser. But honestly, it's the only printed piece that I read in the industry, and I've been reading it for as long as I can remember. So for those of you that don't subscribe, not only subscribe for yourself, but any of your key employees as well.
+
+[00:05:17.270] - Brandon
+I love that. Spot on. All right, that's good. All right, so, liftify, obviously, our boy Zach Garrett
+[email protected]
+. Listen, all of us are trying to find and leverage any way that we can to increase SEO, to increase that organic search any of us doing into the PPC side of things. It's expensive for us to try to lock in certain keywords in most markets, it's really challenging. You're going to spend a lot of money. One of the most powerful tools or resources that we see right now is just Google clamoring for those live, relevant and active reviews, those five star reviews, tons of organic lift from it. We get a ton of prioritization in the search algorithms with Google because you're getting consistent reviews on a regular basis and they're fresh and they're new. The struggle we all have, though, is how do you get them consistently? Sometimes the team's focused on it, sometimes we're not. Sometimes our system is working in our behalf, and sometimes it's not. Liftify.com completely automated their participation rates. They're getting north of 2020 5%, which Chris and I have not seen, that most participation we see is in that single digit.
+
+[00:06:26.260] - Brandon
+So a 20 or 25% return on engagement is stupid good. And for any of us, we look at our companies right now. I mean, do the math. You do a few hundred losses in a year. For some of us, it's significantly more than that. You're talking about a ton of five star review traffic that's getting generated on a regular basis, and it's completely fire and forget. So lyftfy comfloodlight there's some opportunities there to onboard that system and really take advantage of the organic lift.
+
+[00:06:56.630] - Chris
+All right, Jeff Moore, let's get into this. Brandon and I were talking about what direction we want to take. Jeff, I know you've got some things that you want to talk about with the RIA. They are moving and shaking and doing some interesting new things. But before that, I thought, gosh, I'd really love to know a little bit more about you, man. As the president of the company, it'd be interesting, I think, for a lot of us to understand a little bit more about that role as president, because we have a lot of consolidation happening in industry. We have a lot of CEOs of companies that they've grown 30, 40, 50 employee companies, and then they've been in this M and A run. Now all of a sudden, they're involved in a company that's 100 and 5254 hundred employees, and their roles are shifting. So there's people that are like that president title. I think a lot of people don't know exactly what do you do as president. So I think it'd be interesting for you to share a little bit about that, but more so. How did you get into this M and A track?
+
+[00:07:48.290] - Chris
+You have other siblings in the business. When did you know that that was your path, and did you choose it, or did somebody push you into it? Hey, Jeff, you go do M and A. Could you unpack a little bit about your role and how all that came about?
+
+[00:08:00.350] - Jeff
+First of all, Brandon, Chris, thanks for having me on the show. Yeah, I guess to start off with, how did I get into this M and A world? I don't know that we clicked a button or anything. I think it just naturally happened. Obviously, I'm on the board at RA now. It's my second run at the board. I was on the board eight to ten years ago. So I've always been, I'd say, more closely aligned with restores, vendor partners, probably more so than even my siblings. And so I've always kind of run in that realm. I've always been friends with my competitors. I remember when we did our deal with private equity, one of the things I had talked to them about as we were going down this path was I was talking to them about other restores, and there was a few, some of them really large in the industry, where I'd been friends with them for 1015 years. I'd been to their houses. I'd met their wives and their children, just friendly competitors. One of them I actually remember I met at my cr class. And so I did a lot of advanced training, and so I met a lot of people in the industry.
+
+[00:08:58.880] - Jeff
+And as we were talking to private equity, I think they kind of shined the light on just knowledge of other restorers was pretty powerful, and this could be a role that you could play in, because at the time, honestly, I was managing sales and marketing for the company, which I no longer do. And so I kind of moved into this acquisitional role that before private equity, it didn't exist. We weren't buying companies. Our risk tolerance was nothing. It was one of the reasons we went down this path. And I think just with the relationships I had that I had built going through classes, supporting the industry, being on the Raa, or just relationships I'd forged over time, and I think it just organically naturally occurred. And honestly, if you would have told me I'd be doing this three years ago, I would have thought, you're crazy, because I was running with clients and elbow rubbing with adjusters and Tpas, and I was spending my world in that arena, not with what you and I would consider my competition. And that's where I built some really deep relationships. So it just organically happened. It's been really exciting.
+
+[00:10:00.200] - Chris
+And when you say that ATI the risk tolerance was nothing, talk about that a little bit before you guys got into the private equity relationship. What does that mean? You guys were just super risk averse and super conservative or what?
+
+[00:10:12.770] - Jeff
+In some senses, yes. Overall, I would say no. Obviously, we grew and we grew exponentially. So when I say risk adverse, my dad's philosophy he founded the business was he never wanted to borrow a dime. You don't want to borrow money to finance a truck. You don't want to borrow money to finance anything. And funny story, when it comes to an acquisition, we only looked at one company in our 1st 30 years of even considering an acquisition. It was never on our table. And it was after Hurricane Ike. I remember my dad and I flew to Houston. It was someone that he knew back in his Houston days, and this guy was doing $10 million in revenue. EBITDA. I didn't know what, but it was until like three or four years ago. Now I talk about it all the time. And this guy was effectively he was making about a million dollars a year in his business off $10 million in revenue. He was at retirement age. He didn't want to sell the business. He basically wanted to give the business to ATI. We were in Houston. The guy had known my dad for 40 years.
+
+[00:11:07.700] - Jeff
+And I remember when my dad and I walked out of the room, we're like we looked at PnL, obviously in confidence. I don't even think we had an NDA at the time. And my dad looked at me, he's like, that guy's crazy if he thinks he only wanted a million dollars for the business. He was making a million dollars a year. What I know now, that was one of the most moronic things that we never did. And it was because our risk tolerance, we had never acquired anyone, so how would we even validate whether the financials were true? And we walked out of there and said, it's fascinating, it's exciting. We'd love to buy a business in Houston, but we don't know anything about acquiring a company. And then this guy wants us to pay him a million dollars. Like, my dad didn't want to take out a $10,000 loan to buy a truck, and this guy wants us to pay him a million dollars to take over his company. It was just so foreign and fathom to us that when I say risk adverse, we had opened all of our offices organically like, okay, let's go plant a flag here, not spend millions and millions of dollars.
+
+[00:12:03.480] - Jeff
+So in certain senses, we took on a ton of risk to grow and expand, but in a different way than what a lot of the larger the M and A world is doing now through acquisition. It was just such a foreign concept to us. And so when I say risk adverse, our risk tolerance was nothing, because we literally gave that deal zero consideration once we closed that door out of that bank.
+
+[00:12:25.450] - Brandon
+That's amazing. Like, looking back now, you're going, oh my gosh, we basically would have stolen that business.
+
+[00:12:30.360] - Jeff
+We would have stolen it, yes. If you think about it, if the guy was really making a million dollars let's say he was halfway full of crap and he only made half a million dollars. Well, I would have made my money back in two years. I mean, I think any one of us, if we could invest $10,000 and be guaranteed that we're going to get that back and we're going to get $10,000 every single year in perpetuity, any one of us would make that investment.
+
+[00:12:51.830] - Chris
+Whatever you had to do to find that money, right?
+
+[00:12:53.670] - Jeff
+Absolutely. I would have borrowed to borrow and done everything I could. But again, it was just so foreign. Honestly, I think that's the scary thing with M and A, even a couple of competitors that I still talk to, actually, at the recent RA event, a couple of them were asking me about expanding into new markets. I said, I don't care how big or small you are, if you think you need to expand in an adjacent market, you ought to consider M and A. And I'd happy to give you some advice on what to do it, but you don't have to go buy a $10 million company or gal that's doing a million dollars a year in revenue. And whether they're making 50,000 a year or $200,000 a year, there's a way to structure it towards a win win. And you don't have to take all the risk yourself and leave your family to go 2 hours down the road. There's ways to do deals that aren't going to cost you an arm and a leg.
+
+[00:13:37.690] - Brandon
+So interesting, has most of this been a crash course for you? Just basically you're being asked to do it more and more, and so you're just garnering all this information and learning through hard knocks or what was the lead up to that?
+
+[00:13:52.330] - Jeff
+It's definitely been hard knocks. It's been trial by fire. One of your questions is what do I do as president? I'd say I've got two titles president and Chief Acquisition offer. I'll tell you, I spend maybe 90% of my time in acquisitions for ATI, so I am spending a bulk of my time. When I first started doing this, I read books, I listened to podcasts, and I learned on every deal. I'm still learning on every single deal. So most of it's trial by fire. And I've built a team around me that honestly, with the exception of maybe two people on my team, I've probably got ten team members that help me, and they do that full time. Two of them come from what I'd call a traditional M and A background. The rest of us are good old guys and gals that grew up in the restoration business that are learning by trial and fire, just like I am every single day. The rest of my time is present. Honestly. I sit in on board meetings, I get general updates on the business, but day to day operations I have next to no involvement in everything that's going on just because I'm more there in a strategic role and an industry liaison.
+
+[00:14:53.860] - Jeff
+Through my involvement with RA, I probably spend more time working on the industry as a whole than I do on the day to day business of ATI.
+
+[00:15:02.190] - Brandon
+What a wild shift. Okay, so I have just a question regarding this whole M and A piece. So you had alluded to that prior to that you were sales and marketing. Is there a little bit of that thrill of the hunt that comes in this M and A piece? How does that kind of fire you up? Because there's got to be some juices that get firing when you're in that mode.
+
+[00:15:24.550] - Jeff
+100%, I would say M and A is sales. It's sales selling to a different customer. Yes. Anyone who's ever been in sales, you're motivated by sales, you're motivated by deals, you're motivated by relationships. I mean, some of the best scores I ever had in sales, they're not the easy ones. The easiest sell is not the adjuster who needs me on a job today and randomly got referred to me. It's that adjuster who I know has a big book of business or it's that restore that I know we want to be with them. HCI wants some in our family, whether that's in a month or if that's in five years. That owner is a good cultural fit. It's got an incredible business, and it's about building that, rapport the relationship and welcoming them into the family. Because at the end of the day, no different than a customer looking to hire you for a restoration job. The timing has got to be right for M and A to work. Most importantly, it's got to be right for them. It also has to be right for you. You have to want to be in that market. But getting over that hurdle, it's really that mental hurdle.
+
+[00:16:28.490] - Jeff
+It took my family. We had no intention of ever doing a deal with anyone. And it literally we got an unsolicited offer that my dad went to lunch with a neighbor. I mean, that's how this all happened. And the guy made my dad an offer. My dad thought he was going to lunch with the neighbor, and he didn't realize he was a private equity guy. And they had an hour lunch, and this guy sent my dad an offer. And that's how it all started. And it took us from dad called an emergency meeting later that week because it got my mom and dad's attention. And it took us 18 months from that offer to decide if this is a road we'd ever consider going down because we were so anti against it for so many years. The mental part is probably the hardest part in the journey for any owner going through a process of what's best for me, what's best for my kids, what's best for my employees and my customers. And some of those answers aren't always the same. What's best for your employees may not be what's best for you as an owner, may not be what's best for your employees, your customers, and you've got to look at it holistically and take a step back and say what's best for the business.
+
+[00:17:32.540] - Jeff
+Ultimately, I've got to put that above all other needs, and that's what should be driving your decision, because you can't grow the business anymore or you don't love what you do, you probably shouldn't continue to run it, because if you don't have an exit plan, you really have to love what you do first and foremost. There's so many things we can do as entrepreneurs and CEOs, but if you don't have that fire in your belly, that's when you know it's time.
+
+[00:17:56.390] - Brandon
+This is not an easy business to forge. So I think unless you're passionate, I mean, it just gets very difficult for you to face the challenges, I think, in front of most businesses in our industry if you're not excited about it.
+
+[00:18:09.740] - Chris
+Jeff, I got a question for you. How's MNA changed ATI? You kind of quipped that I didn't know how to read a PNL until four years ago, which is super relatable, I think probably a lot of people listening. But how did it fundamentally change ati's internal process and financial acumen and all that kind of stuff over the last several years?
+
+[00:18:30.120] - Jeff
+So it's been so much more than I ever could have hoped for. We are a better run operational business. Before private equity, my family cared about the top line. We never cared about the bottom line. At the end of the day, as an owner, once you realize that you're chasing bottom line growth. I used an example this morning with a team member, and I said there was years at ATI where all we cared about was top line. We never cared about the bottom line because we always knew that would catch up eventually. And you could go from a year doing, say, 100 million in revenue and grow by 32%. We'd be excited. We did $132,000,000, but we may have only made an extra million dollars in profit doing $30 million in revenue because we extended resources. We took our cash and our capital. So growing smart is something that we've been able to do through this venture. And I use that example in Houston where we didn't go out and acquire that company. So I've got four kids. Both of my brothers have three and four kids, so my dad's got eleven grandkids. I've been traveling at a minimum every other week for as long as I can recall, 15 or 20 years.
+
+[00:19:34.810] - Jeff
+I don't want to travel anymore. And we got to the point to where I don't have a bunch of employees. There's a few that travel every week, but we don't have 100 people that want to go travel every other week. And to grow organically into greenfield locations and markets we're not in. That's what it requires. And so leveraging capital, resources, financing, and then being able to have business in the door. Day one versus going to a new market. And honestly, a lot of it's hope and wishing and praying that you're going to be successful, that you're going to hire the right person. Almost every market we went into, guys, I didn't care how big we were at the time or how small we were, no one knew who the hell ATI was. And that's no different for any restore going into a new market. It's different if you're going 60 miles away. You're going to have some sort of brand awareness reputation, but if you're going to the next state I remember when I moved to Phoenix, no one in Phoenix had ever heard of ATI, and we were one of the largest players in the West Coast.
+
+[00:20:31.680] - Jeff
+But 95% of the people in Phoenix had no freaking clue who we are. And so greenfielding is so difficult. I tell any owner that if you're going to go greenfield an office, you're going to hire C people, C players, you're not getting A players because if the market doesn't know who you are, guess what? The project managers don't know who you are. Biz dev people don't. And they're just going to say, well, you're going to be like ABC that came in here from another state, and you guys are going to be out of business in two years. And I don't want to go leave my job with a reputable, whether I'm with a big restore or a local restore to come work for some fly by night that I've never heard of. And we still go into markets, even through acquisitions. There's a lot of people that have never heard of us. We're a pretty good sized company. But I would say that's true for all restores. If you're in a little tiny market, you only know your market, you'll pay attention. If you're not going to the raa, you're not involved in the industry, and you're working in Nebraska, you know what's going on in Lincoln, Nebraska.
+
+[00:21:28.470] - Jeff
+But if ATI and BMS and first ons, if none of the big guys are there, you're not paying attention to M and A. They're not playing in my space. It hasn't been relevant to me. I don't know coworkers or a former employee that's been acquired by a company. And this M and A stuff is all foreign and I'm not paying attention to it because it's not relevant to my world.
+
+[00:21:47.270] - Brandon
+It's hard to imagine that the ATI at this point is not heard of in some areas still. But it's true, right?
+
+[00:21:54.950] - Jeff
+100% accurate.
+
+[00:21:56.540] - Brandon
+So crazy to me. All right, so I'm just thinking in my mind as you're talking about these experiences, as you're talking about, I mean, you used the reference for 30 years. There was no M and A strategy in place. So I'm thinking, oh my gosh, this company has been around for so long, but if you had to identify like one character trait or skill set that you feel like you've had to really establish to start experiencing the level of success that you are now, what would you think that is? What was that one thing that you feel like has really been a powerful part of your development and leadership and success in business?
+
+[00:22:36.690] - Jeff
+I think there's two things I would probably relate that to. First of all, as the founding family members of ATI, there's only so much you can do yourself. Like, you're talking one 100th of 1%. So you have to have really good, talented people and especially leadership roles. You want to hire people, and a lot of managers in our organization and others are scared to hire people that are better than themselves. But you need to hire, retain and keep really talented people because unfortunately, the end of the day, there's 15,000 of us doing restoration and minus a few variables. At the end of the day, a customer that has a flood, irrespective of who's doing the job, the baseboard is going to be reinstalled. The drywall is going to go up. ATI is not putting up any better half inch drywall than anyone else. The only way to differentiate yourself is to communicate better, maybe do it faster, and have really happy people. So I think it first and foremost, it comes down to people. And I'd say the skill set that I have, I think the family has in the business. If you're looking to grow, you have to be willing to change and realize that what you did last year may be a terrible idea.
+
+[00:23:44.360] - Jeff
+This year, definitely what you did five years ago. If that's your strategy to continue to grow, what worked five years ago sure as heck isn't going to work today because we are not the same company we were. And so you've got to realize that that person, even the people next to you. I'll give you a great example that when we opened our Denver market, our probably biggest glowing success story, we did 10 million in revenue and our first full twelve months in a market we'd never been in before.
+
+[00:24:09.950] - Chris
+Wow.
+
+[00:24:10.590] - Jeff
+The person that opened that office was not the right person to run the office. Once we got it to twelve or $15 million, it's a different leader. That person is still with us at this time. But I needed a hunter. I didn't need a gatherer. I needed someone that was afraid to knock on any door to tell everyone in Denver that we're coming to town and we're the new best thing in town. But once we had 35 full time employees, wasn't necessarily the best leader or people leader or motivational person. We put them back into a sales role. So making sure you've got the right talent in the seat, in the bus at the right time, and it wasn't gosh old school ATI. We may have just parted. Ways with the person. That person is a top ten producer in the entire organization, but we outgrew his leadership skills. But he was great. If I wanted to go open a new office in any new market, I'd take him in a heartbeat. I'd have him go build it up for the first two years and then have someone else take it over. Because that guy is a type of personality he does not like.
+
+[00:25:11.570] - Jeff
+And I'll tell you, I got the same personality. I don't like getting bogged down into the day to day minutiae, and neither did this person. And once he was dealing with people calling in sick and can't come into work today and didn't understand that he wasn't the greatest leader. And so making sure who you need today may not be who you need in five years, and you have to really reinvent yourself every three to four years, not only personally, but professionally.
+
+[00:25:36.750] - Brandon
+I mean, like, looking back now, I hear that whole reinventing yourself every three to four years. I mean, I think somebody in your position, looking back now, it's like, oh, well, yeah, right. Obviously, that was the right move. But how did you stay in that mindset as you were journeying down and making those changes? Because it seems like it's so difficult for people to openly admit, I'm currently at the outer edge of my experience or skill set, and either I need to evolve, or, as you say, I need to bring in someone to help shore up this weakness. But it feels like that's so difficult for people to admit to, which sometimes I fully understand, and at times I don't. But what did you do to kind of remind yourself, okay, it's time for me to transition through some changes. It's time to evolve again and be prepared for this next shift.
+
+[00:26:29.270] - Jeff
+I think two things. One, you need to have good outside advisors. So along the way, we've had an informal board of advisors. They weren't a board of directors, so we had outsiders that we paid a fee once a quarter to come in, and none of them had restoration experience. And we would report out to them financials, where we're going, why we're going, and they would challenge the status quo. And I think other people within your organization, you always need to be looking and soaking up ideas. The company, all companies, your employees have incredible ideas, but if you're not open to them, you're not willing to do it, you're not willing to change. You're not willing to bring someone in. Every owner will have that day where maybe the business needs a new leader, needs a new manager that may or may not be you. And ultimately, again, that fire in your belly. Maybe bringing someone in from outside. I shared a story the other day where we have an outside CEO, and so we brought in private equity. My dad's 68 going on 69 this year, and private equity said, at some point, guys, we need a transition.
+
+[00:27:33.510] - Jeff
+Dad's not going to be running the company as a CEO at 74 years old. So, Jeff, Ryan, do you guys want to be CEO? And those are some really difficult internal family discussions, like, do I want to run ATI at that point, we were 300 and 5380 million dollars in revenue, and we wanted to get to a billion dollars. And my brother and I, we seriously considered it and said, can we do it? Yeah, we think so. But do I want to bet on I think so. Or do I want to bet on someone that's done it before? And I remember asking our private equity once we decided that we weren't going to take on that role, we wanted to do what we loved. We wanted to find that passion in our belly. Not that we lost it, but I love work, honestly, guys, five times more than I ever did before private equity, because I found my mojo. I didn't even realize I didn't have my mojo, but I found it more doing what I love now. And so hiring in an outside CEO was the best thing for the company. Could me and my brother have done it?
+
+[00:28:31.910] - Jeff
+Could we have gotten to a billion dollars? Yeah, maybe. But we've never managed. I mean, the guy we hired at one point was managing 30,000 employees. He was managing a multibillion dollar PnL basically every day that we were at HCI at that time, every day we were doing more revenue than we'd ever managed before. And so at some point we realized that, can we do this in the future if we want to? I think if we have a good mentor at some point, our CEO now, I don't know, he's probably in his mid 50s, so he's got a good ten years left. We want to be the CEO at some point. Now we've got a mentor. We've got someone that's doing it. If we want to take a step into that seat in the future, I think we'll be better equipped to do so. But you're not always the best person to run the business, operationally leader wise, sales wise. And again, put the business first. Ask your employees. It's incredible. They will share with you if you give them permission to be brutally honest, they will tell you where you're strong and where you're weak.
+
+[00:29:28.190] - Jeff
+And what do I need to do to continue to grow the company? And they will share, but you have to respect their opinion as well and be open. Hey, friends.
+
+[00:29:38.120] - Brandon
+Hey, listeners.
+
+[00:29:38.910] - Chris
+We're doing something a little bit different with our ads. So you've been accustomed to hearing some ads with our favorite partners and companies in the industry. Now we actually have a product page, our partners page, on our website. So floodlightgrp.com partners.
+
+[00:29:51.490] - Jeff
+I want to give you a quick.
+
+[00:29:52.370] - Chris
+Rundown, though, of the people that we're partnering with and we believe in as really go to resources in the industry. The first one is restorationerp.com, right? Erps are an important part of our sales process, our customer development process. And why reinvent the wheel? The restoration ERP platform is awesome. It can be customized to your business, branding and all that kind of stuff. It has all the components to really create a value add for your commercial client. Accelerate job management software. Everybody needs job management software. And we have just found Accelerate. Not only is their team just really great to work with, when they get ideas from customers, they throw it into the product roadmap and they implement it. They're really advocating for the contractor and trying to create a software solution that works for them. Actionable Insights. We recommend actionable insights all the time, right? All of us as restoration operators are looking for turnkey resources and training solutions that we can take our team to the next level. And AI, when it comes to estimating and matterport and a lot of the other essential tools we're using, they're an awesome resource and they're always coming out with new great stuff.
+
+[00:31:00.000] - Jeff
+Yeah.
+
+[00:31:00.290] - Brandon
+Super influential in the industry. Super Tech University. Soft skills development training for your technicians.
+
+[00:31:06.960] - Chris
+For your frontline personnel.
+
+[00:31:08.510] - Brandon
+Let's face it, frontline personnel are the heartbeat of our company. They are the ones that connect with our clients and create the customer experience. There's no better investment than investing in the ability for those individuals to represent themselves, our clients and our brands well.
+
+[00:31:24.220] - Chris
+So super.
+
+[00:31:24.720] - Brandon
+Tech University?
+
+[00:31:26.000] - Jeff
+Surety.
+
+[00:31:26.630] - Brandon
+They essentially are cutting down this life cycle between delivering service and then getting paid, stepping in, removing the middleman in terms of mortgage companies, refining that pipeline, making sure that there's as least friction as possible so we can go out, do a great job, and then our businesses don't suffer while we're waiting to get paid. The money is coming and it's coming quickly. And then the last one, guys, is liftify is kind of a newer entry to the industry. They're driving Google reviews, so they're a turnkey partner that we can literally go out, provide a great customer experience, hand that name off to our trusted partner in Liftify, and have them go chase.
+
+[00:32:03.580] - Chris
+That Google review 25% conversion rate, which is industry wide, people tend to average 5% of the people you ask for review. Actually convert lift to five. Bumps that to 25. We were such a big believer. We were a customer and they've been generating all of our floodlight reviews. And in a matter of a week and a half, we're up to, I don't know, close to 15 reviews in just a short period of time.
+
+[00:32:23.300] - Brandon
+And I think people just underestimate what happens organically with your SEO search activity when you're getting these new and active five star reviews from our clients. And we just can't let the pedal up on that because of the effect on our businesses long term.
+
+[00:32:36.780] - Chris
+Big deal. So check it out. Check out our partners page. Do business with them. You won't regret it. We're confident in that. Floodlightgrp.com partners.
+
+[00:32:45.570] - Brandon
+Thanks, guys.
+
+[00:32:47.590] - Chris
+Jeff, one of the themes I'm hearing is, it would seem, from the outside, and Brandon and I have had the opportunity to engage with some of your downline leaders. And I think across the board we've been really impressed by the caliber and the culture, the way people talk, right. The language, the way people talk about the work and the business and everything else. And the way that you reference sort of this building, this business with the family, it sounds to be relatively drama free. And I can't imagine if there was a huge amount of drama within the family that you'd be experiencing the kind of success, just outside success you guys are having now. How do you guys do that? Because there's a lot of people listening to our there's a ton of people in the industry, right, where there's succession planning happening, there's parents passing the business to their kids, and it's hard. It's hard for a lot of families. How do you guys keep that straight and still like each other and all those things?
+
+[00:33:46.980] - Jeff
+We are a closer family because of the company, and we'll never lose sight of that. I think as you're small, working with family is challenging. I met my wife at ATI, and once I asked her to marry me, I told her that I'm not working with another family member, and you can choose the job or you and I can get married, but I work with enough family members now. And one of the things we did early on, we used to allow a bunch of family members in the business. And I think one of the good things that we did was we limited it to me, my two brothers and my dad. We've got one cousin still left, but running a business with family gets very convoluted. I mean, my dad's had to fire his brother, we've had to fire my uncle, my mom's little brother along the way. So things happen, and so that's where it gets really convoluted. But as you grow and the more you're stepping on each other's toes, it's impossible. It really is. If you got to have one leader, that's got to be the final decision. And the more you can find an avenue in the business so you're not always contradicting each other, because if you do, that's seen throughout the entire organization, and we've been really good.
+
+[00:34:54.100] - Jeff
+I've had both of my brothers at one point have reported to me my dad's philosophy when we came out of college or junior college, whatever it happened to be, was, you can't work directly for me. Eventually as you move up in the company, that's different.
+
+[00:35:06.950] - Brandon
+What did you guys establish as a way to do that in a really healthy, healthy manner?
+
+[00:35:12.450] - Jeff
+So we created some policies that you first got to ask yourself, who do you want to work in the business? Not just today, but five years, ten years down the road? Do you want to be surrounded by all your family members? That works for some. That didn't work for us because this was a business that was created out of my dad just growing up in the industry. And for us, family and relationships are so much more important than working with aunts, uncles, cousins, because at the end of the day, I think we can all admit most employees don't end up working with you until 65 years old. So the reality is, if that's a bunch of family members, you've got to do what's right for the business. And that could be firing your brother, firing your aunts, your uncle, your cousin. And that's tough for them. That's tough for you, and it's tough for your employees, because no matter how much you don't favor your own employees or your family members, it's always perceived, and I'll say, it's not just our family members, it's managing other people. Or say, someone that's managing my Seattle office and him hiring his son to work in the Seattle office.
+
+[00:36:16.840] - Jeff
+We've got a policy that says no one can work for another family member. I have no problem hiring that person's son to work in Seattle. But there needs to be another layer of management. And if for some reason that person wants to be an estimator, they'll never be able to work in Seattle as long as their dad's running that office, they can go, transfer to another location, be your own person. But that also creates animosity amongst employees. Saying again, even if that manager is not providing differentiated service or management, maybe they're giving the worst jobs in the office and they're giving nothing. But some employees are going to interpret that, and their opinion is, I'll never have a chance here because the son of my manager is getting the cherry pick jobs, even if the reality is it's not. And so making sure you're making those strategic decisions, even if you've only got a couple of employees, like, do I really want to answer that question? If my brother asked me for a job in two years, do I really want to work with my brother? Because if you don't, hey, I've got a policy that says I can't hire family members.
+
+[00:37:19.580] - Jeff
+Like hiring your blood relatives, that's a whole different story. Your children. But if you don't want to get convoluted, that comes with other complexities, not just for you, but your employees.
+
+[00:37:29.730] - Brandon
+Yeah, I think you keyed in on something important there is managing the perception aspect just as aggressively as the actual. Whatever experience that we may have, that perception piece is just so massive.
+
+[00:37:42.190] - Jeff
+It is.
+
+[00:37:43.080] - Chris
+Well, Jeff, this has been super interesting to have you kind of pull back the curtain a little bit and share talk to us about what's going on with RIA, because when we chatted previously. You had that prior run eight or so years ago. What compelled you to come back on the board and what are you seeing? What's RA up to?
+
+[00:38:03.130] - Jeff
+So, like I said, I was on the board eight to ten years ago. It wasn't the best experience. Honestly, I didn't even finish my term. I joined it after going to some advanced designations because I wanted to make an impact. And honestly, I felt with the board at the time, I didn't feel like they were more self serving. I don't know that we were trying to inspirationally change the industry for all restores. I felt like it was a, quote, unquote, a good old boys, and that's not why I joined it. I was the youngest person on the board, may have been one of the youngest persons ever on the board at that time, and I just didn't feel like I can make an impact. And so I didn't finish my term. Fast Forward COVID Mark Springer aga. Ed cross. I probably went to a couple of conferences in that eight year gap. I was checked out. I felt like RA, it wasn't the trade association that we needed through Aga. Ed Cross, Mark Springer, Katie Smith, all of the great leaders that have been there and are there now, I finally felt like they were doing something that was impacting the lives of all restores.
+
+[00:39:08.180] - Jeff
+The big guys, the small guys, Aga. I remember Ed Cross calling me when they formulated that, and he wanted me to be on the Aga task force. And I was just like, no. I don't know, Ed. And after seeing what they did for about twelve months and actually making an impact on all restores, even those that aren't in the Raa, they are with their white papers and the talent that we have on the board and tackling those issues and those subjects that as individual restores, even at our size at ATI. There's a lot of these subjects ATI cannot tackle on their own, serve, pro, belfort can't tackle on their own. But as a collective industry, if we are all truly restorers, you are only as good as your trade association. And when the trade association, I remember probably the most powerful call I had. I realized that out of the top 20 restorers, only like, three of us were members of Raa, which this was two to three years ago. Pretty reflective of the industry itself. Like, how are we really going to move the mountain here for Restoration Mountain if 17 of the 20 largest restorers aren't involved and aren't participating?
+
+[00:40:14.600] - Jeff
+And I remember Mark Springer and I set out, we reached out to every CEO of all of those restorers, we got them all in a call. The Raa did a pitch to the 20 largest restorers. And I can truly say, I think it's either 18 or 19 of those 20 are active, willing participants in the Raa, which just shows you the amount of progress that we have made, because at the end of the day, the top 20 restores make up certainly a huge chunk of revenue. But it's a lot smaller than you think. I think the 20 largest restores makes up like 20% of the industry. But it's only 20%. But that's the easiest 20% to one over. Because if I can win over 20 people, it's a heck of a lot easier than running over 15,000 individual restores. And the fact that the big guys and the large, well, the franchise, non franchise believed in what we're doing, not only for the organization, but for the individual franchise owners, it really represents the day to day restore. We are making an impact, and we're tackling things like overhead and profit. We've moved the needle with exactware or challenging things with NextGear and core logic to make sure that that viable estimating platform is long term is viable for us as restorers.
+
+[00:41:30.760] - Jeff
+There's more carriers going there, and we're tackling these things like construction pricing. At one point, there was a carrier in the country that was forcing us as restorers to use construction pricing, which is effectively, if you were to go out and do build 800 homes, track homes, that's what that price list was intended for. That's why barris created it. But you had carriers that were mandating us as restorers on $10,000 construction jobs, where the margins and the top line line item is discounted by like, 40%. We can't survive. The insurance companies think we're making money hand over foot, but the margins are incredible. But the cost to run a restore is incredibly high and so much higher than the industry thinks. And so by having amazing talent at the board level, we can tackle these things that make an impact in all restorers lives. And once you're doing that, I've got all the passion in the world. I just came off a ten day vacation, and honestly, I think I sent two or three emails related to ATI. I spent probably 25 hours the last ten days on my vacation with just my wife and I working on RIA stuff.
+
+[00:42:44.130] - Jeff
+That's how passionate I am about the mission, about what we're doing. I want to impact people's bottom lines. I want to impact carriers. I think in the future, for us to be successful, we need the carriers to pay attention to what the heck we're doing. I want the largest carrier. I guess it's probably state farm. I want state farm. I don't know if it's five years or ten years down the road. I want RA to be so powerful that state farm is coming to raa. Hey, we're thinking about doing x. What is raa stance? And if we can get that, imagine how much more leverage we have as an industry. Imagine how much more margin we will have as restorers. And we won't have that individual pushback, because at the end of the day, there's always someone willing to do it for cheaper. There's always going to be someone willing to do it for not ten and ten. There's going to be someone that's willing to do it for 30% less exactimate pricing. And as long as we're doing that, we're not acting as an industry. We need to have the whole perspective and to be an industry trade association, we have to represent everyone.
+
+[00:43:48.120] - Jeff
+Restoration, rebel or not. Protpa, anti, TPA chasing, non chasing. I love insurance companies. I hate insurance companies. We have to represent all Restorers and we need to have one common voice. Right now, our industry is made up like the political landscape in our country. And you've got 50% on this side of the fence and 50% on that side of the fence. And if we truly want to make an impact in the industry, 80% of us need to be seeing the same crap. We need to be moving in the same direction. We can disagree whether program work is good or it's freaking terrible because they're both accurate. But as an industry, the reality is 50% of all Restores are on the Contractor Connection program. I don't care if you hate TPA work or not. They're a big player in the industry now. You can be on either side of the fence, but we've got to play nice with someone that's feeding. It's a major client to 50% of our industry. Whether you like it or not, that is the reality. And we have to represent both sides of that fence. We got to toe the line.
+
+[00:44:51.250] - Jeff
+The board needs to be representative of 50% of each side of that fence to be an effective trade association.
+
+[00:44:58.130] - Brandon
+When we talked to you the first time not long ago about this topic, I mean, everybody listening right now can hear the passion that just fired up. I mean, you were excited to talk about API, but you just went into a whole different gear. When we're talking about you gave us some numbers that honestly kind of shocked me. And so if you don't mind, can you talk about participation, current membership now, and why it's going to be so critical for the team to continue to make progress?
+
+[00:45:26.150] - Jeff
+So at the end of the day, we're a nonprofit. We're not making money. We're just looking to have residuals to cover us through another COVID year type of deal. But, yes, there's about 15,000 restores in the United States. We have approximately 1500. So we represent 10% of our industry. Honestly, I speak my mind. Sometimes support doesn't like it. That's pathetic. From Jeff Moore's opinion, how can we represent our association? All the restorers listening. If you're a new member, it's like $250 a freaking year. I don't care if you just started your company, you can afford $250. We need more people to be in the association because the more people we have, the more funding we have, the more difficult tasks that we can take on our last strategic board meeting, there was 20 of us in the room. I think we've chalked up 250 strategic ideas that would impact all restores in the country. We're able to tackle about ten of them because one budget one time priority. But, man, imagine if we had four times as many members. We'd probably have four times the budget. And we could invest in other things through aga edcross and the things that they're tackling.
+
+[00:46:37.220] - Jeff
+But when three of the 20 largest or two of the 20 largest aren't members and you've got 13,500 restores, hopefully some of which are listening here and are thinking about joining, you've got to be part of the trade association to make an impact. And there's tons of reasons why you join. First of all, it's a trade association. We're out there fighting on your behalf. The board is incredible. We're all volunteers. We don't get paid to do any of this. This is out of the goodness of our heart that we're trying to make an impact and restore. But I'll put my CEO hat or my president or whatever hat you want to call it, at the end of the day, there's got to be an ROI for anything I do if I'm going to do a trade show, if I'm going to join a trade association. We've got something that's called the Affinity Program, and basically it's a rebate program. We're hoping to have a big announcement at the conference for those that are there on something that's game changing. But the reality is we've got alliances with about 20 partners. Right now, we're working with about ten others where that $250.
+
+[00:47:33.480] - Jeff
+If you're a new member, you're going to save thousands and thousands of thousands of dollars. The ROI is like ten plus fold. Even if you're a guy doing a quarter million dollars in revenue with two or three trucks, pay for the membership, because we will invest that money. And the people like Sunbelt. Large loss. Mastery. Surety. REITs I mean, I can give you a whole laundry list of people where they're giving you a discount. So let me pick on someone looking at Sunbelt right now. So they're our longest partners. So if you ever have to rent boom lifts, lighting, equipment, if you're a small guy, you've got to rent because you go up and down in terms of what your capacity and what you own is, they'll give you a discount. And the standard discount for this program is they are giving us all of these members, on average, about 10% off. And so as a restore, you're getting 5% off of whatever you're spending with these vendors. And by the way, they're giving us 5% back to the trade association at the end of the year. That's more dollars I can invest to make an impact into your bottom line.
+
+[00:48:35.320] - Jeff
+And so what I tell everyone is there's amazing things that we're doing. So you should absolutely join up for you can hear my passion, but again, I'll put my CFO hat on. Don't join anything unless there's an ROI, because I'm telling you right now, if you use any one of these vendors, the ROI is going to be tenfold of what new membership costs. There's advanced designation. Again, employees. What built ATI was the amazing employees. You've got to invest in your staff. They've got, effectively, the master's degree. All of us have, IICRC, trained people. You want to really invest in your staff, you send them to your Cr, your Wls, the advanced designations. There's a reason there's less than 1000 CRS in the country. I think it's probably less than 800 of us that have their Cr designation. Imagine the leverage you have on an employee that you've invested, and they're receiving number 801 Cr advanced designation versus you're one of 100,000 people that are Wrt certified. You've now invested in that person's future, and hopefully they're going to interpret that and not leave and go jump ship for $2,500 more in salary from another competitor.
+
+[00:49:41.230] - Jeff
+But the conference the conference is coming up April 26 to 28th in Orlando. Come here from the heads of the four largest Tpas. Come here from the President of Verisk as restored. What do we like to complain about the most? Pricing sucks, guys. Pricing will never be good enough. We'll never make enough money. Compared to what I think the insurance company thinks that we're making, pricing can always be improved upon. We've got the president of the Estimating platform at Varys coming. We've got the Jesse over at CoreLogic coming, speaking to us. If you want to find out what's going on in the industry, you need to come to the conference. And if you can't afford to fly to Orlando because you're a small guy, totally fine. Live stream it. You can still get the educational quality. You're going to miss out on the individual interactions. You're not going to meet all the vendors. You're not going to see the incredible sponsors that you guys talked about today and all the other incredible vendors. It's an opportunity to meet your peers. And that is where you learn. You learn from talking to other restorers, preferably in markets that you're not in, because you don't want to trade trade secrets with the guy next door.
+
+[00:50:43.960] - Jeff
+But I have no problem doing that with the guy out of Florida if I'm in Seattle. And all of a sudden, you're building friendships. And that's part of what led me back to RA and into this M and a landscape, was putting myself out there and always wanting to reinvent ATI and reinvent myself. I walked the trade show for like everyone else. We don't have everything figured out, guys. We're still learning new products. We're still learning. One of your sponsors today, you'll have to name drop the name. But the one doing the Google ads. We still haven't figured out how to do Google, guys, and we're ATI. So I. Don't know that anyone in the industry has figured it out, but I'd love to meet with that guy when I'm in Orlando. Hopefully he's got a booth and I can come by and say hi because we don't have it all figured out. I don't think anyone does.
+
+[00:51:24.110] - Brandon
+I will now formally make that intro and I guarantee you he's going to hear this and go, I can't wait. One of the things that kind of comes to mind, I know, Chris, you probably have a few thoughts too. So guys, I just kind of want to set the stage for those of you listening. Most of you, if you haven't heard of ATI, I'd be shocked. Most of you know roughly kind of the size and scale this business has been on a tear creating. Jeff, listening to you talk about your guys'team and what you guys have focused on and the trajectory that you've been on, there's this huge overwhelming theme of humility. And the reason I make that comment is if teams like ATI and you specifically Jeff, who have in a lot of ways your guys'company, your business has experienced many things about our industry and the direction that our industry is headed that others have not. Some of it, we do share those experiences. But my point is, if a team like ATI Is prioritizing their membership and their participation with this specific industry group, with this trade group, then I just think it makes all of us need to just pause for a second and say then how much more value is there in my voice to be a participant in a group this size?
+
+[00:52:36.980] - Brandon
+Because I don't carry the weight like ATI. Whether you like it or not, there's some weight that you guys wield by your sheer size. All of us, the rest of us, we don't have anywhere near that toolkit to deploy to protect ourselves, to advance our position within the industry and to protect the industry long term. And so I guess I'm kind of just jumping in behind you and saying if a guy like you is making this a priority, I feel like it's important for the rest of us to at least think about it because clearly if we can unify our voice, it's going to change the experiences that we all have. And if we're honest, there's a lot about our industry that's not great right now. There's a lot of challenges and a lot of things that are not in aligned with our best interest. And the only way to probably make ground on that is we've got to be speaking a common language. And it seems like Raa can be that platform for us to begin unifying our voices behind it's, the best voice.
+
+[00:53:39.040] - Jeff
+It'S going to get the attention of the industry. Industry meaning estimating platforms, the two major platforms out there and directly from the carriers. That's the voice that we have to bridge. But we need more people to join. And honestly, the smaller guys, even more reason to join. There's a reason we dropped our membership to a couple hundred dollars from what it was before. I want my employee who just gave notice got one in mind who just gave notice. He's been with me forever, and he's going to go start his own thing. I want him to join. Even though he doesn't have a lick of revenue, he just gave notice. He's still employed with ATI. I wish him the most success in the world, but I want him to join RA for $250. I know he can, and that's going to make a difference and hopefully not only him, but all of his future employees. So it's affordable for everyone, but you have to invest in yourself and your company. Otherwise you're never reinventing yourself. Like I said earlier, every three to five years, forget that you can't spend $250 to make your company better and to invest in the industry and your employees.
+
+[00:54:35.200] - Brandon
+You're never going to grow 100%.
+
+[00:54:38.570] - Chris
+That's a good thing to end on. Man one last question for you as we close this out, though. Favorite book or podcast that you found to better understand the mergers and acquisitions stuff that's going on in our industry, for those people that are either thinking about working with a PE company owners or just somebody that wants to understand it better, what resources would you recommend.
+
+[00:55:01.710] - Jeff
+So specifically for M and A? There's nothing that comes to mind, I would say, for business in general. My favorite author is Patrick Lencioni, and he writes all kinds of I don't think he's got an M and a book. I've read all of his. He's got ten or twelve business publications. He's an incredible author, talks about things from building teams and culture to death by meeting, not to have meetings, to have meetings, they've got to have purpose. So I think from a practical perspective, ATI actually has a book we're hoping to launch at the Raa. Hopefully it's done in time, but it's actually on MNA. This is not a plug. We're actually going to sell it on Amazon, but for the right people, we're also going to be giving it away. We interviewed, I don't know, 20 to 30. I call it figureheads in the industry, plus the first five owners that we did deals with. And it talks about the trials and tribulations. And I'll tell you, the biggest thing I learned was the mental hurdle, having gone through it personally and then having interviewed people and having it professionally written. That is the biggest struggle, is making the mental decision, telling the employees.
+
+[00:56:03.030] - Jeff
+I'll tell you, if you're thinking about going down the M and A path, do your homework. Talk to as many people as possible. If you've selected someone to sell your business to, make sure you talk to, not an owner. Talk to as many or every owner they've ever acquired, because that's where you're going. To get the answers. It's no different than hiring an employee, and they've got three references on there. You know what's more important? It's actually calling the people that aren't on the reference list. It's looking them up on LinkedIn and say, oh, this employee worked with them seven years ago. That reference is so much more powerful because if they already listed them as a reference, you already know they're going to give you great things, but how are they going to treat you after they've acquired the business? Most importantly, how are they going to treat your employees? Are they going to keep them all? Are they going to let a third of them go within the first 30 days? Because there's different MoS for everyone out there making acquisitions, and you've got to make sure you know what you're getting yourself into.
+
+[00:56:55.780] - Chris
+That's great. I totally second that. Patrick Lencioni reference. One of my favorite books of his is a more obscure one called Getting Naked. Have you read that one?
+
+[00:57:03.590] - Jeff
+I have.
+
+[00:57:04.260] - Chris
+They're like a turnaround consulting firm. It's very interesting. I was like, this is very applicable in a lot of ways. Well, Jeff, this has been really fun, man. I think what I've really enjoyed about the conversation is just your candor. I feel like it's really refreshing, right, to talk with an industry leader and just how humble and open you've been. So really appreciate it, man. It's been fun. Look forward to a future chat, but thanks for joining us today.
+
+[00:57:29.150] - Jeff
+Yeah, I want to end on one thing. I think I may have said the dates wrong, but the RA conference is April 24 to 26th at Rosen Shingle Creek, which is in Orlando, Florida. I think I said the date was wrong earlier.
+
+[00:57:41.130] - Chris
+Right on. Floodlight will be there and possibility that Headhart and Boots will be broadcasting live from Raa conferences as well. So, anyways, yeah, if you haven't signed up, go do it.
+
+[00:57:50.180] - Brandon
+Yeah, let's get it. We'll see you guys there.
+
+[00:57:51.960] - Jeff
+Thanks, fellas.
+
+[00:57:53.410] - Brandon
+All right, everybody.
+
+[00:57:54.360] - Jeff
+He.
+
+[00:57:54.610] - Brandon
+Thanks for joining us for another episode of Head, Heart and Boots.
+
+[00:57:57.920] - Chris
+And if you're enjoying the show or you love this episode, please hit Follow. Formerly known as subscribe, write us a review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever.
+
+[00:58:09.840] - Jeff
+It all helps.
+
+[00:58:10.850] - Chris
+Thanks for listening.

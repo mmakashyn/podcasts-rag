@@ -1,0 +1,335 @@
+﻿[00:00:00.170] - Chris
+Before we dive in, let's talk about our sponsors. Man. So liftify, comfloodlight. What is liftify? Well, if you're brand new to the show, liftify is the solution, too. We do a lot of jobs every year, and we only have X amount of Google reviews.
+
+[00:00:15.630] - Brandon
+Listen, most the best way to ever.
+
+[00:00:18.100] - Chris
+It'S like, listen, if you're a company that does 200 jobs a year, well, you should be electing 40 ish Google reviews every year because that's the conversion rate that Liftify gives its clients. 20% to 25% of every project that they close. You should be getting a Google review for that. And if you're not performing at that level now, some of you have much bigger businesses. You might do 1000 jobs or 2000 jobs for it. You do the math. If you're not adding 20% to 25% of those jobs to your Google reviews, you should be using a service like Liftify. And they're the best we found. And I think, too, as a consulting company that Brandon and I run, we take our recommendations for products and services really seriously because it reflects on us right. As consultants. And Liftify has been one of those recommendations that we have yet to have somebody come back with even a mediocre or neutral review, it's like, wow, that worked awesome, right? People love it, and they're seeing results right out of the gate. So it's pretty routine for us to introduce somebody, and in the first 30 days, they'll make, oh, my gosh, we got 20 reviews in the last 30 days, or whatever.
+
+[00:01:30.680] - Brandon
+Yeah, it's not the whole digital media black box thing. It's legitimate measurable results. Not only are they tracking it, but you can see it via your dashboard, the whole thing.
+
+[00:01:39.810] - Chris
+And one of the things that's cool is they do an especially good job, too, at reaching back into your job history. So not just moving forward, they actually have a system whereby you submit them an Excel spreadsheet or whatever, your past jobs from QuickBooks or whatever, and they'll reach back and harvest Google reviews from that to help you get a jump start on it. They did that for us. And anyway, it's been a massive success across the board. It's made us look good as consultants, and it's been very effective for our clients. So check them out. Liftfy. Comfloodlight. They got a deal, but who cares about the deal? I mean, if it does what we say it will do for you, the money follows. Right. It's called organic inbound calls that you don't pay for because Google ranks you higher because you have better recency and volume of Google reviews. You're going to get that call instead of the next guy down the street.
+
+[00:02:29.450] - Brandon
+That's right.
+
+[00:02:30.000] - Chris
+All right.
+
+[00:02:30.350] - Brandon
+CNR magazine guys, you know how we feel about them. The reality of it is we really view them as a friend to the industry. They are our partner, as the service provider, as the contractor in the industry constantly looking for new information, constantly in pursuit of the newest what is and what isn't in terms of the industry. Everything from us as individual service providers to the teams that are supporting our industry, to trends, HR, hiring, firing, I mean, you name it, they cover the gambit. So again, CNR magazine, if you're not a current subscriber, do it. Guys, do yourself and your team a favor. Take advantage of the free information that they're pumping out on a regular basis. CNR magazine, guys.
+
+[00:03:14.510] - Chris
+Do it.
+
+[00:03:15.170] - Brandon
+Okay, let's roll.
+
+[00:03:23.410] - Chris
+Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:03:27.130] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:03:33.910] - Chris
+Man, I love this industry.
+
+[00:03:37.270] - Brandon
+Christopher.
+
+[00:03:39.350] - Chris
+Yo.
+
+[00:03:40.220] - Brandon
+Kind of wanted to hang in that pocket on the just as long as I could see what happened.
+
+[00:03:45.420] - Chris
+Spicy.
+
+[00:03:46.050] - Brandon
+Yeah, it's spicy. Way to set the tone, right?
+
+[00:03:48.150] - Chris
+Yeah, dude.
+
+[00:03:48.800] - Brandon
+We're starting to rack up some shows with the new gear. I'm digging the new gear.
+
+[00:03:52.550] - Chris
+You can see it on YouTube now. We have our studio monitor set up, so when we play back stuff, it sounds really cool.
+
+[00:03:59.150] - Brandon
+That's the primary reason.
+
+[00:04:00.400] - Chris
+And when we have sort of our combined studio days, we're both meeting with clients here in the studio set up.
+
+[00:04:05.310] - Brandon
+It's going to be pretty sweet.
+
+[00:04:06.890] - Chris
+We'll be able to hear them really well.
+
+[00:04:08.930] - Brandon
+Going to reboot the background eventually. I know we keep talking about it, but we got some work in progress.
+
+[00:04:13.370] - Chris
+Yeah, but it's kind of nice. I was commenting, though, is the whole redwoods image behind us. It looks kind of cool the way our new desk is set up.
+
+[00:04:21.200] - Brandon
+It does kind of looks like you're going down that highway, that chunk of highway, which is probably like 101.
+
+[00:04:26.360] - Chris
+You and I are totally technology nerds. I mean, we didn't need a huge amount of push for us to reinvest in our podcast.
+
+[00:04:31.820] - Brandon
+No, we didn't. Part of the challenge with that, though, is I'm interested in the tech, and then I just never do a great job of fully learning all of the tech I know, which in turn makes it double edged sword, I guess. And honestly, who gives a shit?
+
+[00:04:45.310] - Chris
+So what are we going to talk.
+
+[00:04:46.330] - Brandon
+About today, my man?
+
+[00:04:47.400] - Chris
+Oh, it's my lead. I've got the idea. This is yours, man. You had the genesis of this idea.
+
+[00:04:52.000] - Brandon
+I did, yeah, that's right.
+
+[00:04:53.280] - Chris
+I remember now.
+
+[00:04:54.430] - Brandon
+That's how untapped I am today. So some interesting things happening in our household. I'm watching, and I'll be careful. I don't want my kids to feel like there's anything negative about this, but.
+
+[00:05:05.300] - Chris
+Just cut total loose.
+
+[00:05:06.380] - Brandon
+Cut to the chase. Both my kids, young adults, right? 21, 23, respectively, and they're both just kind of in some initial phases of that life journey. And there's some things that they do that's so ahead of where I was at their age. And then there's other things that are just right in align with average people their age that are both frustrating and exciting all at the same time. But one of the things that recently has been happening with my son specifically is he's really been pursuing just finished his degree. He's graduating this year. He's done, but he'll walk here in a few weeks, a couple of weeks anyway. So he's in that second phase. Right. The initial launch was grad school and he's become a bit disgruntled with university and general public education. We don't need to go into that. But while thinking through that, he obviously has looked at our business and what we're doing. He came up experiencing disaster restoration firsthand. He took a crack at that a.
+
+[00:06:00.690] - Chris
+Couple of different times.
+
+[00:06:02.080] - Brandon
+Yeah. Worked in the field a couple of different times with some of our earlier teams. Always created really clear boundaries. He was never a direct report to me. He had a boss and that boss was very free to judge a performance based metric. No doubt there was a clear encouragement to judge his performance like he would anybody else's. So that being said, he has kind of been drawn to the service side of things. And so as he's kind of making some decisions about what that first phase of the journey could look like, he's starting to really feel an entrepreneurial bug. And so he and a buddy, a buddy that has launched a small service company and is actively learning and growing that business and getting that real life education as we speak. But my point is that my son has reached out to that individual and talked very openly about, hey, I have a job that pays the bills right now, but I'm in pursuit of skills, I'm in pursuit of exposure and experience. And he's actively pursuing that in a way that can seem very self sacrificing. And so long short of it is he's doing some of this for free.
+
+[00:07:05.000] - Brandon
+Like straight up, he's volunteering his time. And part of what that volunteering his time looks like is going out in the field, watching them render service for a client so he sees what that looks like. He's made a lot of open jokes about some of the guys on the roofing crew and how much better at it than he is that they are working them into the ground and those kinds of things. I find it really refreshing to hear my son talk about how valuable the skill learning is, even more so than the short term benefit of pay.
+
+[00:07:35.170] - Chris
+I'm excited to hear that. So I usually twice a year for the last pushing seven years now, I do a talk at our local community college. You've sat in on it a couple of times. We've both done it a couple of times for this marketing class. And it's really fun. Almost every time somebody will said, do you have any advice for a new grad? Or somebody who's in college right now? And I said, absolutely, I do. And the number one piece of advice that I give all students now, of course, in community college, some of these students are 45 or six.
+
+[00:08:06.720] - Brandon
+Right.
+
+[00:08:07.690] - Chris
+It's like second career kind of stuff or whatever. But what I tell all student age people is, look, find a business that is interesting to you and go to the owner and say, I'll work for free.
+
+[00:08:19.310] - Brandon
+Just teach me.
+
+[00:08:20.160] - Chris
+Just give me access, give me windshield time with you, answer my questions, and I'll work for free. And couch surf as long as you can. Just hang in that pocket as long as you can, because the value that you will reap from that so far and exceeds, frankly, probably most college degrees that people earned. That's right, right.
+
+[00:08:39.420] - Brandon
+Yeah.
+
+[00:08:39.800] - Chris
+I mean, being able to be behind the curtain to where that owner is kind of endeared to you. And I'm not talking about just shadowing, of course, talking about getting in, creating value, doing the work, all in exchange for intel.
+
+[00:08:52.510] - Brandon
+Yeah.
+
+[00:08:53.130] - Chris
+As long as possible. If they insist on paying, you be the only minimum wage employee on the team as long as you can. Now, you got to make sure that you're linking up with somebody you admire and respect.
+
+[00:09:03.770] - Brandon
+There you go. Yeah.
+
+[00:09:05.070] - Chris
+Because some people will take advantage of that.
+
+[00:09:06.750] - Brandon
+That's right.
+
+[00:09:07.150] - Chris
+No doubt.
+
+[00:09:07.560] - Brandon
+Like, indefinitely.
+
+[00:09:08.390] - Chris
+Yeah, indefinitely. They'll just love having an intern on the team that's highly skilled and driven. So that's not what we're talking about. We're talking about partner with somebody and just say, hey, you pay me with knowledge and experience.
+
+[00:09:20.120] - Brandon
+That's right.
+
+[00:09:20.820] - Chris
+And let's start maybe it's for the next three months. I don't want any pay for the next three months. And if you feel like I'm adding value to the team, then let's figure out what to do with the next three months. But, oh, my gosh. And you know how many people come back to me and are like, hey, I did what you said, and oh, my gosh, done.
+
+[00:09:35.740] - Brandon
+I was waiting for you to give some really rad number.
+
+[00:09:38.970] - Chris
+And I'm like, I've never had. Now, of course, granted, I didn't do that, but when I think back to my college career, in my early career days, if I could go back and do one thing differently, I would have done that. I would have been curious. I would have been more curious about some of the business owners I knew from church. Just, nobody ever told me that's a thing to do. I didn't know my dad was a school teacher. My mom was a nurse. Like, they didn't grow up in that entrepreneurial environment or whatever. I just didn't know. I didn't know that's something that would be smart to do. But, man, I look back and I'm like, I can think of five or six really successful business leaders that I grew up going to church with that I could have easily done that and who knows?
+
+[00:10:18.160] - Brandon
+It's interesting because especially you and I with all the different podcasts writers and stuff that we follow, just kind of in this endless pursuit of self development, continued growth. One of the things I'm learning and that I'm hearing some of these kind of more prolific influencers talk about is you can't take skills from me. Things are going to happen guys. Life is going to throw curveballs at us. We're going to have something happen in our business or in our team that doesn't go the way we anticipate. We're going to take a chance. We're going to bet on something that we don't have 100% confidence. It's going to produce what we want. But the skills, the experience that you gain, no one can ever take that away from you. And the reality of it is that the more of that toolkit that you develop over time, the faster you can experience the next level of success, even if it's a reboot. And not everyone knows my story. I don't go into detail for a number of different reasons but I've had multiple moments in my life that a reboot was required. Sometimes that was in my control and sometimes it wasn't.
+
+[00:11:20.660] - Brandon
+But the one thing I can say with confidence, looking backwards over time is no one could ever take the skills and the experience and exposure that I had. And I took those with me every single time and it changed the trajectory and speed at which I could start over, try again, try something new. And I think that's the thing that we lose track of. And so okay, so let's think about this, right? We predominantly our listeners are folks from the disaster restoration industry at minimum the service industry in general. And a lot of us that listen and pay attention are either business owners themselves or they're key leaders of some sort. And it runs the gambit. We have folks that listen to us religiously that are project management level. We've got field level personnel that listen, which is my happiest place. I love that that happens but it runs the gambit is my point. Here's kind of what I was thinking about and wrestling with this. I think the struggle with some of the things that our culture is exposed to with social media, it's a double edged sword there's. The side of it does give people a better perspective of the variety of options, opportunities and trajectories that people could go.
+
+[00:12:31.490] - Brandon
+And I think that's been very powerful. I also think that it has opened our minds in terms of what our expectations can look like. How fast can we achieve something we're not restricted or choked off in terms of access to education or experience anymore. There's not a single person holding the cards as often as there was in the past. And however, I see a lot of our culture struggling to recognize the honor or the opportunity in doing something for real. With their own hands actually provides them. And so we often watch as we onboard new personnel, and we get in this weird dance where a lot of young folks, a lot of our workforce, wants to get paid first before they show us in quotes what they can really do. And just to be brutally honest, for the listeners that have slid into that seat from time to time to include me, I'm a human, I've slid in that seat before as well is never.
+
+[00:13:28.290] - Chris
+Me, but that's why you're my business.
+
+[00:13:32.690] - Brandon
+The reality of it is when we're trying to go to a leadership team and tell them to pay us what we're worth in quotes, and then we'll show them what we can do, I just need you to be honest about how unrealistic and bass act words that is. So again, I think maybe the majority of this conversation today might be pointed towards our employees, our team members. I think that's all right. But just ask yourself this question, like, mentally, even if you haven't done it, but mentally, if you feel like you're in this position where you're wanting to be recognized before you do what it is that you say or think that you're capable of doing within the organization you're a part of. You got to do a system check, man, because that's a very unrealistic ask, just like it is for you. You wouldn't bet on something before you know it can deliver, right?
+
+[00:14:23.920] - Chris
+At least had some evidence.
+
+[00:14:26.140] - Brandon
+We do.
+
+[00:14:26.760] - Chris
+I'm like you make hires in a business where they maybe have never done this exact thing before, right? But there's other evidence. There's markers in the wake behind them where you're like, oh, well, if they can do that, they most likely can also do that.
+
+[00:14:42.490] - Brandon
+So there is markers that we're pointing to, to a certain extent. And this is true for leaders, owners, and all the way down to every level of the ranks, right. To include myself, as I say this out loud, we have an opportunity in front of us to get more in line or more in connection with the value that experience, exposure and training and just practicing provides for us. And so I think the encouragement here is as individuals for us, instead of being a victim of the environments that we're working on or the teams that we're a part of, can we kind of reengineer take a fresh look at what we're actually being exposed to? What is the skills that you're gaining today when you go out and do the parts of the job that aren't as sexy? What do you have the opportunity to learn as you exchange information and best practices and do this service dance with your peer and with your fellow team members? What kind of learning or education can you get when you introduce yourself to the client for the first time and begin walking through this procedural communication about what's going to happen and how you're going to do it.
+
+[00:15:51.660] - Brandon
+Like, we just slip into this space, I think, where we're just doing and then when you're not valuing what you're doing or the exposure or the opportunity or the education or the skills that you have the chance to develop, then it really is 100% about the paycheck. And there's really no other reason for you personally to be engaged in the experience that's in front of you. And I just think that we don't do that on purpose. I think we slide into that position by accident and then we really miss the mark.
+
+[00:16:23.960] - Chris
+Again.
+
+[00:16:24.460] - Brandon
+I think you kind of hit the nail on the head, Chris, when you gave some clarity around this. Guys, listen, I'm not telling you to go work for free and be taken advantage of. What I'm saying is be honest about what current skill set you have and ask yourself the question if there's an opportunity for you to be learning and gaining skills if you were more aggressive about asking for the exposure instead of being more aggressive about asking for more money.
+
+[00:16:52.130] - Chris
+And I think there's a couple of other angles on this, which is, how do we, as leaders we've touched on this recently how do we, as leaders, get better at unpacking the opportunity? That's really good coming on with our company and not just, I think, creating an environment where there's enough transparency, there's enough access to the why behind things that team members, the way we've set up our business, the way we communicate, all those things actually do help people grow and expand beyond their current and existing role. Right? Whether that's participation in all company meetings, which many companies just don't do, they won't spend the money on, and yet it's a massive opportunity for them to see how the leadership team leads. It's a massive opportunity to understand a little bit better sort of globally how to communicate mission, vision, values in front of the team. I think in a lot of companies, we've set up our companies to where it's like, hey, just stay in your lane. Just do the job we asked you to do. And technicians in particular, they aren't really exposed to much more in the company outside of their job assignments for the day.
+
+[00:17:59.720] - Chris
+They're never really brought into any other conversation. So I think there's an opportunity behind this conversation for owners to reevaluate. Have I created the kind of business where somebody actually can come and learn and grow in their functional role? Is there an opportunity for them to be exposed to opportunities and higher level thinking outside of that existing role? Or is it just about the job for the money? Have I actually just created a business where that's the playbook, come do a great job, you get money. And then on the other side, I feel like we have to get better, too. As owners of spotting the kinds of potential employees in our interview process that are actually interested in that. And one of sort of the rules I have, or just a reference point that I have in interviews is how quickly do they ask about the money, even technicians, how quickly does that come up in the conversation? Or are there a series of curious questions about other material things that point towards this person is interested in what kind of experience, what kind of opportunity is in front of them, what kind of long term growth opportunity there?
+
+[00:19:09.170] - Chris
+Is it's like, are we tuned into that or are we allowing desperation brain to take over and we immediately start peppering them with technical questions? Can they do the job? Can they do the scope of work I need them to do? And if they can, do they seem honest? Are they likable enough? Do they have the three T's you want them? Yeah.
+
+[00:19:27.120] - Brandon
+Give them transportation and tools?
+
+[00:19:29.500] - Chris
+Yeah. Right. Are we just constantly recruiting for the lowest common denominator or are we trying to create a workplace where there's actually an interesting opportunity?
+
+[00:19:39.480] - Brandon
+Right?
+
+[00:19:40.100] - Chris
+Do we communicate that well? Starting with the interviews, do we explain sort of our vision for the team, where we're heading as a company, what kind of growth opportunities that represents? Do we talk at all about career pathing in the interview process? Do we ask them questions like, hey, three years out, where do you want to be? Do you want to be a technician working on a truck? Do you want something else for yourself? Some people are going to say, man, I just love working with my hands. I don't want to manage people, I don't want the stress of that. I just want to make a little bit more money each year and I got my hobby, I got my kid, whatever, fine. But for those that want more, are we selling more or are we just making that whole position for a paycheck?
+
+[00:20:20.080] - Brandon
+No, I think it's a great reminder, I think in general because there is this balancing act where a lot of the team members that are entering the workforce right now, they don't necessarily know how to ask for some of this yet. There is something in them that it's more natural for them to pursue the non pay dynamics of the job. But I don't know that they're all equipped super well to ask questions and dig into that. And so it is a balancing act of you're looking for it. And like you said, you have to professionally lay out the career opportunity and map so that they can see for themselves there's something to unite behind. But I think in general there's just this layer of self reliability, self responsibility, to just think about what we're expecting and ask ourselves if it's a realistic or if it's actually going to net us the long term return that we want and full transparency. Man I think that some of my past experiences I look back and ask myself, what position were you in mentally? And I will say there was plenty of times, man, that the paycheck was the front of mind element, that I was making decisions.
+
+[00:21:28.320] - Chris
+Oh, yeah, for sure.
+
+[00:21:29.710] - Brandon
+And I think there's times where that was okay. But I'm also evaluating that time period and asking myself, was I setting the best example? What was I getting out of that opportunity? Was I just milking the check? Was I just trying to maximize the earn? Or was I maximizing what I was learning? And I don't always have a super clear answer there. I think my pride wants to say when I look in the rearview mirror that I was always that person that had the posture of learning and skills is more important than the money. But that wouldn't be accurate.
+
+[00:22:04.630] - Chris
+All right, Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, Bloodlight Consulting Group. As all of you know, right, Brandon and I, this is our passion project, headhart and Boots is. But it's also a way more and more that our consulting clients find us and in effect, they interview us, right? Those of you been listening to the show for a while, you get to know who we are, right, what we're about. So if Head Heart, Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow. And we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you, too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:23:03.850] - Brandon
+That's what we do.
+
+[00:23:04.920] - Chris
+That's what we do is we come alongside restoration company leaders, we help equip them, and we help support them in that growth trajectory. So if you're looking for that go to floodlightgrp.com, potentially, we could be a great match for each other.
+
+[00:23:18.020] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our premier partners. We work really hard to vet those folks that we believe bring a level of value to the industry, that it can really be leveraged in a way to have a sincere, positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring. We see value in the way that their leadership teams and their partners are developed. And we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out Bloodlightgrp.com Premierpartners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business.
+
+[00:24:09.870] - Chris
+I think back, especially now that we've had so many years in the restoration business, I had an opportunity working for a pretty successful design and build remodeling contractor here in town when I was in high school. And I didn't have the self awareness back then to recognize the opportunity for what it was. I've really tried to convey that to my kids. In fact, my son is thinking about taking a full time framing job with somebody at our church, owns a framing business, just doing spec homes, just growing up spec homes. And I've tried to take the opportunity to convey to him, listen, I wish I had been more serious about this because there's just so much life skill to learn in that construction space. I didn't have the self awareness for it. I had a thought because this is graduation season.
+
+[00:24:54.370] - Brandon
+Yeah.
+
+[00:24:54.740] - Chris
+And I think at least some people here might be listening. Either they have kids that are graduating and they might forward this episode to them. I've actually had this conversation with some other business owners, this idea of somebody coming to work for free, just for the access and experience and something that they've said whenever I've brought this up to other business owners and I get it as an owner, is it's more trouble than it's worth? The idea of having some fresh face high school or young college kid coming in, oh, they're free, but my time ain't free. And them asking a bunch of dumb questions and distracting me and there's that angle to it. It really is a cost to that owner unless you're very particular about how you make the arrangement. And so for those of you that might be graduated high school, you're going to do a gap year before college and you're thinking, god, this sounds like a really smart thing for me to do. Work for little to nothing or in exchange for experience. I think the way that you pitch it is really important to business owners because the very first thing a smart business owner is going to think is, what is this going to require of me?
+
+[00:25:58.560] - Chris
+How much do I have time for this? What is this going to look like? This person running around with a notepad, following me around everywhere. And so I think the key to this being successful is getting a short term commitment. Hey, let's try it for 30 days. I realize this may require something of you and I'm not asking for a permanent job here working for free, chasing you around, but I think it has to be ordinary around how do you get in there and create value as quickly as possible? And I. Think the opportunity for most people with a business owner is essentially, let me figure out a way to be an effective executive assistant for you. I'm going to spend my first week or so. I'm just going to listen. I'm going to try not to even ask you questions. I just want to shadow you. Just bring me in your meetings. I may take notes and email you questions at the end of the day, but I'm just going to listen. I'm going to listen for the things that, wow, this is way below your pay grade. I'll take care of this for you.
+
+[00:26:58.010] - Chris
+Hey, you shouldn't spend time on that. Mr. And Mrs. Business Owner. Let me take that off your plate. I can call that person back. I can go get a quote on that. You don't need to waste your time on that kind of stuff. You talk about quickly endearing yourself to a business owner or executive leader. Just listen for opportunities to take stuff off their plate and then execute and then do it well and try to do it without bothering them or engaging them in that process. Listen for those things that's like, I am 90% sure I can do that without any more involvement from them.
+
+[00:27:32.450] - Brandon
+That's good, man. That's interesting. I think that probably goes to a really solid onboarding mentality, too, in general. Right? But I just think the opportunity here, guys, in general, and again, this is the same as if we own the business all the way down to if we're a frontline technician doing the do in the field is it's just this personal posture. It's this perspective of what am I pursuing in this current situation? And I think this goes to say if you're an owner or a key leader and we're talking about a relationship with our employees, it's the same thing. What are you pursuing in that relationship with our employees? Are you pursuing a utilitarian relationship where they do something and you cut a check?
+
+[00:28:13.620] - Chris
+Okay.
+
+[00:28:14.210] - Brandon
+As long as you are asking yourself that question and you're living that out because it's in alignment with whatever your personal goal is, okay? No judgment, okay? But if you're tired and you're frustrated and you're kind of burnt out on doing the same shit we do day in and day out, there's a strong chance it's because you're not doing the higher level stuff that you could potentially be doing. I e still learning, right? Like, how many of us, because we own the business or we've made some kind of titled position, we're not really learning anymore. We're now just doing our job. We're doing our career. Well, that's not motivating because our systems are designed to learn and be challenged and to build and to pursue and to shift into a new direction and try new things. Like, there is something very healthy for your brain and your soul for you to be doing that. And I think part of the challenge that we have as higher level leaders is we've stopped pursuing that because now we're just doing the job because we've been doing it for so long. And it's funny, that theme, how much it's popped up for us recently, this year especially, there's this interesting vocalization about what I think in many ways, what the pandemic and quote did right in this sense of it was lonely for a while.
+
+[00:29:30.550] - Brandon
+There was this almost eye opening to wow, the things that have been pursuing with all my time and energy aren't quite as fulfilling as I anticipated. There was just some interesting dynamics that happened right, wrong, or different. And for whatever reason, this year it has felt like in general, business owners have been much more open communicating the tiredness, the frustration, the burnout, the burnout, the lack of inspiration that they're experiencing. And when we say that we're talking about lots of business owners and key leaders as we travel around the nation teaching leadership to teams, I think this is part of it. Like, there's no silver bullet, long winded way, but there's these behaviors, there's these questions that we can be asking ourselves. There's these pausing moments that if we dig into it, we can realize we're just kind of zombieing around. And that's why we feel so freaking tired and uninspired. We're out of touch with the pursuit of the journey. We've gotten so wrapped up into the paycheck, the pay scale, the benefits, the things, and we've forgot the other elements of the journey and about life in general that actually are some of the most rewarding.
+
+[00:30:40.500] - Brandon
+I e the development and the pursuit of gaining new skills. There's something that affects my personal confidence when I learn a new skill. There's something that affects my hope about the future, my ability to strategically think about what my options are. Again, business leader or employee, it's the same, right? Like, on a human element, we all benefit internally from this idea of motivation and excitement and hope and integrity and personal perseverance. Like, all these things come as we tell ourselves we can. And one of the most powerful ways that you can do that is by pursuing new skills.
+
+[00:31:21.830] - Chris
+Yeah, and I think this is true. Like you talk about from top to bottom, from owner general manager on down to frontline people, to new grads to all of us, I feel like there's an element of opening up our gaze a little bit beyond just our scope of work that we've been assigned. It's like stepping back regularly. Is there an opportunity for me to add value beyond what I'm currently adding at every single level? And of course, when you kind of open up your field of view, you take the blinders off. It's like we get so focused on doing a good job, doing what we've been asked to do, et cetera. And this can be true of owners and GMs as well. In fact, we talked to a longtime leader in the industry. And one of their tendencies as they've been leading and growing teams is they're really good in the field, craft and struggled to develop leaders beneath them. They're really good at directing and being in the mix, but getting out of the mix and just equipping and developing and team building has been a struggle for them because they have just such a tight habit of being in the mix.
+
+[00:32:37.310] - Chris
+But of course, it limits how big of an organization they've been able to build because they're so hardwired into the actual service delivery. It doesn't scale well. And I think, again, that's a very common example of how we can get so caught up in our role and fulfilling the scope of work that we kind of lose the bigger picture of there's these other ways that I could be a force multiplier in this business like we talk about. But I'm so focused on doing what I've been asked that I'm missing all those opportunities. And in that too, I think it kind of reinvigorates you too. I mean, it's like challenge and hardship are what bring inspiration.
+
+[00:33:14.170] - Brandon
+That's right.
+
+[00:33:14.850] - Chris
+Yeah.
+
+[00:33:15.150] - Brandon
+It's interesting. We've had a lot of past episodes with folks like Jenny from first on site. I'm even thinking about some of the other teams that we've had exposure to at events and stuff when we talk to some of their key leaders about some of the things that they're doing and pursuing inside their business. But I think there is this element of we probably pause on pursuing those new things because we're pretty overwhelmed with the stuff that's in front of us right now. And so it is this balance. Like, I know that inevitably somebody's listening right now and they're thinking to themselves, I'm just trying to get the existing business to run the way I want it, let alone being able to pursue these additional layers or additional behaviors or additional elements of exposure experience. And I just think the reality of it is as much as I can relate to that, because you and I are in the heart of the same thing. We're building a company, we're growing that organization, we're pursuing delivering a high level of service for our clients. We're still parents, we're spouses, we're partners, like all the things. But there's something really powerful for your psyche when you choose to pursue that stuff, even in the midst of really already grinding gears to just get done what needs to be gotten done.
+
+[00:34:24.920] - Brandon
+And I don't know a really cool way to say that I think if we probably had jocko on the show or something, he could probably yell at us in a certain way that would really motivate the living shit out of us. But the reality of it is that's the challenge and we don't need to keep beating a dead horse here. But just, guys, listen. If you're listening to the show today, just do an inventory on yourself. And again, if you're a technician, awesome. If you're the owner, awesome. It doesn't matter. Take an inventory on what has your existence professionally looked like over the last several months to years and ask yourself if you've been pursuing exposure to experience and skill sets for the sake of the experience and the skill set. Because if the answer is no, it probably is having some real negative effects across the board, mentally, physically, and emotionally. It could be part of the reason you're tired. It could be part of the reason you're dragging ass and feel kind of dull because you're just repeating the shit that your system knows how to do in its sleep. And there's something special about feeling challenged.
+
+[00:35:32.400] - Brandon
+There's something special about learning something new that ignites a fire in us that has value, right? And so again, if you're a team member and you're thinking about your current position, don't get wrapped up in the check. Ask yourself if there's an opportunity for you to learn and pursue something new. And if there is, strike out and do it. Do it. Because at the end of the day, if you're not rewarded on the team that you're on and you gain the skill set, you're just bringing that much more to you when you move to the team that will actually value you for the effort.
+
+[00:36:08.410] - Chris
+You know what, dude? That is a really great message too is don't get so caught up with is so and so. This particular owner I'm working for now, if it's going to pay off, if they're going to follow through, if they're going to keep up their end of the bargain. Because here's the reality, right? If you gain the skill, if you're committed to figuring out the business and gaining the skill, there is someone out there, yes, that's going to want to reward you for.
+
+[00:36:33.680] - Brandon
+You're the one that loses if you unquote punish your employer by not pursuing the next level of participation and commitment because you're afraid they won't return it's.
+
+[00:36:45.640] - Chris
+Back to that quiet quitting concept. I'm not going to give any more than I'm receiving.
+
+[00:36:50.840] - Brandon
+Yeah, you're the one that loses. It's not the other person on the other side of the table that loses. You lose more when you stop short of the possibilities because you're punishing somebody for what they're telling you they're willing or not willing to do.
+
+[00:37:04.220] - Chris
+Yeah, you're becoming a shitty leader yourself because you work for a shitty leader. What sense does that make, right?
+
+[00:37:10.390] - Brandon
+So, yeah, it covers the ranks. There's a little bit of judgment in there, but it just comes from a place that I've really mucked that up. I've been in that place where I grew stale because I was pursuing something merely for the check instead of the exposure or not recognizing the opportunities that I had all the time because I wasn't considering the value that the exposure brought versus some other less meaningful reason.
+
+[00:37:35.010] - Chris
+It's good.
+
+[00:37:35.940] - Brandon
+Hey, gang, thanks for hanging out with us. Hopefully, that touches a chord for some of you. And if anything, it's just a good reminder for us to pause for a moment and ask ourselves the question why are we pursuing or not pursuing this thing? And is there value beyond the check that I would get by doing so? All right, gang, thanks for hanging out with us. We'll see you next time. It all right, everybody. He. Thanks for joining us for another episode of head, heart and boots.
+
+[00:38:00.320] - Chris
+And if you're enjoying the show or you love this episode, please hit follow. Formerly known as subscribe, write us a review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

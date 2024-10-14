@@ -1,0 +1,403 @@
+﻿[00:00:04.390] - Brandon
+I played through four different ways that I was going to start that off, and none of them was inspiring enough to actually be executed onto. So I just ended up being in silence for the first 10 seconds.
+
+[00:00:21.300] - Chris
+Are you supposed to say, hey, man, how are you doing?
+
+[00:00:24.740] - Brandon
+I know, exactly. But I wanted to change it up. I wanted to be super creative, and so much for that, I ended up well, Chris, how are you doing?
+
+[00:00:34.470] - Chris
+And here we are, six months in.
+
+[00:00:35.730] - Brandon
+Our introduction, already we've accomplished nothing. Well, welcome to the show, my friend. Thanks for joining me here in my studio. We have a cool guest, right? We kind of a little out of the ordinary of this guy, and from my perspective, I feel like he's just kind of launched onto the scene in terms of our industry, kind of a fresher face. They've been in the home service industry for quite some time, but in our space, it's new. So we're going to have Zach Garrett with Liftify on the show today.
+
+[00:01:02.220] - Chris
+Yeah, we met him through one of our clients, and the clients words were, he is one of the best presenters I've ever seen in my life, literally. And so we were like, I guess we got to meet him.
+
+[00:01:13.020] - Brandon
+Yeah, I guess we got to talk to that guy.
+
+[00:01:14.380]
+Yeah.
+
+[00:01:14.560] - Chris
+No, he is. He's really good. You can tell he's incredibly passionate about the service they provide. He comes from a marketing background. I think you and I were really excited to talk to a marketing buff, like somebody who kind of comes from that domain just because digital marketing is such a black box for a lot of us.
+
+[00:01:34.480] - Brandon
+Seems like it's been a giant wrestling match. So, no, it's a good show. We have a lot of fun. It's not a sales pitch. Fair warning, we do a pretty extensive look at what reviews are doing for us or potentially could be doing for our businesses and what are some really effective and cost effective ways for us to have a significant impact on our presence online and how, obviously that will help us grow our business.
+
+[00:01:55.770] - Chris
+Yes. One of the things stood out to me that I hadn't really, honestly given a ton of thought to you is just how to just all the ways you can leverage the Google My Business profile or not, whatever the newest name is for. But I think aside from reviews, I didn't even think there was anything worthwhile doing with that Google My Business profile. And so we get into that a little bit, too.
+
+[00:02:14.290] - Brandon
+Yeah. Way more value there than I thought. All right, buckle up. Hang on. Let's get into it.
+
+[00:02:18.560] - Chris
+All right. Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:02:29.710] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:02:36.990] - Chris
+What do you think?
+
+[00:02:38.110] - Brandon
+That's kind of serious.
+
+[00:02:40.050] - Chris
+Should we laugh?
+
+[00:02:44.650] - Brandon
+Zach welcome to the show, my friend. Thank you for taking time out of your ridiculous schedule to join us. How are things?
+
+[00:02:52.310] - Zach
+Good. Thanks for having me. Glad to be here with you guys.
+
+[00:02:54.710] - Brandon
+You've been on the travel bus a bit recently. I know you did some regional conferences with folks in our industry. I know that you obviously you're serving multiple industries, so that's probably driving the schedule, too, but how much travel time you've been putting in, man?
+
+[00:03:09.410] - Zach
+Yeah, it's been five weeks in a row. I've been flying everywhere. And if you know anything about how messed up flying is right now, it's a fun journey. So spend a lot of time in airports trying to reschedule flights over the last few weeks, but I think I've got a little break here, and I've got a young family, so it's good to spend some time at home and.
+
+[00:03:27.360] - Chris
+Tell us about your family.
+
+[00:03:28.580] - Zach
+Yeah, so I live in Indianapolis, and we've got two kids right now, one on the way, four year old boy and one and a half year old girl, and expecting our third in September. So it's a crazy time for us, but the summers are good. We love to go outside and spend time on walks and getting outside, so you cannot do that in the winter in Indiana. So it's good to be doing the evening walks. That's where you'll find me for a couple of hours each night just on the walk with the kids.
+
+[00:03:56.100] - Brandon
+Good for you. Oh, my gosh, man. You're going to have three kids and essentially a start up all at the same time.
+
+[00:04:01.660] - Chris
+You're running the gauntlet.
+
+[00:04:03.140] - Brandon
+Yes. But is it Gaffigan? He talks about having four kids. It's like having three kids and you're drowning and somebody hands you a baby. It's like you're so eyeballs deep right now, man. Good for you.
+
+[00:04:19.940] - Chris
+Well, I think so. Brandon and I were really looking forward to this chat, and we really enjoyed the conversations with you and your team, but yeah, this whole space of digital marketing, of which you're kind of in that same space, is such a black box to a lot of us as business leaders. I think Brandon and I were really looking forward to this conversation because I think you can help us get some clarity, because I think a lot of people listening in the industry, like, when Brandon and I were operating day to day in the restoration business, digital marketing was one of those things we probably felt the least confident about. Even in hindsight, even now, it's like it's still a bit of a black box for us. We've gone through all the gyrations of, like, setting up a Yelp profile and then getting your first negative review on Yelp and oh, my gosh, or getting your first five positive reviews and Yelp hiding every single one of them with virtually no explanation, followed by a sales pitch for advertising. Right. So I think we've had a lot of frustrating experiences too. In fact, at one point, we hired an outside digital marketing agency to work with us.
+
+[00:05:20.960] - Chris
+And we're surprised at how confusing and how that really didn't answer any of our questions. We were just spending more money and, quote unquote, doing more things. But we didn't necessarily see the results of that, as opposed to we had access to some dashboard, and we've heard this time and time again from our Restorer clients as well. So I think one of the things I've noticed is, like, frankly, with restoration and other industry verticals, the barrier to entry, for somebody to call themselves a digital marketer or to have a digital marketer service is so low, you can watch some YouTube videos, and now all of a sudden, somebody knows how to do Google PPC. So there's just a real gamut of service providers out there. And right now, one of the other things that kind of trigger our outreach to you, aside from some of your clients telling us about you, is there is so much advertising to restoration right now on LinkedIn and Facebook for digital marketing review platforms, google PPC experts, all the things. And I think the noise, it's really hard to know what's a good one, you know what I mean?
+
+[00:06:20.850] - Brandon
+Or what parts should I care about.
+
+[00:06:22.450] - Chris
+What parts should I care about? How do I know what to trust? Is there a filter for me to use when I'm looking at people's offerings? And so you coming from a marketing background. Anyway, we're hoping you can maybe shed some light on that. And certainly we want to talk about the power of Google reviews because I know that's a big area of focus for you. But what's your take on this? Also? Have you gone through a stage of feeling that kind of confusion and frustration with digital marketing as well? How does that land with you?
+
+[00:06:47.530] - Zach
+Yeah, I think it's incredibly challenging, and I think it's a business owner, especially if you're not in the tech space, it's always changing, which is like the hardest part, right, because it always tweaks a little bit. And so when I think about it, I try to look at it in a couple of ways, almost like a flow. And I think long term, like, for my business or for your business or any restoration business, what you really want to build long term is organic kind of lead funnels or long term valuable assets. You want to minimize how much you have to pay. I've learned in the restoration space, it's not cheap to do paid ads, and you can pay a lot in cost per click. And so just strategically, as an owner, you're looking at how do I build pipeline organically, that's higher margin that I don't have to pay for? And then secondly, how do I build pipelines, whether it's relationships with people or things digitally that provide long term value that are going to stay there that aren't going to be turned off. You know, paid ads are a classic example of it's good while it works, but as soon as you shut it off, all the value is gone, right?
+
+[00:07:50.030] - Zach
+It's a tool. It's not an asset that you have. When I'm thinking about my business or for our customers, whether they're in restoration or others, we really think about how do you build organic pipelines of leads and volume and revenue and how do you make it long term. And I guess I would also just stay away from Yelp. That's a good point about Yelp, since you brought it up, but kind of on the where question. So we look at it like this, okay, I want to build organic. I want to build for the long term. So where's the best place to do that? Well, the data shows that 95% of all traffic online, I think especially true probably in your industry, goes through Google. So if you're looking at the whole landscape of digital marketing, or you mentioned reviews, there's like hundreds of places you could get reviews for your business and listings, and businesses are overwhelmed sometimes. And like, what do I focus on, what do I not focus on? It's confusing, and we try to just simplify it to say, look, if you can win one game, 95% of it all goes through Google.
+
+[00:08:48.810] - Zach
+So win at Google. And so then the question becomes, well, how do I win on Google? There's a lot of information on that, right? A lot of companies claim they can help you with that. And then I think how I would recommend looking at is just really to think about, what does Google actually care about? Like, Google cares about providing their customers with the best experience they want to provide, the end consumer that's looking for a restoration company with the company that they can trust, because that adds value to Google's platform that gets people to use Google, right? And so we'll spend more time talking about this and Google Business Pages reviews certainly aren't the only thing. But I think for a local business, you've got to understand that Google versus you could do blogs, or you could write a million pages on your website, do black hat things that SEO companies might recommend. You can pay them to do different things. But Google for local businesses has spent tens of millions of dollars on this solution called Google My Business. Or now they call it Google Business page. They like to change it like every three months, what they call it.
+
+[00:09:53.530] - Zach
+But they've spent a lot of money creating this ecosystem for how to evaluate local companies. And I think people don't understand either. My view on Google's long term goal is that people will just be able to find all the information they need on those pages and never even need to go to your website. You'll see that with how you can put pictures and videos. They can call you, you can do reviews. Those pages are like your Google website. So a big part of it, if Google has all the traffic, then make sure that you look really good on Google and you're building up that listing organically and that can turn into your greatest asset. There's great partners that we have in different spaces that do other really advanced SEO stuff and different things. But I think people just sometimes get caught in the minutiae and they don't do anything because they don't know what to do. And just think about, hey, I need to build for the long term, I need to build organic funnels. Google is the place to do it. So how do I do that? We find that your Google property, your Google website, essentially your business page, is probably the highest ROI activity you can do to build that.
+
+[00:10:58.110] - Brandon
+I think the interesting thing about that too is.
+
+[00:11:01.430] - Zach
+Okay.
+
+[00:11:01.980] - Brandon
+In the whole spectrum of digital and online presence. I think what you're asking people to focus on first is actually probably some of the simplest.
+
+[00:11:10.980] - Zach
+Obviously.
+
+[00:11:11.500] - Brandon
+Besides the tool set that you guys offer. And we'll certainly get into that more as we chat is I think it is the area or the space of our online presence that's probably the easiest for us to get in. Get engaged with. And start to do something proactively with. Which I think is interesting because I think a lot of people that are quote and unquote specialists or power users or whatever, I think there is kind of an intimidation factor. Like you're going to hear things that are so clearly overwhelming that you're going to need someone to do it for you in order for you to be successful. And I think so one of the things that you're dialing in on is when we talk about our Google business, there's aspects of that that we can control right now. And it's simple stuff, it's just updating that profile component. But then like, obviously the reason we've had you on the show, it's this driving this organic Google review process, right? And getting honest clients to leave Raving reviews of how you're doing. Can we get into that a little bit with you in terms of I think people are very easily aware that we need to get reviews.
+
+[00:12:14.730] - Brandon
+OK, great, but what is that doing? Like every time I add a solid Google review to my profile, what is that doing for me organically in retrospect to or in relationship to this online digital presence that you're talking about?
+
+[00:12:28.660] - Zach
+Yeah, I think it has a couple of things hit on your point brand and I think I can't tell you how many businesses we started working with where they have a super complex paid ad budgets or paying agencies. They're doing all kinds of crazy things, but when you search them on Google, they don't even have a picture and their phone number is not even right, that's like the basics and it's free and control that and then get more advanced as you go. Start with the things that are easiest that you can control. And so within that Google page and the power of reviews and that's obviously what we focus on is why do reviews actually matter? I think the core of it is because what we believe is that currently in going forward as younger generations especially take over more buying share and buying power, people's behavior, whether it's on Amazon or Google or whatever, they're looking for that validation from peers more than they are. You telling people you're great. So people want to know that other people have had a good experience if they're going to trust you. I guess especially in the restoration space, people want their job done right and they want the quality company that's going to be able to do it.
+
+[00:13:36.930] - Zach
+And so when you start focusing on and getting customers to leave that feedback, the first thing it does is it allows you to be found more by customers. Google will literally reward you by showing your company higher in the rankings because you are perceived as a trusted partner. Think about it like from a marketing perspective, blog post would have been ten years ago, where people grow up blogs all the time. When you get a review you're telling Google, hey, somebody is voting for me, they're acknowledging me. And with restoration, specifically when someone leaves you a review, they can actually select the categories water restoration, fire damage, whatever that you service them on. And those are literal keywords that Google is looking at. A lot of our restoration companies, we're noticing that people are tagging like four or five keywords. That's like the best search engine optimization you can have because people aren't just voting for you, they're voting for you and those keywords. So when you get ten votes in a month for water restoration and then somebody in that community is searching for water restoration, you better believe Google is going to be biased towards you.
+
+[00:14:43.600] - Zach
+It's just showing your business. And so the first thing it does when you get reviews and you start to build this is it helps you get found more by consumers that are looking for your product or service. And all of that is free, right? You're not paying for that. I think next what it does is it actually helps you be chosen more for the job. And so we see with our customers and you do it in your personal life, right? When you're looking at products or services, when you look at the reviews and you sort of newest to oldest, if people have a lot of great reviews, you're more likely to call, you're more likely to be biased to use them when you call, you're less price sensitive sometimes and you're quicker to close that sale. And so your ability to not just get someone to call, but actually choose and work with, you not only goes up, but it goes faster when you will get reviews.
+
+[00:15:29.390] - Chris
+One of the things that we see with most companies is everybody sort of knows that Google reviews are important, but it's more rare for companies to have a really consistent process. They tend to go in spurts. They get really excited about it, or they get a bad review and it's like, oh my gosh, we have to now offset that with 20 good reviews, and it gets them motivated. And so it's the start and stop kind of motion that we do with reviews. How important is because I remember a previous conversation you use the term recency. That recency is one of the things that Google places a value on, but probably more so psychologically. Customers, like you said, they're going to click newest, and if they haven't seen a review since last August, that means something to the average consumer. But can you just talk about that, the importance of the most recent review?
+
+[00:16:14.970] - Zach
+Yeah, two elements to that. From a pure technical search perspective, I mean, a lot of leading SEO type thought leaders believe it's the most important factor. Obviously, Google can change over time, right? But Google cares about recency, see? So if you have 100 reviews or 1000 reviews, but you don't have any in the last year, you're going to plummet in the search results. Like, Google wants that fresh, organic content on their site again. It's their page, right. They want you to continually add content and add value. So from a technical perspective, it's crucial. It's the most important. It's more important than the number or even being a five versus 4.9%. That doesn't matter. Recently matters a lot when you're there. And then so on the technical side, it's super important. But also on the consumer side, behavioral studies, if you look at it, like in your example, if you were running a restoration company and you didn't have a review since August, as a consumer, my mind thinks, I don't know if this company's even in business next, and I'm just looking at the next one. And that's not a valid assessment, right? But I don't really care.
+
+[00:17:16.120] - Zach
+I'm just looking for a provider. I don't care about your company. I'm just looking for the one. And so with the volume that any size restoration company is going to do, they should have reviews every week for their business flowing in. And then you're telling people, hey, we're around, we're still alive, and we do a really good job.
+
+[00:17:33.780] - Brandon
+That's interesting you use the term Google's looking for you to be adding content and adding value. This is really interesting shift, I think, a little bit here that I want to draw attention to. So Chris and I talk about this kind of stuff on the sales side, too, in terms of reengineering our perspective to stop showing up, to tell people about what you do and how you do it and start showing up more with this inquisitive nature of what is your need, what is the pain? What is this position that you're in? And is there something then that I could do to create value for you? Anyway, here's my point. I don't think there's very many businesses that are thinking about their presence online, especially their relationship to Google, and thinking, okay, what does Google want? Right? I know. SEO Nerds, right? They're laughing because, of course, that's their goal is to understand what Google wants. But as a business owner, as somebody that's just kind of overwhelmed by digital need, my digital willingness, or competency to sell online, that's an interesting perspective. So can you kind of clarify that concept with us and what that means for me as a business owner?
+
+[00:18:37.790] - Brandon
+I own a $5 million restoration company. What does it mean to add value and add content for Google?
+
+[00:18:46.300] - Zach
+Yeah, great question. So at the end of the day, what Google wants and what you want if you've run a good business, should be the same. What Google wants is every time someone needs a company to help them with fire damage or water restoration, that they come to Google versus any other platform, google wants them to come there and search, find a company, and call them. That's how they solve their problem, is they start with Google, like we do with most things, right? Yeah. Google's very good at winning this. That's what they want. And they want not only for you to find a company to call, they want you to find the company that you called on Google to do a good job, to provide value to solve your problem, and so much so that at the end of it, they would go back and leave a review for that company, which helps tell future customers that this is the right company. What Google wants is to surface the best companies that are going to solve their business's problem. Now, if you run a good company that should align with what you want, you want people in the restoration or any other kind of home service space.
+
+[00:19:45.180] - Zach
+There are unfortunately, a lot of companies that don't provide the quality or not real companies or whatever, right? So you want people to find good companies, yours that will do a good job, that will take care of them, and you want them to see you at the top. And so it should align if you do a good business. I always joke with people that if you don't run a good business and you're not good with your customers, like, one, we're not a good fit ethically, but two, it's not going to go well because people are going to learn how you really are online. But if you are a good company, which by and large, most companies we run into, they're good business owners. They care about their customers, they do a good job, then you should align perfectly with what Google wants to provide their customers with a great experience. And at the end of the day, like digital marketing or SEO can really be boiled down to that. Like, Google wants their consumer to have a great experience with the companies they interact with. How do you do that?
+
+[00:20:38.770] - Brandon
+That's interesting. Okay, so along those same lines, and I'm assuming a lot of this has to do with our reviews, but what is the content? So when people hear you say you need to provide content and value to Google, you're saying this consistent activity of reviews is the content. Like, that's enough. We're not creating whole new spectrums or responsibilities of crap to get online. You're saying that the review process is the content that works for that.
+
+[00:21:08.770] - Chris
+Well, I'm going to piggyback that question because I just Googled like the I Googled the Google My Business page and this article. I didn't realize that apparently businesses can post to their Google My Business page almost like they would post to their Facebook feed. And apparently you can post video as well on your Google My Business page. Are those things you recommend? And what kinds of things do you see people posting? That is the keyword optimization port. Like what you title that video or talk as though about the actual profile and all the things you do with it.
+
+[00:21:38.670] - Zach
+Yeah, so some of this is conjecture, in my opinion on it, but I think some of the content or newer features that Google has rolled out, and my personal belief is that Google is trying to make it your Google website, right? Where you can spend more time on Google. You don't even have to go to people's website. You can get everything that you need about them in staying on Google, which is obviously what Google wants you to spend more time on their platform. And so to kind of answer both the questions, I think, Chris, the things you mentioned on having your description item, what services you provide, having the back end set up on where you service, adding pictures and videos, at least up front, like having a good face of it. It's just like a storefront. If you had a storefront, you need to do the landscaping outside. You need to paint the building. You need to look like a store or restaurant or something that people want to walk into. That's the kind of one time work. It's not hard, right? Like, you have pictures of your jobs and different things that you can get set up and then ongoing posts are fairly new.
+
+[00:22:36.810] - Zach
+I don't think a lot of people go to the post versus like a social platform. I think Google is trying to figure that out. But it's a good thing as you finish jobs to add pictures to your Google My Business page. It's easy to do from your phone. If you have that app, you can snap some pictures upload them. That's always a good thing to do. When I talk about content branded to your question, certainly pictures and videos are great. It's just additional content and then reviews of the other pieces that you have. And that's where the interactive part where it's not just you posting about yourself, but why Google weights it so heavily is because it's other people choosing to write about you. It's other Google users saying, hey, I recommend this company with just like when a friend refers you to somebody versus the business owner telling you how great they are, just matters more. So Google weighs that. That's the content piece. It's just, hey, get your storefront up and then drive. Reviews have people continually voting for you, commenting on the services that you have, and then from time to time, posting pictures and videos.
+
+[00:23:36.830] - Brandon
+One of the things that you and I talked about handful of weeks ago, we were just talking about how important it was to reply to these Google reviews that we're getting. What role does that play, and is that influencing at all this relationship with Google specifically?
+
+[00:23:51.630] - Zach
+Yeah, we always recommend people respond to reviews. There's SEO benefits to it, the data has shown, and I think it's also good for potential consumers. Right. When you review and thank somebody for it, I think it's when a potential customer sees that it's just an indication that you care about your business. And you obviously, if you ever have a negative interaction, I think that's an opportunity to turn a positive and say, I was recommended, people put your cell phone, say, I'm the owner, here's my cell phone. Call me, we'll figure it out. People love that, like me as a potential buyer, and like, okay, if something happens, which it does, even in good businesses, this business actually cares. So we always recommend responding. And I always give the advice, you don't have to write a professional document or a manuscript every time you respond. Just give the level of effort that the customer gave you. If they said thanks, just say thank you, enjoy working with you. If they post twelve pictures and write you four paragraphs to mention your team, spend a few minutes and get with your team, figure out some details about the job, and write a personal response, but just don't overthink it.
+
+[00:24:53.520] - Zach
+But I think it's just that level of effort that says, hey, I care enough about my business to care what customers think.
+
+[00:24:59.970] - Brandon
+Yeah, you're almost matching the energy of the room, right. It's a similar concept that we hear in, like, sales and contract negotiation.
+
+[00:25:09.050] - Chris
+All right, let's take a minute to recognize and thank our MIT Resto Mastery sponsor, Accelerate Restoration Software. And I'm fully aware, by the way, that when I say those last two words, restoration software, that that instantly creates heartburn for some of you out there.
+
+[00:25:26.020] - Brandon
+Right.
+
+[00:25:26.250] - Chris
+Because we probably all fall into one of two camps when it comes to. Software. We've either cobbled together kind of a version of free website tools and spreadsheets just to make our business work, or we're in the camp where we've adopted one of these existing restoration platforms, one that has all the bells and whistles and supposedly does it all, but we can't get our team to consistently adopt it and input information to it.
+
+[00:25:53.900] - Brandon
+Yeah, and that's really where Accelerate has honed their focus. They've created a system that's simple, right? It's intuitive, and it focuses on the most mission critical information, ie. Guys, your team will actually use it.
+
+[00:26:08.860] - Chris
+Let's talk about sales. Right? After years of leading sales and marketing teams, the biggest trick is getting them to consistently update notes about their interactions with referral partners and clients. And the essential piece there is, there's got to be a mobile app experience. And in our experience, the solutions that were previously out there were just too cumbersome and tricky to use.
+
+[00:26:32.310] - Brandon
+Yeah. Imagine, guys, how your business would change if your entire team was actually consistently using the system. Do yourself a favor. Go check these guys
+[email protected]
+MRM, and check out the special offers they're providing to MRM listeners.
+
+[00:26:52.130] - Chris
+All right, let's talk about Actionable Insights owners. GMs, you can't be your business expert on all things estimating you might have been three years ago when you're writing sheets in the field, but the industry is always changing, and so are the tools. If you're the smartest person in the room when it comes to exactimate matterport, how does that scale you're the bottleneck? I know I'm preaching to the choir, but this is where actual Insights comes in. They're a technical partner that can equip your team with the latest bleeding edge information and best practices and then update them with webinars and training resources when the game inevitably changes again. For this reason, we recommend actual insights to all of our clients.
+
+[00:27:32.360] - Brandon
+Yeah, three of the kind of big things that stuck out to me when being introduced to AI and their team. First off is this consistently updated training. I mean, at the end of the day, these guys are the experts. They're out front all the time. They're constantly learning new trade secrets and ensuring that your team's got access to those things. A 3700 plus page database of exact amount templates. I don't know what else to say here other than, don't reinvent the wheel. It's already available. Download it, copy it, use it. Bam database of commonly missed items. I think this is huge. So many of us can change the numbers by just moving the needle a couple of points, and those commonly missed items can make all the difference in the world. So go check them out at value. Gitinsights.org.
+
+[00:28:26.490] - Chris
+Let'S dive into kind of the domain that you guys occupy, and Brandon and I have had some experience working with review company or review platforms, and frankly, we saw limited results from it, like the conversion rate. So we worked with I think we can say these right. Yeah. So we worked with Bird Eye.
+
+[00:28:43.960] - Brandon
+Technically, whatever we want.
+
+[00:28:45.800] - Chris
+It's our podcast, right?
+
+[00:28:46.740]
+Yeah.
+
+[00:28:46.940] - Chris
+So we did Bird Eye for a while. We also had quality. Yeah, guild quality, which is kind of a niche construction. I don't even know if they post the reviews publicly, we would get these client questionnaires back, evaluating us. And that was helpful, it was good internally, but I don't think it did anything for us in terms of creating new customers or enhancing our search ability. But where did you see the what was the pain point in the industry that your company is called Liftify? What is the pain point that Lift Defy is solving for? Because you aren't the first review platform and I imagine you are going to be the last, is such a huge area. But where did you see the need and what have you guys solved for in this space?
+
+[00:29:24.940] - Zach
+Yeah, absolutely. Well, the foundation of our company was really me as a consumer, just trying to find home service companies in a new house that we bought and nobody had recent reviews. And it was frankly just like, this matters to me. This is how I'm trying to find companies. Everybody I know searches this way. I don't understand why companies aren't good at it. The idea to email or text somebody is not new technology. Right. I worked in a big tech company in 2010 that it was a major email provider. That is not new and that is not the problem. And so when we started engaging business owners just in my own network where we're based in Indianapolis and started asking do reviews matter to you? Yes. What do you do to get them? And a lot of them had tried software apps where they're manually having their team do it. And as we really studied it and worked hand in hand with small business owners trying to figure it out, what we found is a couple of things. The first point is that software alone and not just related to reviews with any part of your business and I saw this even in big enterprise world, software does not solve problems.
+
+[00:30:28.730] - Zach
+Software is a tool that can be utilized really well, but is often not utilized super well. And so in the S Amp B space, one of the things we first saw, what we deeply believe is that small businesses do not need more software. What they need is results in a solution. And so we said, what if we could provide the same grade of technology as far as the functionality, the ability to do it, maybe even better. I think a couple of other things we've kind of been cutting edge on, but that doesn't really matter. The business owner, they don't really care about the technical side of it. Right, but what if we had that and we could execute it all for the customer without them having to do anything. And what if we could, as we grow, take all of the data from all of the companies that we work with and continually optimize the campaigns that we're running? What you're saying to your customers when you're asking all of the levers from a basic marketing perspective of how you would get somebody to respond to you, what if we could just do that for you and it all would be data back and would increasingly get better over time?
+
+[00:31:32.160] - Zach
+Would that add value to people? And that's really our differentiator is we're not a software company. We're a solution company. If you want to build a great reputation, we're going to help you do that and do it better and faster than anybody else in your industry because we are using data, and we are a company 100% dedicated your partner to help you win in this space. And that's just a fundamental different value proposition than just, hey, I'm going to buy a software where you have to set it up, you have to run it. If you want to test different things, you've got to do it. If it breaks, you've got to fix it. And a lot of times that's where you see brandon, I think you mentioned that big spike and dip. It's really important we get it going, and then the connection breaks or my team stops doing it or whatever, and then it falls off, and then it's that ebb and flow that's just spiking. And so instead, companies that are working with us while we're really bullish on kind of our market potential is we think we found this real high value prop to say, I get reviews matter, I get my reputation matters.
+
+[00:32:30.540] - Zach
+I don't know how to do it best, and I don't really want my team spending time figuring it out. I can't afford a full time person to figure this out, so I want to hire you, and you guys just do it for me. And I can trust that it's getting done right. Yeah.
+
+[00:32:41.720] - Brandon
+I think the challenge that we see and we've experienced it in lots of different ways, I'm sure in your own company, you guys experience this, is we just have so much bandwidth to attack all the issues, the problems, the strategies driving what we need to drive in our businesses. And it's like, when the workflow this is probably where we see it the most, when the workflow picks up, because we have been diligent in our Google Review strategy or whatever. Right. Our sales channels are firing finally on all cylinders, whatever the case may be, is that focus, that hunger for the next job, to earn the next referral, to earn the next relationship, means because we're fat on the meat on the table right now. Right. And I think the struggle that we see is a lot of that is just driven by, oh, now I'm freed up a little bit because there's a bit of a quietness in our lead generation. So then it's all about Google reviews, it's all about sales, it's all about these different channels that we need to find consistency in. And I think that one of the benefits, I think of what you are talking about.
+
+[00:33:42.600] - Brandon
+What you guys do at Liftoff is this idea of can we create consistency regardless of what our internal activity looks like and is it done in such a way that it's cost effective enough to warrant the value? Right, the spend. And that's just something that we talk a lot about with clients and groups and stuff like that. It's just consistency compounds. Right. It's that beautiful idea that I wish I made that up, I'd probably be a billionaire. But there is just this battle rhythm that when you get in it and you do the same thing that's working and you do it consistently day in and day out, that compounding factor impacts your business because you guys are newer to art industry, however, you're not newer to the service industry as a whole. What kinds of examples have you seen with this idea of consistency compounds and really seeing the benefit of that same activity day in, day out?
+
+[00:34:32.700] - Zach
+Yeah, well, the classic example was last year in 2021. We work with a lot of home service companies, a lot of different industries, and it was a gangbuster uniform. People couldn't hire enough people. We had a lot of people say, hey, I'd love to get started, but I have too much work right now, so I'll do reviews later. Right. And my challenge to that, when I talk to an owner, I had this conversation a few months ago, I said, so when things slow down, so you hit it hard, economic times, whatever, things are slow or slower time of the year and you really need those reviews. Wouldn't you wish you did it when you're really busy, when that was the best time to get them? Because that would actually help. Now if you don't have any customers, you don't have as many, it's a lot harder to go back and get those people to leave your reviews. And so don't make yourself regret in the future because you're busy now, bringing a partner or self sustaining yourself, whatever it is for you. Your best time and reviews is probably not the only thing in a business that this applies to.
+
+[00:35:28.990] - Zach
+But when times are good, that's really the time to milk it and maximize it and make the most of it. When you let it go until later, what you've done is you have limited the value that you can extract from that because you didn't have your processes ready and you didn't extract all of the value you could. It's your maximum time and you're always trying to play catch up. So what we find is the businesses that really just say, hey, I'm going to commit to this, whatever that process is, whatever it is, reviews or any other part of their businesses, there's always a theme. Business owners, I talk to you, like when they believe in something, they put the process in and they let it run, and they do it the same in the good times and bad. And I think even as a younger company, younger entrepreneur myself, it's been interesting to watch that and see if that's just the truth. With good businesses, I think, do that well.
+
+[00:36:18.680] - Brandon
+It's a pillar. Yeah.
+
+[00:36:20.040] - Chris
+Brandon I need to develop, like we raised our hand if we have something to say, because it's like we're tripping over each other trying to say something. The consistency thing, I think probably a lot of people listening rather than the restoration space would say, yeah, we always ask for review. Like it's part of Brandonized system. Like we have a mitigation process outline and a restoration process outline, and it's built into that. And part of what we help teams do is identify who's going to own that role, when are they going to ask, and where is that going to fall in the process, and so forth. But here's the reality, right? The reality is it's a human interaction, right? So when we go to collect that certificate of satisfaction or to collect that final payment from the homeowner or the business manager or whatever, we don't know exactly how that interchange is going to go, even if they're a very happy customer, right? All of a sudden the conversation takes a turn to question about this or that or, hey, I want to show you this, and it turns into another punch list walk, and it's not quite the right time to, oh, hey, by the way, we'd really love it if you give us a review.
+
+[00:37:15.300] - Chris
+And so in the moment that person makes the judgment, this isn't the right time for me to ask for a review, and then oftentimes we forget to come back. We've gone through the cos, we did the punch list walk, we did all the things, and that job is closed. And we've moved on to the next twelve that are in the mitlog that we're processing. And so I think as much as we coach people, and I think as much as people want to be consistent, like life gets in the way, like the business sometimes gets in the way and it doesn't feel appropriate. And part of that is personality driven. Somebody feels a little timid, like they don't see a natural opening to ask for the review, and so they're just like, I didn't have a chance to bring it up. So I think in some ways it's pretty impossible to ask for a review physically, organically on every single job we do just because of the nature of.
+
+[00:38:00.700] - Brandon
+The work, dude, and just the intimidation factor, like the cats out of the bag. Like we use Lift a fire, right? And there's this reality. It was so funny like in this transition, we're leading up to that point, I kept talking to Chris about, man, we've got to get we need to reach out to our clients current and past, and we need to ask we need to bite the bullet. We need to ask for some reviews and we need to drive it to Google because our clients have sent us emails, they've sent us text messages. Right. We're so thankful for that. But it's not on Google, so it's still just me saying it. And there is intimidation factor, period, about asking somebody to tell you if you're great. Right. And so I think one of the benefits that we've experienced kind of plugging you here is I just don't even have to fuss with it. I almost used the head, heart and bootsword, Zack, but I'm not going to on this one. I don't want to fuss with it. It's almost like I don't even want to go through that intimidation thought process in my mind because there's a strong chance I'm going to cave in and I'm not going to ask where.
+
+[00:39:00.360] - Brandon
+Again, the consistency, if I can just offset that by having somebody else do it, that's not caught up in this weird head game, and I know they're going to ask every time the percentage of it goes up. Right. And that's kind of a role that your team is playing, right?
+
+[00:39:14.210] - Zach
+Yeah. What we find, some people are trying to use software, but a lot of people just kind of brute force. Like, I tell my team to do it, I don't understand why we don't get them. They say they do it. Probably most times it doesn't actually happen. But on that, there's a couple of things I think business owners especially need to understand. None of your team is going to care as much about getting a review as you do because it's not their company at the end of the day. And so getting people to consistently care is really hard. And a lot of times in the service industry, specifically, sometimes the people, the technicians in the field doing the work, maybe that right person to leave. Their view isn't even there when they do the walk through. Maybe they're just personality. The delivery is not great on doing it or what. We think the biggest problem is we started with some of the companies we work with. What do you do now? We ask for review. Like, what do you do? Well, we just tell the person, will you go to Google and leave us a review?
+
+[00:40:05.110] - Zach
+Or we show them a QR code that just takes them to our website. It's not easy for the customer at all. And if you make people do anything more than just one click, they're not going to do it. And so relying on your teams in the field to do it, we have just not seen success with people doing it. Now, I will say companies that do this best. If you can coach your team to say, hey, when you're in the field, just mention to the customer, we're going to send you a request Republic review. It matters to me personally a lot that you would do it in our company. Like, would you do it and help us? And if you can get that verbal, yes. That's all you got to get to say, yeah, I'll do it. I'll help you out. Your percentage of getting that goes up because when they get that request from you as the owner, they're going to remember, oh, I had a technician, he mentioned that maybe he gets an accolade or a pat on the back or his boss knows he's doing a good job. So I'm going to go ahead and just write one for him and do that.
+
+[00:41:00.920] - Zach
+And I think that is where people should spend their energy. Take 2 seconds. Hey, it really matters. We're going to send it to you. Tech doesn't have to worry about it. It just comes automatically and the process makes it easy for the customer. That's where you can really maximize it. And if your team is not actually making me ask, you still get to do it and you're not. Totally.
+
+[00:41:20.430] - Brandon
+It kind of reminds me, and I'm sure you're probably coaching some of this to these clients as you're onboarding people, is it's a good reminder for us to start the job with the end in mind? Right. Like a big part of what we're trying to teach people in terms of service delivery and service chain is at the end of the day, every day, we are working towards this final outcome, and that final outcome, if everything goes the way that we want it to, is a really happy client. I think what you've just prevented is a good reminder for us is as we're going through the process, if we do two things, we start the job by telling the client, hey, I want you to know I'm working towards a five star review. Like my job when I'm partnered with you over the next handful of weeks or whatever the timetable is, is at the end of this, you're going to receive a Google review request or review request by our company. My job is to make sure that it's easy for you to jump on and give me five stars. I've set the stage now I'm working towards the end in mind.
+
+[00:42:14.150] - Brandon
+And then again, like you said at the end, like, setting the tone of this is coming. It's important to me. I hope I've earned this. That was my goal. And you're saying your team is gathering data that says that does work. It's exponentially increasing the success rate of teams that you're working with.
+
+[00:42:29.560] - Zach
+Yes, absolutely. Brandon, I think you're helping us ride our onboarding there. I've got a couple of ideas from that dialogue there, but plan to get a hat then.
+
+[00:42:38.790] - Brandon
+Plan to get a hat then swag. Yeah, I want some swag, dude. Swag me. Okay, sorry. Go ahead.
+
+[00:42:46.510] - Zach
+We always talk we know who talks in big groups and stuff. We talk about culture and how as a business owner, really what you want to create is a culture of excellence where people create five star experiences. One way you can leverage that is just to celebrate. It doesn't even have to be financially. I think people actually respond more towards personal recognition of just saying, hey, every week in our team meeting, we're going to go through all of our reviews, and when people's names are called out or maybe you tagged the job and say, hey, I know Brandon worked with this customer, look at what they had to say. And you review that with your team, it starts to change your team and how they treat customers, because now it's not just about getting through the job or the day. It kind of becomes a game, right. Like, well, I want to do such a good job that they write a review and they even mentioned my name. They remember my name because we did such a good job and maybe I'm going to do something a little extra beyond the job. Maybe they're going to clean up this thing or be extra careful with what I'm doing.
+
+[00:43:38.640] - Zach
+So maybe they'll reach out to that. And those are intangible things that is an owner. Like, you just can't train and force. They have to want to do it, whoever's in the field doing the job. And so we always try to push people to think about the culture you're creating. And when you turn this on, it should be like, gamify, make it fun with your team, but the outcome for you is going to be you're providing a better service, you're doing a better job, and your brand and business is going to grow.
+
+[00:44:04.580] - Brandon
+Dude. I love that person.
+
+[00:44:06.100] - Chris
+I just had this image. We had this training room at one of the companies that Brandon and I grew where we'd have our all company meetings, and it was like it was a special place, right. When you get everybody in the room together and what you're describing. I can literally just visualize it in my head of reading that review or throwing it up on the screen during the all company meeting and reading it in front of them and then everybody cheering for that team member that was mentioned in it. And that becoming a normal event that people cheering for them on their team. I mean, oh, my gosh. Right. I think the other thing, too, is there's so much opportunity, and this is a little bit off topic, but I think in the same area of how do we change the culture of our businesses, that's one way of recognizing it routinely, consistently to where people go. They show up to an all company meeting knowing somebody's probably going to be cheered for and hoping maybe it's them that they were met, right? Or they check Google, like the team is checking Google to see if their client that kind of thing.
+
+[00:45:00.230] - Chris
+But I think the other thing that we're able to coach you are all of those soft skills that help people get mentioned in Google review that we can coach, too. Because in that same moment where people are riding high on the energy of celebrating another team member or they just got celebrated, it's a perfect opportunity for us to teach some of the soft skills to interview that team member. Hey, how did you get them to mention that? Or what did you do for them? Or how do you think to do that thing that they mentioned, the review? I think another just little best practice I'll just offer for those that are listening to this, is it's possible some of you out there offer incredible differentiated service experience? You heard how people experience other competitors in this industry, and you really do, actually, some special things for your customers. But one of the things Brenda and I discovered is if the customer never knew you did that special thing, it doesn't impact the customer experience. And this happens a lot in really great companies. They're doing little things. They're doing little things that weren't part of the scope.
+
+[00:45:57.220] - Chris
+They're doing little niceties and stuff, but the customer never actually notices or sees that those extra things were done. There's like an art. There's a soft skill to delivering special experiences for the customer in a way that they're aware of and familiar with, so it actually becomes a part of the experience. But again, that's a soft skill that we have to talk about consistently. And I love this idea of reading reviews, say, at an all company meeting, to create that hunger, I guess, because we've seen it. What you're talking about is when you recognize people for a customer letter that was sent in or something like that. Oh, man, the whole company response. I mean, the whole company is just riveted when that letter from a customer is getting read. But sometimes we stop there, right? Versus, how did John or Sally make that happen? Let's talk about the skills we can all develop to get more people mentioning us in our reviews.
+
+[00:46:48.850] - Brandon
+Yeah. By the way, Zack, in case this comes up in your own all company meeting, cody is kicking butt. Like, the dude is Johnny awesome. I think I've emailed him a couple of times. Just some random questions. I'm not sure more than six minutes went by before I had a response. So anyways, kudos to him. So if it comes up in an all company meeting, make sure you give him the sticker.
+
+[00:47:08.410] - Zach
+Yeah.
+
+[00:47:08.540] - Chris
+He's quality, man.
+
+[00:47:09.280] - Brandon
+Yeah. Doing a good job.
+
+[00:47:10.720] - Zach
+Also, thank you for that. That's part of our value props. Like, we want to respond and provide the solution, so that's good for me to hear. Just like it is when owners here, that their team is good. Chris, one example I just wanted to share that might challenge people to think beyond just doing the tangible job or even something related to the job. So there's a company we work with here in Indianapolis. It's in the HVAC space, and we help them with reviews. But I know the owner, and they have an amazing culture around being customer centric, and I know that they do this every Monday. They have a team, all company meeting with all their technicians before they go out, and they pull up their reviews, and they literally stand up, and they clap for anybody that got a review, they go over what they said about them, and to your point, kind of make it a training tool, and it's just part of their culture. And so two different examples of when these companies come to my house for different things. One of them, fairly normal experience, whatever. At the end of the job, the guy came up to me, it was time for me to pay, and he had no idea I helped with reviews or knew the owner, had no clue I was just normal customer.
+
+[00:48:12.630] - Zach
+And he looks at me and he goes, hey. We actually get recognized each week at the beginning of our team meeting for getting reviews. And it would mean a lot to me in my career, and I'm trying to develop here. I would love to become, like, a lead technician. And so would you help me by writing review? If you're satisfied with my experience, just point blank, just ask me. Standing in my kitchen, and I was like, yes, absolutely. Of course I will. And that kind of just personal, like, even tied it into how it affects it. He's like, I'm trying to move on with my career, and he did a great job. And so, absolutely, I want to be compelled to help him. But the next time we had somebody come out, different member of their team for a totally different issue, two years later, he came out, and at the end of the job, my son's very shy, and he was kind of shy. This is the point of like, this has nothing to do with what he was there for, but he had this video on his phone, and he's got a son about the same age.
+
+[00:49:05.500] - Zach
+He was doing some kind of fun activity or whatever. I don't remember what it was. And he sat on the stairs, and he pulled up the video, and he got my son to kind of come over and watch the video with him for a minute, and he probably spent five or ten extra minutes doing it. And to a lot of companies that would be like, man, what a waste of time. You need to get onto the next job. This was not his last stop for the day, but to us as customers, like, the fact that he. Took time to care that my son was there, saw that he was shy and kind of timid and connected with him. Like, you better bet. I believe I left a review and I commented on that, that he took the time to interact with my family personally. And now that's in their team meeting the next week. Right. So not only are we customers for life, but now in front of the whole company, the owner. It's kind of an easy way to stand up and say, hey, look, congratulations Johnny, that's awesome. Great. Hey everybody. You need to connect with people's, families who are in the room or whatever it is, find a way to connect to the customer and provide an intangible positive experience.
+
+[00:50:06.360] - Zach
+And it's hard to take so much time to kind of share that. But I think that in my mind, it's way beyond just getting reviews about the entire customer experience. And you can really transform your company and the way you service people and reviews are just a tool for that, just a way to do it.
+
+[00:50:25.190] - Brandon
+What a powerful reminder. And two, I think what's so cool about that is that this business owner now has a concrete example to show or share what can be a fairly intangible experience requirement. Like me as a business leader, it's hard for me to tell someone, this is how you have care for my client. This is the difference between you and every other HVAC company on the planet. Right? But now he's got an example that he can share where people can place themselves in their shoes and be like, I could do that. I understand how that would play out, maybe in my experience. The other thing I just wanted to note was that first example you gave was very specific and I think what some people would think is aggressive in quotes, meaning they just straight up came out and said, hey, here's, what's in it for me? This is why it's so important. Would you mind doing it? And what I heard from you was that was not offensive. You didn't feel offended at all. Now, is part of that because you own a review company or is it because you as a consumer, how did you feel that that person said that to you?
+
+[00:51:27.600] - Brandon
+As a consumer, I think is the question.
+
+[00:51:29.990] - Zach
+Yes. Our belief, whether it's your person saying it, or even in the messaging that we use, that we see converts really well, is to be direct, like be extremely kind, but tell people why you want them to take their own time to do something for you. In all of our experiences, right, every time you go to a coffee shop, every time you fly, every time you do anything, you get all these internal surveys. Rate your experience one to five, do it. Do I ever do any of those? No. I frankly don't care if Delta knows if I'm a one to ten the experience is probably not that good this time right now. But I don't care. I'm not going to respond to that. But when you're either in front of somebody or in the messaging, but you say, hey, this helps me, will you do it for me? And people understand. They get it. They use these places. They know the Google review matters to a business. They're much more likely to ask you're not doing in a threatening way or trying to say, hey, I'm going to get a big bonus on this. I just want to get paid more.
+
+[00:52:19.920] - Zach
+You're saying, hey, if we did a good job, would you take a minute to help me? And most people will say, yes.
+
+[00:52:27.010] - Brandon
+I think that's the biggest mind screw that most of us are challenged by. And I guess I could just be speaking for myself. I have a lot of confidence in the value that we bring people. We see it. It's measurable, right? Like, we see the change in their business. It is so hard for me to ask for a review. It's so hard for somebody to like, please give me feedback so I can share this and get another job. Let's be freaking honest. What I'm looking for is I want one of my clients in a tangible way to tell me what we've done to help their business. Because I want to use that to sell our value to a prospect. Because I want to eat again. I want to have another prospect. I want to put someone else on our roster. And it is so intimidating even for me to ask for that.
+
+[00:53:09.970] - Zach
+Let's take that a step further, though, because I don't think why you want that review is really so you can sell. Again, I think why you want that review is because you think if you can get that review, that will help another business that's struggling to understand the value you provide. So you can help them and help their family and their team and their community, right, is while you're doing what you're doing. And I think that's true for all of our businesses. It's not about, hey, I want to sell more. It's saying, hey, we believe we do a good job as a business and more people would benefit from working with us. If somebody needs somebody in the restoration space, they're going to work with somebody. It's not really easy to say optional, right? Like they need help. And if you believe you're doing a good job, why wouldn't somebody want to.
+
+[00:53:49.880] - Brandon
+Help you tell other people that dude well placed. That was so true.
+
+[00:53:53.990] - Chris
+No, it's true. And it's the way all of us buy the same thing. I'm looking for validation. Somebody tells me about some clever new product or service. I mean, I spend a lot of time on Amazon reviews when I'm going to buy stuff, right? Like 1400 people say this is five stars versus this one is 3.8 and there's 400 views. I'm going with the one with more reviews and better. All of us are looking for that social proof that we're not doing a dumb thing, but I totally feel exactly what Brand is talking about as well. And why is it why is that such a cage most of us are in that are doing good work and we feel weird about asking for that affirmation, but essentially we're just asking them to do the same thing that all of us want to see. We want to see some social proof before we hire or buy a product.
+
+[00:54:37.990] - Zach
+Well, I think too, you're robbing, especially in a business like yours, where you're building a relationship with people. What I've learned since even starting my business and work with a lot of business owners is a lot of business owners have been helped by other people. They want to help other people. A lot of people in general want to help other people, and they want to help you. You're robbing people of an opportunity to contribute in a way that doesn't cost them anything. It doesn't take much of their time. But when you ask for people to help, it makes them feel good. They feel like they're contributing to something. And so don't rob people if they're happy and they would be glad to share that. Give them the opportunity to help them. It's good for them, too. People like to help other people.
+
+[00:55:15.610] - Brandon
+Dude, they're going to be honest with you. I feel like you've done more of the focus on mental transitions that we need to go through as business owners than necessarily pointed towards what steps we take, because I feel like that is the overwhelming barriers that we are all wrestling with it's. Either our field staff is wrestling with it or us as a business owner, depending on size and scope of our team. So I really appreciate your perspective here and hammering that home that if we believe in our business, if we really believe we're the solution, best solution for our clients, we've got to be more diligent in asking people to participate in the expansion of that, the help of that, and creating more opportunities for us to serve others and share that experience. I love that man.
+
+[00:55:55.820] - Chris
+Well, we're coming.
+
+[00:55:57.490] - Zach
+I just want to get on real quick as far as why people don't ask. The other big reason is because they're scared of ever getting a negative review. And I just want to get on this because it comes up in every conversation I've ever had with the business owner is what if I get one bad review? What if I run a great business but I get a bad review? Maybe I won't do anything because I don't want that bad review. And I think just chrissy, your example of when you shop on Amazon, you look at the One Star reviews when you shop, right, and you can pull out the crazy right away, you know, commenting on all the package is damaged. OK, well, that has nothing to do with the product or whatever. And so we always encourage people to not be afraid to ask your customers. Most of them are going to be really positive, and they're going to leave you good reviews. And my experience has been that business owners, a lot of times our leaders, have an overbiased negative perception of their quality because they're always brought the problems, right. You as the leader, aren't involved.
+
+[00:56:57.590] - Zach
+It just goes and it goes on. But every time there's a problem, you're involved. Right. You have to go solve it. And so people have this it's not an accurate it's an inaccurate view of their own business and how good it is people to stand back. Overall, your clients pretty happy? Yeah, most of the time they're okay. Ask for reviews. What if you ever get a negative review? Good. You should not have all five star reviews from an SEO perspective or just from an actual authenticity perspective. Chris, when you're looking at Amazon and they have 50,005 star reviews and no comments, and it's all just perfect, you immediately start to question the quality. Totally. I think I know it's hard, and I'm preaching myself, too, when this happens, like, oh, my gosh, we didn't have a perfect experience, but it gives you that opportunity. If somebody gives you one star and say, hey, this technician messed up for the job, is wrong for you to respond and say, hey, we'll fix it, address it right away, and that tells potential future customers, okay, this business actually cares. And I just wanted to get on that because I think people really struggle with this inaccurate fear that all the feedback is going to be negative.
+
+[00:58:05.320] - Zach
+If it is, you shouldn't be in business.
+
+[00:58:07.750] - Brandon
+Exactly. That's brilliant. Yeah, dude, that's brilliant. I think that's a really interesting point, too. And you're right. Like his key leaders, that part of our job, right. Part of what our team depends on us for is to handle those things that are challenging, that are hard. It's a conflict, it's a speed bump, something that we need to resolve. That's brilliant.
+
+[00:58:24.220]
+Yeah.
+
+[00:58:24.380] - Chris
+The winds don't roll uphill. It's the jobs that go sideways. It's the small percentage of unhappy customers always end up at the GM or the owner's desk. And that's smart, man. It's a good observation.
+
+[00:58:35.510] - Brandon
+All right, my friend. So we want to be super conscientious of your time. However, we have just been chatting about some industry details about how we can better create that online presence. We can do it in a way that's pretty approachable and manageable. Liftify. You founded Liftify. Give us the 30 seconds on what Liftify is, and then please tell us, where do people go? What's the easiest landing spot for them to hit? And learn more about what your team does for them.
+
+[00:59:01.790] - Zach
+Yeah, absolutely. So Liftify is 100% dedicated to helping businesses build the strongest online reputation. The word lift comes out of the root of we want to lift companies up and help them stand out in a very noisy marketplace in most markets out there, that's what we do, and we provide the solution and plug and play and get people going right away. And it is no work for the owner. And we work with just over 600 locations all across the US. And Canada right now and are growing rapidly. Would love to work with anybody. We're seeing great results in the restoration space fairly early on, but anybody that's interested as a part of this podcast or Floodlight, you can go to liftify. Comfoodlight, and if you go through that, you can schedule a demo. We can walk through it with our team, and you'll get kind of special pricing, a special discount just for kind of coming through Floodlight and through this podcast.
+
+[00:59:53.500] - Brandon
+Right on, man. So we'll give you our pitch. So we're using you guys. Your team has been awesome so far. Percentage wise, I think we're approaching 33% return on our requests that go out, which we may be a little bit higher just because of the type of relationship that we have with our clients. But dude, here's my favorite part and here's what I think. I want prospects that are looking at you to hear fire and forget, okay? All of us are just trying to identify the things that in a very cost effective way, anything I feel like we can hand off to somebody else always comes with a massive price tag, and then therefore, we don't do it. But this is one of those things. Fire and forget. I give a name, your team does everything. I get a review on my dashboard.
+
+[01:00:38.680] - Chris
+Yeah, we did our 45 minutes onboarding call or whatever it was, and that was it. And then all of a sudden, we started waking up to reviews, which was fun. Yeah, really fun.
+
+[01:00:49.310] - Zach
+It was awesome.
+
+[01:00:49.940] - Brandon
+And I don't have to worry about it, and I know it will be done tomorrow, regardless of how I feel or what project or if we're traveling or not travel.
+
+[01:00:56.810] - Chris
+Right.
+
+[01:00:57.000] - Brandon
+It doesn't matter. Like, it's going to happen. And so I think that's the point I want to highlight for people and cost effectiveness. We don't need to go over the pricing right now, but guys, give me a break. Like, it is super approachable, super affordable. Do yourself a favor. Go check out what they're doing, talk to Zach's team and see if Liftify makes sense for you. I would be shocked if you said no. It just wouldn't probably make sense. So you're either lying to yourself or you really legitimately have an internal system that you've invested in that's working fine, but not the story for the norm, for sure.
+
+[01:01:26.680] - Chris
+It's been fun, man. I think we got into a lot of different corners of digital marketing and online reputation and stuff and I think there's a lot people can take away from our chat today. So thank you, man.
+
+[01:01:36.050] - Zach
+Yeah, thanks for having me. I think people digital marketing is confusing. Make sure that you're doing what Google wants and providing customers with a great experience and play the long game. Think about the long term, not just short sightedness, and everything that you do in your business to be better. So thanks for having me.
+
+[01:01:52.890] - Brandon
+Thanks, brother. Have a good one, my friend. All right, everybody. Thanks for joining us for another episode of Head, Heart and Boot.
+
+[01:02:03.660] - Chris
+If you're joined the show but you love this episode, please hit Follow. Formally known as subscribe. Write us a review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

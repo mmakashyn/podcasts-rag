@@ -1,0 +1,539 @@
+﻿[00:00:02.810] - Chris
+Welcome back to another episode of the MRM podcast. I'm Chris
+
+[00:00:06.470] - Brandon
+and I'm Brandon. Join us as we discuss business life and legacy.
+
+[00:00:11.510] - Chris
+It's business time.
+
+[00:00:13.970] - Brandon
+How are you doing, brother?
+
+[00:00:14.930] - Chris
+Good.
+
+[00:00:15.410] - Chris
+We have to to figure out a different creative way to open these things because I feel like I'm always saying some version of....
+
+[00:00:21.950] - Chris
+because I keep saying, oh, this is a great show. You're going to love this.
+
+[00:00:26.870] - Brandon
+and we're excited.
+
+[00:00:26.870] - Chris
+We have an amazing guest this week. That has been really fun, right? Because one great guest has seemingly led to another.
+
+[00:00:34.910] - Brandon
+Oh yeah, we're fortunate for sure.
+
+[00:00:36.350] - Chris
+[ comment: https://www.linkedin.com/in/gokulpadmanabhan/ ] And today's guest, Gokul Padmanabhan is yet another awesome guest. https://www.linkedin.com/in/gokulpadmanabhan/
+
+[00:00:43.070] - Chris
+So he's the founder and I don't know, CEO President, principal, whatever of Restoration Brokers of America. Powerful figure in the restoration space right now. I think if I remember right, he said he and his company have done 600 million. They brokered 600 million in M&A transactions in the restoration industry.
+
+[00:01:06.230] - Brandon
+Yeah. 300 separate plus, probably at this point transactions.
+
+[00:01:10.670] - Chris
+Yeah incredible. Somebody that's got that many reps working with disaster restoration companies and their owners and senior leaders is just an incredible depth of knowledge. And we get into quite a bit of that. But I think what I appreciate about him is he's got a really great ability to distill complex topics like this, into the language, I think that any of us regardless of what size of company you have or your experience in the industry, can really understand. And I imagine some of you out there that own restoration companies.
+
+[00:01:41.090] - Chris
+You're looking at these acquisitions and things and you're thinking to yourself, I've owned my company for eight years or twelve years or 25 years. Is now the time? A lot of people are asking that question, and he does a great job answering that. How do you know when it is time and when your business is actually ready to sell? Can you even sell your business in its current condition? He addresses that he will tell you.
+
+[00:02:08.450] - Chris
+And I don't know, he gave us some surprises, too.
+
+[00:02:10.490] - Brandon
+Yeah.
+
+[00:02:10.970] - Brandon
+I think the leading thing, is really going to shock people, I really do. And I think it also makes it really appropriate for anyone to listen to this. I think that piece that he Hammers on is going to shock people, and it's going to make a lot of sense why we should all be listening, even if we're not trying to sell our business.
+
+[00:02:29.930] - Brandon
+Well, Chris, we're going to have some fun today. We're going to get a little technical. We're going to talk money, which some people are getting sweaty palms and other people are excited about that probably.
+
+[00:02:40.070] - Brandon
+You want to intro our guest and get this thing Jammin'?
+
+[00:02:43.190] - Chris
+totally.
+
+[00:02:45.170] - Chris
+[ comment: https://www.linkedin.com/in/gokulpadmanabhan/ ] We will talk technical, but I think I'm also excited to explore maybe a different angle with our guest today. So welcome Gokul Padmanabhan https://www.linkedin.com/in/gokulpadmanabhan/
+
+[00:02:54.290] - Gokul
+Thanks guys.
+
+[00:02:55.910] - Chris
+Yes. Restoration company broker extraordinaire.
+
+[00:03:00.470] - Gokul
+The checks in the mail...hahaha
+
+[00:03:00.470]
+We've been seeing Gokul everywhere C&R and RIA and ATI and really kind of being a voice in the industry, a primary voice in the industry lately, with all the mergers and acquisition activity. And I mean, you're just a rich source of information. You've been doing this twelve plus years brokering businesses?
+
+[00:03:23.370] - Gokul
+Now it's 14 plus years. We've done almost 600 million now in transactions in the restoration space only. About 350 transactions plus. So I know enough to be dangerous.
+
+[00:03:37.710] - Chris
+That's awesome. Well, I think this conversation about mergers and acquisitions and all the private equity money that's moving around the industry right now is something that, of course, everybody's interested in, and I certainly would reference....I mean All people have to do is Google Gokul and mergers and acquisitions, and you're going to see a bunch of content. I mean, you are a rich source of information, commentary and stuff out there. Today, I think where we wanted to go, because a lot of our listeners are owners and general managers of companies of restoration companies. Really running the gamut from people who are just starting out to those with businesses 5,10, 15 million dollars plus in revenue.
+
+[00:04:18.270] - Chris
+And many of them are family businesses. And I know with all the transactions and clients you've worked with, you've probably seen up close and personal, many different family run companies.
+
+[00:04:29.670] - Gokul
+Of course, yeah.
+
+[00:04:30.510] - Chris
+And so I think we wanted to camp out with you today on talking about what that dynamic is like when companies are looking to sell, they're looking for an exit strategy, or they're looking to acquire and assimilate another company into their operation as a growth strategy or whatever. What from a more of a leadership and behavioral standpoint and sort of a company health and culture, What do you see?
+
+[00:04:55.230] - Chris
+What are some of the recurring themes that you see both in terms of success metrics? What are some repeatable best practices maybe that a family business or a closely held small company can put into place? And then also, what are some of the self sabotaging behaviors, right, that can really you know what I'm saying that can impede businesses move to sell? I don't know where you want to kick off? Does that spark anything for you? Maybe some past stories or engagements that you can share while removing... No incriminating information right?
+
+[00:05:33.930] - Gokul
+I think we could talk a whole show on that first question. So here's the thing... Business is really interesting, right? It could be an absolute blessing or an absolute curse for families. And I've seen both of it. And I think that's the first thing I want to start off with, correct. And some families get it right, and some families absolutely struggle with it. And when you look at success and what the successful families are doing, their clues and their strategies that they're implementing, that is absolutely Crystal clear.
+
+[00:06:05.070] - Gokul
+and you start with the stuff that you guys are doing for your clients, too, like creating a clear vision, what the company stands for, where it needs to go what the end game looks like. Having clearly defined roles and responsibilities, especially for family members. Paying the market value. That is a big thing that I see. I think a lot of family members that get in trouble is the dad and mom over pay the kids and then it becomes unrealistic expectations. So I think having a clear vision and mission... What you guys are doing for your clients, I'm sure all the time. Having clearly defined roles and accountability and having a clear picture of what success looks like for that family.
+
+[00:06:47.590] - Gokul
+Correct?
+
+[00:06:48.070] - Gokul
+So for some family success is, hey, if I get 3 million in sales and all of us can get a decent salary, we're good, and that's perfect. You know what I mean? For some people it's, we need 30 million in sales, and I need a boat and a plane. And that's okay, too. No judgment. But having a clear picture of what that looks like is really critical, because when you start going through generations, what success means for mom and dad is not necessarily what it means for the kids.
+
+[00:07:18.730] - Gokul
+Okay. And I think that is the Genesis of all these issues.
+
+[00:07:24.250] - Brandon
+That totally makes sense, too.
+
+[00:07:25.810] - Gokul
+Doesn't that make what I'm saying. A lot of people talk about business, especially family run companies, and they say "oh, it's great and it's fantastic." It is if you make it, but it can also be the exact opposite if you don't have the clear strategies to make it go on the right side, if you know what I'm saying.
+
+[00:07:42.250] - Brandon
+Yeah, it's funny because we were just talking to somebody yesterday, actually, and they were talking about how they want to keep the family business feel. I got to be honest, my knee jerk response to that is, "well, I'd rather have a team feeling experience than a family feeling experience because I love my family, but we have our crap." And it seems like there's more families with dysfunction than not. And so I hear that term and I'm like, oh gosh, that just sounds like chaos from the beginning, right?
+
+[00:08:15.430] - Gokul
+I'm preaching to the choir. You guys are consultants, and really good at what you guys do. And you guys could probably agree with me on this one. It doesn't matter whether you got ten family members working in a company or zero, and you're a big Corporation with 600 million in revenue, 30 offices all that good stuff. The fundamentals are the fundamentals. A vision, accountability, roles, job descriptions, what does success looks like? A vision for where the company needs to be a year, two years, three years down the road.
+
+[00:08:46.930] - Gokul
+All that is really critical to a company. And a lot of family companies and family owners don't realize that until it becomes a problem, a chronic problem.
+
+[00:08:56.290] - Gokul
+You know what I mean?
+
+[00:08:57.310] - Gokul
+If I had a wish list, I wish they would approach people like you if they don't know how to do it and just put together a business plan yearly business plan, a yearly review. Just like you go to a doctor for your health and make sure that all those things are lined up. It saves you so much trouble down the road. And when you get ready to exit your business, it's worth infinitely more, because all these things have been in place for years. It's a no lose.
+
+[00:09:22.090] - Chris
+One of the dynamics we have seen where, I mean, ultimately, most every restoration business is a, quote, family small restoration business is a family business, right? There's somebody that has a spouse, they have children. And the ones that we've seen that seem to struggle the most is when they don't have those clearly defined roles and responsibilities beyond just the title. But they basically treat one another just like another employee of the business, where job descriptions really are clearly defined as to what this person is responsible for and is not responsible for.
+
+[00:09:57.370] - Chris
+Because the funny thing that happens amongst family relationships in particular is every family has the minefield of topics or types of conversations that are, quote, to be avoided. Right.
+
+[00:10:10.810] - Chris
+Now of course, we all hope to have a more healthy dynamic in our families. But this exists, right? And we see this where the husband or wife are kind of in charge of the field operations and another spouse is sort of in the office or managing the business stuff. And it's very ambiguous from issue to issue. There's a negotiation that's kind of happening of who's in charge of what, and who gets to make the final call.
+
+[00:10:36.970] - Chris
+Could you describe....Because I think it's helpful sometimes... When we're leading a small company, we can kind of lose sight of the forest through the trees, that whole thing. And we don't realize maybe how dysfunctional the patterns are that are existing in our business. I'm sure you run into this all the time. Somebody approaches you, "hey, we want to sell." And you get in there and you're like, oh, my gosh. Do you guys realize how big of a mess this is? Can we just put some color to that? Can you give some story examples?
+
+[00:11:03.430] - Gokul
+Absolutely I can. Of what I'll give you a real life example of one I'm actually just working on. This is a business. They got two kids working in the business and mom and dad.  Dad wants to sell, mum wants to hand the business over to the kids. Typical scenario. Correct. So I talked to them two weeks ago and this is in the Northwest. Okay. Show me your financials give me your books, give me whatever these ten documents and let me look at an evaluation for you. So we've been going back and forth for two weeks, and here's what revenues were right. And I'm going to change these numbers a little bit, just for confidentiality.
+
+[00:11:36.130] - Chris
+Sure.
+
+[00:11:36.790] - Gokul
+6 million, 6 million, 6 million, 6 million, 6 million.... Within 100,000, 200,000. Very steady on the revenue side. Profits go from 20%, 19%, 6%, 3% and 4.5%. That's your last five years. So I get mom and dad on the phone and I say "Let me ask you a very simple question, what happened? "Oh it was COVID and..." I said, "well, if it was COVID your revenues would have gone down. But your revenues are steady and improving. What is it?" response "I don't know."
+
+[00:12:07.810] - Gokul
+Do you see where I'm coming at? "Yeah, My two kids are running it. I don't know."
+
+[00:12:11.650] - Brandon
+Yeah, I'm hearing the whole dum da dum dum.
+
+[00:12:12.730] - Gokul
+Those are the mistakes that people make.
+
+[00:12:14.650] - Gokul
+Do you understand?
+
+[00:12:16.870] - Brandon
+yes, yes.
+
+[00:12:16.870] - Gokul
+I think, especially people that are getting closer to retirement. There's this image, what I call the white picket fence image of thinking that..." I love my business, and now my kids are going to love it. There's nothing like it. I love it when my son sits here when I'm putting deals together." But when you look at the reality of it, less than 30% of American companies are transferred to the second generation.
+
+[00:12:41.950] - Brandon
+Wow.
+
+[00:12:42.490] - Gokul
+Okay. In restoration, it's about 18%. You know what I mean?
+
+[00:12:45.985] - Brandon
+Yeah
+
+[00:12:46.210] - Gokul
+So even if you are 65 or whatever and you got your kids running it, I still think you have to play the CEO role at a minimum. At a minimum you got to know accounting because that's the language of business. There's no two ways around.
+
+[00:13:01.270] - Brandon
+Okay.
+
+[00:13:02.230] - Gokul
+And at a minimum, you got to watch revenue numbers and profit numbers and ask questions. You cannot just totally hand it over to your kids or a GM or whoever and just say they're going to run it for you. Because I've seen so many stories. And I'm like, if they can do it better than you, they're probably owning a company themselves. There's a reason why people work and other people are entrepreneurs. And so I think as long as you own the business, you have to track financials, it cannot be at arm's length.
+
+[00:13:34.510] - Gokul
+And that would be my number one tip. And I hear the stories. Not just with kids. An owner may have a really great construction manager, for example. Correct. And the owner, maybe before he got the construction manager on staff, maybe at least looked at the numbers once a month. Or looked at per job profit margins or certain key numbers that's important to them. And then this Rockstar employee comes in and does everything for him. And then all of a sudden they stop taking a look at it and they're cutting out on a Friday a little bit early, and that's all okay.
+
+[00:14:06.190] - Gokul
+But they stop doing the fundamentals in their role as the CEO of the business. And what happens when that person now leaves? Or what happens when that person comes to you in a time like this, when there's a huge HR crunch for people... "I want a 50% raise." Right. So this is a long winded story to come in to saying... Key employee risk is one of the biggest risks in family run business. Whether the key employee is your best friend, your kids, your family members or somebody that just is really good, right.
+
+[00:14:40.990] - Gokul
+Key employee risk is one of the biggest risks in family run businesses. I see it all the time. I've seen sales go down when an estimator leaves a company or somebody that's really good and exactimate retires or goes to another state for whatever host of reasons, and all of a sudden the margins of that company get strong. So key employees is really, really, really critical. And then looking at financials and making sure the company is healthy is really critical. And here's a drill... I have a kind of suggestion for key employees.
+
+[00:15:14.290] - Gokul
+What you really should do is just take a Friday afternoon and just make a list of all your employees and then just rank them. Here are the hardest to replace. Put a ten next to them. Right? The easiest to replace will be a one. So you just rank them one through ten. And then when you have your tens, have a mitigation plan for if and when they want to leave your company. Right. So you can say, you know what? This person is really hard to replace.
+
+[00:15:39.370] - Gokul
+This person is a ten. Maybe it is your collections person who's chasing all your AR's for you. Then you say, well, what happens if that person leaves for whatever reason, nothing to do with the company?
+
+[00:15:50.770] - Gokul
+Well, okay. Maybe I start training the junior person one day a week. Right?Or maybe I bring in my daughter in there or my son. Or there's a mitigation plan for everything. That will really help you sleep at night with key employee risk. We suggest that to our clients all the time.
+
+[00:16:06.610] - Brandon
+Just build some depth in the bench.
+
+[00:16:08.230] - Gokul
+Right? Build a little depth and build a little mitigation plan.
+
+[00:16:12.790] - Brandon
+It's funny, kind of there's a theme it seems like in what you're saying which is... It's hard for us not to immediately go to malicious intent. Like you're talking about the parent hand off to the kids story. There's kind of this whole rape and pillage pirate thing that comes to mind, but it really probably more times than not is just a lack of experience. You've got this owner, this founder that spent years and years developing their competency and one block at a time put this business together. And so they have this rich full picture of what they need to be concerned about, the things that they look at from a strategic perspective.
+
+[00:16:50.290] - Brandon
+And then you get these younger leaders coming in. They were probably just great at Mitigation, or they might have just been awesome in the field, but they didn't get any of that leadership competency taught to them. Or we didn't invest and build that hand off strategy. Is that more common than kind of this malicious abuse of resources in your experience?
+
+[00:17:13.090] - Gokul
+Yeah. I don't think it's malicious. I don't think anybody means ill intent, or people are trying to ruin your business by intention. I think it just comes to skill set. It comes to ambition. It comes to how can I connect everything together? Which is experience, what you were just talking about. It takes a lot of work for somebody to be in your shoes and you want to make sure they absolutely are. And two, it takes a little bit of accountability.
+
+[00:17:39.010] - Brandon
+Yeah.
+
+[00:17:40.270] - Gokul
+We all have to be accountable to somebody, you know what I mean? And so accountability is a big thing.
+
+[00:17:45.850] - Brandon
+It's like build in some time to apprentice. Right?  Like let them shadow the King and let them see what it is exactly that they do so that they can gain those skill sets.
+
+[00:17:56.830] - Gokul
+And I think that's one of the things that I love you guys are doing when you're coaching your clients. I'm sure there's a huge sense of accountability when we get clients that have a coach or a consultant that they have been working with for some period of time, we always find that their business is so much more healthier. We just do because of that accountability factor. Hey, you were supposed to do this, why didn't you do it?
+
+[00:18:18.790] - Brandon
+Fresh set of eyes even too, right?
+
+[00:18:22.510] - Gokul
+Yeah.
+
+[00:18:22.810] - Chris
+That makes sense. And we always try to surround ourselves with coaches and consultants in our time operating for exactly the same reason. I think it makes everybody better.
+
+[00:18:33.790]
+All right. Let's take a minute to recognize and thank our Mitrestomastery sponsor, Accelerate Restoration Software. And I'm fully aware, by the way, that when I say those last two words, restoration software that instantly creates heartburn for some of you out there.
+
+[00:18:50.590]
+Right.
+
+[00:18:50.890] - Chris
+Because we probably all fall into one of two camps. When it comes to shopper, we've either cobbled together kind of a version of free website tools and spreadsheets just to make our business work, or we're in the camp where we've adopted one of these existing restoration platforms, one that has all the bells and whistles and supposedly does it all. But we can't get our team to consistently adopt it and input information to it.
+
+[00:19:18.550]
+Yeah.
+
+[00:19:18.790] - Brandon
+And that's really where Accelerate has honed their focus. They've created a system that's simple, right. It's intuitive, and it focuses on the most mission critical information. Ie guys, your team will actually use it.
+
+[00:19:33.550] - Chris
+Let's talk about sales.
+
+[00:19:34.750] - Brandon
+Right.
+
+[00:19:35.050] - Chris
+After years of leading sales and marketing teams, the biggest trick is getting them to consistently update notes about their interactions with referral partners and clients. And the essential piece there is there's got to be a mobile app experience. And in our experience, the solutions that were previously out there were just too cumbersome and tricky to use.
+
+[00:19:57.310] - Brandon
+Imagine, guys, how your business would change if your entire team was actually consistently using the system.
+
+[00:20:04.690] - Chris
+Do yourself a favor.
+
+[00:20:05.950] - Brandon
+Go check these guys out at Excel. Restorationsoftword. Commr and check out the special offers they're providing to MRM. Listeners.
+
+[00:20:16.870] - Chris
+All right, let's talk about Actionable Insights, owners, GM. You can't be your business expert on all things estimated you might have been three years ago when you're writing sheets in the field. But the industry is always changing and so are the tools. If you're the smartest person in the room when it comes to exact Matterport, how does that scale you're the bottleneck. I know I'm preaching to the choir, but this is where actual insights comes in. They're a technical partner that can equip your team with the latest bleeding edge information and best practices and then update them with webinars and training resources when the game inevitably changes.
+
+[00:20:52.570] - Chris
+Again, for this reason, we recommend actual insights to all of our clients.
+
+[00:20:56.830] - Brandon
+Yeah, three of the kind of big things that stuck out to me when being introduced to AI and their team. First off is this consistently updated training. I mean, at the end of the day, these guys are the experts. They're out front all the time. They're constantly learning new trade secrets and ensuring that your team has got access to those things. A 3700 plus page database of exact and templates. I don't know what else to say here other than don't reinvent the wheel. It's already available. Download it, copy it, use it.
+
+[00:21:26.410] - Brandon
+Bam database of commonly missed items. I think this is huge. So many of us can change the numbers by just moving the needle a couple of points and those commonly missed items can make all the difference in the world. So go check them out at value. Get insights. Org.
+
+[00:21:50.870] - Chris
+talk about key person.... This is always a struggle, I think, particularly for the smaller companies, 0 to 5, 0 to 10 million. You have those key individuals that are such huge force multipliers in the business. Relationally customers love them. Skill wise they're great. Could be a senior estimator, a Mitigation manager, a construction manager, whatever. Or the GM, that's just so good at all the fundamental piece of the business. Let's talk compensation amongst your most successful clients. What are they doing for compensation? Or are you seeing more companies doing profit sharing?
+
+[00:22:29.450] - Chris
+Is there a model you've seen? And this is one of the things that Brandon and I wrestle with over the years. Is there an equity model that people have successfully deployed to give more of a sense of ownership and visionary leadership to those non family employees? What have you seen that works along those lines? And it's practical for a smaller restoration company to deploy.
+
+[00:22:50.630] - Gokul
+Yeah. So I think my answer is going to shock you. I don't think people leave because of money.  it's culture that people leave. People leave their bosses, they don't leave their paychecks. It's very rare that people do. When I see people in trouble. The culture in some way, shape or form is very toxic. And when someone feels underappreciated, they leave. The strongest companies that I find even in today's market is where the owner takes a little bit of time and says, good job, acknowledges them, you know, really cares about it.
+
+[00:23:28.250] - Gokul
+So for you to lead a team. You've got to be a people person, correct. You cannot lead a company with the attitude of I hate people and it doesn't work. If you're there, then you're burnt out, exit your business, call me and exit your business. You know what I'm saying? If you're trying to build a company, you got to love people and everybody in it and you've got to be interested in it. So what I find is companies that are not actively developing culture, and it's an accidental kind of happening within their company have less satisfaction within the employees.
+
+[00:23:59.330] - Gokul
+And that's when they leave, correct.
+
+[00:24:02.270] - Brandon
+Oh, yeah. I really like the fact that you went there. Sometimes depending on people's roles, right, and their area of expertise, the things that they focus on. With someone in your role, our instinct is it's all about these specific percentages. It's about these numbers. These things have to be seen in order for that business to be sellable. So I like it. It's awesome for me when I hear someone coming from your role saying, hey, this is a bottom line contributor. We can't forget this. So hang there for a minute.
+
+[00:24:37.370] - Brandon
+Like, from your perspective, how do those conversations look? Do you sit down across the table pretty commonly and say, look, things are kind of in order in here. But I see a disease that is going to affect somebody approaching and looking at your business.
+
+[00:24:51.650] - Gokul
+Yeah. So been strength and organizational structures is one of the things we use to value a company. Okay. So we look at how long people have been there. What the turnover is, especially with the key roles. Correct. So if you look at production manager, office manager, mitigation manager. Just hypothetically. Right. And if you say, well, this person has been with me six months. This person has been with me three weeks. This person has been with me for a year. There are issues and buyers are going to look at that and say, Why is there so much churn in your business?
+
+[00:25:24.710] - Gokul
+Correct.
+
+[00:25:25.310] - Brandon
+Those are pillar roles too.
+
+[00:25:26.930] - Gokul
+It affects the value of your company absolutely does. And then on the flip side, if you see somebody eight, five years, the production manager has been there seven and a half years. The office manager has been there nine years. Even though from a monetary standpoint, even if you have profit sharing and your payroll was a point higher than the industry average, or even two to three points higher than the industry average. When you're going to sell your business, someone will pay you a lot more than that for your business.
+
+[00:25:54.650] - Gokul
+Okay. Why did they do that? Because most buyers are buying two things. There's about seven factors, but two main things. They're buying cash flow. So they pay you X amount for a business. They're saying, hey, over the next 10, 15, 20 years, it's going to produce why? And that's a good return on my investment. Correct. The second thing they're buying is your team. Okay. So it is the second most important thing next to cash flow and how profitable you are. That's for companies 5 million and under evaluation. For companies that are 5 million to 50 million evaluation Bench strengthen and key employees ranked number one even before your profits.
+
+[00:26:35.930] - Chris
+Well, that makes perfect sense to me, right? Because there's a lot of stored energy when you've got a strong bench. Somebody can come in with fresh enthusiasm, new resources, and catapult that team. Whereas whereas if the team is not in place, it doesn't matter what your revenues are. It's an unknown, right? It's a big question Mark.
+
+[00:26:57.590] - Gokul
+We tend to talk in very concrete terms profits, multiples of sale, revenues. And I think we need to talk more about leadership culture. How do we treat our employees, teamwork, transitioning, career development. I think we need to talk about a lot of that, because I can tell you from how I value companies. Those things are either number one or number two, depending on the size of your business. Correct.
+
+[00:27:26.750] - Brandon
+So from Chris and I's perspective, we're kind of those geeks, right? We're culture geeks.
+
+[00:27:31.670] - Gokul
+I'll join the club, man. Right.
+
+[00:27:33.890] - Brandon
+And it's powerful, though, when it comes from guys like you. When we're talking to the guys that are all about the nuts and bolts that know the math, know the winning equations. When gentlemen like you step up and say, hey, business owners, this is an absolute measurably critical element of your business. I just think in a lot of ways it's easier for these business owners and business leaders to hear that voice, whereas when it comes from someone that's like, I love building leadership teams and it's all about culture and all those things, it can be difficult sometimes to not get lost in the noise.
+
+[00:28:08.510] - Brandon
+But when a nuts and bolts numbers person steps up and says, this is mission critical, people stop and listen.
+
+[00:28:14.990] - Gokul
+If you ask me this 20 years ago, I'd have said, yeah, whatever. I wouldn't have bought into it. But now I'm 350 almost 400 transactions in and all in the restoration space. I've sat across so many buyers and sellers and closing tables and negotiations, and you get good in your crafts, just like anyone does. And I would say in the last ten years or so, I've been absolutely convinced I'm watching these.
+
+[00:28:42.110] - Brandon
+Right? I'm watching somebody with a lower multiple get a full price offer on a business just because the buyer or the team of buyers with this private equity or whatever, because they had a number two that could just step in and take over the business. But that didn't happen overnight. That number two has been there for 18 years or 20 years and had the opportunity to grow, not just be there. You know what I mean? Like the owner has actually slowly stepped aside and given a little bit more control and coach and coach and coach.
+
+[00:29:14.090] - Gokul
+Now that person has become like a playoff contender. And I've actually seen people pay for that. And so the last ten years, my point of view has absolutely changed. And I'm absolutely convinced. And the numbers are speaking for it. Absolutely are. I've seen people walk away because they don't have a bench strength. Buyers or employee turnover was too much. And they go, what else is hiding behind that company? So that's a doorway to a lot of other questions.
+
+[00:29:42.710] - Brandon
+I love that term. I'm going to hold on to that. The bench strength, just that application in our industry is brilliant. I love that. Hey, let's talk about the.....
+
+[00:29:55.170] - Gokul
+i want a penny every time you use it, haha
+
+[00:29:55.170] - Brandon
+I put a GTM at the bottom.
+
+[00:29:57.030] - Chris
+trademarked.
+
+[00:29:58.470] - Brandon
+Hey, let's talk about succession planning a little bit because my guest says that somebody gets in this position, they're like, oh, crap. I need out of this. I want to start exploring my path out. I'm assuming there's lots of scenarios where you would have loved to have seen a business taking some steps prior to the day they called you. So what does that look like? What kind of... I guess map can you give to some of our listeners in terms of preparing options? Not necessarily that it's going to sell, but that is part of the tool in the kit for an exit strategy.
+
+[00:30:33.750] - Brandon
+Yeah, really interesting. Okay. So I'm doing my first with CNR magazine with Michelle. We're doing our first industry report, M&A report coming out, I think in a month or two, and we went out and surveyed a bunch of people and my past customers and looked at a ton of data on it. And there's some really interesting finds. So when you look at an entrepreneur and you say, well, how much your personal wealth is tied up in your business? There's a lot of answers, but at a high level, it's about 80%.
+
+[00:31:01.830] - Gokul
+Think about that for a second. Wow. And then you look at it and you say, Well, we followed up with the question, are you looking for the money that you get from the sale of your business to fund your retirement? Okay. Almost identical. Almost 84% said yes. Okay. So outside of the business, they only have about 20% of assets, including their own. So you look at all this and you say, Well, this is the majority of my wealth. Don't you want it to be as strong as possible?
+
+[00:31:29.970] - Gokul
+Whether you're selling it or not is not the question. The question is, can you do it when you want to? Not that you got to go do it today. That's not the game. The game is... One day you get up and you're like, "I want to get into my RV and I want to go do what I want to do. Or I want to get into my boat and go do what I want to do." Are you able to sell it? So in our office, 30% of companies that approach us are sellable today.
+
+[00:31:54.930] - Brandon
+30?!
+
+[00:31:56.670] - Gokul
+30....3-0. 70% when it comes to planning.
+
+[00:32:00.090] - Gokul
+And when we go give talks, I always tell them, you know, listen, there's. If you have a healthy company, even if you never sell it, you're going to be happier. And so you always got to run your company as if you're selling, even if you have no intention of selling it. Because when you do that, it gives you clarity on what's really important in a business. If you keep something for 20 years, you're like, yeah, I'll do it tomorrow or I'll do it whatever.
+
+[00:32:29.070] - Gokul
+But you say, you know what? I want to get this thing sold in two years, and you'll see, sales will go up. You'll see, all the costs creep up that's happened over 20 years will start to come down. You'll see accountability. You'll see people looking at org charts and saying, Do I need everybody here to do? So all those start happening when you put a really short time frame and you pretend you're selling your company in two years. Right. So preparation is absolutely key. And people that prepare their businesses.
+
+[00:32:56.970] - Gokul
+Man, I've seen people double the value of the company over two years. So the way you run your company is a strategy, correct. And it's a skill set, and it's a technology. And you kind of go this way, right? The way you sell a business is going this way. They're not the same. So if you're trying to exit your 60, 62, 63, you're like, I'm going to exit the next five to seven, eight years, whatever. You got to do something totally different than what you're doing if you're going to run it for 30, 40, 50 years.
+
+[00:33:22.230] - Gokul
+So the strategies on how to prepare your business. So when and if you take it to the market, that buyers are going to be looking at it and saying, I want it and I'm willing to pay for all the work that you did. Those strategies are completely different than I want to grow my business 8% a year. Right. So that's the thing that people have to realize completely different. Different benchmarks, different KPIs, different strategies, different behaviors. They're completely different.
+
+[00:33:52.350] - Brandon
+Can we dissect those a little bit?
+
+[00:33:53.910] - Chris
+Yeah, contrast a little bit between the ongoing long term legacy building of a generational family business, to- I want to prepare this to sell. What are the different behaviors and targets?
+
+[00:34:07.470] - Gokul
+So let's look at cost, for example. Correct. If I'm running a business today and let's say I'm only a mitigation company and I want to get into construction. And I have no intentions of selling my business for the next seven or eight years. I may invest a half a million dollars into the construction division and say, you know what, it is what it is. I'm going to take a short term loss for a long term gain. Just give me a quick example. If I'm going to sell my business in three to four years and I'm never going to realize that gain and I go spend a half a million dollars.
+
+[00:34:37.650] - Gokul
+My business value just went down by 2 million. Completely different.
+
+[00:34:41.850] - Brandon
+Correct. Very much, though. Yeah, for sure.
+
+[00:34:44.670] - Gokul
+I'll give you another example. We get all our business to referrals. That's how you run your business. And that's okay. Correct. But if you're going to sell your business, if you cannot clearly articulate where every single dollar of your business is coming from and how there is no personal relationships involved in that. and you continue that... It's an unsellable business. I can go on and on. I'll give you one more. Let's look at accounting. A lot of people use different softwares and they don't keep true books.
+
+[00:35:16.470] - Gokul
+That means it's not cash and accrue. There's only two ways you can do it. Okay. And if you're running your business, you may get by even though it's not right, by just looking at your bank account and just saying, "okay, I got money. I'm good." Like a lot of people do, right? Yeah. So when you go to go sell your business, if you can produce monthly financials, accruals, cash with reports, accounts receivables, accounts payables, cash versus accrual. If you can't do all that and communicate that to a buyer, it's unsellable.
+
+[00:35:58.150] - Gokul
+You can't sell your business because you can't communicate the value of your business. Correct. I just picked three. Yeah. And then I'll go last one, which we already talked about, which is having a benchmark. If the business is all about you and you're the center of your business and everything is rolling around you, it's a one man show. No matter what your business is, it devalues the business tremendous. If you're running a business, you may love it. You may love being the center of attention and kind of being in the middle of all the mix.
+
+[00:36:23.530] - Gokul
+And that's great. But when you're trying to sell it, you almost want to tell a buyer I have nothing to do...  the business can run without me. Correct.
+
+[00:36:31.630] - Brandon
+That's ultimately what they're looking for, right?
+
+[00:36:33.910] - Gokul
+That's what they're looking for. Yeah. I can give you four. I mean, I can probably give you 40, but those are my top four. Four.
+
+[00:36:40.750] - Brandon
+Well, and I think what I love about those when you really look at them, as far as them becoming a prioritization of your skill set development, is it now gives that person the ability to even delegate and to start handing off some of those responsibilities and move from that self employed to that business true business owner position anyways, right.
+
+[00:36:59.950] - Gokul
+We have worked with owners. Sometimes we'll have a person call. Hey, I'm two years out. I want to retire. So we'll sit down with them and put a simple plan together. And I can tell you case studies of a case study. We have doubled the value of the company over a year and a half to two years of just preparing how to sell. Absolutely double it. I'll tell you, there's one instance I had a client. This is what, three years ago, we valued his company at 4.25 million.
+
+[00:37:27.860] - Gokul
+I worked with him for two years. And here's another counterintuitive thing. So in doing this two year process, we made him shut down three of his branches. We made him reduce his sales from 38 million to 24 million. And in that period, we doubled the value of his business. Totally counterintuitive, correct. Yeah. Yes. Because we took out all the unprofitable branches. We took out all the debt weight. And even though sales came down, his profits doubled.
+
+[00:38:01.990] - Chris
+Well and you took out a lot of the complexity, right. Which makes it more difficult for a new owner and operating team.
+
+[00:38:07.870] - Gokul
+Took all the star employees got them highly focused, got them highly concentrated, running four more branches. And you know what?
+
+[00:38:15.190] - Gokul
+All those branches started doing better now because they weren't spread out. A GM wasn't going through three different branches. This was their branch. Go run it. This was their branch. Go run it. So it's totally counterintuitive. I mean, we literally went, what, almost 30% in sales reduction plus. But double the profit and double the valuation. And sold!
+
+[00:38:37.630] - Brandon
+Do you feel like though for a lot of business owners or business leaders, they just need a voice like yours to come in and encourage them, that making that move, it sounds scary. But you can be that voice that says, "yeah, but I've done this 300 times. Trust me, these are the right moves." They just need that guidance to push through those fears.
+
+[00:38:58.330] - Gokul
+yeah, like I said, listen. Selling the businesses, like marrying the baby away, it's never going to be the right time. And we've done a lot of research on that, even for our own lead generation. And how do we need to approach and our target markets. And we found something really interesting is that very few people less than 3% actually have an exit plan, and they're saying in five years, I'm going to exit. Okay. So most of the exits are happening because of external factors in our business, in our industry, health, a marriage breaking down.
+
+[00:39:34.150] - Gokul
+One day you get up and you have one of your key employee leaves and you don't have the energy to build your company back up again. It could just be a host of reasons, right. I want to be closer to my grandkids. One day you just get up and you're like, hey, I want to move to Idaho. I don't want to be in New York anymore or whatever it might be. So most of the companies that are coming to market or when the seller is ready to sell is not a planned decision, and they're doing a huge disservice by not being ready, right.
+
+[00:40:01.630] - Brandon
+Unbelievable.
+
+[00:40:02.890] - Gokul
+So it's not planned. It's all external factors. And what I like to talk about a lot is I don't go with the voice of you got to sell. You got to sell. That's not the point. The point is, you need a company, and if your assets are locked up in it, you just want to make sure that it's a sellable asset, like think of a house you're building that no one wants to buy.
+
+[00:40:23.470] - Brandon
+Yeah, correct.
+
+[00:40:24.370] - Gokul
+It's a waste of time, effort and 30 years of work. You know what I mean? I would just wish with a little bit of preparation, you can take advantage of 20,30 years of work and people will pay you a lot of money for it. That's what I like to preach about. Or at least whenever people give me a chance to talk about is just get it ready. Whether you're doing it now, ten years from now, 50 years from now or never. Having a healthy business that you know you can sell will help you sleep at night.
+
+[00:40:56.290] - Chris
+I'd love that. Because, right. Doing the things to make your business marketable and sellable is also the things that's going to help you grow and be more successful, make more profit and be less stressed out and less anxious. And all the things right.
+
+[00:41:12.190] - Gokul
+I'll tell you a quick story. We had a client. We did the same thing. It was Jim Kobe. What am I going to do in this country? In Michigan, Michigan was shut down and they have all kinds of issues. What are we going to do? What are we going to do? And I said, Well, let's go to a plan. So I sat down with them. Here are the three or four things we can focus on. And then it got better and it got better and got better.
+
+[00:41:33.970] - Gokul
+And then he calls me. He goes, "I'm actually having fun. You mind if I keep it for another couple of years?" I say, Keep it for ten years. I don't care. You got my number when you're ready, call me. And now he's having the best time of his life running it. So that's what you want. You know what I mean? It's not about exiting. It's about having a great time running your business and just knowing that you've built something that you can cash in on when and if the time is ready.
+
+[00:42:04.630] - Brandon
+Okay, look, we want to be cognizant of time. We know you have a hard stop.
+
+[00:42:08.830] - Brandon
+So we want to be careful here. Just one last question, man. If you don't mind before we wrap it up. And I'm going to drag us back to the culture thing. From your perspective, what's the one thing, regardless if it was a family business or if it's just a MIT/RESTO company in general, what's the step that someone listening to right now can take literally today before the close of the business day? What's the one thing someone could do to set themselves in the right direction in regards to the way that we're thinking about our business and the way that the kind of changes that we want to make, to make sure that we're ready to sell? If that's a decision that we make in the near future.
+
+[00:42:47.770] - Gokul
+You talk about bench strength and culture, right. So I'll give you my own example. I own other companies here in Orlando also. And one of the companies I owned was a little pool construction business. I sold it about four months ago. I bought it seven years ago. It had the most toxic culture that you could ever find. Okay. We had almost 100% attrition rate or turnover rate in our production Department when I bought it. And I did one very simple move that absolutely transformed that business. And I sold it for full ask to the first person that I showed it to you.
+
+[00:43:20.590] - Gokul
+It's very simple when you make your plan, people always have your top three, right? You have your vision, or you say, I want to hit 20 million in revenues. I want to hit 2 million in revenues. I did a very simple thing. I said, we want to be the best pool construction business to work for in Orlando, which is where I live. Just a very simple statement. And I made it a priority. Everything flowed from there. Right. So then when behaviors were ...When my manager was cursing somebody out or not treating them right, I would always pull them aside and say, "that doesn't support us being the best company to work for."
+
+[00:43:58.630] - Gokul
+Does that make sense? It's simple. You just write it down, make it your top three. Top could be sales. The second one could be profit. The third one could be, I want be the best restoration company to work for in whichever city you're in, and you just fill in the blank. And there it is. And if everything changed from there. And then when I sold the business for the whole year, we didn't have one technician leave us.
+
+[00:44:23.530] - Chris
+Wow. That's amazing
+
+[00:44:24.430] - Gokul
+Justfrom that one statement.  and then I made every single week during our staff meeting, I kept bringing it up, bringing it up.
+
+[00:44:31.450] - Gokul
+And then there were toxic behaviors. And we were just saying, "hey, this is where you're going. Your behavior is not aligned as a manager or as a GM or as a team lead. You either bring it here or you get off the bus." And people did. My production manager quit. My office manager quit. But guess what? The new people came in. They were fresh, and we never had any issues hiring people. Then the workers go....."these guys are great to work for."
+
+[00:44:58.390] - Gokul
+And then people would call us. Technicians would call us all the time. "Hey, you got something? Let us know." So it's a very simple concept. You got to make it a priority.
+
+[00:45:09.190] - Brandon
+I love it. So that's it. You guys today. That's the step.
+
+[00:45:13.390] - Brandon
+Sit your butt down, get a piece of paper out and be intentional about deciding what kind of place you want to build and what kind of people want to work for you? Because clearly it's going to be the lead initiative to all these other things.
+
+[00:45:27.490] - Gokul
+Especially nowadays, when people have more choices than ever.
+
+[00:45:30.130] - Brandon
+It's unbelievable
+
+[00:45:32.050] - Gokul
+How you treat people and what you can do for them is it's not just the right thing to do. It's just good business. It's just good business.
+
+[00:45:44.270] - Brandon
+Hey, brother. Where are we sending people to get more content from you to get more experience from the things that you're bringing to the market. Where do we send them?
+
+[00:45:53.570] - Gokul
+[ comment: http://www.rbasales.com ] Yeah. I mean, you can go to your website. I'm sure you're going to put this up on your website. They can come to mine. Or if you want to go to ours directly, it's http://www.rbasales.com And we have all kinds of content and everything in there.
+
+[00:46:08.570] - Brandon
+Right on, man. We'll put it in the show notes, and we will continue to follow you. It's been a pleasure. And thanks so much man for taking the time to hang out with us.
+
+[00:46:14.690] - Gokul
+You guys are doing fantastic stuff man, keep it up.
+
+[00:46:18.410] - Chris
+Thank you very much.
+
+[00:46:19.610] - Gokul
+All right, take care.
+
+[00:46:22.370] - Brandon
+Everybody. Hey, thanks for joining us for another episode of the MRM podcast.
+
+[00:46:26.510] - Chris
+And if you got something out of it, share it with a friend. Hit subscribe Hit follow. Leave us a five star review. Thanks a lot.

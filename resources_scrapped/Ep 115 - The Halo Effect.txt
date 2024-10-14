@@ -1,0 +1,433 @@
+﻿[00:00:07.450] - Chris
+Welcome back to the head, heart and Boots podcast. I'm Chris.
+
+[00:00:10.870] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:00:17.650] - Chris
+Man, I love this industry.
+
+[00:00:20.770] - Brandon
+What's up, dude?
+
+[00:00:22.110] - Chris
+You beat me to it. I. I'm excited, man. Just for the record, I've been trying to get us to do this on the road for how many months?
+
+[00:00:30.880] - Brandon
+We bought this, I don't know, a year.
+
+[00:00:32.590] - Chris
+Lapel mic setup for traveling, and this is our first time officially using it, so I'm excited about that. I like using new gadgets.
+
+[00:00:39.360] - Brandon
+That's right. This is our first episode from a hotel room, so no video accompanying this bad boy, but we'll get it on the next one.
+
+[00:00:45.870] - Chris
+And just to set the stage, we're staring out at palm trees and hotels and can we see the Pacific Ocean?
+
+[00:00:51.080] - Brandon
+We cannot kind of.
+
+[00:00:52.530] - Chris
+Well, kind of, sort of. Chase.
+
+[00:00:54.710] - Brandon
+That's right.
+
+[00:00:55.320] - Chris
+There's a color out there that looks like water. Yeah, we're hailing from Cocoa Beach, Florida, south of Orlando. And, yeah, can't complain about the view before we get into this show. We've got a good show. We're digging into customer experience, aren't we?
+
+[00:01:09.100] - Brandon
+Yeah, absolutely.
+
+[00:01:10.790] - Chris
+It's something that we're routinely inspired about and convicted about. And so it'll be fun to jump into that. But before we do, let's thank our sponsors. First of all, liftify.com. Liftify.com forward slash floodlight. You know how big of fans we are. This is a critical area for your business, for your sales and marketing. The Google reviews that we get not only feed us in the form of organic search results, make us more likely to be presented at the top of the list than our competitors. Regardless of how long you've been in business, right? I think that's the thing we've learned over the last year. If I, as a new business, can get the recency working in my favor, meaning I'm getting one, two, three Google reviews every week, I very well might beat out. My competitor has 200 Google reviews that hasn't gotten any for four or five weeks. So that's the opportunity. And liftify can help automate that for you, give you a tried and true system so that you're converting more and more of your jobs into Google reviews.
+
+[00:02:10.900] - Brandon
+That's right. All right, so we're only a few shows in with these guys, so actionable insights, obviously, folks that we've been partnering with and paralleling for, I mean, more than three years at this point, but finally kind of formalized that friendship and they're supporting the show so that we can continue to do what we do with HHB. And that's pretty exciting. But the long and short of it, what we want to point out or highlight right now is just that actionable insights profile that we can be leveraging in our favor in xactimate. So not only good use in terms of even our seasoned veterans making sure that we just stop forgetting what we've forgotten, right. And we start taking advantage of all those little things that once they are implemented, they add up and can make a huge difference in terms of profitability and our ability to negotiate and settle on scope. But then just as and maybe even more powerful is when we're onboarding new team members, the ability to have a profile. It's essentially an AI partner that's writing that estimate right alongside of you. And as we're entering in core elements of that scope, it's reminding us, hey, since you've done this, have you considered XYZ, making sure that you're adding those things that when used in conjunction with one another actually then take care of that full piece that we're trying to address in our scope.
+
+[00:03:26.060] - Brandon
+And I think just the fact that it's live, that instead of it being something that you're trying to audit post, it's writing right alongside of you and ensuring that what you're writing is as effective as possible, it's as profitable as possible and honestly can be negotiated at a much faster pace because it's better documented and more well supported. So the actionable insights profile is a super powerful tool. Go to slash floodlight and you'll see some of the opportunities there for you guys to save and implement that profile in your business.
+
+[00:03:58.990] - Chris
+Excellent. Answerforce.com. I mean, listen, today's show, we're talking about customer experience. And where does your customer experience begin? Well, that's a complicated answer. That's a little bit more sophisticated answer. But I think traditionally it's when that phone rings is how we think about it. And what is the value of every phone call that your company takes in? I think we don't spend enough time talking about that. And so what happens when your receptionist takes lunch? You just forward your phones to whoever happens to randomly answer in the building, right? Are they going to provide the same consistent call intake process? Are we going to get the same conversion rate on that opportunity that we would if that trained receptionist was taking it? Well, one way to ensure that is by partnering with answerforce.com. Right. The benefit to them as a call intake partner is that you can scale up and scale down your use of Answerforce all via an app, right? So if you have a storm event that happens, you get a huge influx of calls. Utilize answerforce to take that overflow when your receptionist is on the phone, have it roll over to answer force, and they'll apply that same intake process that your receptionist is to maximize your opportunity of actually getting that forward slash floodlight.
+
+[00:05:16.370] - Chris
+If you don't already have a call intake partner to create some redundancy in your system so that you maximize the value of every single inbound call, you owe it to yourself to do a demo. So check them out. Forward slash floodlight.
+
+[00:05:29.700] - Brandon
+All right, you guys, CNR magazine, as you guys know, she is what we deemed a friend to the industry, certainly has been a long term partner and friend of ours as we've continued to navigate the industry. And I think at the end of the day, there's just a core focus on and principle of ensuring that she's providing value and good content, honest good content to the restorer so that we can be more empowered, more informed, make better decisions, and honestly leverage the content that they're providing us to help train our team, equip our team and give them a more rounded perspective on the industry as a whole. So CNR Magazine guys, if you're not currently subscribing and you're not currently getting content from their podcast, from their print media, from their online media, do yourself a favor and make it happen. It's worth the, what little effort that you have to put in to get subscribed. So, CNR magazine guys, do yourself a favor, get subscribed. All right, Chris, this is kind of an interesting topic. So we went and hung out with some friends that as of today will go unnamed, but we may bring them up later.
+
+[00:06:32.780] - Brandon
+And as part of this open house, if you will, where we were kind of hearing and learning more about their internal culture and what they focus on, they brought up this concept of the halo effect. And I'm just going to read the actual definition of the halo effect here. And then I think it's going to be pretty easy for people to see or connect the dots to customer experience. So the halo effect is a cognitive bias that claims that positive impressions of people, brands and products in one area positively influences our feelings about them in another area. So just to kind of maybe summarize this in a way that my head is thinking about it, the idea is that when we make a positive impression or give somebody the opportunity to experience something positive, in regard to our people, our brand, our products and services, that there's a high chance then that that positive experience will create a bias in them where they're looking at other elements of that brand and experience in a good light, in a positive light. And so the question here is, can it be true in the opposite? And from what we understand, the case is.
+
+[00:07:46.930] - Chris
+Yes.
+
+[00:07:47.730] - Brandon
+So, Chris, bring us in on this. Obviously, this is an area of the business that you really have hyper focused on. It's been a passion of yours for years and years and years. When you heard this whole kind of idea of the halo effect, what was kind of like the first thing that happened in your mind when that fired off?
+
+[00:08:04.030] - Chris
+Well, just thinking about all of the instances, all the moments on the customer experience chain that we neglect and we don't pay attention to. In fact, I would say as restorers, we pay. Generally speaking, and I'm saying this is a sin that you and I carry and have carried in our career as well, is that we tend to hyper focus on the nuts and bolts delivery of our services. And we talked about this in the early days, dude, with our leadership team, in that we can sink into the trap or fall into the rut as restorers of, hey, we're going to do a quality job on time, we're going to do what we say we're going to do, like the good old fashioned customer service. Right? And we used to kind of joke internally about the fact that, well, duh, that's the minimum expectation that every customer has of us, is that we're honest. We show up on time, we do what we say we're going to do, we're going to deliver a quality product. And we can sometimes get in this position where we're hanging our hat on that. And as a consequence, we don't really give much of any real intentional thought and strategy to the first impressions we're making, the big and small impressions we're making subsequent to those first impressions.
+
+[00:09:21.370] - Chris
+Right. We tend not to think about the details. We also tend not to think about the kind of connective tissue between these moments, how we make people feel as we're doing a quality job, showing up on time, doing what we say we're going to do. Because, again, the reality is every company ought to be aiming for that, like achieving that minimum standard, because that's the baseline expectation that a chief engineer, a director of facilities, an insurance agent, a homeowner has, is that we're going to do those things. And yet therein lies, I think, the opportunity to differentiate and to brand, to make a name for ourself. Like, what is your brand? But the way you make people feel while you're doing that stuff.
+
+[00:10:10.210] - Brandon
+Yeah, it's interesting. It kind of makes me think about the idea of claim fatigue. Right. And we've talked about this, I think, in previous shows where there's this scenario that happens with our client where mainly because before the project started, they weren't really at full energy levels.
+
+[00:10:25.840] - Chris
+Right.
+
+[00:10:26.010] - Brandon
+It's not like they came in with.
+
+[00:10:27.340] - Chris
+They're coming in compromised.
+
+[00:10:28.530] - Brandon
+They're coming in compromised, like the equivalent of, like, they already have a battery that's at half power. Right. And so the experience can build up in such a way that fairly quickly into the project lifecycle, they can start to have claim fatigue. And what I think is interesting about that is that we undervalue or underlook at the fact that our people get claim fatigue. And so, like, an example is, it's pretty common. I'm just going to speak for myself. When I was a project manager, I would start every project fired up, excited. It was a new loss, a new relationship. I'm earning the rapport. I'm building trust. I'm setting the stage for a great job. I'm doing everything as proactively as I can. And the longer that project goes on, it becomes less sexy. And now it's like one of 30 jobs. Right. And I begin not giving it the same level of attention that I did at the beginning of the claim. And so in my claim fatigue, I don't necessarily finish strong. So I can't tell you how many times I got a project that, let's say it was three months long, a fairly good sized recon project.
+
+[00:11:35.470] - Brandon
+In the beginning, it was all bells and whistles, and by the time I got to the end, I just was trying to get the job done. And I think what I undervalued in those moments is what was the feeling I was beginning to create for my client as the claim went on longer, understanding now looking back, like, how much fatigue were they experiencing?
+
+[00:11:55.900] - Chris
+Yeah, if you're tired, how tired is the client?
+
+[00:11:57.810] - Brandon
+Exactly. And so I think that it kind of comes back to this whole piece of this halo effect is, yes, there's power in it when we start strong, but I also think just kind of the way that we see negativity in general. It only takes a couple of negative experiences in that claim that ultimately, I feel like they then overshadow anything that we did to create a good experience, potentially. And if we think about how likely it is for us to experience claim fatigue towards the end of the job if we lose sight that we're trying to manage the halo effect still, we could ultimately work really hard to get to the end of a three month, four month project and actually present an okay product instead of a great product or great experience.
+
+[00:12:43.380] - Chris
+So then the question is, what are those things that contribute to that halo effect? My feeling is, so in the context of this conversation we had with this friend, as we were looking at their business, touring their business, if I recall correctly, when they brought up this idea of the halo effect and how they try to really major on it, it's a focal point. It's something they talk about as a team. It was in the context of that initial response. Right. And in particular, they have a very strict standard when it comes to their uniforms, which is smart. And you and I were obviously on the same page with them of just how important uniforms are. And we could almost do a whole show on the importance of uniforms and how to maximize that impression, how to use uniforms to maximize and build your esprito core, the team spirit, the points of pride within the team, let alone the impression we can create for the customer. So uniforms, I think we could go off there for a bit, but for them, they essentially maintain a zero tolerance policy with regard to their uniforms. It's like, look, you show up in blue jeans, and our standard is khakis or gray pants, then you're going home.
+
+[00:13:53.800] - Chris
+There is no, hey, we'll just remember for next time. It's like, no, you're out of process. I'm not putting you in front of a customer looking like that, period.
+
+[00:14:02.530] - Brandon
+And they actually went back. And again, we have to be careful. Some of the detail we give. But it actually went back. They started with the impression their vehicles were giving right out on the open road, and they talked about how they think about damage on a vehicle and how it attracts the eye. And then when someone sees damage on the vehicle, if it's a negative thing, which we would assume our first impression about damage on a vehicle would be negative, then the halo effect starts. So then it's like, well, I wonder. And even it's very subconscious is the idea. But there's like an erosion of trust that already started, and we haven't even had a chance to actually interact with the client. Right.
+
+[00:14:42.430] - Chris
+That's a whole nother subject. Right. The marketing, the vehicle wraps, the design, the way that we think about. And again, really what it came down to is, are we being self centric as a company? Like, is a lot of our marketing, us promoting ourselves, or is it trying to connect with the customer? And I think that's the thing that it's really one of the themes I guess we're talking about right now is how do I tune more into what the customer is feeling, what their impressions are as we show up, we roll up on their business or their home. What does it feel like, look like, sound like for them? And how do we optimize for that? Because I think one of the things that's also at play in our business is that there's really no such thing as a perfect project.
+
+[00:15:30.620] - Brandon
+Yeah.
+
+[00:15:31.420] - Chris
+In the sense of the type of work we do, that's what we've signed up for, is it is impossible to be the white knight, to pull off a perfect project where all the stakeholders are happy with the outcome. It's just not the business we're in. And so I think it's important. I think we can leverage the halo effect throughout our relationship with the client. It kind of hits on this idea that certain good things can cover a multitude of sins. Like, we know we're going to sin, we know there's going to be big and or small project failures that either we caused or one of our stakeholders or one of our partners or the adjuster caused or anything. But as the restoration company, the burden is kind of on us to write the ship. The adjuster is not going to go out of their way to create a positive claim outcome. That's not how they see themselves in their job. That's not how they see their role. And as the restoration company, we really are in charge of leading that claim experience. And so I think it's on us to identify along the whole customer experience chain from the very first interaction that they have with us, it's on the commercial side.
+
+[00:16:46.850] - Chris
+You can think of the customer experience chain as the very first interaction they have with us when they have a need to, the most recent interaction that they've had, and for us to think through and say to ourselves, all right, what is in our control? Because there are things that are out of our control. So how do we focus in on what things are within our control? Where do we have an opportunity to prethink and pre plan about certain moments in that timeline? And how can we optimize for them so we can leverage that halo effect, that somebody coming out of that restoration checklist meeting with the project manager has that holy shit moment where they take a deep breath, their shoulders finally slump, they feel less stressed out because they have a clear sight picture of where things are going. How do we identify more of those moments in the lifecycle of that project and that customer interaction so that we can maximize the good feelings and that halo bias.
+
+[00:17:48.890] - Brandon
+Yeah. It's like making deposits along. It is.
+
+[00:17:51.740] - Chris
+Right. This is all the same shit. Right.
+
+[00:17:53.540] - Brandon
+Make the deposits, because inevitably something's going to happen.
+
+[00:17:56.860] - Chris
+We're going to make withdrawal.
+
+[00:17:57.890] - Brandon
+Try to make a withdrawal. Right. And just for the sake of clarity, in terms of what you were wrestling with there, the idea is, don't hear us say it's impossible for us to do the job correctly. No, we're just highlighting the fact that there are multiple stakeholders that often don't actually have the same outcome in mind. And we're all aware of what that looks like. The fact that there are things about a compressed construction schedule, meaning that someone didn't have time to prepare for this experience. That's going to create variables that sometimes outside of our control are going to pull a withdrawal right from that account. There's all these little things, and so we have to be constantly making deposits. But as you were talking, man, this is kind of what came to my mind is, okay, what could we do in terms of this conversation to leave the listener with just some concrete anchor points to be thinking about as a leadership team? Okay, what has this experience been like so far for us and our business? And is there something that we could tweak, modify, and make it better so that it's not a shotgun blast?
+
+[00:18:57.870] - Brandon
+But let's give folks a little bit of some clarity on where to start spending your attention. And so we've highlighted two so far, one being our brand impression in the public sector. Now, I think what is important here for people to understand or the public market is this is social media. This is uniform. This is what my guy or gal says in the line at Home Depot. This is our trucks. And so I think there is.
+
+[00:19:22.200] - Chris
+This is how they're talking when they're at Jack in the lunch, on lunch.
+
+[00:19:26.840] - Brandon
+How they're carrying themselves, how they're. Oh, and this came up, actually, we're talking about a commercial client, potentially, let's say, having someone in their team hearing, because they're an unknown person in the restaurant next to the contractor and their people, and they start talking about this job very openly in this public environment, and this unaddressed or unidentified person hears it and they're uncomfortable. But this team is talking publicly about my company and the work they're doing on it. Right. That would be an example of out in the public. What are we saying? What are we doing? So it's that pre contact, if you will, impression. Right. Then we talked about that first call, or we started to think through this first call. What happens in terms of first call? What is the impression? Right. We allude to a partnership with folks like Answerforce. Like, okay, they've seen your brand in public. Hopefully we've engineered an experience that set a positive stage. The halo effect is in our favor. They then have something happen where they call us. What is the principal feeling that we're creating in that moment? Is there confidence, competence? Is there a sense of urgency?
+
+[00:20:37.060] - Brandon
+Right. Are we responding in a way that gives the impression to this individual, you are very important, and we are going to prioritize you in this moment.
+
+[00:20:47.660] - Chris
+Dude, it takes me back, and we've touched on this before, but I think we can't underscore it enough. We brought in, they were kind of like a life coach to our team, and they taught us the three subconscious questions that every consumer asks, including ourselves. Right? Can I trust you? Do you care about me? And can you help me? And can I trust you? Is we draw on that from everything, from initial appearance. How does that person smell? How does that person talk? In the first 5 seconds, we make a judgment of whether somebody's trustworthy. Right. And it takes into account all of those feel, felt, found, kind of their experience with other people. They're making judgments immediately when they encounter us. The whole, do you care about me? That happens in the subsequent two or three minutes of what kinds of questions are we asking? Is this person in front of me more focused on me or more focused on selling me? What is their motivation and what are they trying to do? Right? And then can you help me? Being the question of, is this person in front of me competent to do what I need?
+
+[00:21:54.540] - Chris
+Do they seem as though they have the intelligence, skill, tools, resources to help me with the thing that I need help with? Right? And then this is all subconscious in the customer's mind. It's like if we had a minority report screen where we could read the thoughts in their mind. Those are the things firing off. Are these internal questions that the customer has, and they're comparing it against the experience they're having with our person or us in that moment. And so I think it makes perfect sense that, first of all, our appearance and our smell. Now, this particular client that we were talking to, they run a smoke free work environment. And, dude, I think it's almost impaired if you want to be a differentiated apex player predator in the market. If you say you're the best of the best. Your people cannot be rolling up on a front door or a business with the smell of cigarettes lingering on them.
+
+[00:22:55.420] - Brandon
+And it's tough because, and again, this is not specific to a smoker or non smoker. I just know from personal experience it is very difficult for you to have correct context when you're the smoker. You are oblivious to the fact of how overwhelming the smell and the bad presentation. We're just kind of calling it out. There's no nice way to say it. If you're not a smoker and you stand next to a smoker who in the last really at all has had a fresh cigarette. It is absolutely overpowering. It ain't a kinda. It's overpowering. And if somebody hates that already, it is ten x on something that is already overwhelmingly powerful.
+
+[00:23:37.760] - Chris
+You are starting out behind. Like, you're starting out behind, right, wrong or indifferent. Yeah. And that's the thing is it doesn't matter how you feel about that. It doesn't matter what. You have a right to any of that stuff. And so I just think that's interesting. And granted, we're in an industry where I think maybe there tends to be a higher proportion of people that smoke. It's a stressful job. A lot of people cope with that using nicotine and so forth. So get it. Switch to a vape if you have to have your nicotine and that's how you cope, then fine, I get it. Totally get it.
+
+[00:24:12.850] - Brandon
+And that's same with chewing. I was a chewer for eight years, man. The military just bred that into us. And the reality of it is spit bottles and a big old chaw in your lip when you go walk up to present yourself again. It doesn't matter how you feel about it. Are we playing to win? Yes or no? And if the answer is yes, we have to be cognizant that that's an impression that we're giving. And again, if the audience is anti that we're starting behind the power curve. We are going to create some halo effect. And I don't believe that halo effect is in our favor. I think it is absolutely taking from us before we've had a chance to really be conflicted by actual variables outside of our control. Right.
+
+[00:24:54.430] - Chris
+And for those of you that are smokers, and you'll smoke a cigarette in your rig before you get out, just know all of your years of experience, your knowledge, your care for the customer is likely getting discounted before you ever open your mouth. They're thinking less of your knowledge, experience, and how much you can help them.
+
+[00:25:16.540] - Brandon
+That's right. That is the halo effect. In effect. That is it. It is someone having an impression of something in their experience, and it begins to take away or add to how they feel about you elsewhere. And literally, by definition.
+
+[00:25:29.940] - Chris
+And do you care about that?
+
+[00:25:31.320] - Brandon
+Do you care to win?
+
+[00:25:32.240] - Chris
+Because we can say, well, the hell with them. That's their bias. And it's like, well, okay, but you're a business, right?
+
+[00:25:38.540] - Brandon
+Yeah.
+
+[00:25:39.530] - Chris
+You want them to pay you. Right? Whether they like your smoking or not. So anyways, I think that's just a great example, and I think that's something that people can make a choice on.
+
+[00:25:48.590] - Brandon
+100%.
+
+[00:25:49.070] - Chris
+Look, you're addicted to nicotine. Totally get it. We all have our stuff. Switch to a vape. Problem solved.
+
+[00:25:55.070] - Brandon
+Yeah. Do something. Right. Okay.
+
+[00:25:57.400] - Chris
+Modulate.
+
+[00:25:58.110] - Brandon
+We kind of got in there. No.
+
+[00:25:59.360] - Chris
+Okay. But I think this is good to give a few examples of this and what those are. So the halo effect, like you supposed about when we first started talking, is there's a way to establish that halo effect through a positive behavior or experience, intentional, proactive behaviors. But then there's also a halo effect. Sort of a devil on your shoulder kind of. I guess. I don't know what to call it. The negative halo effect, where when people have a negative impression from us, that that also carries forward, and we tend to talk about it in terms of a micro disappointment. A micro disappointment being that thing that all of us feel and experience, but we're not ready to complain about it. A micro disappointment is one of those things that happens with somebody who's selling us something, a service we provided. It could even be a product that we bought. A micro disappointment with a product that you buy. Right. Could be you spent a fair bit of money on something, and the packaging was just really chintzy and difficult to open. This is one of the things that Apple just nails. Apple just nails this.
+
+[00:27:02.900] - Chris
+Apple is known for the way they package things. It feels like, gosh, they spent almost as much on the packaging as they did the gosh damn product is how it feels. The way you have this little tab and you just peel it and it opens easily, and then it all fits so perfectly inside each other. Well, that's them doing the halo effect. Well, the same thing is true when you buy something that's supposed to be nice and the packaging is cheap. Well, likewise, we allow, I think, in our process, all these micro disappointments. You brought up the whole claim fatigue claim fatigue is a real thing. And another thing that we've experienced and we've had feedback from customers on once we got good at asking the right questions, is the negative impact of the silent phase in a recon project? We get done with demo, our MIT teams are finished. The PM begins transitioning that relationship into the recon portion. And it really depends. I mean, now it's gotten worse because there's a shortage of adjusters. It takes much longer for the adjusters often to get engaged in a project. And likewise because they're so overloaded with files.
+
+[00:28:13.400] - Chris
+The whole negotiation phase where we're negotiating scope, and in addition to that, we're lining up subs to address that scope. We're getting our bids, we're preparing the project, doing all our precon budgeting and so forth. To the customer, it feels like nothing's happening.
+
+[00:28:29.380] - Brandon
+Yeah, they can't see. It's not tangible for them.
+
+[00:28:31.700] - Chris
+They're still just really mired in the stress of when is our kitchen going to get put back together? We've talked about this many times that it's just Murphy's law that when people have damage events, whether it's a business, a professional facility manager, or Mr. And Mrs. Jones, it just seems to always happen. They've got other stressors in their life. Like, we're not the only difficult thing they have going on. And then it feels like nothing's happening. And so we've, I think, talked in the past before about how important the restoration checklist meeting is and that we intentionally discuss those negative points that we know through our experience.
+
+[00:29:11.520] - Brandon
+Are coming.
+
+[00:29:12.240] - Chris
+Are coming.
+
+[00:29:12.880] - Brandon
+Yeah. They're common.
+
+[00:29:13.650] - Chris
+And so not just the silent phase, but then talking to them proactively about the ongoing claim fatigue and how that might feel, how that shows up and even regularly bringing it up ahead of time. Hey, guys, listen, we're six weeks in. Because of the back ordered countertops. We know we've at least got four weeks left. I just want to talk about this. You guys are probably going to start feeling pretty frustrated, right? That things don't seem to be happening as quickly as possible. That's normal. Just us being intentional and proactive about having those conversations. In some cases, aspects of the job that we can't really do anything about except to talk about them in advance.
+
+[00:29:54.890] - Brandon
+That's right.
+
+[00:29:55.700] - Chris
+Can help reduce the number of micro disappointments that are going to accumulate 100% by the time we get to the end of that job.
+
+[00:30:02.380] - Brandon
+Yeah. So let's think about this. I mean, these are all spot on. Okay, so we've got first impression out in the market, right? Those indirect contacts? What are people thinking and experiencing in our branding, our trucks? Are they clean? Are they not full of dents and damage and broken side mirrors? What is the relationship like between our salesperson and those first initial contacts with that prospect? Then the first call, what are they experiencing when they first make the commitment and reach out and make that phone call? What is being asked? What kinds of questions? What kind of communication are they receiving? Are we answering those three universal questions? Then we moved into that first impression when we start the job that first day on site, interacting with the client, setting good expectations, talking about these moments that we know are going to likely try to take a withdrawal right from the account. What are we doing to manage those? I think there's two more key areas that people can think through. One is now the ongoing maintenance. And you touched on it a little bit in terms of reiterating some of these things throughout the claim of, hey, this can feel this way.
+
+[00:31:08.710] - Brandon
+Are you there? Is this something that you're feeling right now? Can we address that? What can we do about it? But I think it's the other things. It's the other elements of, let's say, ongoing communication that really have a profound effect. One thing that we've talked about in project manager episodes specifically is this idea of what happens when we as a project manager, go into a project, post a trade that's recently been completed, and we do our customary quality check. Right? One scenario that I see happen all the time, as an example, is I'm a project manager. I'm seasoned. I've been around the deal a few times, right? I go in, I see some stuff I don't like. I immediately pick up the phone and begin communicating with my sub. I have a plan. I've seen it. I know there's a quality issue. I've already began to communicate that with my sub. I have a plan. It's being executed on well in my mind, I'm good. The challenge is, though, as I've done nothing to inform my client, and here's the kind of scenario that can unfold, I go home for the day. My client comes home, they see the quality of work.
+
+[00:32:10.350] - Brandon
+I have not proactively called them and said, here's what I found on your behalf. Here's what I'm doing about it. I just want you to know. And instead, the client calls me pissed off at 06:00 p.m., yeah, this looks like shit. And says, dude, the paint in the living room looks like shit. And then my response is, I know I was there. This afternoon. I saw it. I'm all over it. I've already talked to my sub and we're going to take care of.
+
+[00:32:31.890] - Chris
+The damage is already done.
+
+[00:32:32.900] - Brandon
+The damage is done. The impression that we've given is that we didn't protect our client and they had to protect themselves.
+
+[00:32:39.570] - Chris
+And what is the story in the customer's head likely in that example? Because dude, that example is happening everywhere, all across the nation right now.
+
+[00:32:48.340] - Brandon
+And the sad part is, if I'm a pm and I get that phone call, I often walk away. Still not understanding that was a potential problem.
+
+[00:32:55.880] - Chris
+Not understanding what the story is in the customer's head. So what is likely the story in the customer's head? This company I'm working with, this project manager, is bringing in shitty subs. So then they're going to be on high alert for the whole duration of the job. Every trade that comes through, they're going to be anticipating that. And what's some other potential stories? They're hiring the cheapest possible. And so I'm getting shitty work.
+
+[00:33:22.220] - Brandon
+And here's the reality. When they call us and we say post that we've got a plan, we're doing XYZ. You need to understand that that sounds like the same BS story that we all get in different venues in our life and we all kind of smell the bullshit. Oh yeah, right. So even if you're absolutely on point, it doesn't matter. The story got allowed to be created and now the halo effect is working against you, right? Even if none of it's fact, it doesn't matter. We won't go into that on this episode. So the idea then. Okay, well, what would we do in that experience? Okay, I'm a project manager. I see the quality issue. I immediately fire a phone call or a message over to my client that says, hey, doing my standard post trade review doesn't happen often, but sometimes we run into a scenario where the sub just does not hit the mark. I'm looking at the project. I'm not happy with the outcome. Here's what I'm going to be doing. I've already started communication with the sub. Just keeping you informed.
+
+[00:34:21.130] - Chris
+Entirely different outcome.
+
+[00:34:22.550] - Brandon
+Entirely different outcome. Instead of creating stories in our clients mind where they're questioning where the halo effect is working against us, this is one of those scenarios where it's like they are going, wow, I've got someone looking out for me.
+
+[00:34:36.380] - Chris
+Brandon's on my side, advocating for me and holding the line on his side.
+
+[00:34:41.500] - Brandon
+Look at this guy. He's thinking about me. He's protecting me, right? It's proactive. He's keeping me up to speed. Now when I come home after work and I see the thing because I'm going to go look, yeah, right. When I see the thing, I go, yeah, he's right. I'm glad he's all over it. Total different experience in that scenario. What we've done is we've created a halo scenario where now what happens when just a little hiccup, they're going to be coming from the perspective and the assumption of, I trust this guy, he's looking out for me. He's already protected me in multiple experiences so far.
+
+[00:35:14.230] - Chris
+All right, Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, bloodlight consulting group. As all of you, you know, Brandon and I, this is our passion project. Headhart and Boots is. But it's also a way more and more that our consulting clients find us and in effect, they interview us. Right? Those of you who've been listening to show for a while, you get to know who we are, right, what we're about. So if Headhart and Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow. And we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:36:13.420] - Brandon
+That's what we do.
+
+[00:36:14.440] - Chris
+That's what we do is we come alongside restoration company leaders, we help equip them and we help support them in that growth trajectory. So if you're looking for that, go to floodlightgrp.com. Potentially we could be a great match for each other.
+
+[00:36:27.580] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our premier partners. We work really hard to vet those folks that we believe bring a level of value to the industry, that it can really be leveraged in a way to have a sincere positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring we see value in the way that their leadership teams and their partners are developed. And we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out floodlightgrp.com premier partners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business. So pre direct experience, first call the marketing experience where my salesperson is interacting. Then we've got project launch. Then there's this other kind of hotspot where it's this ongoing project management. What are we communicating?
+
+[00:37:36.840] - Brandon
+How are we communicating? And is it creating the type of experience where we're building trust, where that halo effect is in our favor? And then finally, man, when we begin to close the loop on a project, again, we kind of highlighted this idea that project managers can get claim fatigue where they're not as hyper focused on really closing the deal. And so it's our final days on the job is another highlight that I think people need to consider and process what they're doing. And then the second one is, what does the invoicing and collection experience look like? Have we began to lose touch with communication from our internal stakeholders? Does our invoicing admin team, are they on point with a good understanding of what is going on with this project? Are we going to accidentally send cross communication that steps on each other that sends two different signals? Are we going to accidentally begin making collection calls on an account that's net 60? Like what are we doing in those two final anchor points of closing the job operationally and then closing the job from an administrative invoicing perspective? What are we doing to create a halo effect that's in our favor, right?
+
+[00:38:54.810] - Brandon
+Because the reality is now, is now this person's going to go out into the open market and talk about us with peers, partners, bosses, subordinates, whatever the case may be. So I don't know from your experience in that, not necessarily the closing of the project, but when we begin to administratively tie the bow on this, you've worked with a ton of commercial accounts where we kind of stepped on our toes when it came time to invoice because you had an understanding, the client had an understanding, our internal team had a different understanding, and then we accidentally step on ourselves. Like, what did you see and what can we do to do a better job of tying the bow on it?
+
+[00:39:33.190] - Chris
+Well, the biggest thing, right, there's so many things that can go wrong between sales operations, admin and one of them is, we don't have a clean document package that's the same every single time. It's a big part of it. And. Or we don't have a clean system that we're walking through. Right. Or we don't have somebody that's facilitating or managing that process. So I think I was just talking with somebody yesterday at a conference, and I made a joke. I said, I'm surprised at how so many companies that are even at five or even $10 million or more completely lack process and procedure and standards. And this person laughed, and they said, dude, we're at $6 million, and I've been operating with almost no process. I'm like, okay, yeah, that's where some of us are at. And therein lies the problem, is that you are constantly stepping over one another because you're winging it. You're winging it. It's like you're running your business off of a checkbook and handwritten invoices, so to speak. Right? So we might be using tools like Quickbooks. We might even have a job management software, but we don't have a consistent framework of process.
+
+[00:40:46.460] - Chris
+And whenever you don't have a religious process that the whole team knows and is following, that final project wrap up is almost always going to be some kind of soup circus where we potentially step on ourselves, look like goons because they're getting multiple calls at those intervals. So that's a problem. I think, too, from a sales perspective, your salesperson wants to get paid because their commissions are tied to closed and collected work. So that's one motivation your salesperson has. Also, they don't want to end up with egg on their face. When there was a good project, we took it to completion, and then the customer was pissed about something that happened at the end of the project, whether it be a punch list item or they get frustrated because, like you mentioned, we have an agreement that their company pays on net 45 or next 60, and my AR team is badgering them in 30 days. Right. And so then the salesperson gets involved. And so, wait, no, our MSA says they pay net 45, or we agreed to net 60 with this client. This is a huge portfolio. What's happening? Why are you doing.
+
+[00:41:58.230] - Chris
+And then Ops gets pissed off at them. AR is pissed at the sales rep kind of getting out of their lane. But again, a lot of that just comes back to, do we really have a process that everyone understands?
+
+[00:42:12.420] - Brandon
+And is the process being implemented or designed in such a way that it's prioritizing the customer's experience. And I know it's kind of a sticky wicket from the perspective of a lot of our systems. We have to understand them from a CYA perspective, reducing liability and risk to us as a company. But I think the interesting thing is, if we're honest, is that nine times out of ten, if we design a system that's really about honoring the customer's experience, it will normally be the same things that ultimately protect us or reduce risk and liability. So it's not like they're mutually exclusive. I just think that if we start from that side of the fence, we have a very high chance of earning the rapport and respect of both stakeholders, us internally, and the client themselves. I think one thing I want to highlight too is, as we kind of look at that, one of those final anchor points for us to be introspective about is operationally what can take place in order for us to have the strongest finish. And I think an undervalued space commonly is a couple of things. Three, actually. One is a construction timeline, meaning an actual Gantt chart or production schedule.
+
+[00:43:22.870] - Brandon
+Another one is something that very much so and very clearly memorializes my clients choices, meaning the selection of finished materials, and then thirdly would be really formally documenting and then meeting to review a change order. And so those three areas tend to be stuff that we kind of move over during the project. And then when we get to the end of the project and begin trying to close that out, we have now started to have to step on these landmines that we accidentally planted without really any forethought during the project lifecycle. So just really quickly, I just want to highlight that in a project schedule, the advantage is that when things move, because of the variables that affect a construction project, it forces us to have open and proactive dialog with the client about movement in that schedule. So it's as much for them as it is for us to ensure we have the right conversations, because shit happens and we can forget. In terms of client selection, we memorialize that because it is not uncommon for people in a loss environment or scenario where they come into the project kind of scatterbrained, full of anxiety, behind the power curve, where they tell us, I like x.
+
+[00:44:41.920] - Brandon
+And they saw it on a piece of sample that was four inches by four inches, and now that they have 1200 it, it's a bit of a mind shock. Right? And the problem now is it's now my job to argue and articulate the fact that that was their selection. Well, if I had that skew and that color and it was signed by the customer that they selected it and agree to the finished result. That changes the kind of experience that we're setting the stage for, right? And then just as importantly, it's just helping them remember what did I choose, why? What is the brand? What is the type? What's the finish? Because ultimately they may want to do some repairs or changes in the future and we've now equipped them with the ability to make that okay. And then finally, when it comes to change orders, there is something that happens so consistently where again, for the right reason, I'm trying to do the best I can. I'm trying to adapt and overcome for my customer. I'm actually making these modifications on their behalf. But then we don't document it correctly and we get to the end and that same thing.
+
+[00:45:50.910] - Brandon
+It's like no good deed goes unpunished. We accidentally create a scenario where all that effort that we put in actually creates a bone of contention and we create a negative halo impact on the job. So when we talk about change orders, we get very clear about how this will affect the timeline. We collect deposits up front. We're very clear about where is the money coming to make these changes in the project, who's choosing it and why, and ultimately what the chain of events that it will have an effect on when we do those three things. Well, that's also part of us being focused on what we can do to set the tone for wrapping a project up really well, so that the final experience they have with us is as solid as the launch of the project was. Right?
+
+[00:46:37.420] - Chris
+Yeah. So a couple of thoughts that I was just jotting down. You talk about client communication, and we've talked about being proactive in letting people know what's coming actively and proactively communicating the negative things that are coming up likely. Hey, listen, a lot of people, when we get to this point in the project experience X, Y and Z, I want to give you a heads up. You may feel a little bit of this or it may really hit you and be a source of kind of frustration and anxiety. Here's what's coming right, if we're proactive in our communication. But here's the other thing that we forgot to talk about is how important it is to memorialize conversations with clients when we have on site interactions with the customer. Just like we talk about in our operations training of the coaching summaries, after we have an interaction with one of our team members. Likewise, our pms have to be focused. Anybody who's customer facing, whether it's a JFC, it's an estimator, it's a crew chief, it's a pm. Gets into a meaningful conversation of substance with a customer is to very quickly in the cab of their truck before they leave that job site, before they go on to their next file, send a quick email.
+
+[00:47:54.650] - Chris
+Hey, great talking to you. We established this. I said that you committed to that. Boom. I'll keep you updated.
+
+[00:48:01.550] - Brandon
+That's right.
+
+[00:48:02.160] - Chris
+So that we've got some documentation for the customer's benefit and ours, and more so, even for the customer's benefit. It gives me so much confidence. When I have a service vendor that I've been working with a plumber, I'm inviting my house. Or when I had a restoration company come help me with a water loss at my place. Whenever that vendor would send just a brief recap via email. Hey, Chris, good talking to you. Earlier, here's what we decided. It is so pro, and it puts me at ease because now I can forget about it.
+
+[00:48:31.650] - Brandon
+Think about some of our most, I will just call them important relationships, right? Like the team, our finance team that helps us manage our four hundred and one k and our profit sharing system with that kind of scenario. We vetted them very hard because of the role that they play in terms of strategic partnership. And one of the things that made me want to move forward with them is right after our very first call together. He summarized the core elements. Pain that we had or potential pain in the process that we had and what we needed and what we were looking for. And so he affirmed it and he asked for confirmation that what he understood was accurate. Bro. The level of trust. Right? Halo effect. When he did that, the meter just pegged on. Let's roll. Like, I want to work with this person. They act and behave in a way that I can respect and I trust. Right? They're doing these things to be proactive. They memorialize the conversation. They were checking in about it.
+
+[00:49:27.850] - Chris
+Clarity.
+
+[00:49:28.480] - Brandon
+Dude, it was picture perfect, and it sold us.
+
+[00:49:30.950] - Chris
+God, there's these little things, man. There's so much that goes into it. So the other thing that I was thinking of too is how do we gage customer satisfaction as we go? And one of the things that I was talking about at a conference yesterday is the value in the middle of a project, particularly with commercial. So let's talk commercial for a minute, right? Commercial compounds. And all of this customer experience stuff you could argue is 100 x more important if you're trying to chase commercial than it is for your typical restorer. That's just doing Mr. And Mrs. Jones bathroom or kitchen loss because we have the potential to get a hundred more jobs from this chief engineer. Right. Is the value of asking the question mid project. Hey, John, chief engineer so far. I want to do a check in. How's your experience with us so far? My team and I, comparing to previous restoration companies you've worked with in the past and giving them an opportunity to do a gut check, because if they have a hard time answering that question right, there may be some micro disappointments that you're already contending with.
+
+[00:50:38.580] - Chris
+And it gives you an opportunity before the project's closed to modulate your behavior, to coach your team, to tease out some unmet preferences that may have been poorly communicated on the customer's part. Maybe they thought that you understood a request that they made and it didn't come through clearly, whatever it was. Right. But to tease out those micro disappointments that might already be forming. Oh, well, XYZ company always used to do this for us. I'm hoping you guys would, too, but that hasn't been a thing. Okay, well, we can certainly start doing that for you.
+
+[00:51:12.970] - Brandon
+Right?
+
+[00:51:13.190] - Chris
+Yeah.
+
+[00:51:13.370] - Brandon
+You got a chance to pivot or make a.
+
+[00:51:15.030] - Chris
+You got a chance to pivot. And the reason why I bring this up is no one does this. We had a cadence of doing those kinds of things. But that mid project check in is so important.
+
+[00:51:25.610] - Brandon
+Yeah. And I think one of the things that a lot of teams are beginning to develop and or modify is the interaction that some of the internal staff can have with the client to be almost for, in quotes, a third party check in. Because at times it can be difficult for a project manager, for instance, to get honest feedback from their client. Just is. And it just happens sometimes it's very hard for people to be honest to the person that potentially is responsible for the thing that is really going great. Right. And yet, if, let's say, a JFC or a coordinator calls fresh voice if we do our job right, they were a voice that made contact with this client early in the claim process. It's a trusted friend, if you will. And they say, hey, I just want to check in. How's communication going? How's the project going? There at times can be this scenario where that person's willing to be more honest. Well, now we're equipped. We can do something because there's a strong chance it's something minor that we can get in front of and we can correct any negativity and we can ultimately end really strong with that client.
+
+[00:52:28.430] - Chris
+I still love this idea. It requires a little bit of scale to I think do consistently. But we've talked about this one restoration company that we had some visibility into, that they had a whole team of callers and their only job was every single day to reach out to every single active file and just say, hey, this is XYZ restoration. Sally, I was just checking have, I'm sure that your project manager, your crew chief has been in touch with you, but do you have any questions or concerns that have maybe arisen today?
+
+[00:52:55.560] - Brandon
+That's right.
+
+[00:52:56.220] - Chris
+And it's like, man, if you have that cadence in your business, what is the likelihood of that job going sideways or the customer getting anxious, frustrated, afraid, concerned?
+
+[00:53:07.250] - Brandon
+It drops. It is so low.
+
+[00:53:09.790] - Chris
+If we've got a cadence of daily checking, hey, anything that's question, concern, any given you any stress, anxiety? Oh, you know what? Let me go chase down that information for you. I'll get back to you. To me or somebody else will get back to you before the end of the day. Boom. Man, if we can nip that stuff in the bud, those micro disappointments don't start to stack. Right. I was thinking too, back to the original call. You're just again trying to think of some ways, what are some things we can focus people in on, right. In our initial technician response. Right. To even, let's just think about your standard homeowners water loss. Right. Have we trained our technician to pause? And again, this is a customer focused behavior, to pause with the customer. Before we go into all the rasmataz of the technical, here's what I'm going to do next, and let me explain this. And the walkthrough. Hey, Mrs. Jones, have you guys ever been through a scenario like this? Have you ever had this kind of damage happen in your home? Have you guys ever had a major homeowner's claim before where you've had to meet your deductible?
+
+[00:54:08.600] - Chris
+Right. Because the empathy that we generate there by just pausing before we get into all the things we got to teach them and show them and the work authorization and everything else. Right. Do we know what the customer is feeling? Well, if they've been through this, they may be feeling relaxed, like, I kind of know how this works. They also may be coming to the table with baggage and fear because of a prior experience they had, not necessarily with a restoration company, but maybe with a general contractor. Maybe they're thinking to themselves, the last time they had something come in is they had their pipes fail underneath their crawl space and they just had this whole repiping experience with a plumbing company, it was a nightmare for this reason or that, or it was a bait and switch. They told us it was going to be $8,000, and that thing cost us $14,000 when it was all said. And they may be coming with some kind of negative bias. And if I don't ask that question as a technician, there may be a tripwire somewhere that's just waiting for one of my mittechs, one of my trade techs, my PM, my estimator to trip over and all of a sudden a bomb explodes because they hear us use a keyword, a phrase that pulls that file folder from that experience with that previous vendor.
+
+[00:55:27.100] - Chris
+And now all of a sudden we thought we had a happy customer, and we've got one that's freaked out, ticked off, guarding themselves against us, all the things, right?
+
+[00:55:34.350] - Brandon
+And it was all preventable.
+
+[00:55:35.360] - Chris
+And it was all preventable. We could have teased that out on the initial customer interaction. The other thought I had too. I discovered this actually just having a FaceTime call with my wife. We were traveling one time and I realized that when I place a FaceTime call to my wife and she's busy and doesn't answer, you have the option. And I don't know if this is iOS 17, a recent update, but you can leave a video message for somebody who doesn't pick up a faceTime call.
+
+[00:56:03.440] - Brandon
+Did you know this? No, I did not.
+
+[00:56:05.830] - Chris
+It's one of the only kind of seamless ways you can leave a video message for somebody. This is fascinating. Okay, so what I was able to do, it pops up after somebody doesn't answer a FaceTime call. The reason why I bring this up, because of course, a lot of PMS, a lot of companies have a standard, which we recommend with residential work, you have a face to Face meeting with a client every single week. Best if it's in person, at the home, at the job site, right? But of course, these days, technology, FaceTime is a great alternative. You have a remote owner, right? It's a vacation home, something like that.
+
+[00:56:40.290] - Brandon
+It's great. Loom is too, right? Five minute increments.
+
+[00:56:42.490] - Chris
+Five minute increments of loom. But like FaceTime, there is no limit. So anyway, so if you have a scheduled FaceTime call with a client and they don't show up, which does happen, and you're on site showing them some things at the property or whatever, don't just be like, hey, they know, showed for my call, do the FaceTime voice message, walk them around. Maybe some of the things you were planning to go over in that call. So at least you've documented. You've done your side of the equation, right.
+
+[00:57:09.100] - Brandon
+Even though it didn't go as planned.
+
+[00:57:10.720] - Chris
+Yeah. They didn't show up because very likely the customer wasn't intending to no show on you. It's like they have a life. They had something tugging at their sleeve for their job. You know what I'm saying? The kids were home sick, and so mom is all the things. And so I think sometimes we can have a process that we're so fixed to when the customer bails on us, we're like, oh, sweet, now I don't have to do that thing, right? And it's like, no, use your tools. You're there. You had it blocked out. Use these tools to still communicate well and communicate through that. That's just one little tip that I had. I'm like, oh, my gosh, this is really cool.
+
+[00:57:47.640] - Brandon
+Yeah, it's super solid. That is something I think we're watching our team do a ton of right now is leveraging short video to communicate and keep the ball rolling down field when accessing each other. May not be as simple or as consistent as we'd like, for whatever reason, but I think we could keep hammering on some of the specifics. But I think for the sake of time, I guess I think this is a pretty solid place to kind of land the plane, but if it's cool.
+
+[00:58:12.620] - Chris
+Are you doing a summary?
+
+[00:58:13.530] - Brandon
+I'm going to do a summary, dude, let's do a summary.
+
+[00:58:15.220] - Chris
+Land the plane.
+
+[00:58:15.930] - Brandon
+All right, so big picture. We're talking about this idea, this concept, the halo effect. It's this idea that people can have a good or bad interaction with our brand, with our people, with our business and services. And it then will create a bias in terms of how they look and or anticipate other experiences or exposure to our company will go. So again, our effort is we want to engineer the types of interactions that when people have those run ins, if you will, with our brand or our people, it creates the halo effect in our favor, meaning it gives them the impression I can trust these guys. They're high quality. They're an elite operator, right? They're a solid team. And so the idea is then where are these moments that our companies can be cognizant of and begin engineering and being intentional so that they can have a positive halo effect when folks run into your brand. So we talked about open, indirect contact with our brand, with our uniform, with our trucks, right? Our billboards, our branding, and what way we smell, the way we smell. Right? We talked about the impact that our sales efforts can have with a prospect like what is that relationship like, what is that impression that we're giving?
+
+[00:59:34.360] - Brandon
+Right then we talked about first call. What is the experience that we're giving that person? Are we highlighting that they're a priority? Are we making known that we're confident and competent that we can help them? Right. Then we moved into day one. First impressions again, uniform smell questions that we're asking, are we setting the stage for success? Are we accidentally planning minds because we're not cognizant to it? Right. We talked about these moments in the project timeline where we can continue to have these positive, intentional effects. The way we communicate, the questions that we're asking.
+
+[01:00:09.380] - Chris
+Yeah, the restoration checklist meetings, some of these practical process steps.
+
+[01:00:13.790] - Brandon
+100%. What are we proactively warning the client that they're likely to experience? Because it shows our experience and our professionalism. Right. Then we talked about closing the project both operationally and administratively. Are we all on the same page? Are we doing what we promised we would do before the project got started? And if we're really intentional, right. If we're really intentional, we can create the kind of experience that all these given points in the project lifecycle, we're affirming the story in our client's head of positive Halo effect. I am likely going to experience something else great at this point because we continue to affirm that. I think we've used this quote before, and honestly, I don't know who said this the first time, and so I can't give proper credit, but it's not mine. And that was winners beat losers and champions beat winners. And I think that this is one of those scenarios where if we're trying to be a championship team, we have to be capable and competent enough to compete against winners. Well, in order to do that, we have to look at these moments in a project lifecycle and we have to be convicted and consistent with the fact that we are building the kinds of experiences that the halo effect is just mounting in our favor at every step of the way.
+
+[01:01:37.540] - Chris
+Well, and here's one of the kind of follow on benefits of really spending some time dialing this stuff in is that your salespeople will have ten x the confidence as you build some of this focus into your company. Like this stuff is important for you to sort of build into your company culture. So is it enough just to go talk about this at your next leadership meeting and to put some new things into your sops for you to build these into your mitigation process outline or your recon process outline. These are the things you have to talk and convey to your salespeople too, because this becomes part of their service promise. It's like, hey, this is how our team rolls versus everybody else. These are the things we do behind the scenes to facilitate the service level that I'm pitching and promoting out in the field. Without this, I guess here's a good, provocative question for all of you to consider as you leave the podcast today. If we aren't doing these things and focusing on these things, what does my sales rep have to sell? Boom.
+
+[01:02:45.180] - Brandon
+I think we leave it there. Hey, just for you guys listening, as you're listening to an episode like this and you're like, okay, this is important. These are areas that I've been recently considering or thinking about implementation in my business. And you guys want a battle buddy. You're looking for a partner to help shorten the length of time it takes to iterate and implement and try and fail fast. And you're looking for an actual consulting partner to help you create these systems and execute on a consistent basis. Don't hesitate to reach out if you go to our
+[email protected]
+. Audit. You're going to get an opportunity to take our business opportunity audit, or what we refer to as the BoA. Do yourself a favor. It'll probably take you 20 or 30 minutes, maybe a little bit longer if you're really intentional, and it's going to give you some real honest answers back in terms of the state of your business, where some of the hotspots or opportunities are. And you can, at worst case scenario, the BOA will give you something that you could literally convert into a milestone and just start knocking items out to increase the efficiency and the scalability of your business.
+
+[01:03:58.140] - Brandon
+But it'll also highlight some areas that will make it cleaner and clearer for you to ask for help. So, Floodlightgrp.com audit take the BoA, reach out to us, and let's see what we can do to give you a hangout. All right, everybody. Hey, thanks for joining us for another episode of head, heart and boots.
+
+[01:04:17.160] - Chris
+And if you're enjoying the show or you love this episode, please hit follow, formerly known as subscribe, write us a review, or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

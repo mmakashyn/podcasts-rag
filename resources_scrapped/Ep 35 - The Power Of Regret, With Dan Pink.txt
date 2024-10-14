@@ -1,0 +1,472 @@
+﻿[00:00:00.130] - Chris
+All right, man. We got an interesting one today.
+
+[00:00:02.980] - Brandon
+Yeah, big hitter, right?
+
+[00:00:04.240] - Chris
+[ comment: https://www.danpink.com ] Yeah. Boy. So a little bit of backstory I first met Dan Pink, https://www.danpink.com There's the reveal, I first met him after reading his book Drive, which is the surprising science behind what motivates us, I think is the byline for that. And then I believe it was shortly after that, or maybe I'm getting this backwards. But he also wrote a book called To Sell Is Human,
+
+[00:00:24.580] - Brandon
+which is a rad book by the way.
+
+[00:00:25.530] - Chris
+Phenomenal,  phenomenal. Yeah, really good. And actually it was per that book, I reached out to him. And at the time, I was a consultant and I was helping create a sales internship for a client of mine connected to the local University. And we decided to base it off of that book To Sell Is Human. And so I just figured, well, let's call Dan and see if he'll talk to the intern group. And to my surprise, he emailed me back. And I mean, this guy is a four times New York Times best seller, four. He has one of the top 25 Ted Talks of all time, and it was on his book Drive, talking about motivation and the science behind and so forth. 28 million views.
+
+[00:01:07.230] - Brandon
+Holy cow.
+
+[00:01:08.160] - Chris
+He's up there with like, Brene Brown and some of these other sort of iconic Ted Talks. Seven books, four bestsellers, former speech writer for President Al Gore. He kind of cut his teeth he was I think, a political science and linguistics major. I want to say he went to some Ivy League Dartmouth or something. He's one of those highfalutin schools. Anyway, when I saw his new book coming out, I was like, wow, wouldn't it be cool to get Dan on the podcast? So it turns out the timing worked out. He was on a Press tour. This show is going to be a little bit short. And he was running and gunning from one thing to the next. And we caught him. He actually stopped at a WeWork office in Los Angeles.
+
+[00:01:46.430] - Brandon
+Gave us a few minutes.
+
+[00:01:47.360] - Chris
+He lives outside of Washington, DC, so he's all the way across the country jet lagged. But we had a fun talk with him, learned a little bit about his book. And hopefully one of our goals was just to turn all of you on to his catalog of work. It's really good.
+
+[00:01:59.790] - Brandon
+It's good.
+
+[00:02:00.260] - Chris
+The books are great. He sits outside of our industry, and we really wanted to introduce him to the disaster restoration space. I highly recommend his new book, The Power of Regret. But I think another book to read right out of the gates is to sell as Human. It's just really wonderful stuff in there.
+
+[00:02:14.840] - Brandon
+It's huge.
+
+[00:02:16.550] - Chris
+Here we go. Welcome back to the Head, Heart and Boots podcast. I'm Chris.
+
+[00:02:28.030] - Brandon
+And I'm Brandon, join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:02:35.310] - Chris
+I don't know, What did you think?
+
+[00:02:36.430] - Brandon
+It was kind of serious.
+
+[00:02:38.370] - Chris
+Should we laugh.
+
+[00:02:43.150] - Chris
+So, Dan, welcome to the show, man. I first reached out to you towards the end of summer, and you are in the thick of finishing the book and kind of in that whole process. And here we are. Power of Regret is out. I got my pre order copy here. When did it come out? February 1st I think technically..
+
+[00:02:59.860] - Brandon
+I've been cheating, I've been doing Audible. Not going to lie about it.
+
+[00:03:03.440] - Dan
+How do you like the Audible version of it?
+
+[00:03:05.120] - Brandon
+It's actually great. I'm going to cheeseball here a little bit. You know what I like it, though, is because I actually like hearing you. You just have that right tone.
+
+[00:03:13.910] - Dan
+Oh, you're the one, right?
+
+[00:03:14.800] - Brandon
+Yeah, I'm the one. Apparently so. No, I dig it. I'm in on the audio.
+
+[00:03:18.490] - Dan
+Yeah. We did something a little different on the audiobook here and spoke about regrets, where I captured these regrets from people all over the world, voice actors to read some of the regrets. I thought it worked pretty well.
+
+[00:03:29.060] - Brandon
+Yeah, I know. I've loved it so far. It's been great. It breaks it up a little bit. It's good.
+
+[00:03:32.560] - Chris
+Yes, for sure. So now you're in the middle of the press junket runnin' and gunnin'.
+
+[00:03:38.080] - Dan
+I guess you could call it that.
+
+[00:03:39.410] - Chris
+Yeah.
+
+[00:03:40.290] - Brandon
+The grind, if you will.
+
+[00:03:42.000] - Chris
+Let's drop right into the subject of the book. It's interesting. I kind of introduced Brandon to you. One of the last books I read of yours was to sell as Human. And you and I actually had some interactions over that with a sales internship that I was putting together. And I told Brandon about the book back then. I feel like To Sell As Human was really antithetical to some of the old school sales methodologies. And I felt like I found kind of my style of selling when I picked up and read To Sell Is Human. I'm like, okay, I've always bristled at even calling myself a salesperson for most of my career because it just seems so smart. So I introduced Brandon to it like, yes, we can buy into this sort of philosophy of sales. But Brandon said an interesting thing about just your overall catalog. Like there's a theme to the different books that you write, and I think the power of regret.
+
+[00:04:34.730] - Dan
+there is?
+
+[00:04:34.730] - Chris
+I think so, yeah. Tell him what you told me.
+
+[00:04:37.236] - Dan
+Tell me what it is Brandon?
+
+[00:04:37.290] - Brandon
+Yeah. I was going to drop it on you and you tell me what you think. So in my mind, I kept thinking, okay, basically all his topics, he's tending to just kind of challenge this kind of societal thinking on that particular topic or item. Right. And it tends to be when there's a plenty of data or science that's saying otherwise. But for whatever reason, we've gotten kind of swept up in whatever society or industry is promoting....
+
+[00:05:03.830] - Chris
+It's Conventional wisdom. You're challenging the conventional wisdom on certain topics and so forth. Is that how you see it?
+
+[00:05:09.110] - Dan
+I think it's a very generous interpretation of it. Maybe there's an element to it. I mean, for me, really, I just pick stuff that I'm interested in because writing a book is so incredibly difficult and it takes so long. You have to find topics that you're genuinely curious about and are willing to talk about for a very long... Spend years working on and then spend even longer talking about. So, for instance, you mentioned To Sell as Human. I love talking about To Sell as Human. I mean, that book came out eight years ago. I'm totally willing to talk about Sell as Human anytime, anywhere, because I like that topic so much. So I have to say it's mostly driven by my own curiosity rather than this quest to debunk conventional wisdom. But it turns out that in a lot of cases, conventional wisdom is completely wrong. And we have, as Brandon was saying evidence to show that.
+
+[00:05:57.220] - Chris
+Yeah
+
+[00:05:57.770] - Brandon
+that's wild. So eight years. So I don't think many of us think about that. It's like, yeah, you have this creation period that takes so long, but then this thing becomes kind of front and center for you for a really long period of time as you continue to be the specialist. Right?
+
+[00:06:12.530] - Dan
+On that particular topic or that discussion point or the thing is that the conversation ebbs and flows over time. So I wrote a book 20 years ago called Free Agent Nation, and for a while people talked about it and then they totally forgot it. And then we had this gig economy in a pandemic and suddenly I'm getting calls about it again. And that's cool. That's all cool. But the point of all this is that you have to pick your topics. There's a very high bar on what at least I decided to write a book about because it requires so much work and it essentially becomes part of your life more or less. Forever.
+
+[00:06:48.190] - Chris
+Forever. Yeah, right.
+
+[00:06:49.640] - Brandon
+I'm excited to get into this one. I haven't completed the whole thing yet. I don't want to lie about it. I'm probably about halfway through and I'm actually fairly enamored by it because I've caught also myself, as I have had, like, more time, I guess, maybe even on LinkedIn and social profiles and doing the podcast where it's just like no regrets. Figure it all out, right? Drive. Right. And it was pretty darn comforting to write early in the story feel this release of pressure. Hey, let's not get caught up in this. No regrets. But what are we going to do with it? How are we going to use it to be positive?
+
+[00:07:25.520] - Chris
+I'm really curious about the Genesis of this because I turned 42 this year. Right. And I feel like I'm in this stage of life where I'm reflecting on a lot of things. I have a 16 year old daughter, I have my career, my wife and I've been married for going on 20 years. I'm in a state of pretty constant reflection about, okay, time and space. Okay. I'm 42 now I've got only so much in front of me. So to me, I feel like the subject regret is just very prescient for me right now. But how did you end up settling on this for?
+
+[00:07:57.490] - Dan
+It was somewhat similar. It's like one day you wake up and you realize you have some mileage on you and there's room to look back. There wasn't 20 years ago, 30 years ago. But also we hope that there's also mileage ahead and you want to make the best use of it. And one way to make the best use of it is to look backwards, figure out what you did right and what you did wrong. And when you figure out what you did wrong, you have much more powerful lessons and use those lessons for the rest of time. This is not a book I would have written in my 30s. In my 50s, it felt kind of inevitable.
+
+[00:08:29.470] - Chris
+Yeah, right.
+
+[00:08:30.390] - Brandon
+There are some people writing books like this in their 30s that maybe they just should have waited 20 years before.
+
+[00:08:36.230] - Dan
+Yeah.
+
+[00:08:37.010] - Chris
+You differentiate between regrets and disappointments. Can you talk a little bit about that?
+
+[00:08:41.610] - Dan
+I mean, that's a pretty clear distinction in how academics look at it. Basically, regret is your fault, and disappointment is not your fault. It's something that happened in the external world. So one of my favorite examples comes from Janet Landman at the University of Michigan, who talks about imagine there's a six year old girl who loses a tooth, and at night she puts her lost tooth underneath her pillow for the tooth fairy. And then she wakes up the next morning and tooth is still there. So the girl is disappointed, but her parents regret not replacing the tooth with a dollar. So regret requires agency, disappointment does not. I mean, the other example that I use as a basketball fan and a Washingtonian I'm disappointed that the Washington Wizards never, rarely make the playoffs and never win the NBA Championship in nearly 50 years. But I can't regret that because I don't play, I don't own the team, I don't coach.
+
+[00:09:31.550] - Chris
+Yeah. You didn't have agency. You didn't have any role in the matter. Right.
+
+[00:09:35.960] - Dan
+I mean, I'm willing to suit up if they call me, but I'm not sure. I'm not sure I'm the 12th man on the roster for the Washington Wizards.
+
+[00:09:46.950] - Brandon
+Yeah. Top three.
+
+[00:09:48.750] - Dan
+Who's the short old guy at the end of the bench with glasses?  Woah, wait a second.
+
+[00:09:53.820] - Brandon
+Well, entertainment factor, though, would take on a whole new layer. So I don't know. You may have something in front of you.
+
+[00:09:59.030] - Dan
+I think I could be an inspiration to millions.
+
+[00:10:01.650] - Brandon
+Exactly.
+
+[00:10:02.290] - Dan
+I'm going to talk to Ted Leonis is the owner of the Wizards and see. It's like in the old days of baseball, you have sort of like a gag player. I'm every man. I think that..... Has there been.... Well, in the old days, I guess players have goggles and contact lenses now, but I think the idea of a middle aged guy in glasses playing in the NBA would be freaking awesome. And I am willing to step up and make it happen.
+
+[00:10:23.820] - Chris
+You're willing to do it. Okay. So let it be known...
+
+[00:10:25.640] - Brandon
+Headband or no headband. That's the question.
+
+[00:10:29.490] - Chris
+You know what? I'm not big on the headband as much as I like the 1970s, although Seth Curry, Steph's brother, does the headband quite well for the 76ers.
+
+[00:10:37.080] - Brandon
+Nice. Yes.
+
+[00:10:38.060] - Chris
+Some can pull it off, some can get it.
+
+[00:10:40.320] - Brandon
+That's right.
+
+[00:10:41.150] - Chris
+So the World Regret Survey, that was your thing. You created that. So tell us about that. How did that come about?
+
+[00:10:48.400] - Dan
+Well, what I wanted to do is sort of understand regret. And I wanted to understand it both in looking at the academic research, of which there is a lot, but also get a little bit more texture to it. And so I set up this website called the World Regret Survey, where I just collected... I Said I'm going to collect a few hundred regrets from people around the world. So it gives me something to examine. It gives you something to look at, gives you something to analyze. And to my surprise, in almost a blink of an eye, with essentially no publicity, we had 15,000 regrets from people in 105 countries, which suggests that people actually want to talk about their regrets. And this ended up being this incredible trove that I was able to read and analyze and draw some insights from.
+
+[00:11:26.950] - Brandon
+So as far as the audible pieces, then that was some of these regrets then that got...
+
+[00:11:33.050] - Dan
+Exactly
+
+[00:11:33.790] - Brandon
+expressed throught that. Man, those were great.
+
+[00:11:35.620] - Chris
+And that's where you discovered the four main kinds of regret?
+
+[00:11:38.420] - Dan
+Right.
+
+[00:11:38.420] - Chris
+Was from that data?
+
+[00:11:40.190] - Dan
+Exactly. Well, initially, what I did is I also did a public opinion poll, quantitative piece of research where I asked people, Americans only, I ask people their regrets and have them put them in categories like family, career, romance, health. And what I found was that what researchers have been finding for a couple of decades, which is that people regret a lot of stuff. It's hard to say what people regret. And what I realized looking at that 16,000 is that there was a deeper structure of regret. That it wasn't so much about the domains of life, it was about things that are four fundamental things that crossed over domains. So, for instance, if you look at something like one of the categories of regrets is about boldness regrets. And so I have plenty of people who said, if only I started a business rather than stayed in this crappy job. But they also had plenty of people who said, if only I had spoken up and other people who said, if only I'd asked that person out on a date, those are in very different domains of life, but they're all the same regret,,, it's, "if only I'd taken the chance."
+
+[00:12:35.800] - Dan
+Now you get to a juncture and you can play it safe or take the chance, and you don't take the chance, and a lot of people regret it. And so what we found is that these four same regrets kept coming up over and over and over around the world.
+
+[00:12:47.580] - Chris
+What do you feel like you learned about yourself in the process of writing this book? That was a question that I've been curious about with virtually all of your books. It's almost as though this book follows the progression of your own inner curiosity about certain aspects of life from the career thing when you left the White House, right. You wrote within just a few years. Didn't you write that first book of the free agent book? Right.
+
+[00:13:10.180] - Chris
+Your curiosity has kind of shifted and morphed into these other areas. But how do you feel like the book has changed you or what?
+
+[00:13:17.150] - Dan
+Yes, it's a really interesting question, and I think it's a good observation about just about writing. Again, I don't want to get all woo on you guys, but the person who started this book, the person you're talking to today, is different from the person who started the book. You can't be exposed to all of this without becoming, in some ways, different. I think that for me, it just sort of internally normalized my own feelings of regret. That is when I thought about my own regrets. And then I saw all these people say, oh, my God, I'm totally not special. It's like I have the most mundane, predictable regrets you could possibly have. So that's part of it. And that's actually, in a weird way, reassuring. I think the other thing that it did is... That in cataloging all of these regrets, especially these four core regrets, something sort of surprising happened. I thought I was collecting what people regretted in life, and I was, but I was also collecting inadvertently what they valued in life. That is, we know what people regret the most. We know what they value the most. And so all this chorus is now over 17,000,people are telling me what they value in life.
+
+[00:14:20.830] - Dan
+And the things that they valued were the same things over and over again. They valued stability, "if only I had done the work." They valued boldness, "if only I had growth and psychological richness. If only I take the chance." They value goodness, "if only I'd done the right thing." And they value connection love, "if only I've reached out." And the truth is, I value those things, too. And so I found that listening to other people's regrets was clarifying about what makes a good life in general, but also what makes a good life for me in particular.
+
+[00:14:52.490] - Brandon
+What have you done with it? Like as you're writing this, you're collecting these stories, you're hearing these words that mimic what you're feeling. What have you done? How has it changed you?
+
+[00:15:03.340] - Dan
+Well, I mean, if you look at this one category of connection regrets, that's a good example of that. So connection regrets are these relationships, not necessarily romantic relationships. I mean, mostly not romantic relationships where you have this relationship or should have had a relationship and it kind of begins coming apart in this slow, drifting way. Someone says I should reach out, and they say, I want to reach out. It's going to be too awkward and they're not going to care. And then it drifts apart further. And people feel bad about that and they're always wrong. Like, it's not awkward and it's going to be well received. And so for me personally, my own philosophy now is changed. And that if I'm at a juncture where I'm wondering, should I reach out or should I not reach out? Simply arriving at that juncture answers the question, reach out. When in doubt, reach out.
+
+[00:15:46.830] - Chris
+And have there been any connections you've rekindled?
+
+[00:15:50.310] - Dan
+Absolutely yeah. And of course, it's been less awkward than I thought, and it's always been well received. I mean, truly, that's the case to me, that one's not even a close. Like that's not even a close call. Like, when in doubt, reach out. I'll give you another one. I have a lot of people in this database who regret missing funerals, and I actually have one of those regrets. And now I'm basically committed to if anybody anywhere close to Me passes away and has a funeral, I'm going period, full stop. Because I know that five years from now, future Me is going to regret not doing that.
+
+[00:16:21.150] - Chris
+All right. Let's take a minute to recognize and thank our MIT Restaura Mastery sponsor, Accelerate Restoration software. And I'm fully aware, by the way, that when I say those last two words, restoration software, that that instantly creates heartburn for some of you out there.
+
+[00:16:38.110] - Brandon
+Right.
+
+[00:16:38.350] - Chris
+Because we probably all fall into one of two camps when it comes to software. We've either cobbled together kind of a version of free website tools and spreadsheets just to make our business work, or we're in the camp where we've adopted one of these existing restoration platforms, one that has all the bells and whistles and supposedly does it all, but we can't get our team to consistently adopt it and input information to it.
+
+[00:17:05.990] - Brandon
+Yeah. And that's really where Accelerate has honed their focus. They've created a system that's simple, right? It's intuitive and it focuses on the most mission critical information, I. E. Guys, your team will actually use it.
+
+[00:17:20.960] - Chris
+Let's talk about sales. Right. After years of leading sales and marketing teams, the biggest trick is getting them to consistently update notes about their interactions with referral, partners and clients. And the essential piece there is there's got to be a mobile app experience. And in our experience, the solutions that were previously out there were just too cumbersome and tricky to use.
+
+[00:17:44.410]
+Yeah.
+
+[00:17:44.810] - Brandon
+Imagine, guys, how your business would change if your entire team was actually consistently using the system. Do yourself a favor. Go check these guys
+[email protected]
+, MRM. And check out the special offers they're providing to MRM. Listeners.
+
+[00:18:04.230] - Chris
+All right, let's talk about Actionable Insights owners, GMs. You can't be your business expert on all things estimated. You might have been three years ago when you're writing sheets in the field, but the industry is always changing and so are the tools. If you're the smartest person in the room when it comes to exact Matterport, how does that scale you're the bottleneck? I know I'm preaching to the choir, but this is where actual Insights comes in. They're a technical partner that can equip your team with the latest bleeding edge information and best practices and then update them with webinars and training resources when the game inevitably changes again. For this reason, we recommend actual Insights to all of our clients.
+
+[00:18:44.460] - Brandon
+Yeah, three of the kind of big things that stuck out to me when being introduced to AI and their team. First off, is this consistently updated training. I mean, at the end of the day, these guys are the experts. They're out front all the time. They're constantly learning new trade secrets and ensuring that your team's got access to those things. A 3700 plus page database of exact amount templates. I don't know what else to say here other than don't reinvent the wheel. It's already available. Download it, copy it, use it. Bam database of commonly missed items. I think this is huge. So many of us can change the numbers by just moving the needle a couple of points, and those commonly missed items can make all the difference in the world. So go check them out at Value Gitinsights.org. It's interesting how, as you're saying, universal these regrets where it's kind of interesting timing. It feels like in a lot of different ways we're not certainly not going to jump down a politics conversation, but there's a lot of air gap between people right now. At least that's the perception. Have you started to hear any communication from people that are reading your book?
+
+[00:19:58.170] - Brandon
+Is there any dialogue at all about some of the unification that comes from these similar tracks in terms of what we regret, what we're thinking about?
+
+[00:20:06.060] - Dan
+Not quite yet. I have to say I think that's possible, and I think that's a hopeful view, but I haven't seen that materialize. Instead, I think what's happening and I think that takes some time. Instead, what I think is happening is that what I'm trying to do here is we've totally gotten regret wrong. We really have. I mean, no regrets as a philosophy of life is complete bunk. Everybody has regrets. And the thorough trouble is we haven't been taught how to deal with them because we haven't been taught how to deal generally with negative emotions. We think that we should be positive all the time and that we have a negative emotion. We should either bat it away or medicalized it, when in fact, negative emotions are part of life. And this particular negative emotion of regret, our most common negative emotion is clarifying. It's instructive. And so what I want to try to do is reclaim this emotion. And one way to reclaim it is to get people talking about it. And I find that people do want to talk about this, that if you share your regret, inevitably another person is going to share their regret.
+
+[00:20:59.970] - Dan
+And what you see there is some of the universality that Brandon was talking about. But what you also see is an attempt at since making like what's it about? You tell me your regret and I'll give you some advice on what to do. I'll tell you my regret, and you give me advice on what to do. At the heart of a lot of this work on regret in terms of how we deal with it, is disclosure. Disclosing our regrets, unburdens them, disclosing our regrets, converts this abstract emotion into concrete words, which is far less fearsome, makes it easier to comprehend. And I mean, here's something else we've gotten wrong. We think that when we disclose our mistakes and vulnerabilities, people will think less of us, they think more of us. So if I can reclaim this emotion, get people in conversations about it, I really think that it's going to help out a lot, and I think it's going to help out a lot in terms of seeing a path post pandemic for what constitutes a good life. And I think that some of these skills are going to be super important for some of these teenagers and young adults who are grappling with some mental health challenges because they feel bad and they haven't been taught well how to deal with negative emotions.
+
+[00:22:06.620] - Brandon
+It's so interesting that you say that, because I feel like a huge part of just emotional or even personal professional growth in general has been just the willingness, like you said, to sit down and kind of sit with these uncomfortable experiences look like long enough to really just get through it almost instead of shove, ignore, medicate, whatever the things it is freeing. But there is a little bit of kind of staring the devil in the eye for a moment, which doesn't seem completely unlike what has to happen with this regret phase. Right. Have you seen timing with that at all, or is there anything physically someone can do to kind of sit in that or create an environment that's more, I guess, suited for doing that kind of work?
+
+[00:22:53.120] - Dan
+I think there are a few things they can do. I think you make a really good point, and that regret is instructive. Regret teaches us, but regret is also painful, and you got to get both. You can't have the instruction without a little bit of the pain. A little bit of the pain is essential to the instruction because a little bit of the pain is the wake up. It's the knock at the door saying, Hello, I have something to instruct you with. So I think that's part of it. I think that one of the most important things we can do at the outset is reframe how we think about ourselves, how we look inward. A lot of times when we have a misstep or screw up or regret or failure or anything like that, we just Savage ourselves. We lacerate ourselves, we're cruel to ourselves. And I'm now a firm believer in what's known as self compassion, which is pioneered by Kristen NEP at the University of Texas, which basically says, first step, treat yourself with kindness rather than contempt. Treat yourself as kindly as you treat somebody else. Recognize that your mistakes or any regrets anything are part of the human condition and that they're not completely definitional that one regret, one mistake in the course of a long life does not define that life fully.
+
+[00:23:54.200] - Dan
+It is a moment in that life, and that can be freeing. And what it frees us to do is talk about them, make sense of them, and then extract lessons from them.
+
+[00:24:04.390] - Chris
+Yeah, I love that compassion piece. Another author that I really enjoy is Byron Katie. Have you ever heard her work? She wrote Loving What It Is, anyway, she would say that everyone is always at any given time doing the best that they can in any given situation. And I think that feeds into that whole self compassion thing. I'm almost finished with the book, actually, this morning I was listening to the regret story of the woman who had a College friend who she failed to reach back out to and literally called the morning after her friend died. And I haven't finished the final chapter and a half or so at this point where I'm at. But to me, the book is in a lot of ways a conversation about mindfulness. Does that ring true for you at all? There's this kind of zooming out to look at our regrets in a more detached kind of way that has the compassion element to it, but it's also sort of looking at the situation for what it is. Do you make that connection to mindfulness a little bit?
+
+[00:25:02.220] - Dan
+Depending on your view of mindfulness? What I want to do is basically try to get people thinking about this emotion differently. And so not that we ignore it. You feel the spirit of regret, no regrets, I ignore that. Or you end up wallowing it, that's even worse. What I want is I want people to I mean, I guess it's a form of mindfulness. I want people to think about it like there's a regret that's telling you something. Are you open to hearing what it's telling you? It might be telling you something vaguely unpleasant, but it's far more unpleasant to not have the instruction. It's far more unpleasant to go through life diluted. And if you actually just I mean, Brendan, you talk about staring the devil in the eye. I think there's something to that, this idea that no regrets, it seems superficially like, oh, it's an act of courage. That's not courage. Courage is staring your regrets in the eye and doing something about them. And I think that requires cognition and mindfulness and no BS and being a grown up.
+
+[00:25:58.880] - Brandon
+No being a grown up. It's kind of sad, but true. It's weird to me how many of these concepts, when we read books or have a guest on the show to talk about, all of a sudden I'm going, this feels a lot more like common sense now that we're talking about it. But for so long, it's not. It's not even kind of it's not.
+
+[00:26:17.940] - Dan
+I think, on this one in particular. I mean, this idea that the way to live life is never to look backward, to not have any regrets, and to always be positive. That is not sensible advice. There's some good stuff in there. You want to have more positive emotions and negative emotions. You don't want to dwell on your mistakes. But the idea that you should not look back, that you should always be positive, that you should have no regrets, is foolish. I mean, everybody has regrets. The central point of 50 years of research is that regret makes us human and regret makes us better. And again, if we are mindful if we don't.... Again, it's like getting a knock at the door. Regret is a knock at the door. So what do you do? You can just ignore it and say, oh, no, I don't hear a knock, that's there no knock. All right, you can do that. Or you can say, oh, my God, a knock at the door. That's the most terrifying thing I've ever seen. And you go hide under the couch. Or you can answer the door and say, hello, what do you got to tell me?
+
+[00:27:05.760] - Dan
+And when we do that, even if what it has to tell you is a little bit painful, that pain comes with it a huge amount of instruction that actually mitigates pain down the road.
+
+[00:27:14.790] - Brandon
+It's kind of interesting, too, because it's not like we don't have it right. So us saying we're living without regrets, it's just kind of bullcrap.
+
+[00:27:23.080] - Dan
+Totally.
+
+[00:27:24.100] - Brandon
+You're faking it completely. And everybody next to you knows you are.
+
+[00:27:28.750] - Dan
+I got people who fill out the no regrets, who fill out the World Regrets Survey and say, oh, I don't have any regrets, all right. And then they say, but I really feel bad about the time I bullied those kids in school. And I'm like, okay, so you do have regret is what you're telling me. I also did a big public opinion survey of the US population about the attitudes toward regret. And I asked this question to people intentionally not using the word regret in the question. I said, how often do you look back on your life and wish you had done something differently? So I didn't say the word regret. How often do you look back on your life and wish you had done something differently. We had 1% say never, 1%, and then we had 15%, 16% say rarely. But you had 83% say they did it, at least occasionally, because they're human beings.
+
+[00:28:10.400] - Brandon
+Yeah.
+
+[00:28:11.070] - Brandon
+It's just the way we're wired.
+
+[00:28:13.450] - Dan
+That's important because that's a huge insight, because regret is part of our cognitive machinery. It is an essential part of the human condition. It's one of the things that makes us human. And so if we deny that, we deny our humanity. What's more, we deny the instruction that that regret delivers.
+
+[00:28:30.860] - Brandon
+That'S it it's a toolkit, right. For actually being better?
+
+[00:28:34.970] - Dan
+Absolutely.
+
+[00:28:36.130] - Brandon
+Where did this shoving, ignoring things start?
+
+[00:28:40.140] - Dan
+I'm not sure that's a great question. I think part of it is there's virtue in the positive thinking movement that emerged in the United States in the mid 1950s. There are many virtues to positive thinking, but you want to have some balance in your life. And the thing is, why does this thing that makes us feel a little bit bad, why we are supposedly wired for pleasure, to pursue pleasure and avoid pain. So why has this emotional regret not been weeded out through evolution? And the reason is it's useful?
+
+[00:29:10.570] - Brandon
+It's part of how you avoid the pain again, right?
+
+[00:29:13.780] - Dan
+Bingo.
+
+[00:29:15.490] - Brandon
+I'll eat that once, but we don't need to do it twice if we just learn from the toolkit.
+
+[00:29:21.280] - Chris
+It seems like a big part of the stuffing is the social media culture.
+
+[00:29:25.690] - Brandon
+Like, only the best photos.
+
+[00:29:28.750] - Chris
+We're very careful to manicure kind of our presentation and regrets don't really have a place in social media. Seems like that might be a big driver behind it.
+
+[00:29:40.330] - Dan
+It could be today, but there's no responsibility predates social media, big time.
+
+[00:29:44.140] - Chris
+Yeah.
+
+[00:29:45.430] - Brandon
+It's interesting because a big part of what Chris and I do is we were working with leadership teams in terms of their employee engagement and things like that. And it's interesting, this dynamic, the relationship between the two parties. Right. How quickly the whole us versus them scenario comes into play. It was interesting when I was reading the book, like, just kind of thinking through in general, this concept of regret is where it seems to show up a lot is, let's say, for example, when I have some kind of an exchange with a downline person or in a negotiation phase or something like that, it's like this inability to want to go back and apologize or reopen that conversation because I think part of it sits in this regret component. I know that person thought about it, and I know that they looked at that situation and said, okay, that didn't go exactly like I intended, but it's like the same fear factor that prevents them from even sitting in the moment. They're not going to go back and revisit. Have you seen any of that come to play with this?
+
+[00:30:41.310] - Dan
+Oh, my God. There are a couple of great pieces of research showing that exact same thing when it comes to literally, specifically concretely about negotiations, that one of the best things you can do. Let's say you're in a negotiation and you make a bad first offer or something like that. So you can say, oh, no regrets. There's research. Adam Gillinsky at Columbia has led some of this that you can go back and say, oh, man, what do I regret in that negotiation? I'm going to lean into the regret. I'm not going to bypass. I'm going to lean into it. I'm going to talk about it. I'm going to think about why do stuff that makes me momentarily feel bad when people do that much better at the next negotiation. Same thing with problem solving. I mean, over and over again. And so in many realms of business life, whether it's, as I said, negotiation, strategy, problem solving, these kinds of things can be incredibly useful.
+
+[00:31:31.330] - Brandon
+Love it. Not shocked, but I love it just the same.
+
+[00:31:35.480] - Chris
+Yeah, it's good.
+
+[00:31:36.680] - Brandon
+I think one of the areas for me, too, as I'm thinking about this stuff kind of over and over in my mind is... How do I just get better at mirroring this? Right. Because it seems like part of the conversation is you just kind of got to express it or live it out. Right. In order for it to get some traction in your own sphere of influence.
+
+[00:31:54.460] - Dan
+Well, I mean, we talked a little bit already about disclosure. Disclosure. It begins the sense making process. It converts it into something concrete. And as I was saying, it's like, if leaders were to model this, leaders are worried about disclosing their regrets because they think people will think less of them, they're wrong, people will think more of them. And if leaders model this behavior, then it might be able to cascade where regret is less demonized and where people can actually disclose their regrets, begin making sense of them and find a way to move forward. Learning from the past.
+
+[00:32:22.930] - Chris
+Your parents, if Google taught me correctly, you've got a couple, two or three adult children.
+
+[00:32:29.880] - Dan
+Three. Yeah. You're very young adult. Yeah.
+
+[00:32:32.020] - Chris
+Has this instigated any interesting conversations between you and your kids? Do you talk to them about this regret concept? Is there anything flowing out of that?
+
+[00:32:39.940] - Dan
+Not all that much. But I do think that I did something a while ago called a failure resume, where it's a brain shot of Tina sealing at Stanford, where you list all of your failures, screw ups, setbacks, clubs, mistakes, and then you try to draw a lesson from them. And I did that. And it was very instructive. And a couple of mistakes that I was making over and over again, I very strongly conveyed to my kids, I don't know whether they listen.
+
+[00:33:03.730] - Chris
+You never do until years later. Right?
+
+[00:33:06.150] - Brandon
+They did. You just don't know if they heard you.
+
+[00:33:08.360] - Chris
+Yeah, right.
+
+[00:33:10.310] - Brandon
+I like that, though. I think there was probably something that could be pretty therapeutic about that. I've experienced some of that with even my own son over the last year. So just getting better at I don't know if I was saying it like just getting better at sitting with those regrets, just voicing it that didn't go the way I wanted it to, and I think it's been healthy all in all.
+
+[00:33:29.590] - Chris
+So what's the best way for people to connect with you?  Do you want people to go to? Danpink.com? Where is the best place for people to go to?
+
+[00:33:36.420] - Dan
+That's the best place go to https://www.danpink.com There's all kinds of great stuff. There books you can learn about all the books. There are some videos. There are some other resources. There is free pizza slices on Tuesday. All kinds of great things.
+
+[00:33:52.080] - Brandon
+I got to remember that one when I think....
+
+[00:33:54.430] - Chris
+You have a really great newsletter as well, and I would imagine you've got a great following of that. You have a newsletter that highly recommend, in fact. Is there a sign up link on your website?
+
+[00:34:05.650] - Dan
+Yeah, absolutely.
+
+[00:34:06.880] - Chris
+We'll include that in the show notes. Right on.
+
+[00:34:08.580] - Dan
+Yes.
+
+[00:34:08.860] - Brandon
+A little gig that we kind of started not that long ago is that we'll end up putting out a contest when we throw the show up live. And so some of the listeners are going to have an opportunity to win a few copies of your book.
+
+[00:34:20.970] - Dan
+woo, alright. thats fantastic.
+
+[00:34:20.970] - Brandon
+So that's always exciting. So we'll make sure that when it goes live, we'll post that and tag you in that as well, my friend.
+
+[00:34:28.020] - Dan
+All right.
+
+[00:34:28.670] - Chris
+At what point do you start the research for the next thing? This can't be your last book. Is there a topic that's bouncing around in your head that would give us a little bit of a preview or is the research start after the press tour?
+
+[00:34:40.430] - Dan
+It'll start later. I'm the world's worst multitasker, so I can barely do one thing at a time, let alone multiple things at a time.
+
+[00:34:46.240] - Chris
+Okay.
+
+[00:34:47.080] - Brandon
+I think air gaps in your schedule is probably not a huge thing right now. Anyway. Thanks so much, man. We really appreciate you.
+
+[00:34:54.350] - Dan
+All right, thanks, you guys. Enjoyed it.
+
+[00:34:56.210] - Chris
+All right.
+
+[00:34:56.680] - Dan
+Thanks for having me.
+
+[00:34:57.410] - Chris
+Yeah. Good luck Dan.
+
+[00:34:58.110] - Brandon
+All right bud, thanks.
+
+[00:34:58.890] - Dan
+Take care. Bye.
+
+[00:35:00.910] - Chris
+All right, everybody.
+
+[00:35:01.820] - Brandon
+Heath, thanks for joining us for another episode of Head, Heart and Boots.
+
+[00:35:05.390] - Chris
+And if you're enjoying the show but you love this episode, please hit follow formerly known as subscribe. Write us a review or share this episode with a friend. Share it on LinkedIn. Share it via text whatever. It all helps. Thanks for listening.

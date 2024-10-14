@@ -1,0 +1,445 @@
+﻿[00:00:00.190] - Chris
+Hello, my friend. How are you doing?
+
+[00:00:01.390] - Brandon
+Oh, you jumped in. You know what? I could almost read it on your mind. I heard buzzing. I'm like, this guy, he's about to.
+
+[00:00:11.110] - Chris
+I just totally stole the intro. Yeah. So we've got a couple of interesting guys, and we've also got a hot topic that we're going to sort of dance around TPAs. We're not dancing around it. We're getting right into it. But it's interesting, I think sometimes when we start talking TPAs, the road can sort of diverge into we're even either going down a very dark path or we're going down a practical path, it seems like, right now, as contractors, right. Either we're discussing sort of how to make DPAs work and the upside of them, which there are upsides. There are upsides.
+
+[00:00:44.070] - Brandon
+Okay.
+
+[00:00:44.470] - Chris
+I'm a little more egalitarian than Brandon is on this.
+
+[00:00:47.020] - Brandon
+You said that with such conviction. I don't know if I'm agreeing with you yet.
+
+[00:00:50.310] - Chris
+Chris Jeez right. But it's like we talk about just the practical benefit or need of them, right? They feed the kids, they put food on the table. They might be crummy jobs and not super high margins, but at least it's putting our team to work, blah, blah, blah. And in a lot of cases, we talk about sort of how do you set up your team? You almost really need a separate team that's focused on the metrics and the process that TPAs require, blah, blah, blah. Or as an industry. Right. We're all fired up and pissed off about what TPAs are and how they are hard and all this kind of stuff. They take advantage of us, blah, blah, blah, blah, blah. And today's talk is a little bit different.
+
+[00:01:25.750] - Brandon
+It's like there's a third party of those things.
+
+[00:01:27.670] - Chris
+No. Anyway, so Brandon and Larry from homey. So Homie is an insure tech start up that has kind of been showing up in a lot of different places. They've been kind of under the radar to some degree. But we got introduced to Brandon here, I don't know, six or eight months ago last year. I don't know, I just had a really great conversation. It was exciting to see the way they were kind of creating their own kind of new category at the time. And I think as we got into it today, we got a better view, I think, of what they're trying to build and do and how I think it benefits contractors. Maybe they're on to something that like, perhaps what it seems like Core is trying to do with the TPA franchise. You know, trying to find sort of a new way of processing claims and connecting vendors to carriers. But anyway, it's a fun chat.
+
+[00:02:18.140] - Brandon
+Yeah, it was. Both these guys are, you know, they've been VP level operators with the brands that most of us have had some kind of interaction or connection to. We're talking about Core Logic next gear matter. Port Right. Larry's been part of Crawford and Company. They've both been contractors. Brennan had a restoration company. Larry was a GC. They just have this unique background to where they're bringing a really three, four dimensional perspective on this TPA conversation, and it's affecting what they're building at homey, for sure.
+
+[00:02:52.120] - Chris
+You know, what I like about this conversation is sometimes conversations like this, where we get into technology and we get in these big industry sort of conversations about just the attributes of carriers and struggles. Sometimes I struggle to keep up with all of it because I feel like Brandon, Larry Watley, and a number of other key figures in the industry are now really starting to talk more like technology entrepreneurs, for sure right. Than the traditional conversations we're having around nuts and bolts, operations, exempt pricing, all.
+
+[00:03:24.660] - Brandon
+This kind of stuff.
+
+[00:03:25.230] - Chris
+It's like more and more of the industry is moving. It's becoming more professionalized. We're starting to talk like Silicon Valley entrepreneurs. Is this more of that language definitely coming right?
+
+[00:03:36.480] - Brandon
+Yeah.
+
+[00:03:36.900] - Chris
+And I think, as well, certainly consultants, we're trying to keep up with that and really stay at the front edge of that to help our clients and so forth. But I think just as operators and professionals in the industry, we have to the whole industry is moving that direction. I think customers and carriers and other single trades, everybody is moving forward, and we have to continue to kind of professionalize how we think about the industry and whatnot. And you get some of that. I mean, Brandon and Larry, like, with their experience with Materport and TPAs and so forth, you just hear it in their voice. They look at the industry a little bit different.
+
+[00:04:12.960] - Brandon
+Yeah, for sure. And I think it's beneficial because, again, they're bringing that contractor side of the experience to the table, and they're thinking about what they're developing and how they're doing it. So, again, Brandon, Donna Tele and Larry Nettles with Homie. Let's get into it.
+
+[00:04:29.700] - Chris
+Right on. Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:04:40.390] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead. What do you think is kind of serious?
+
+[00:04:50.730] - Chris
+Should we laugh?
+
+[00:04:55.450] - Brandon
+Gentlemen, thanks for joining us. We appreciate you taking the time to hang out with us today. I know you guys aren't sitting around waiting for new things to fill your schedules right now.
+
+[00:05:06.200] - Brandon (HOMEE)
+No, not at all. We love when people want to hang out with some homies.
+
+[00:05:11.050] - Larry (HOMEE)
+Maybe Brandon is resting, but I'm not resting.
+
+[00:05:14.170] - Brandon
+Okay. So how long did it take for the some Homies to start getting used in regular fashion when having conversations?
+
+[00:05:22.540] - Chris
+Is that what you guys call yourselves? Is that what everybody in homey calls.
+
+[00:05:25.930] - Larry (HOMEE)
+Themselves, or yeah, I use homie. I'm a child of the so homie was just part of my lifestyle, so it felt very natural for me. So I've used homemade for a long time.
+
+[00:05:36.390] - Chris
+Yeah, common parlance, right? Hey, homie. What's up? I'm a west coast kid. That's where it comes from for me.
+
+[00:05:44.590] - Brandon
+So just to give everybody a fair warning before we start getting into this conversation, because inevitably people are going to look at the title and see that the fact that TPA is in that title intentionally. So our plan today is to just do a really good audit or an overview of some of the TPA characteristics and how it's affecting the landscape a bit. And our excitement to talk to you guys is we met you. It's been a little while, I think since the first time we chatted. Brent, it might have been last year already, maybe early in the year. We were just very interested when you just briefly gave us some perspective on where Homie is coming from in terms of what they're addressing and the service line that they're bringing to the market. And the thing that stuck out to me is that I heard some focus around the customer experience from the contractors perspective, and that's exciting for us. We led restoration companies for quite some time and we did our time with TPAs and we didn't always feel as the contractor that there was much priority spent on us and we cried about it and moaned about it and all the things, but I don't think that's abnormal to have some kind of perspective on that.
+
+[00:07:02.040] - Brandon
+So we're excited to hear what you guys are doing, obviously. And not just that you guys are professionals that have been in the industry for a long time on multiple different facets, sat on different sides of the table. And I think you guys can really bring a comprehensive perspective versus one that's just weighted specifically from one viewpoint. So that's the goal. I don't think we'll cry and Nash teeth and all the things, but if it goes there, it goes there.
+
+[00:07:28.050] - Chris
+Yeah. I think you too are in a unique position to comment on this aspect of the industry because of your backgrounds and so forth. But yeah, could we just kind of take the listeners through a survey, through your eyes of the industry and the TPA landscape and then maybe we can at the end we'll bring it to and where does homey position itself and how does homey differentiate itself from maybe the existing solutions that are out there? That was a big set up. So where do you guys want to begin with all that? Right.
+
+[00:07:57.810] - Brandon (HOMEE)
+There's a lot of space there. But Larry, you want to start and kind of go way back? Like, let's go back ten to 15 years and talk about where this sort of and I don't want to say born, because it's been around for a long time, but let's kind of rewind a little bit and go back into the early parts of where you went to early 2000s. Yeah. What's your perspective back in the early days of contractor connection? And sort of understanding the way that fits into the ecosystem and then how that shapes your perspective and then kind of where we landed today, right?
+
+[00:08:31.850] - Larry (HOMEE)
+Yeah. If you look back and I wasn't at the genesis of manage repair, but not too far away from it, what really stands out to me is when it first started, there wasn't a lot of manage repair programs in the industry. And if you fast forward to today, I've got my notes here, MRP. Market Saturation. There seems to be a ton of options for energy repair programs out there for contractors. So I think that's one of the biggest changes that I've seen is just how many different options that contractors and carriers have to use in the managed repair space. I remember when I first started at Contractor Connection in the estimate review team, there was just a couple of competitors out there, right. The first choices of the world, the alacrities of the world. Outside of that, it was relatively minimal in the industry. And you look today, I'd argue there's probably 20 plus, maybe even 30 managed repair companies out there that you can choose from. So there's just a lot of market Saturation with managed repairs. When thinking about the early days from.
+
+[00:09:39.120] - Brandon
+Your guys'perspective, is there a why? Besides like, hey, there's a hole in the market. I want to make some money, let's invent something. Right. That can create revenue there most of the time, there's some kind of existing pain points that these companies are providing an answer to, and that's why they become viable or we start to use them or see them become commonplace in an industry. I mean, you guys, going back that far, what was the missing component? What was the pain that these guys were supposedly trying to answer when they created the TPA or Manager Repair program?
+
+[00:10:13.050] - Brandon (HOMEE)
+Great question.
+
+[00:10:13.760] - Larry (HOMEE)
+I think so, from my perspective, I think if you look at most of the leaders, right? They're all entrepreneurs, right? They have that entrepreneurial spirit. And most came into the industry, wanted to solve problems for their customers. They had a pain point. They had a problem that they wanted to solve. I think the early days of manage repair was the fulfillment of the repair process, right. At the time, insurance carriers were really just issuing checks right. Good to a policyholder. You provide a check, maybe unofficially provided them a list with a couple of contractors that you've worked with. But for the most part, the policyholder was left on their own to find a good contractor. And that causes a ton of problems. Right. Satisfaction goes down. You don't feel like the carrier is there to help you out. You partnered with the wrong contractor. They don't have insurance. So everything that came from that and in the early days of manage repair, the true leaders of the industry were really trying to solve that problem. How can we connect policyholders to a network of that contractors to be able to bring them back to pre loss.
+
+[00:11:16.780] - Larry (HOMEE)
+So I think that was the original problem the industry was trying to solve. And then naturally, as a business owner, you then try to figure out a way to monetize. Right? Yeah, that was the biggest pain point that was being solved early in the day. And I think it continues to be the problem that's being solved. It's not so much of a pain point, but now there are little nuances involved in that process that everyone's trying to solve.
+
+[00:11:38.410] - Chris
+So it started out customer driven. It was really to solve for customer experience, right. A major breakdown. Somebody gets the wrong contractor, all of a sudden they associate that negative experience with the carrier. They're seeing policy lapse. They're seeing all these negative outcomes from low satisfaction claims and they're saying, all right, how do we troubleshoot this? Let's create a network. Let's vet these contractors ahead of time. That was really the emphasis originally was solving for the customer experience issue.
+
+[00:12:08.550] - Brandon (HOMEE)
+Yes.
+
+[00:12:09.160] - Chris
+Yeah. That to me makes a lot of sense. But of course, the overall narrative in the industry right, is it was all about just reducing severity, all the dollars and cents. But what you're saying is it started out as legit customer experience problem and then of course, over time we found ways to monetize it in the sense of reducing severity, perhaps. And obviously there's the money incentive for the TPAs. They're driven by that.
+
+[00:12:33.250] - Larry (HOMEE)
+Yeah, I think if you look naturally, as businesses begin with addressing a pain point, how do they evolve? Right. As you get more data and metrics, okay, how do we make it better? How do we continue to stay ahead of competition? Indemnity control is extremely important for a carrier and so how do we control that? And then the genesis of the quality assurance team comes into play and then how does that evolve? Well, now, too much human touch. Now let's evolve into an automated quality assurance process. So I think naturally, as business evolves and you get better data and metrics, you start to find efficiency gains, you start to find little things that keep you ahead of the competition. But yeah, it starts customer service and then it continues to evolve. And how we get better, how can we provide more value, better service to our customers?
+
+[00:13:19.530] - Chris
+So from your perspective, though, on the contractor connection side, because you had an inside view of it for a number of years, where do you think and you don't have to speak directly to contractor connection, but where do you think this TPA model started to take a wrong turn in terms of where you started to see this polarization between contractors and TPAs and carriers? What do you believe was kind of the genesis of that negative relationship emerging scorecards metrics?
+
+[00:13:45.890] - Larry (HOMEE)
+I think as we start measuring performance and setting benchmarks for what we think is good performance, I think it's always, how can we get better, how can we get better? And so as you continue to monitor those metrics and try to drive performance, it just grinds. Grinds on internal staff who are driving those cycle times. It grinds on contractors who are trying to provide a good job, but they're sort of at a conflict because going faster might not be the best thing for the policyholder. I think the more metrics, the more scorecards became popular, the more association of controlling cycle times and JD power satisfaction and possibly retention. As you start to tie that data together and say, okay, if I can squeeze another day out of this metric that's going to separate me from competition, it's going to help me show customers that, hey, we're driving Sat and we're driving policyholder retention. So I think if I had to guess to pick one, I think it's really the maturity and the data and the metrics that we've seen.
+
+[00:14:48.630] - Brandon
+Brendan, I saw in your face a couple of times, you had a comment, I don't want to make sure that we hear from you on this.
+
+[00:14:56.060] - Brandon (HOMEE)
+Yeah, no, going all the way back to the beginning. I think as they sit and listen to you guys kind of banter here, it strikes me that looking at from a carrier perspective, they're seeking sort of predictable outcomes, right? And how can they create process that's rinse and repeat? And that's one way to drive a predictable outcome. And as we see this starts to develop and mature in the industry as it has over the years, that also creates negativity too. Right. We start really forcing round planes to square hold them down, rinse and repeat process that has a predictable outcome where we know that we can perform consistently. There's a handful of these TPA programs out there that have been around for a long time and they have the lines then share of the market, and only because they have the systems and process in place, there's a huge opportunity. And I think why we see this emergence of TPAs and managed repair programs popping up everywhere, and there's so many today, is because these big entities now are so large and so averse to change, because it's such a massive undertaking for them to change their operations around.
+
+[00:16:13.690] - Brandon (HOMEE)
+We had this sort of pendulum swing of the way that this operated the industry and it was two dimensional. It swung towards the carrier, it swung towards the vendor and then back again. Today it's a little bit different. We have technology taking a role in all of this, in removing the need for big teams of folks to go handle this and offload this from a carrier to a TPR manage repair network. And now all of a sudden we've got sort of this different effect occurring out in the industry. And it really is coming down to it's like the race for who can get the most effective technology that's going to play nicely in the sandbox with everybody's technology. When we talk about that, that's what really becomes the emerging value in this space, I think, as an industry. And Larry mentioned the JD power's story and there's multiple of them out there of the same sort of different versions of the same theme. Carriers are going to continue to look for managed channels because of the predictable outcomes. But what's changed here kind of postcoded is carriers have been brought out into the light in terms of they have the same constraints with finding quality, adjusting staff and servicing personnel to manage these claims effectively.
+
+[00:17:26.570] - Brandon (HOMEE)
+So they now want to offload even more volume and they have to offload this volume to reliable sources that understand process. They're qualified credential the right way to manage this very well and there's just not a lot out there. So those handful of big players in the industry just continue to kind of get larger. As we talk about this conversation, there's a lot more to discuss. But you guys also said something else that I think is interesting that plays a role in this historically in insurance and in the claims part of the house there is, and I'm mentioning claims specifically because we're starting to see what technology and operations and understand more about what's important to a carrier. What it costs for a carrier to gain a policyholder and then retain that policyholder through a claims experience is a high friction point of contention for everybody in the industry. So if we start looking from the vendor perspective, the pros and the restoration contractors around, if I know it's important to a carrier and I know it's important to a policyholder and I start to ask the right questions, I now start to look at this from a different perspective and understand my role as a vendor in this formula.
+
+[00:18:37.400] - Brandon (HOMEE)
+And if we think about having positive customer outcomes, meaning my customers are happy with my work as a vendor, the program I work with or the carrier I work for is going to be pleased with the high NPS score customer satisfaction rating that they get out of it. We now create this holistic perspective around what we're doing in the insurance space to be a full policy lifecycle position. And when you start looking at the broader picture that way and understanding the industry that way, I think you start to ask different questions and look from different perspectives. We're going from a repair and replace mindset for the last how many decades long technology is bringing us forward. Yeah, think about it, right? We're now moving into a space where carriers are being driven by the policy and underwriting people in the house to say how can we become more predict and present focused and what is technology's role in that and what are the managed repair channels to help us manage that more effectively and for everybody's well being? Right? So now we start to see an emergence of manage repair strategies that I think focus more on how do we level the playing field.
+
+[00:19:46.650] - Brandon (HOMEE)
+So vendors and carriers really have an equal interest and should be sharing in the cost to produce these predictable outcomes. What does that look like and what are some of the topics and questions we can raise around that?
+
+[00:19:59.480] - Brandon
+I think that is really interesting. It kind of reminds me we're talking about Watley before we hit record and a lot of people are beginning if they didn't know who Wantley was, they're starting to recognize that team as far as actual insights surety. And others that he's inevitably engaged in. And one of the things that struck accord with us when we first met them and started talking about actionable insights was just this board that they created of people that represented all vested parties in the claims process. And out of that conversation we're ultimately able to start identifying pricing structures and guidance that we can use that we all benefit from. Right. It's like we're finding a common language that we can all agree to and speak. And it was just interesting that they created a business model that intentionally put those folks at the table at the same time so that they could influence ultimately what we have in terms of tools and resources. And it is weird to me, but my impression it's always been from the contractor side has been it never felt like we were ever actually invited to the table to have a conversation.
+
+[00:21:13.390] - Brandon
+It felt like, I'm going to cry a little bit, Larry, I told you I wasn't going to whine. But it felt a little bit like going back to why we did it. We needed more predictable outcomes and really early years in our industry, it was literally the Wild West. I mean, we're all just making up stuff as it went, right? And I can see why we would want to regulate that to systemize it to come up some common ground, but it has never really felt like we've been called to the table. It's always been like, okay, we're going to set standards to fix the lowest common denominator and then we forget there's all these other contractors and vendor partner capabilities and skill sets in there somewhere and some of those requirements through TPAs can, as you said, a grind. It feels like we're being asked to do stuff because there's no trust in the capability or the delivery methodology of the company. And so it's like, how do we start having some conversations where we all get to talk about and potentially help create the standards and systems that we should be following to create a really great customer experience?
+
+[00:22:17.890] - Larry (HOMEE)
+For me, I think it simply you first have to start acknowledging that the contractor is a customer. I've maintained for years. You ask anybody I work with, I'm a contractor at heart. I started in this industry as a contractor and I'm an accidental manager repair. And so I think the contractors for years have just been the forgotten customers. I think it starts with acknowledging just how critical contractors are to this whole process. I know that seems silly, right? But if you look at advancements in technology, if you look at the decisions that are being made, it really is customer focused, but it seems to be one sided, right? So I think acknowledging that contractors are customers and we need to build value around what they do, delivering better services to them, I think is critical. And that's where I think the biggest opportunity in our industry is right now. It's a wide open space for not just TPAs, but in shortcut startups. Think about Waltley, what he's done. It's a wide open space to drive valuable solutions to pain points that contractors are facing. And I don't think a lot of people are focused on it right now.
+
+[00:23:28.580] - Chris
+Just to hang in the problem a little bit because then we're going to go into the promised land and talk about how homie's changing the landscape. But some of my background, I spent almost five years owning a state farm agency. And so we would have, and I forget if they were quarterly or annual claims calls where we'd have the National Claims Organization would give us all the stats about lost experience and all of that kind of stuff. And then underwriting would talk about how they're going to react to all the lost experience and what it's going to do to rates and whatever. And so I went through years of that. And one of the things that I learned is how dramatically claims experience affects the overall household retention for these carriers, right? And I forget the exact numbers, but I've told this to many of our clients that average retention for say, a state farm of a household is something like customer lifetime values, roughly nine and a half years of premium pain. But what's interesting is once somebody has a damage event of some amount of severity, a claim experience, if that claim generates positive outcome for that household, that household's longevity increases to roughly 22 years, if I recall.
+
+[00:24:26.950] - Chris
+So it over doubles the lifetime value of that customer by producing a good claim outcome. And one of the other dynamics though, that I learned as a state farm agent is that when a claim goes sideways, something goes poorly with that claim. The customer views the claim experience as this bundled group of service providers that are all associated with the carrier. And this showed up in a bunch of ways. Just how customers would talk about when they call and ask questions about the claim is that I think the customer tends to conflate their experience with the claim, with the carrier, not the contractor. It's an interesting thing, right? If the contractor screws up, the customer tends to blame the carrier. They lump the carrier in and their agent in with that overall negative experience. So we coach some of our clients to communicate this to agents. Hey, look, we understand that when you have a claim that goes well, you've got a customer for life, right. You've delivered on the promise. They perceive the brand is trustworthy, but the exact opposite is true too. If a claim goes sideways, it doesn't matter who caused that, whether it was an adjuster on a bad day or poor work delivery by the contractor.
+
+[00:25:35.550] - Chris
+The customer conflates all of that as their experience with this carrier brand. Like they see it as a breakdown of State Farm. State Farm failed them because their rebuild projects on their home was unsuccessful in their eyes. So we use that as sort of a talking point when selling the agent, hey, we take this really seriously. If we can help you produce a great claim outcome, right, you end up with a customer for life, et cetera. We both win. But I wonder how much you see that in terms of actual research within the industry. But that seems to be a universal thing. Is that bad claim customer blames, everybody involved? It was a bad claim experience, which affects the carrier in that way. So I'm curious for your thoughts on that. But on the flip side too, I'm curious about incentives. And Larry, if you can talk about this, what are the KPIs? If you can remark on this, I don't know if you're still under NDA or how this stuff works, but within contractor connection, what are the KPIs? That leadership is driving the TPA teams too, as they're processing these claims through their system.
+
+[00:26:38.240] - Chris
+What KPIs are being tracked because I think to contractors, what it feels like is the whole purpose of this was simply to reduce severity. This is just a way for carriers to reduce their severity by five, 6811 percent, whatever the numbers are, which ultimately maintains their profitability and so forth. But this is all about the carrier's profitability. It's almost as though they hired the TPAs to be there heavy. It's like the hired heavy, right?
+
+[00:27:05.830] - Larry (HOMEE)
+Yeah. The bodyguard, the guy you're going to send them first. Right?
+
+[00:27:09.240] - Chris
+Right. I mean, it certainly comes off that way. And I'm curious, with your own experience internally, what are the incentives for downline TPA staff when they're looking at a claim? What are they being judged on in terms of their internal performance on these claims?
+
+[00:27:26.600] - Larry (HOMEE)
+This is a great question because an estimate review, right. The internal staff are measured on cycle times just as much as contractors. And so our main KPI was estimate review cycle time as soon as it hit our desk. How quickly are we getting the revisions back to the contractor? If there were any or process through, those staff were motivated to keep these files moving forward, right? Whether it's customer service staff, estimate review staff, which if you ask a contractor, it seems to be that the common. Theme is, well, they're just holding my estimate, they're delaying the process when the reality is they're under as much pressure as the contractor to get that estimate moving forward. So, yeah, internal staff are that entire claims process, right? Everyone is trying to keep that cycle time low, keep that process moving forward. If you look at the main cycle times again, it goes back to JD. Powers. Right. The main cycle time is estimate upload only because estimate upload drives how quickly that estimate gets approved, how quickly the job can get started. There's a lot of information out there. The longer it takes to get that policy or back to a pre lost condition, the lower the satisfaction goes and.
+
+[00:28:42.920] - Chris
+The greater the severity, too. Right, exactly.
+
+[00:28:46.570] - Larry (HOMEE)
+You just gave a great example of policyholder retention. Like if you're able to have a good claims experience, and we tie claims experience to cycle times, how long you're in disarray or chaos, if you can reduce that, then you can paint a really good picture about policyholder retention. So estimate upload was extremely important, again, because it leads to proving the estimates. And that's why there was so much of an emphasis on the internal team moving those things as quickly as possible. I mean, there were so many metrics, there were so many root cause analysis done. How can we get better and better and better? And then, as I said, the approval piece, which is interesting to talk about, because the estimate approval, that's the carrier. Right? That's the carrier's responsibility. And so from my perspective, I think this still even exists today. There's definitely improvement needed on that end, but there's not very many metrics at the TPA level on how quickly that happens. Right. Let me say that differently. They know how quickly it happens, but they don't understand the challenges that drag out the approval of the estimates. And so that has a great dependency on how quickly those jobs can get started, which has a great dependency on that claims experience.
+
+[00:29:58.350] - Larry (HOMEE)
+So, yeah, I mean, internal external KPIs are important and those groups are driving that performance. Now, as far as performance incentives, I think most TPAs have a scorecard, right? And that scorecard is used to determine the effectiveness of that pro, the participation in the network. If you drop below a certain score, is it still a good idea to do business? Most TPAs are also incentivizing assignment preference. Right. So the higher your score, the more assignments you get. We want to get assignments to our best performers, which is good and bad. Do you give assignment preference to your top performers? Do they eventually get to capacity? And now their teams are really stressed out and now their performance drops. How do you incentivize that lower performer to get better if they're never going to get a job? So that's sort of a double edged sword there with incentivizing claim assignment preference with scorecards.
+
+[00:30:54.830] - Brandon
+Yeah, I think we've certainly felt like the limited positives of that and certainly felt the negatives at times from that accountability. One of the things that you said, and actually, Brandon, I'm curious to get your perspective on this too, is you've talked about we kind of maybe started to lose some connectedness between TPAs and contractors when we really started to devise these scorecards, these measuring tools of seeing how we're actually performing in the field. And speaking for just myself, as much as I want to walk around the world and tell everybody I'm really excited to have my performance measured and be able to be held accountable right. That it makes us all uncomfortable, and at times, most of us get pretty damn defensive about it, if we're honest. Right. And so I can certainly see how that has happened. But Brandon, from your perspective, you can't have one without the other. Like, we can't just lack accountability. We talk about that all the time in our clients businesses. From my perspective, it seems like Homie is doing it slightly different. I would think. You guys probably think you're doing it very differently. So is there a way for us to have both that accountability and connection?
+
+[00:32:07.830] - Brandon
+We talk about this with employee bases, right. Can we do that in this environment, specifically with these PPAs?
+
+[00:32:14.930] - Brandon (HOMEE)
+Yes, absolutely. Everything we've talked about today up until this point has been all these different constraints pushed down to the vendor, to the contractor, the pro, right. And they're bearing the brunt, all the weight of the process and the cost and everything that's gone there. And that's why we've had there's such a bad taste in their mouth. Right. And because of that, a number of things happen. We start to track performance quality and estimates and repairs and contractors. They're not unintelligent people. If you're going to really heavily start tracking equipment utilization and time and hours and jobs and things, they're going to find other ways to offset those costs. And we end up with this environment that is just cyclical of, like, this trust, because now we're going to inflate other items that maybe are wrong. It's business. You're going to put pressure on one point and you're going to release it somewhere else. And these aren't people being uncredible or operating unethically. It's just trying to make ends meet the right way. And there's so many factors involved in what drives the way a contractor performs. And inevitably, they're like a child. They'll just keep eating ice cream until somebody stops giving it to them.
+
+[00:33:32.680] - Brandon (HOMEE)
+And the system is broken to a degree because it rewards good performers, but it keeps serving an ice cream, and ultimately it breaks their performance or their quality because they just keep eating and eating and eating and eating. Very few have really figured out how to really slow down manage that capacity to do it really well. So as we start looking at what's.
+
+[00:33:55.970] - Larry (HOMEE)
+Sort of broken or not working with.
+
+[00:33:57.740] - Brandon (HOMEE)
+The industry, we start to see these things occur. The other issue is as we start looking at the claim channels in the industry, the funnels, so to speak as I like to call them, and understand what makes up the bulk of the lines and share of claims in the industry. And largely if you're one of these big TPAs out there and keep in mind TPA third Party Administrator these were born in like the health industry around having health insurance companies with doctors and medical provider vendors servicing patients. With me, it works really well for the health industry. Very different than going out and putting a vendor or doctor that's going to go knock on the door or ring a doorbell or do surgery in someone's living room versus in a hospital in a controlled environment. So where the TPA methodologies work really well in one industry or one segment of insurance, they don't necessarily carry over. And I say that a lot. We were really looking at home and sort of repositioning who homey is in the industry. I started to really look at and for years I've gone back and said what's the auto industry doing really well?
+
+[00:35:02.660] - Brandon (HOMEE)
+That's a little closer to property than maybe medical, right? So then we started thinking about how do we create this direct repair environment that's a little bit more property friendly and how do we start getting better performance in there and really making it about the vendor. Kobet was wonderful because we saw supply chain challenges, we saw the Great Recession and guess what? The carriers experienced the same problems the vendors were having. All of a sudden we were all the same, we all had the same problems. And now there's a much more a higher comfort level in technology where we're all zooming and we're all having doing video meetings and more open to things like a matterport or a docusk or some sort of a spatial data solution to virtually estimate a review and inspect a claim. Bringing this technology forward and making it sort of table stakes for the industry has continued to level the playing field. So now we have this situation where how do we make it healthy, how do we start to make it more balanced and stop that pendulum swing from leaning heavy to the carriers and their performance and desirable for predictable outcomes and rents and repeat processes and take some of the weight off the profit margins and the expense and cost to the contractor.
+
+[00:36:24.790] - Brandon (HOMEE)
+And we really looked at a lot of the cost and a lot of the experience here and we said, well, technology plays a major role in this. We need to be very technology forward. The process is painfully analog today as Larry talks about tapping a button to say estimate upload and create that to start the timer and start looking at these KPIs. We're all analog and painfully human manual processes. How do we eliminate keystrokes and mouse clicks? And how do we really condense the administrative sort of back office operation to get to that estimate approved? And then even more importantly, as we talk so much about Wattaley, how do we get cash flowing into the contractor in consumable bites that get them funded to start the job and get the material and do what they need to do? Because the problem with take eating too much ice cream is you run out of money in your quality debt first because of your cash flow constraints. Yeah, we keep cash flow flowing. Contractors are intelligent. They'll hire more people, they'll bring in more qualified temp labor. They'll find ways to manage the volume. As soon as they stop getting paid, they can't continue to do that.
+
+[00:37:32.520] - Brandon (HOMEE)
+You're taking the fuel out of the machine.
+
+[00:37:34.490] - Brandon
+Yeah. It's so true. It's funny you said that because I remember kind of our trajectory of TPA stuff was when I first came into the industry, the PSP program was still in existence for State Farm and we loved it, man. We had commercial accounts, we charged our materials. It was just this great relationship. The people on the ground that represented the carrier. We're friends. Like, we talked on a regular basis. There was a real connection there. And then of course, we got engaged with some of the others over time as that program went away. But one of the things that we always loved about some of the TPA work was direct deposit. It's like, okay, I will deal as a contractor with a lot of frustration. If the one frustration I'm not going to have is me getting paid for the services once I've rendered them. And one of the things that we saw over time was all of a sudden this kind of staple payment process that was associated with the TPAs. Now all of sudden, A, it was like, oh, well, that carrier actually they don't do direct pay and now that carrier does it.
+
+[00:38:38.460] - Brandon
+And now all the carriers that are on this TPA no longer do direct pay. And I'm like, okay. Now I was frustrated before. Now the one thing I was really excited that you were creating a frictionless process with has become full of friction again. And that really did not give us a warm and fuzzy over time either. So what I was just doing some poking around with you guys. Homie plays a different game. Obviously, you guys are part of this payment strategy or have a role in that. What are you guys doing? Let's get into the brass tax in terms of what do you guys are doing, what's your design focused on, and what is the contractor going to gain if they were able to or put in a situation where they're participating in your guys'programs?
+
+[00:39:23.550] - Brandon (HOMEE)
+Yeah, definitely. So first thing we do that I think is most important is we put the pro at the center of everything. We are prosperous. Right? The pro is critical to getting the job done. And if we provide the pro with services and support to do their job well and take away some of the things they don't do well, pros don't want to sit at a computer. They certainly don't want to have to pay a restoration coordinator. If they don't have to, why do we have to put that in their lap? Let them wear a tool belt, let them go out on the job, let them get the job done. And focusing on giving them solutions and using technology to do that better has been a key part of what we're doing at home. I think a little bit differently. Again, we don't want to as much as you don't want to in this discussion today, bash anybody. These other companies that are out there that are doing it in the competitive space, they're analog and bringing it into digital. And I can hear some of those guys over there cussing me out right now saying technology great, but to really bring it to the point where your pros and your operations are really seeing and feeling the impact of that technology, it's not quite there yet.
+
+[00:40:32.790] - Brandon (HOMEE)
+These are mountains that have to be moved with these big companies. So we are born and started in a mobile and digital environment that is intended to let people focus on what they do best and automate and bring technology and digital solutions to the parts of the process that don't need a human to do it, first and foremost. Secondly, we want to focus on getting contractors paid quickly. We're paying out in days, in a few short weeks at the most. For another scenario is people are waiting 30, 60, 90 days. We do that intentionally. One of our flagship solutions we've identified is we're going to come in and disrupt this industry. I'm not looking to take business away from the big three. They're only getting a portion of the claims that are running through the system. We'd love to tap into some other claim channels that they're not necessarily winning at. Specifically low complex type claims. They don't do extremely well because when you have a contractor that's already making a near single digit profit margin on a repair only or the repair portion of the job, it's hard to give five, six, eight plus percent insure that much profit with a company that honestly isn't providing support and services like they're in business together, right?
+
+[00:41:42.920] - Brandon (HOMEE)
+I don't think it's going to be that way forever. I think these big companies are obviously well funded. They're going to make adjustments and fix this. But in the process that creates some opportunity. And there's some other claims channels that I think are needed. So we focus on low complex claims. We also focus on bringing support to the industry. Restoration contractors need single trades just as much as carriers and low complex claims do. So having a robust and well rounded I don't even like to use the word network, but marketplace. So what we're really looking at at home and what we're trying to do is say the TPA fee, there's such a negative connotation with that manage repair network. And if we were to look at the old medical model of TPAs, the majority and kind of incumbent companies out there today operate like HMOs. We'd like to think we're part of a PPO system. It's an open network.
+
+[00:42:36.890] - Brandon
+Yes.
+
+[00:42:37.400] - Brandon (HOMEE)
+And this is important both to the carrier and to the vendor. From a carrier perspective, everyone talks about the network, but this network is very incestuous. Right? Yeah. So many people are in 15 different programs. So whose network is it really? Right. It's a marketplace. So homey today doesn't want to be a managed repair network or TPA in the traditional sense. We want to be a digital claims marketplace, and we want to be a resource that does a couple of things. We want to provide supplemental labor and capacity resources. It could be an engineer consultant, it could be a single trade, a really well qualified handyman that can help a large restoration operator close out some punch list and complete work, because those guys are out hiring single trade subcontractors just the same. And there's no credentialing or great process to manage that extremely well. We can provide that for these restoration companies and provide good services to the carrier at the same time. So building a system, like I said, that's extremely pro centric and really focusing on the resources that get the job done once we get the claim off the desk, out of the computer, approved, to move forward and make that happen from that point forward.
+
+[00:43:51.120] - Brandon (HOMEE)
+So really kind of where we're at there. What's your take on that?
+
+[00:43:56.640] - Larry (HOMEE)
+I just want to continue to emphasize this prosecution approach that we have at homee. So a wise leader at Southeast Restoration, if you don't know that group, great group out of Georgia told me a while back that just about the burden on contractors with claims management, project managers. 15 years ago, if you look at their day, 85% of their day was spent managing projects and managing the customer. 15% of that was the administrative side of it. Notations, phone calls, things like that. Fast forward to now, it's flipped. 15% of their day is actually focused on projects and customers, and 85% of their day is on the administrative side of but if you think about it, managing claims, handling claims, it hasn't changed. It's the same basic flow. Right. But what has changed is who manages the majority of that?
+
+[00:44:48.160] - Brandon (HOMEE)
+The contract.
+
+[00:44:49.250] - Larry (HOMEE)
+If you think about a move to virtual desk adjusting, if you think about a move to really virtual everything, contractors still have to go out on site, still have to basically manage that claims process through to the end. And this individual said, if you can provide solutions in those areas to reduce the administrative burden then you've really got something. And so that's what home is really focused on. If you look at what we're trying to do is take away a lot of those burdens. Right. If you look at our model, we're tackling a lot of the policyholder interaction, we're tackling a lot of the gathering of the documentation. Brandon mentioned the payment process. So we're really positioning ourselves as an arm of the contractors organization to help take on that burden so that they can focus more on completing jobs, pleasing that policyholder, doing the most important thing, which to your guys'point is that retention, right. Helping to truly retain that policyholder. They can't do it if they're on the phone with a customer service rep or they're pushing buttons and exact analysis. So I think that is a key differentiator too. And then something else.
+
+[00:45:59.350] - Larry (HOMEE)
+Insure Tech is wonderful. Right. It's helped get our industry really up to speed, but it's also added multiple different tools that contractors have to manage duplicate data entry. And so the race to connectivity to Brandon's point is really important. How can you become a solution where one button provides what you need across multiple different platforms, multiple different tools? And if you look at just take Water mitigation as an example, right? Moisture mapper. Mika, there's numerous tools out there that all TPAs could adopt, all carriers could mandate. So you could be a contractor using seven different moisture data analytics tools.
+
+[00:46:37.670] - Brandon
+So true.
+
+[00:46:38.280] - Chris
+Yeah.
+
+[00:46:38.620] - Larry (HOMEE)
+Right? I mean, Estimating platform, you name the technology and you can name for every Coke, there's a Pepsi. Right? And so there's just a ton out there. And that's something that we're extremely focused on here at home, is how do we again reduce that burden that contractors are facing so that they can be what they want to be, which is contractors servicing policyholders.
+
+[00:47:00.550] - Brandon
+Hey, friends. Hey listeners.
+
+[00:47:02.050] - Chris
+We're doing something a little bit different with our ads. So you've been accustomed to hearing some ads with our favorite partners and companies in the industry. Now we actually have a product page, our partners page on our website. So floodlightgrp. Compartners want to give you a quick rundown though, of the people that we're partner with and we believe in as really go to resources in the industry. The first one is restorationerep.com. Right. ERP are an important part of our sales process, our customer development process. And why reinvent the wheel? The Restriction ERP platform is awesome. It can be customized to your business, branding and all that kind of stuff. It has all the components to really create a value add for your commercial client. Accelerate job management software. Everybody needs job management software. And we just found accelerate. Not only is their team just really great to work with, when they get ideas from customers, they throw it into the product roadmap and they implement it. They're really advocating for the contractor and trying to create a software solution that works for them. Actionable insights. We recommend actual insights all the time, right? All of us as restoration operators are looking for turnkey resources and training solutions that we can take our team to the next level.
+
+[00:48:14.200] - Chris
+And AI, when it comes to estimating and matterport and a lot of the other essential tools we're using, they're an awesome resource and they're always coming out with new great stuff.
+
+[00:48:23.090] - Brandon
+Yeah. Super influential in the industry. Super Tech University soft skills development training for your technicians, for your frontline personnel. Let's face it, frontline personnel are the heartbeat of our company. They are the ones that connect with our clients and create the customer experience. There is no better investment than investing in the ability for those individuals to represent themselves, our clients, and our brands well. So Super Tech University, surety, they essentially are cutting down this lifecycle between delivering service and then getting paid, stepping in, removing the middleman in terms of mortgage companies, refining that pipeline, making sure that there's at least friction as possible so we can go out, do a great job, and then our businesses don't suffer while we're waiting to get paid. The money is coming and it's coming quickly. And then the last one, guys, is Liftify. It's kind of a newer entry to the industry. They're driving Google reviews so they're turnkey partner that we can literally go out, provide a great customer experience, hand that name off to our trusted partner in Lift if I, and have them go chase that Google review 25% conversion rate.
+
+[00:49:29.560] - Chris
+Which is industry wide, people tend to average 5% of people you ask for review actually convert Lift the five bumps out to 25. We were such a big believer. We are a customer and they've been generating all of our floodlight reviews in a matter of a week and a half or, I don't know, close to 15 reviews in just a short period of time.
+
+[00:49:46.410] - Brandon
+And I think people just underestimate what happens organically with your SEO search activity when you're getting these new and active five star reviews from our clients. And we just can't let the pedal up on that because of the effect on our businesses long term.
+
+[00:49:59.900] - Chris
+Big deal. So check it out. Check out our partners page. Do business with them. You won't regret it. We're confident in that floodlightgrp compartners.
+
+[00:50:08.670] - Brandon
+Thanks, guys. I have a question that's been kind of burning on my head as you guys have been talking. So one of the things that both of you alluded to earlier in the discussion was this idea of just technology is ultimately going to change the standard because it's just going to give us access to new things. It's going to shorten communication, time frames, all these things. Well, our clients, right? So our end user out in the open world who's going to inevitably have some kind of property damage, they too are experiencing this globalization of information and all this. It's funny, you were talking about kind of at the beginning of the TPAs, the service that they were fulfilling primarily was the connection of the dots. Right? It's like, hey, you have a damage. We're going to do the heavy lifting and get you connected to a qualified vendor. Well, all of us know now that anybody under the age of probably 40, they're getting information at the speed of light, and they're probably conducting research before we even have any idea that there's a need or a prompt on their part to do so. Do you guys feel like that competency potentially of the end user?
+
+[00:51:19.420] - Brandon
+Like their ability to access information, connect the dots, and conduct research? Is that going to change what platforms and TPAs are doing? Is there a new level of maybe accountability on their part or a change in the kind of service that they're going to have to provide to actually be a value add for the end user based on technology that they have access to?
+
+[00:51:41.620] - Brandon (HOMEE)
+Does that make sense?
+
+[00:51:42.540] - Larry (HOMEE)
+It makes perfect sense to me. And it's funny, it's part of my notes. My note is tech focused industry. You look at Insure Tech, if you look at this digital claims transformation that a lot of companies are going through, why did it start? Right? I mean, I don't think anyone really wants to take on a million dollars change and change management that comes with it. I think that the new homeowner has forced everyone to do that. Right. Look at my father. He still has a flip phone. But you look at me, I've got Apple device. And like I say, I'm a bit digitally focused. So the new homeowner and being connected through their devices and technology, I think it's forced not just carriers, but if you look at contractors, a lot of contractors are very tech savvy. I remember organizing an HVAC replacement for my mother and getting text notifications about the project manager that was coming out with his profile and his resume. And so I think, yes, the new type of homeowner and just how tech focused and tech savvy they are has forced this inclusion of those customers into that claims process through a digital device.
+
+[00:52:52.060] - Larry (HOMEE)
+I think it's to Brandon's point earlier, I think a lot of the predictive analytics are really focused in on that area too, right? But yeah, I think definitely the new homeowner has forced a lot of this tech movement.
+
+[00:53:03.710] - Chris
+I saw an article as I was preparing for our show, an article that referred to you guys as the Uber of property damage repair. And I thought that's a really interesting and potentially an attractive kind of analogy, I think, to the millennials. And frankly, I just am in the process now of doing build back on my own water damage loss that I had in my own home. And it's interesting what it feels like as an industry person, right? We have this view of how things work and then when you're in it in your own home, you get a little bit different vantage point right as you're going through that process yourself. But the idea of having an Uber like resource or platform as a homeowner for me to find, quote, qualified repair people to help me navigate this process and have it be point and click is really interesting. And I'm curious just how apt of an analogy is that to Uber. And I guess if there is an Uber like sort of element to the business, how are you building out that network? Because I could imagine that you've got some markets where you have huge penetration and a robust list of single trades and restoration companies and stuff like that.
+
+[00:54:15.340] - Chris
+But that seems like a massive lift as a company to get to scale where you've got all these people on your platform like an Uber to make it work. How close is that analogy to what you guys are trying to build?
+
+[00:54:25.200] - Brandon (HOMEE)
+I think it's accurate. I mean, Homebase 1.0, we had the Uber experience and the policy holder hand. It was an app you downloaded on your phone. You can connect with a plumber, electrician and HVAC technician and have that geo experience and watch them once they accept your request to come get to your home and take the product. And I think there's value in restoration. We're working on a policyholder portal that will bring transparency, that is going to allow the property owner to have more insight, which is going to reduce friction with the onsite personnel, the contractors and vendors that are working on the project. Because a homeowner that's well informed is going to be a lot easier to work for. The trust level is going to be lower. It's going to more effectively. More importantly than the policyholder portal though, I think is the Pro portal that we're producing. And this is putting everything in the palm of the hand of the Pro to manage that program. Not have to pay a restoration coordinator back at the office to do it, but put the tool in the hand and give it a true mobile first experience that allows the Pro to be able to manage their job more effectively.
+
+[00:55:30.230] - Brandon (HOMEE)
+That we think is critical to getting really accurate milestones hit in real time. And it's a truly digital experience now. It's not earth shattering. There's similar solutions out in the space that are doing this. But what I like about what we're doing differently here at home is when I work at Materport, in capturing a virtual scan of a property, it really changed our industry drastically and early when I didn't have major competition. Later when we did, it was interesting because the success of this technology really hinged on how seamlessly could it dovetail into the other technology. Could you get a link to a matter border into the exact same scope? So while I'm reviewing the scope, can I actually look at the virtual walkthrough? Could I. Bring this into if you use Dash or PSP or one of these other solutions, restoration manager, could I bring that into my sketch environment so I could really take advantage of the accuracy, the dimensions and measurements and what we learned today. You mentioned Google. How many plugins can you get in Google? If I'm used to Outlook, but I'm at a company that is in G suite, but I want to have an Outlook email experience.
+
+[00:56:39.600] - Brandon (HOMEE)
+I can download a Google app that gives me the Outlook tools to put my calendar in and lay out my Gmail to look very similar user experience to my Outlook. That today to me seems to be the key is have that nonexclusive ubiquitous partnership and integration capability that says listen, you want to use Miko or you want to use the Circles new app for moisture tracking and documented. It's given us the same psychometrics and details that a carrier wants. Do we care which system it comes from? Let's give you a pathway to put that in our system and let's be a central repository for that claim and the critical information, the claim that the carrier may be interested in to get that claim closed or approved or pushed forward to the next stage. And when we design technology in a way that's intended to be extremely open, API friendly, partnership hungry and bring all that to the table. Now you posed the question of how hard is it to build that network? Well, let me think about it. If we're integrated within Circle and all those contractors to the thousands that use in Circle are in that app and we give them a pathway to be a part of home that's low to no cost, you think they're going to get involved?
+
+[00:57:46.250] - Brandon
+Yeah, absolutely.
+
+[00:57:46.940] - Brandon (HOMEE)
+It's a high likelihood, right. And the same thing for Dash and core logic tools and Bear risk tools. So the more we integrate and we become this, we're not an estimatic solution. We do have a pricing model that when we get into an issue where stability, ability or the exact price isn't quite working, we can give you a time of material platform to be able to kind of get the job written up and get an approval if you can't get it done in one of your primary platforms. We're not taking business away from various core logic. It's not our game plan. Right. We view them as partners and we just want to be able to create an environment where everyone can succeed and everybody has an appetite for information. And really it's the outcome, not necessarily how we get the information. I don't care if you use a Texas Instruments calculator or a pad and paper or how you come up with four from two plus two. I just need to know the answers. Four and put it in the system. And technology and transparency has given us the reliability and credibility to be able to say, listen, take your poison, get it into the file, get it documented and let's get the claim approved and let's go get the work done and we have a happy customer.
+
+[00:58:56.480] - Brandon (HOMEE)
+The carrier has great policy retention and the world is a happy place.
+
+[00:59:00.900] - Larry (HOMEE)
+But I think you're answering a question I think is probably the most important question right now in our industry. If you take referrals off the table, right, you take referrals off the table as a managed repair program, what value are you adding to a contractor? Take the referrals off the table. Ask that question and answer it honestly. And so I think Homie is doing a lot of great things, but it could be a tough question for a lot of people out there. But it's a very important question to answer. I mean, referrals are table stakes, right? Vetted jobs are table stakes, right? I mean, everyone is offering vetted jobs, but beyond the vetted jobs, what value are you offering to contractors?
+
+[00:59:41.130] - Brandon
+It's funny that you asked that question because one of the thoughts I had the back of my head this whole time was the quality of the leads that we're getting. So I don't think I'm the only one. But part of our time and grade, right, working with TPAs, it felt a lot like there was this pressure above since we're feeding your kids, you're going to essentially do whatever we want. Well, I was pretty tempted to dance with the devil if I saw the lost opportunities coming through the door. And one of the things that we just witnessed over time was that promise of this honeyhole of opportunity didn't really correlate with what we were spending our time and energy doing. I was saying yes to latter assist. I was going to estimate only request, but they didn't tell me it was an estimate only until I got out and found out by the homeowner that their uncle is going to start the project on Saturday. I got a recon assignment and then I went out there and found out that actually the project is wet, but I can't sell the Mitigation because that assignment needs to go to someone else.
+
+[01:00:48.230] - Brandon
+So I'm going to call and notify the 1800 number that it's not dry yet. And then I'm going to watch that assignment go to my competitor.
+
+[01:00:55.910] - Brandon (HOMEE)
+I'm whining again, the customer unhappy because.
+
+[01:00:58.680] - Brandon
+It'S yes the whole time. The customer is like, dude, you already came out to my house. Why are we on day two? And by the way, your Palm score sucks because the clock is still ticking. Anyway, all that to be said, right, you guys are attacking this a little bit differently. When I look at the literature and your guys'website and start looking at what it is that you're saying, my impression is you're saying you're giving jobs.
+
+[01:01:22.090] - Chris
+Walk us through, could you? The life cycle of a claim from assignment to final customer satisfaction with the Homie platform. How does that differ? And, like, to Brandon's point, right. These estimate only assignments and all that kind of stuff, how does this look and feel for an inbound claim at homey?
+
+[01:01:43.640] - Larry (HOMEE)
+I think the homey, we don't pretend to be something that we're not. Right. Not every carrier is going to fit what we're looking for. I think a lot of what you just described, the pain of estimates only and the lack of vetted leads, I think it comes from the inability for people to say no. Right. I think there's this fear at managed repair programs of losing a customer to a competitor. Right. You've got metrics, you know, job sold percentages, you know, cycle times, you know, satisfaction of that program with your contractors and you know it's in the tank and you're just afraid to say no or even fire a customer. And so I think as a result of that, you just naturally say yes and take on these programs that are not good for your network and ultimately provide that bad service out of fear of saying no and having that customer walk away. So home. He doesn't pretend to do that. We don't pretend to be something that we're not. If a carrier wants a program, like an estimate only program, we'll have an honest conversation about how we can effectively service that program and how we can effectively push it out to our network or how we can't.
+
+[01:02:50.080] - Larry (HOMEE)
+Right. So we've had honest conversations about that. So that's first and foremost how we avoid that at home. But as far as workflow is concerned, I can't think of anything different or unique from a workflow standpoint that we're doing or tracking. I think it's really how we do it. I think it goes back to the administrative burden that we're taking away from the pros and that we're helping manage that process as opposed to being very hands off. To me, that is the biggest workflow difference with us.
+
+[01:03:21.680] - Brandon
+Brandon, I know your head is always working. You got something that you want to lay on top of that.
+
+[01:03:27.360] - Brandon (HOMEE)
+Yeah, the process is the process. So how can you change the perspective around what you're looking at with that situation? There are companies out there that I think it pays to have good relationships with, to say, listen, if your company's job is to just go do estimate inspection only, we should be utilizing that. And part of our line up is to be engaged with companies that do that. So when we do get a request to do an estimate of repair only, our goal is to send out a company that specializes in doing that and have them do that, not put that burden on a contractor. Right. The other thing that I hear often not often, but people do, I scratch your head and go, wait a second, you guys have contractors and vendors that aren't restoration or insurance vendors. You're kind of diluting our environment, taking work away from our no we're not. That's not at all what's happening. There's a lot of volume of claims that you're not getting to that need to be solved and quite honestly, the first complaint I get like you just described was how many of those crappy little 5000 $3,000 repair only jobs do you have to kind of take on the chin to get an opportunity for a 25 50K large loss opportunity?
+
+[01:04:39.410] - Brandon (HOMEE)
+Kind of like my golf game, I'm horrible but I keep swinging golf balls because when I hit one hole under par it's like I love it like.
+
+[01:04:50.090] - Brandon
+We'Re playing for that one good slot machine.
+
+[01:04:53.110] - Chris
+That energy will carry you through the next three loser games, right?
+
+[01:04:56.580] - Brandon (HOMEE)
+Yeah, exactly. So I don't think that's a fair way to play ball for everybody. Especially knowing that right. We know that I owned a restoration operation and not a lot of guys in the industry have made the transformation. More guys starting insurance and moved a restoration on the other side of the house than my story of coming from the restoration side of the house. I was a firefighter. I owned a restoration company. I learned how to win and succeed at that business, went into consulting and then largely now I'm really much more curious facing but I'm never going to let go of my roots and where I come from because I think today with technology a strong tie in understanding to what operationally it looks like for the boots on the ground, you know what I mean? And I think understanding both the constraints I could take you down to PNL for a restoration company and tell you what good performances at each branch on the way down falling out of the tree, right?
+
+[01:05:55.260] - Larry (HOMEE)
+Yeah.
+
+[01:05:55.550] - Brandon (HOMEE)
+So we get to the bottom but we know what all those benchmarks and performance numbers look like and there's two or three different models to run out there. But getting back more to the question, we want to use the right tool for the job but the right resource in line to succeed. And listen, if there's any better way to understand limitations of a network where they don't have capacity, they're putting the wrong. It's like putting a bulldozer to dig a little ditch. You don't want to do that. And it's not fair to everybody in the game to bring out big guns when you need something basic and fundamental and more importantly, somebody who specializes in estimating only and capturing good documentation is going to do a better job every day of the week and probably has better tools to do it more efficiently. Yeah.
+
+[01:06:40.840] - Brandon
+It's funny. One of the things I just hear you guys saying across the board is there is a theme of it's not one size fits all. We have a specialty, we provide a specific level of service and we are a tool in the toolkit and I think that can be part of the challenge around the TPA conversation as a whole with contractors is we all end up falling in this camp of either you're in or you're out. You hate it or you love it. And the reality probably is that it's much more neutral than that. It can be an effective revenue generator for your business if it's kept in correct context. If we don't necessarily develop our entire book of business around that one revenue stream or channel, and we think about what are the tools, the processes, the internal mechanisms that we need to have in place in order to maximize that one particular element of our business. And one of the things that we've been reading about Homie and looking at you, you guys are honest about that as well. You even use language like, hey, this could potentially be an additional revenue stream or a supplemental revenue stream.
+
+[01:07:51.950] - Brandon
+You're not making promises that you should build your entire book of business around a relationship with you directly. Did I read between the lines there?
+
+[01:08:02.050] - Brandon (HOMEE)
+No, you got it right. And what's more important is I think everything in our industry going full circle here. Rinse and repeat. We find one thing that works well and we try to force everything, all those circle round claims to that square peg because it works. Because everybody has this problem. A carrier, a $5,000 claim for a carrier. Why should that have the same milestones and process as a 50 or $100,000 mid lost, large loss, fire loss, or cat loss? Right?
+
+[01:08:30.770] - Brandon
+Yeah.
+
+[01:08:31.410] - Brandon (HOMEE)
+So now the conversation again becomes HMO, very specific in the network follow a certain pathway, everything functions very rinse and repeat. The experience isn't great. It takes a long time, you got to get a referral, you got to wait for approvals. Or we can go to Ppl route. The network is constrained. We can go out of the network if the process flow, if it's a small, little complex claim. We have technology that pushes a $5,000 claim through the system very differently than a $50,000 claim. And guess what? The pro manages it from a mobile device that's interactive. So it doesn't force the pro to have to think it's a different job. Go out, assess the damage, give a scope, schedule the repairs, get the work done. It shouldn't take more than ten to 14 days for a $5,000 repair unless you're special order materials or requirements. Why is it taking 45 to go? Because of admin process that largely today is supposed to be digitized using technology. So we think from that perspective, solving that for the carrier and not passing down everything to the contractors. So the other thing that we do very differently is we think that the carrier has an equal interest, let's share the cost.
+
+[01:09:43.260] - Brandon (HOMEE)
+And if we can find some middle ground to where the carrier is paying for some really good technology, that makes sense. And they feel good doing it, and they're getting good KPI performance and outcomes and the vendors paying less or very nominal fees in getting good quality work and the right sized work. That's exactly what their specialties are and what they do well, everybody's happy. That's where I think the future is and what we do and where we think digitizing that process and bringing it to a marketplace where you can pick and choose your poison. And it could be regionally. You choose different contractors. If you're a carrier that perform differently, it could be during a contest. You probably saw a recent acquisition of BiCAP Marketplace. This is the Amazon for the insurance industry and it serves vendors of all sorts, engineers, consultants, IAS, contractors. And it aligns carriers with the services they need. So now that coveted vendor manager everybody in these programs wants to have a relationship with, because you think you're going to get a little bit better treatment if you know the vendor manager, right. We've designed some technology that is a vendor manager's dream.
+
+[01:10:49.550] - Brandon (HOMEE)
+It solves their problem and it solves some big issues that we have in catastrophe. Not all parts of the country, but the world is working towards those cat opportunities. A lot of people get involved in TPAs and programs so that they can have a more structured opportunity to respond and do cap work, right? So we've built this solution that services the industry to be able to mobilize more accurately and effectively the correct resources at the most efficient cost and to solve problems very effectively. And in parallel to that, when those operations are occurring and the carriers focused on the catastrophe, we've got a pathway to offload daily invest claims that are occurring for the people that don't mobilize a couple of states away to go take care of the loss. The point being is if we build technologies and systems that truly service carriers and vendors equally. We can service day to day claims while vendors that choose to stay home and not get involved in the catastrophe still get phone calls answered. Approvals processed and jobs continue to flow and they take care of the needs at home while the guys that want to go mobilize and go respond to a catastrophe are getting better services.
+
+[01:11:53.730] - Brandon (HOMEE)
+Better incentives. A more balanced level playing field that all the carriers can trying to compete in. And we lose that incestuous sort of your network, my network, his network kind of a thing, now becomes an open marketplace that says, hey, we have this capability, let us know where you need our help, we'll make sure we're there to do it.
+
+[01:12:12.300] - Chris
+Questions? How does the homey platform, the software, break down some of the silos that naturally exist between carrier and homeowner policyholder and construction company or vendor and policyholder? Because one of my experiences was you've got the whole project management, construction timeline, repairs timeline, you've got tax coming in and out of your house, doing moisture checks and then ultimately measuring your space and then doing material selection. There's this whole process that happens on the restoration company side. While there's an entirely different process, it feels like, to the policyholder on the claim settlement payments questions that the carrier has about the contractors estimates, the money is sort of on hold from the carrier and the policyholder doesn't necessarily understand. It's almost like two completely different conversations that the policyholder is having to keep up with and manage. And one of the opportunities I hear just from a customer perspective is if you could almost make the carrier disappear in the process right. And the policyholder is still privy to what's the next thing in front of me with this getting my kitchen back in order, all in a singular place. Like I found myself calling my contractor, my restoration contractor, hey, remind me what's going on?
+
+[01:13:33.740] - Chris
+That whole thing over and over. And then my wife, of course, because we both have work and we're both career people, there was a lot of back and forth on the contractor side. But then the contractors say, hey, have you heard from the adjuster? I'm like, well no, let me log in to my state farm portal and see what the last confidential communicate was I was sent. And then I'm going to email them back because I can never reach anybody on the phone and then I'm going to wait 24 hours for a reply from them. So I get this tidbit information that I then pass along to my project manager at the restoration company. Right. It's like, is there a way that homey is trying to solve for that? Is that one of the things that you guys are solving for?
+
+[01:14:11.060] - Brandon (HOMEE)
+Yes. So like I said right. So open API means those silos can now have a direct line of connection of information that reduces any duplicate entry. Right. Whatever system you're choosing to use with a good connection, it's going to automatically populate into the central repository of information and then depending on what that information pertains to, if it's the pro the vendor, it can go to that pro portal to that, it can go to the policyholder. Vendor carriers are very interested in a solution and paying for that solution to create a pathway or channel for their policyholder to be in that loop. And that's highly desirable to them as well. So yes, we've solved for that and we're producing tools to do that. One of the fears that you get with carriers is there's some states have these anti steering laws around pushing policyholder to a contract because the policy holder thinks of all the carrier, the contractor in Caboots and I'm going to get a lesser outcome because of it. Right?
+
+[01:15:07.480] - Chris
+Sure.
+
+[01:15:07.970] - Brandon (HOMEE)
+Or other different situations. But when you bring transparency and communication to the table, you give the policy holder that PPO option to choose many in or out of the network. You now get away from those constraints and issues. We now have a carrier and a contractor having better open dialogue and communication without trying. Their systems are communicating that information. Someone has arrived on site. There's a notice in the system that will automatically push to the carriage, whether it's guideline or snapsheet or any of the other systems that a carrier may use. Starting to log and manage its information. That could be critical to receive a phone call insured complaining about the contractor in some way, shape or form. Carriers can answer the phone at the call center. They're going to open up the file and they're going to see in their system of choice some recent notes or documentation or details that will better inform them they have a better conversation or more successful conversation with that homeowner policy holder. So simply connecting the dots of technology to allow these things to communicate information back and forth is the critical key today. We're seeing that change in our industry.
+
+[01:16:15.520] - Brandon (HOMEE)
+We're seeing silos of big companies that are owning large market share that we're previously not easy to work with, becoming much easier to work with and partner with and integrate with, and we're leveraging that to every possible angle we can with every one of those major players. Love that.
+
+[01:16:32.120] - Chris
+Makes perfect sense to me. I mean, again, being in the middle of a still open claim, right. The fact that these entities aren't talking to each other in a healthy way is, I think, a big part of the angst right. To both the homeowner but also the contractors. So the fact that you guys are getting everybody into kind of a centralized dashboard, you're integrating those communications is huge. Yeah, it's really huge.
+
+[01:16:55.380] - Brandon
+Okay, timing, guys. We want to protect you on your time as far as, like, steering some folks to go, give themselves the opportunity to learn more about what you guys are doing, what your platform offers. And, of course, our advice to anybody is we do not bring people on our show to pitch a specific product by any stretch of the imagination. However, when we see companies that it looks like their actions, their deeds, how they carry themselves and how they work with their partners, if it's something that we respect and we want to ensure that people have an opportunity to learn more and that's how we feel about Homie and your guys'leadership team, we just respect what you're building. We like the way that you speak about how you're going to serve the contractor, which we are obviously partial to. So, guys, check them out. Where are we sending folks to learn more about Homie and what you guys are doing?
+
+[01:17:47.180] - Larry (HOMEE)
+So, homey.com, you can reach us there.
+[email protected]
+, is another area to reach us. LinkedIn. You can find Brandon. I on LinkedIn. If you're in Vegas next week, Brandon, I'll be at ITC the Connect conference there in Vegas. Reach us out on homie. You can reach out to someone from Organization. I'd love to have a conversation with any contractors, carriers, anyone learning, wanting to learn more about Homie. But, yeah, find us there.
+
+[01:18:11.990] - Brandon
+I love it. Guys, for those of you that are listening right now, you have heard us in the past speak about our frustration with PPAs. And I just want to be really clear to everybody listening, is it's really important that you do your own research and ask your own questions on whether or not participating in some kind of managed program is relevant and important for your business? And the thing that I would just petition all of you as you explore that is really think about the kind of work that you want and that your business needs and then ask questions to identify if the program can provide you that. And I think what happens a lot is that we are desperate. We want more money, we want more revenue. We think just get more top line, regardless of how it looks, and it will somehow make our day better. And so I just encourage people, have a critical mind, have a conversation. Remember that it should be the TPA's job to woo you and to earn your business as well. And if you guys sit down and talk with Homie and Homie is able to do that for you, then get it done.
+
+[01:19:16.760] - Brandon
+But don't approach that relationship from a desperate perspective. It's not going to be good for you, your business, or the people you serve.
+
+[01:19:24.010] - Chris
+Okay? It's good.
+
+[01:19:24.990] - Brandon
+Gentlemen, thank you so much for hanging out with us. We are hopeful that we'll be spending more time with you guys in the industry as time goes on.
+
+[01:19:33.420] - Larry (HOMEE)
+Yeah, absolutely. Thanks for having us.
+
+[01:19:35.370] - Brandon
+All right, Jess.
+
+[01:19:36.030] - Brandon (HOMEE)
+Thanks a lot, guys. Thank you.
+
+[01:19:37.340] - Larry (HOMEE)
+Take care, guys.
+
+[01:19:37.910] - Chris
+All right, see you later.
+
+[01:19:41.410] - Brandon
+All right, everybody, thanks for joining us for another episode of Head, Heart and Boots.
+
+[01:19:45.910] - Chris
+And if you're enjoying the show that you love this episode, please hit Follow. Formerly known to subscribe. Write us to review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

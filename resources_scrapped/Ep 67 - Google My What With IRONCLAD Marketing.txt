@@ -1,0 +1,521 @@
+﻿[00:00:00.090] - Chris
+Hey, how's it going, man?
+
+[00:00:01.440] - Brandon
+Christopher, dude, you alright? We'll let you have this one and I'm not going to get pissed off about it.
+
+[00:00:08.290] - Chris
+Who are we hanging out with today, man?
+
+[00:00:10.420] - Brandon
+It was like an intro takeover. Blindsided. So we have yes. Good guest today. Interesting fellow. Old school punk rocker, old school skater, super fun. So, Ben Ricciardi,  with IRONCLAD.
+
+[00:00:27.520] - Chris
+Yes.
+
+[00:00:27.930] - Brandon
+IRONCLAD Marketing. So you and I have both been kind of wrestling and been fairly vocal about the fact that we just feel like SEO PPC Ppl is the black box. Nobody's got legitimate answers.
+
+[00:00:40.590] - Chris
+Everybody's selling it. Nobody knows what they're buying, man.
+
+[00:00:43.450] - Brandon
+In fact, everybody's selling it. Nobody knows what the hell they're buying. But you know what? Honestly, our conversation with Ben, it got tactical. I felt like we walked away with some actual measurable, tangible action items that businesses can take action on right now.
+
+[00:00:57.450] - Chris
+Even some free ones that will move the needle 100%.
+
+[00:01:00.370] - Brandon
+We dig into it. I don't want to give any away, but we dig into some elements that you can affect in your business right now. No cost, a little bit of time, a little bit of focus. And just in general, I really liked our time with him so far. We've met with him a couple of times, just learning more about the business, how he operates, how his team operates. Good blue collar background. The guy has been in the trade. He's been in the business for a while, and then he made a switch and he's got a team that he's been developing that focuses in on making us sell more. And legitimately, he's having success in this kind of digital front, and so I'm excited to get him on the show and have folks listen to some of the things he talks about because I feel like you'll be a little bit more empowered. I feel like people have a kind of a stronger foundation of what it is that they need if they can't do it themselves and just really walk away with something tangible. So.
+
+[00:01:51.940] - Chris
+Ben Ricciardi, of IRONCLAD restoration, marketing.
+
+[00:01:55.170] - Brandon
+Let's do it.
+
+[00:01:55.720] - Chris
+Here we go.
+
+[00:01:56.230] - Brandon
+All right.
+
+[00:02:03.560] - Chris
+Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:02:07.210] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:02:14.010] - Chris
+Man, I love this industry.
+
+[00:02:17.290] - Brandon
+Ben, thank you, sir, for joining us. My man. Appreciate you.
+
+[00:02:21.330] - Ben
+What's up, guys? Thanks for having me on. Excited?
+
+[00:02:24.090] - Brandon
+Okay, I got to get right into it. So the first thing I'm seeing behind your head is a really beautifully colored skateboard hanging on the wall. What's going on back there?
+
+[00:02:33.270] - Ben
+Yeah, that's what I used to ride to work. It's actually a hoverboard I got from Back to the Future from already? This skateboard is pretty cool. It's got an interesting story. So a very close friend of mine I grew up with that owes a couple tattoo shops down here in florida. Previously, I was the president of a nonprofit. So one of the things we did was we had an event at a shop. It was an art event, and some of the artists decorated skateboards, some did ukulele's, and we all got to bid or win prizes. And I was a lucky guy to win the skateboard deck, which is really cool. So unfortunately, I can't ride it to work unless they do come up with that hoverboard technology. Yeah, that's the story of it. I'm proud to have it hanging in here because we raise money for a good cause, and it's actually for a good friend of mine. I get to display his expertise.
+
+[00:03:12.780] - Brandon
+I love it. I love it. You and I were kind of shooting the breeze a little bit. So your background I was mentioning that I'm kind of an alt kid. I came up in the 90s, so Seattle grunge scene was the thing for me. But you came up in the punk in the hardcore scene, it sounded like.
+
+[00:03:28.870] - Ben
+Yeah, when we first were talking before, I moved around quite a bit. We moved. Bounced around on the East Coast from Maine to South Carolina to Florida, New Jersey. When I ended up in Florida for the last time, I think, yeah, I got involved in a punk and hardcore scene, which obviously a lot of my friends I'm an old man now, but a lot of my friends are skateboarding and currently do. Like I said before, I stay away from it because I don't like skinning my knees. Taking showers after a couple of skinnies or road rash isn't my favorite thing to do in the world. So I tend to err on the side of caution, stay off the wheeled stuff unless I can control it with a brake and have airbags in case I fall.
+
+[00:04:02.710] - Chris
+How are your ankles?
+
+[00:04:04.760] - Ben
+They're swollen and sore. Sometimes they're okay. But you know what? It could be worse. If I was actually riding skateboards at work, I'd probably have way worse. They'd be way worse.
+
+[00:04:14.320] - Chris
+My friends that were skaters back in the day, their ankles never recovered. It's like broken ankles, multiple sprains. All of my skater friends walk funny in their forty s. Right.
+
+[00:04:26.880] - Ben
+I try to stay away from things that are going to hurt me and cause me any more pain than just regular aging does. I hurt myself a lot in my life, being reckless, and I've got enough going on. It's not enough aspirin in the world to help my back if I fell on one of these things right now. Yeah.
+
+[00:04:40.560] - Brandon
+We certainly reach a certain age where we got to be far more considerate about what happens tomorrow on our decision versus what happens right now.
+
+[00:04:47.880] - Chris
+Exactly.
+
+[00:04:48.610] - Brandon
+So listen, we have been fairly vocal with the community and with our office that we feel like, gosh, any time we start talking about SEO and PPC and digital marketing, it just seems so vague. It seems difficult to wrap our arms around. It in a way where we can actually give people a sense of clarity and direction. We had a great conversation with you a couple of weeks back, and we just felt like, hey, let's just kind of focus on almost one area. But like you've alluded to and you're going to COVID with us today is they're not in Silos. There's kind of this formula that all needs to be working with each other, but you had some clarity around one of these things that is becoming really important. And from what we heard or saw, it seemed like, hey, this might be an achievable tier for people to focus.
+
+[00:05:43.240] - Chris
+On first, regardless of business size or budget.
+
+[00:05:45.630] - Brandon
+Regardless, right?
+
+[00:05:47.050] - Ben
+Yeah.
+
+[00:05:47.380] - Brandon
+So anyways, we want to go into that. And for those of you that will end up watching this or listening to this on YouTube, you're going to do some screen shares with us. You're going to get into some of the tactics. For those of you listening, you're going to get it by just the way that Ben communicates. He's a great communicator. He's super clear and concise, and I think you'll have plenty of takeaways. But, yeah, if you get a chance to watch this on YouTube when it's released, do that, because I think you'll get another layer of juice.
+
+[00:06:11.590] - Chris
+But Google my business profile. Is that what it's called?
+
+[00:06:14.140] - Ben
+Because I know names don't call it that anymore. What is this? Yeah, listen, it's had, like, 75 different names, I think, in the last four months. Now it's right now, it's the channel formerly known as Google My Business, Google Plus, Google Places, Google, whatever you want to call it. Last November, it's been about a year now. We're finally unwrapping all the changes, but there was a major algorithm update, and one of those parts of that update was changing the name again to Google Business Profile.
+
+[00:06:43.470] - Brandon
+Okay.
+
+[00:06:44.380] - Ben
+We're discussing the GBP.
+
+[00:06:46.570] - Brandon
+Okay. All right.
+
+[00:06:48.990] - Chris
+Yeah, you know me. Okay.
+
+[00:06:50.670] - Ben
+Yeah, exactly. We're writing a song about it right now. Hopefully it gets us in Google's good graces and we get a little bit.
+
+[00:06:56.850] - Brandon
+Better results for our weight in our favor.
+
+[00:07:00.130] - Ben
+Right?
+
+[00:07:01.240] - Brandon
+Well, dude, where do you want to go first, man?
+
+[00:07:04.180] - Ben
+All right, well, let's address the first thing you guys talked about, because this is something full disclosure. So my background is in construction, right. I've done a lot of different things in my life. I've worked in the restaurant industry, my family owned restaurants when I was a kid. I've worked labor for a lot when I was in high school. I came from a background that didn't have a lot of money. So if I wanted to have something, I worked for it. Right. Since I was 13 years old, I had some sort of job using my hands and my brain to work. So I have a construction background, specifically site development. I own a company down here. We do major water, sewer, drainage. So it's not exactly like the restoration industry, but I kind of understand and what we see a lot. Again, so I own an agency to give you a back it up even more. And we're called IRONCLAD restoration marketing. So we're a marketing agency, digital marketing agency that specifically concentrates in the restoration world. All right, so we're restoration specific. So one of the things that I see and I hate at the same time, and it's a really big hill to overcome, is most agencies and most people in sales, and it's not even a malicious thing.
+
+[00:08:03.240] - Ben
+They bank on the ambiguity of SEO and of digital marketing. What does it really mean? And when you break it down to the fundamentals, it's really not that complicated. And people tend to try to keep things complicated because it keeps them busy and it keeps you guessing, right? But if you want real tangible results, you really should, as a business owner, kind of understand, you know, the basics of it at least. And I have a book that I published, a second book. And it kind of breaks it down in a very simple way that I had to do it to understand starting the agency and being a newbie, in a sense, in digital marketing and teaching myself everything from web development. To SEO to pay per click to the Google business profile stuff and how all that stuff works together to ultimately get you guys leads and get the industry leads and get the phone ringing, which is what everybody needs to do. So it is an ambiguous service and it's a nasty three letter word to most people, because the reality is, most guys that have a company, they've been in business for a few years, they made it over that two year hump where they're not out of business.
+
+[00:08:57.850] - Ben
+You know, they didn't give up. They've worked with an agency or they've worked with a freelancer that's going to do SEO for them. And the business owner is concentrating on what they're good at, restoring property, following up with leads, getting the sales, and dealing with the adjusters, all the other things. And they're trusting somebody to do a service that they don't understand whatsoever. So you're opening the door to things not being done maybe the right way, which happens in 99% of the cases. Now, I don't want to lump it all into the industry of agencies right then. There's a lot of agencies out there that prey on the ambiguity. But a lot of times the problem is the business owner themselves just not understanding what it is that they're looking for. They have mismanaged expectations no matter what you tell them. You could say, hey, it's going to take you three years to get this keyword to page one. After a month, they are wondering why that keyword hasn't moved. Right. So business owners, I really feel, should be empowering themselves with this knowledge and the data to understand what they're buying or they shouldn't be wasting their money at all.
+
+[00:09:52.900] - Ben
+So part of what my book does and part of what I do with everything we do as far as iron cloud restoration marketing is concerned, is we try to provide as much value as possible in order to kind of let these people overcome this.
+
+[00:10:03.780] - Brandon
+I love it. So just a quick reminder to folks before we get going, pay attention, maybe take some notes. We are going to be giving some books out, but you're going to have to work for it. You're going to have to remember what the heck we talked about so that you can answer a few questions to get those books. There it is.
+
+[00:10:23.060] - Ben
+There's no titles. Well, there's some guys. Listen, full disclosure, just to put it out there, why SEO, too, is a little ambiguous. Last year, I think there was 4600 algorithm updates. 4600 years, only a few major ones, but a lot of little tweaks. And I guess people like myself pull our hair out and we're clamoring trying to figure this out. But it's really important to keep your fingers on the pulse of this stuff. Because of that, most of the updates don't translate to hurting you. Everything is designed to make the user experience better on Google. So the book is going to have some bullshit in it, right? So I published this thing, I think, in January of 2022. It's the second edition of the book because I published one the previous January and there was some bullshit in it. I think the day I published it is when I realized that there was a major name change, and I had to rewrite two chapters of it. And since then, there's been quite a few algorithm updates, so we're working on addition three. I'm probably going to change the name a little bit to kind of keep me from having to write too many.
+
+[00:11:18.730] - Brandon
+Books, but I was going to say you'd be putting one out every year.
+
+[00:11:22.150] - Ben
+Yeah, no, I mean, I really should be just because of how fast things change in this landscape. There's a little BS, little disclaimer there, but overall, this is a really good the book is a really good guideline in very simple terms, how to do this stuff yourself. And if not doing it yourself, at least be educated enough to be dangerous to know what you're buying. When you hire an agency to do SEO or pay per click or anything like that, there's nowhere to hide once you kind of understand this stuff. And it's really quite simple.
+
+[00:11:49.560] - Chris
+Well, dude, let's get into this GDP, start us there.
+
+[00:11:52.860] - Ben
+All right.
+
+[00:11:53.230] - Chris
+This is the low hanging fruit, right? I think you might have even kind of said that this is something everybody should be on top of because there's virtually no cost for us to at least have this box checked.
+
+[00:12:03.150] - Ben
+Yeah, absolutely. And that's perfectly said, because when it comes to SEO. My book will show you and give you some of the tools to be able to do it yourself. But the reality is, search engine optimization and pay per click are such highly specialized types of service that you would have to either completely put your business on pause to learn this stuff, to do it effectively. To do it really effectively. There are some basics that you can do just by reading and YouTubing and listen. I love the DIY guys. I love guys that learn to do this stuff on their own. But the reality is, if you wanted to bring this in house, you're going to need to spend a lot of money on a lot of salaries that don't only include a search engine optimization specialist, but include a content writer and include somebody that knows web development to work on conversion rates. Because we talked before, it's not about the traffic to your website. If you're not converting that traffic, then it's just a waste of time. Google Business Profile, formerly Google My business, Google Plus, Google Places, whatever you want to call it, whatever you still call it, I'm okay with is a really, I don't want to say easy, but it's a much more manageable and tangible channel that you can concentrate on for your business.
+
+[00:13:06.430] - Ben
+So if you're not doing anything, this is a great way for you. If you're just starting out, you don't have the budget to hire a marketing agency to kind of get yourself some sort of digital exposure utilizing Google and it's free. OK, there's a lot of nerdy technical stuff beyond that. Obviously there's levels to running this stuff just like SEO or websites. But the basics of it, I mean, if you are willing to put in the work, it's a really easy way for you to get some leads. We'll take a step back if you don't know your Google Business profile is directly correlated with your Maps rankings. All right, so hey, we're in the service based industry, right? You're helping people that have property damage. Your Maps rankings, not only are they the first thing you see on a mobile device, but that's where most people are going to look first. It shows the reviews right there. It shows they can bet you out. Just working on your Google Business profile properly will get you those Maps placements rankings, especially in your local area. And it's really hard to gain the system. It used to be easy.
+
+[00:14:00.640] - Ben
+So all these algorithm updates that Google puts out are there to enhance user experience, but more so to make sure that your competition is not doing anything. Black hat, they're not trying to gain the system. And if you do, Google lays a SmackDown pretty easily. And a lot of people lately, in the last couple of years have been getting their profile suspended. Whether it's their fault or not, Google is allowing their AI. They're really being strict on everything from your service area, to your proximity, to where your business is, to how you conduct business, and you're getting shut down. So it's good for the guys that are doing it right and the guys that are not doing it right, they're either going to adapt or die.
+
+[00:14:34.930] - Brandon
+And ultimately it's better for the audience, right. It's better for those that are using those search criteria and trying to find help and support their community. So what do you think? Should we do some screen share and start working through a decent profile so that the listeners can get an idea of what you're talking about exactly?
+
+[00:14:52.360] - Ben
+Sure. What I'm going to do first is I'm going to show you one of our clients that we've been managing their Google business profile since the beginning. And when I say I want to be very clear on this since the beginning, because in the past, your Google business profile has always been important. Right. There's a place where you get reviews. People are going to be able to leave you a good review. But that typically was only what people did, right. They have a profile and that was it. They just got reviews when they could. They concentrate on SEO, getting buying leads or getting pay per click, and they didn't really think about it. So this latest algorithm update has put a heavy ranking factor on your Google business profile outside of all the new constraints they're putting on the profile. And they've completely married your Google business profile with your organic rankings from what we've found. So where your Google business profile directly correlated with mass? Well, now we're finding correlations with your organic rankings, which are in effect of SEO. So if you have an SEO agency, you really should be listening to this.
+
+[00:15:44.010] - Ben
+Because if they're not managing a Google business profile or you're not properly, you're missing out on a lot of opportunities. And it's like watering down the gasoline in your tank, right. You're spending a bunch of money on SEO, but if you're missing this little element, you're kind of pissing in the wind.
+
+[00:15:57.750] - Brandon
+Yeah, makes sense.
+
+[00:15:58.800] - Ben
+I'll show you a nice optimized profile. We could do some web searches if you want, but you guys are ready to screenshot. I'll show you one of our clients. I'll show you the basics because now in the last few weeks, google's changed it again. So you don't have the same dashboard anymore. You're actually managing Google listening switch back to the old dashboard because this is just terrible anyways. But they changed it, so it's navigatable, it's easy to do.
+
+[00:16:22.330] - Brandon
+And then obviously a lot of listeners won't be pulling this up in YouTube, and so maybe just give us some descriptors on what it is exactly that we're looking at here.
+
+[00:16:31.240] - Ben
+All right? So for the people that aren't watching and you know what the cool thing is? I know I talk fast and I bounce around a lot inside my brain is like those old school lottery machines where they fly all the ping pongs of balls up in here. You've got to try to catch a few of them. Just bear with me. I get really excited about this stuff. It's just my nature. I love helping people out. So if you are watching on YouTube, you can go to YouTube settings and you can cut the speed down to like half and just it'll lower down normal rate and still be able to catch up. So whenever one of your potential customers does a search on Google, they're going to see results. Basically you're going to have a couple of pay per click areas, I think two or three depending on mobile or desktop. Then you're going to have your Maps rankings. And we'll just do R1, quick water damage and then we'll do hookway verna. I think that's how you pronounce it. Sorry if anybody's in North Carolina, and I'm murdering this name, but just want to show you what a match results look like.
+
+[00:17:21.000] - Ben
+So as I mentioned, they have well now they have four ad spaces. Last year they only had two. So now Google's taking up a little bit more of that home page. That valuable real estate. With more ads then what you're going to see here. And if you're on mobile, this is much more prominent. I think it's above the fold. And I'll mentioned above the fold a couple of times. All that means is the first thing you see on your screen without having to scroll. All right, so on a mobile device, you're going to see the Maps rankings. What they're going to do is this new algorithm used to be able to gain the system and get a lot of traction in areas you didn't even exist that were just based off your service area. But Google went and put a little more weight on the proximity. So even though this is a client of mine, they're a third in the Map rankings, which is great. They're in the Maps pack, the three pack that's like the holy grail. Google wants you to be close. So if I typed it, even though they're technically located in Rally, they're on a little bit of the outskirts.
+
+[00:18:10.560] - Ben
+They're in between Phuk Marina and Raleigh kind of on this road. And so when you search Rally, they're not going to be on the first page of the Maps anymore. Google is going to show you proximity to where you are, right? So if you happen to be on the road driving between Rally or south of Raleigh, apr is going to pop up first no matter what. So you're going to get these results like this. On the Maps rankings, this is directly correlated. Each one of these results right here are Google business profile, right? And then you have the organic rankings. This is the evergreen area that SEO aims to get you ranked on. Okay, so let's say we clicked on apr, you're going to get their Google Business profile. Pop up everything about their business from their views, their location. They don't do online estimates, you have to call a click to call phone number, their hours, their review section, and then they have a really cool feature that they released a little while ago called posting. So it's very similar to social media. Really cool. Yeah, really cool stuff you can do with this posting in terms of your keyword rankings and keywords and linking it with your website.
+
+[00:19:07.300] - Ben
+And we'll go over that a little bit. And then it also gives you some other things that people search for and it pops up their website and everything that's relative to that. So as a business owner, it goes without saying is you should have a Google Business profile because if Apr did not, they wouldn't show up in the Maps rankings, right? And now they would have a really hard time appearing in the organic rankings as well because it just makes sense. Google is coupling them together, why separate it? So what you're going to find is if you do have a Google Business profile already set up, then this is what you're going to see. Now when you go to Google business, this is the back end manager of your Google Business profile. And like literally three weeks ago, this was completely different. It was way more intuitive and easy to use. But the basics are here and we'll go through it. So you have an ability to do everything with your profile right here from this point. And so when we talk about an optimized Google Business profile, you want to make sure that you have your business name.
+
+[00:20:01.290] - Ben
+And now Google wants the exact business name that is on like your articles of incorporating, because you're going to have to show this stuff probably at one point a COI from a job or something that just shows your real legitimate legal business name. Then your business category, obviously they're a water damage restoration service. You're able to add as many of these business categories as you want. Go right ahead. Just make sure your main three, if it's water, fire, mold, those are the ones that are more prominent and then you can dive into those as subcategories as well.
+
+[00:20:27.720] - Brandon
+Are those like you can just type it in? Oh yeah, there you go.
+
+[00:20:30.700] - Ben
+A lot of them are pre built. Actually. Two years ago, Google didn't even have a mold remediation service. As a service, you had to really get creative with how you listed that. But now they've allowed you to add your own categories and things like that.
+
+[00:20:43.410] - Chris
+Okay, quick question. One thing I see here is opening date Apr has that listed blank. Is there some strategy there? Like if you're a young company, should you leave a blank? If you've been in business 40 years, does that somehow rank you higher or.
+
+[00:20:54.970] - Ben
+Give you no, not at all. I'll say it maybe, but I have not seen anything that affects that. That's why it's not really it's great. I don't even know how long that's been there, honestly. It seems like every time I open this up, there's a different little area that you can add. They have some other areas like Ada, accessible for businesses, or even if it's a woman owned business or better own business, they have some areas like that. And by all means, conversion wise, if you're a veteran, God bless you for your service. You should be adding that very prominently on your Google business and your website. Then you have the basics, your contact information, your description, phone number. And the really cool thing about your Google business profile is Google provides free call tracking. So not only do you have all this information and somebody get a hold of you, but if you go into your dashboard, google will provide you a breakdown of all the calls that came into your business, what the phone numbers were, and if they were answered or not.
+
+[00:21:41.320] - Chris
+That's awesome. The other thing I noticed as you were back out on the main profile is it sounds like there's a live chat function.
+
+[00:21:48.760] - Ben
+Yes. So that's another really cool feature that Google added messages, so you actually have to enable that. So if you haven't done this yet, there's an area on your website, I'm sure this is it in your Google business profile where you can turn on chat. The thing I will say, and this goes, a lot of people use live chat on their websites. I'm all about it. The thing I will say is, when it comes to leads and conversions, if you have live chat enabled, or if you have a live chat on your website, you have to have somebody managing it. The last thing you want is giving people 15 different ways to get in touch with you. But really the only way you're responding is a phone call. If all you can handle is answering the phone or returning messages, then don't do any of that other stuff until you have the infrastructure in place. Okay? Live chat is amazing. I wish every one of my clients could have that on their website. But the reality is not everybody's in the same situation with their business. So some people have somebody in the office that's there 24/7 that's going to get those messages and follow up with them right away.
+
+[00:22:41.550] - Ben
+But for the most part, it's much easier to use a phone. So I always tend to lean towards the path of least resistance with this stuff because if you throw too many things at a business, especially when they're not ready for it, it's like drinking out of a fire hose and they're never going to do anything right. They're going to have all these tasks and stuff that they have to manage. For general purposes, you need a profile that's built out and optimized and. When I say optimize, it's the little things we just mentioned, your services, your phone number is correct. You need the exact address that's on your business location. Right. And keep in mind, you verify this. If you've ever set up a Google Business profile, google send you a postcard. Google does not accept PO boxes. Google does not accept Ups store boxes either. Okay? So if you don't have an address, google does provide a way to say you're a service based business and you don't have to put any address in it at all. Okay.
+
+[00:23:31.410] - Chris
+I have a really important question for you. One of the old techniques I remember over the last five to ten years is that you'd see a lot of service companies getting well, it still happens, getting a phone number that's identified with a specific area, so they look more physically local than they actually are. So they may have a distribution center in Paboka, New Jersey, but they've also got a number for Manhattan because that's part of their service area. And so they're saying, well, we have that. And then what they're doing is they're using a storage facility, physical address or some sort of non operating address as kind of the anchor for that pro. So now they have multiple locations showing up in Google search results. Good thing or bad thing?
+
+[00:24:16.410] - Ben
+Well, it depends on who you're asking, right. If you're the business owner that wants to dominate in an area, and that's a really good thing. If you're a customer looking for somebody that's legit or your competition in that area and you're dealing with, I'm only going to use Serve Pro because they're the big guys out there. But if you're a Surf Pro and Serve Pro does have physical locations everywhere, so it's not an issue. But if they were doing something like that, it's hard to compete. They throw money after money out of it. But what I will say over the years, there's been a multitude of different ways to gain the Google Business Profile and the organic search rankings stuff, and every algorithm update that comes out shuts that stuff down. Right. They identify a problem and then they penalize the people that are doing it because they're very clearly outlined in their terms of service or their guidelines. They call them the Google Business Guidelines. And they couldn't be any more clear with how you need to set these profiles up, what information you need to have consistent in there. I mentioned the address and your business name and your phone number.
+
+[00:25:10.270] - Ben
+We call that the Nap name address, phone number. Right. You want to have that Nap? Not only if you only have a Google Business profile, that's fine. Just make sure that you have a Facebook Instagram and that Nap is consistent. It used to be that if it was you used Dr for Drive and you spelled out and you put that on your Google Business profile, but you spelled out drive on your website. There could be some way to penalize that because it's not an exact name, address, phone call. Now how much weight is barely on that now, I don't know. But it is something that you just want to maintain and keep consistent. So yeah, there's a lot of different ways you used to be able to gain the system. Companies used to be able to write Bio domain BestWater damagereservation. Dallas.com and guess what? They're number one on everything anywhere in Texas or Dallas area. And there was a big update that smashed that. So there's no such thing as a direct match domain name anymore. And consistently over the years, this stuff is going to go more and more. And one of the big things they did with this latest algorithm update was a proximity update.
+
+[00:26:03.640] - Ben
+So it kind of mitigated that kind of stuff. So they're really, I mean, we have clients where we've had to provide like typically you're going to provide a photo of the front of your door. So if you stay in there, if we say, like, these guys have a legit physical address, right? If we say this is our address, one, they're going to want to send a postcard there, then they're probably going to suspend your profile once you verify it, until you provide documentation proving that you're actually there and it's not a PO. Box. So they're going to need front of the door with your branding on it, name, phone number, logo, whatever. Then they want a picture of the front of your door from the street. Then they want some sort of documentation, electric bill or anything like that that proves that you're there. Then they'll analyze it and then they'll reinstate your profile. And that's guys, if you're listening to this, that's a hack. If you do get your profile suspended, typically that's what it is. So if you're a company that wants to rank in other areas, that city by city, just set your service area relative to that.
+
+[00:26:55.800] - Ben
+So if you serve a 60 miles area around Dallas, Texas, just make sure you're covering all the little cities and subsidies. And that would dive really into nerdy stuff when it comes to SEO and how all this stuff works together. But essentially the way Google looks at searches, they just want to make sure that you're legitimately there. So if you have content on your website to back that up, you have pictures you've uploaded from different your service areas on your Google business profile. Their AI will scan that. They'll know what's in the picture, where the picture was taken, and who uploaded it. That's one way they're mitigating that as well. So if you're not doing this the right way, you may be doing killing it. Now your agency might be killing it for you, but at some point you're going to be really sorry and you will be blacklisted. And you'll have one day you wake up and you have no organic traffic and no listings.
+
+[00:27:40.160] - Chris
+Hey, friends.
+
+[00:27:40.980] - Brandon
+Hey listeners.
+
+[00:27:41.710] - Chris
+We're doing something a little bit different with our ads. So you've been accustomed to hearing some ads with our favorite partners and companies in the industry. Now we actually have a product page, our partners page, on our website. So Floodlight grp.com, Forward slash Partners want to give you a quick rundown, though, of the people that we're partnered with and we believe in as really go to resources in the industry. The first one is restoration erp.com. Right? ERPs are an important part of our sales process, our customer development process. And why reinvent the wheel? The restoration ERP platform is awesome. It can be customized to your business, branding and all that kind of stuff. It has all the components to really create a value add for your commercial client. Accelerate Job management software. Everybody needs job management software, and we just found Accelerate. Not only is their team just really great to work with, when they get ideas from customers, they throw it into the product roadmap and they implement it. They're really advocating for the contractor and trying to create a software solution that works for them. Actionable insights. We recommend actually insights all the time, right.
+
+[00:28:44.910] - Chris
+All of us as restoration operators are looking for turnkey resources and training solutions that we can take our team to the next level and AI, when it comes to estimating and matterport and a lot of the other essential tools we're using, they're an awesome resource and they're always coming out with new great stuff.
+
+[00:29:03.010] - Brandon
+Super influential in the industry. Super Tech University. Soft Skills development training for your technicians, for your frontline personnel. Let's face it, frontline personnel are the heartbeat of our company. They are the ones that connect with our clients and create the customer experience. There's no better investment than investing in the ability for those individuals to represent themselves, our clients and our brands. Well. So super. Tech University? Surety. They essentially are cutting down this life cycle between delivering service and then getting paid, stepping in, removing the middleman in terms of mortgage companies, refining that pipeline, making sure that there's at least friction as possible so we can go out and do a great job, and then our businesses don't suffer while we're waiting to get paid. The money is coming and it's coming quickly. And then the last one, guys, is lifted. It's kind of a newer entry to the industry. They're driving Google reviews, so they're a turnkey partner that we can literally go out, provide a great customer experience, hand that name off to our trusted partner in liftify and have them go chase.
+
+[00:30:06.400] - Chris
+That Google Review 25% conversion rate, which is industry wide. People tend to average 5% of people you ask for review actually convert lift to five bumps at the 25. We were such a big believer. We are a customer and they've been generating all of our floodlight reviews in a matter of a week and a half or, I don't know, close to 15 reviews in just a short period of time.
+
+[00:30:26.080] - Brandon
+And I think people just underestimate what happens organically with your SEO search activity when you're getting these new and active five star reviews from our clients. And we just can't let the pedal up on that because of the effect on our business is long.
+
+[00:30:39.550] - Chris
+Big deal. So check it out. Check out our partners page. Do business with them. You won't regret it. We're confident in that. Floodlightgrp compartners.
+
+[00:30:48.340] - Brandon
+Thanks, guys. I know for a lot of businesses probably sounds a little frustrating, but I think at the end of the day, no. The cool thing is there's a little bit of honesty that's being asked for here. It's like instead of it being a game, we have to legitimately be operating in this space in order for us to be competing. And there's part of me that likes that. I think it can be a little bit difficult we can talk about this offline when really you're servicing an area far outside of just where your building is located for restoration businesses. Really. I mean, in most cases, we're going, what, maybe up to 90 minutes in any direction to serve our client. And so I think some of this accountability is great. I think it levels the playing field so that we can compete on quality and service delivery instead of games anyway.
+
+[00:31:38.320] - Ben
+Yeah, leveling the playing field is probably the best way to put it, because, let's face it, there's guys that are listening to this, or guys that are out there just starting out, or gals that are just starting out that don't have the budget to throw money and have a team. Like, we have a team that's dedicated only to Google Business Profile. We have a team that's dedicated to SEO. Then we have a team that does both. Because like I mentioned before, SEO and Google Business Profile now is completely married together. So if you want to rank an organic section in the map section, you need to be doing a combination of both of those things, but more so learning how they work together and how they interlink between each other. And how you can capitalize being honest and doing it right, but how to properly do it and what the effect is going to be. Because in this world and this type of marketing, there's no such thing as a direct response, right. Everything you do, and I like the liken it to planting a garden, right? So the leads are the vegetables that you're going to bear from the garden, right?
+
+[00:32:30.450] - Ben
+And your SEO, your Google Business Profile, your garden that you want to get fruit from, those free leads. Once you get those rankings and you maintain them well, you have to till the soil. You have to invest in people and tools and technology, and you have to nurture it until it grows. And the payperclick is like going to publix or whatever grocery store is in your area. We have published down here, shout out to public's pub subs. The grocery store is like payperclick. So while you're waiting for your garden to grow, I mean, you still have to nurture it and you have to do these things, but you can at least get these leads coming in via pay per click and be a lead generation or buying leads if you're so inclined. And then once your garden grows, you still have to maintain it. And then you can choose to not go to the grocery store or go to the grocery store, which is a really good problem to have. You got to be honest with this stuff and it really as frustrating it is to have all these changes. It does want to keep our team on our toes and allows us to it levels the playing field for digital marketing agencies as well, right.
+
+[00:33:22.120] - Ben
+We get a chance to learn more about the industry and figure out how it works and do it the right way for somebody.
+
+[00:33:27.570] - Chris
+Okay, so talk to us about how do we maximize this profile? So we talk about accuracy is a really, really important thing across all of our social profiles that there's a consistent everything is well aligned. But then I'm seeing here and this is the part that I didn't really know about until you mentioned it on previous chat is I see we can add photos. There was another prompt in there. Would you like to make an update on your page? What can we do? And then what kind of cadence or frequency is going to benefit us the most in terms of updates or adding value added content?
+
+[00:34:01.110] - Ben
+Sure, yeah. And we're going to go right back into the name of the game is optimizing your profile. Right. So the basics have to be there. Get your basics in order, your name, your phone number, your address, your service area, what you do, and a nice description to tell people what you do. The other cool function, how you manage this on a consistent basis. Now you mentioned frequency. Frequency to me isn't as important isn't as important as consistency. Right. So if you're going to do it, you have to understand what your bandwidth is because this stuff takes a lot of work. That's why I have a team. If it wasn't a lot of work, I'd be doing it myself. So posting what I mentioned before is that they actually give you and that's the update. Whereas an update section, you're able to add an update. Right. So let's say you just completed a water damage job in your city and you wanted to tell people about it, right? Well, hey, here's a water damage restoration job we did in Epcity. Customers are happy. We're going to be wrapping up. Next step is reconstruction. We can't wait for the people to move back in.
+
+[00:34:55.440] - Ben
+Put that in a little description there. If you want to learn more, visit our website or give us a call. Cody out to the call thing. Don't put your number in the description. Google will not let you do that. That's another way of getting the system. Yes, there are some tricks you can do to maybe get yourself a little exposure. But at the same time, you may be walking that line of getting your post flag, which isn't the end of the world, but it's something you'd rather just err on the side of caution. Then you can add a button, right? So what do you want them to do? Do you want them to call you? Do you want them to go to your website? Do you want them to order online if you're doing something like that? And the difference between those three are actually the difference in posting. There's a chapter in my book about social media, and people always ask, what do we post on social media? Typically, people are just posting like, hey, call us if you have water damage. Call us if you have this. Call us. They're just sale, sale, sale, sale.
+
+[00:35:39.700] - Ben
+You have to take into consideration like a 75% rule, right? 75% of your posts, and this goes for Google, should be value based. Google loves value based content. Your users love value based content because you're teaching them something. You are showing them what to do. If they find mold in their house, you're telling them what to do. And then 25% should be sales, right? Call now if you have property damage restoration. We offer these services in these cities, so take that into consideration when you're updating it. But there's no frequency too great. It's more about consistency. So if you can do two of these updates a week, doing two a week every week, and you'll see a major, major increase in your rankings, your phone is going to start ringing a little bit more. If you have good reviews and your website looks nice, and we talk a little bit more about how all these things kind of work together between your website converting the traffic, SEO, pay per click, and now the Google business profile, then the most basic level, this should increase your visibility. The cool thing about Photos that's kind of new and the updates is Google's AI.
+
+[00:36:38.880] - Ben
+It's like Skynet will scan these photos. So it's becoming self aware. And I'm not saying this as a negative thing. I really love it because let's say you did that water damage job in your city, right, and you posted it. You have a before and after. What Google is going to look at is they're going to look at the keywords in your description. Here's a water damage restoration project, an emergency water damage restoration project we did in Dallas. Customer blah, blah, blah, blah, blah. More call us today if you have an emergency. Now you have a picture of a house that's flooded, right? Maybe they're sink broke and they've got water all over their kitchen or stuff's mouldy and rotten. Google can see that. They're going to look at that picture and say, what's in this picture? And I don't know if you guys have ever tried this, but on your phone, if you have a picture in your phone, you can actually upload that phone. Like if it's a picture of a pair of boots you like, you can upload that onto Google and Google will find where that product is located. So much like how that works.
+
+[00:37:26.290] - Ben
+If you're going to upload a picture, make sure there's some context to it, because Google will look at that picture just like you and I would look at it and say, all right, that's water damage job. And I know the picture from the excess data was taken in Dallas. So they must be a water damage restoration contractor in Dallas. And lo and behold, they have these keywords in their description, and they have a link to their website, to their water damage page. You're really creating this really easy circle for Google. When I talk about getting into the nerdy stuff, there's a big step you can take beyond that to really capitalize on this, especially if you're using an SEO agency. There are some things you can do, but on a basic level, if you can treat this like your Instagram page and show off, that's the key, right? Photo wise, the basics logo, guys. If you have a crappy logo or your neighbors kid designed it, really pretend you're looking at somebody else's logo and you got to decide if you're going to do business with them, right? Same thing goes for your website. It's like you're walking into the mall and you see some rundown, shaky, crappy place, and then there's this place that sells the same thing right next to it that's like legit.
+
+[00:38:23.760] - Ben
+And they've got music playing. You got to treat your branding the same way because those are big assets for your business, and they're tangible assets that nobody can take away. One of the things we did with Apr, right off the bat, one of the things we do with our clients is this is their old logo. And this is their old website right? Here's a quick. I'll just breeze through this real quick. This is their old website. When we first came out about them, their logo, it's fine. I mean, it served the purpose. They've been in business for a long time, very successful business. And here's their new updated website logo. Just a spin on it, a little bit more professional. If you want to scroll through the website here.
+
+[00:38:55.080] - Chris
+Big difference.
+
+[00:38:56.110] - Ben
+Yes, it is. And a lot of this stuff, guys, is just common sense, right? A lot of people get married like, oh, I love my website. I had somebody build it was free. I don't want to deal with it. I'm getting calls because I know a plumber. What happens when a plumber retires? Why even have a website if you're not going to do an SEO? It's like having business cards you never take out of the box. You need to build those roads for people to find it.
+
+[00:39:16.050] - Brandon
+Yes, I love that analogy. That's great.
+
+[00:39:18.430] - Ben
+Yeah. So the other cool, the other thing about Google business besides the call tracking, adding your photos, logo, cover, photo, photos of job, show off, throw it all on there. There's so many free graphic design programs like canva, that literally my grandma can go on there and make a cool little post if you need to. Don't neglect it. Right? So add photos consistently, add updates consistently. If you are paying somebody to do SEO, you're doing SEO yourself. Part of SEO should be some blogs every once in a while with not monthly. Throw those blogs on your Google business profile and link back to that blog on your website. And then on the blog on the website, the link to your Google business profile, it's backlinks. So if you know anything about SEO, that's a big part of your ranking tracker. Those backlinks that you're generating. And what better backlink than Google?
+
+[00:39:59.830] - Brandon
+Okay, starting to get a lot of ideas even just for our own stuff here.
+
+[00:40:03.190] - Chris
+Yeah, no kidding.
+
+[00:40:04.060] - Ben
+Listen, if you are a service based company, I don't care if you're an electrician, a plumber, a roofer, anybody that somebody is in your house has an issue, they can pick up the phone and call you. Google business profile is free. It's not that hard to manage. And if you follow the guidelines or look at some of our clients, look at our website, look at our clients, look what we're doing. Just copy what we're doing. Well, I was just going to say.
+
+[00:40:23.560] - Chris
+Is it possible to pull in video.
+
+[00:40:24.790] - Ben
+Content on Google business profile? Yeah, you can actually put videos on Google business profile, and backup video is huge. If I could get every one of my clients to create video, they would be that much more successful. They'd have bigger rankings. And guess what? The second largest search engine in the world is YouTube. And Google owns YouTube, so why not? And when I just said that google lights value based content. If you're a restorer and you make a video on what to do when you have a catastrophic flood, or what do you do in the event of a hurricane, and you have all these different videos that's value information that you can syndicate. So now you can take that video and you can put it on your Google business profile, put it on YouTube, you can create a blog out of it and transcribe it. Put it on your website, you can use it for a social media post. You can share it in the industry association message boards if you have them. So you have to think about that type of content and try to squeeze as much juice out of that lemon as possible.
+
+[00:41:16.830] - Ben
+And syndicating the content is a big part of that. So video all day can't say enough about video.
+
+[00:41:23.230] - Brandon
+Okay.
+
+[00:41:24.190] - Chris
+Is it okay you're spitting out so much value and knowledge bombs here. It's okay, dude. I'm just going to push you any time. So you mention something, creating a blog post where you're embedding that YouTube video and then a transcript. That's a really simple thing. So are you suggesting when people put a video on their website to produce a transcript of the content and also post that along with the video, is that a power move?
+
+[00:41:55.030] - Ben
+Yeah, sure. Yeah. So I'll just walk you guys through what we do, right? We're in a little bit different from an industry. We service the restoration industry with digital marketing, but we're really good at syndicating, right? If I'm going to take the time to record a video of myself, which I do every single day, I make a 1 minute value information video. And they all, if you can see on our website, IRONCLAD Reservationmarketing.com, every one of these social media posts gets put on our website, gets put on YouTube, gets put on LinkedIn, Twitter, Facebook, any of the Facebook groups that I've created to help people do marketing. And our website. And here's, let's see, we're looking at this as a video that I did, and it's like a quick social media video. We put the video there and we have a transcription of the video, and then we have ways to get in touch with us, and then we have related videos that go with it. So I'll put this in the terms of a restoration company. If you are going to create a video that is just about your business, right, why choose us?
+
+[00:42:49.230] - Ben
+That should be the first thing somebody sees when they go to your website, right? One of the first things, because we're talking about conversion at that point, people want to put a face to the business. And if you're going to do that and you're going to take the time to produce, and you don't need to spend money on a video production, use your phone. Mostly. Everybody is not using the Motorola Razors anymore, so there's no excuse.
+
+[00:43:08.680] - Brandon
+There's a couple.
+
+[00:43:11.740] - Ben
+I still have one, but it doesn't work. So watch the video on your phone. Don't worry about what you look like. Don't worry, even if people look at it. I have YouTube videos that I thought were the best thing I've ever done in my life. And there's like three views. And I have stuff that's the dumbest thing. And I'm like, that's not even that important. And there's like thousands of views on it for some reason. And I know it's not because of my looks. Again, it's using that video content. And any piece of content that you make is leveraging it and syndicating it. So whether it's a Google business post or Instagram post, put it everywhere, because people aren't just concentrating on one channel. You need to be omnipresent. That's a big thing that we preach here, is an omnipresent. If you go on our website, that's like a big part of our culture here and what we do for our clients. And it's not that's just digital. Talking with Michelle Blevins from CNR the other day. She was on my podcast, and she talked a lot about the industry. I asked her, hey, what are some things that people can do right now to help grow their exposure?
+
+[00:44:04.630] - Ben
+And she said, Join the association's network. Don't look at your competition as competition. Look at them as mentors.
+
+[00:44:10.200] - Brandon
+Yes, it's smart.
+
+[00:44:11.740] - Ben
+It really is in the same thing. It all kind of works hand in hand. Your website works with your Google business profile, works with your social media, works with your pay per click.
+
+[00:44:19.710] - Brandon
+Your site is clean.
+
+[00:44:21.630] - Chris
+That's nice.
+
+[00:44:22.800] - Brandon
+I'm geeking out on it. I really like it a lot, actually.
+
+[00:44:27.110] - Ben
+I appreciate that. This is something we changed, like, 75 times.
+
+[00:44:31.010] - Brandon
+Tell me about it.
+
+[00:44:32.220] - Ben
+It's good practice, I think, with websites, every three or four years, you should revisit and probably do a little redesign, if you know the fundamentals. But we'll talk about the fundamentals, right? We talked about conversion. If you have a when I talk about this in writing an article right now about conversion rate is more important than traffic, right? If you've been that guy if you're listening to this and you're that guy that's had or a lady that's had five or six different marketing companies every month, you're going over these analytics and like, hey, look, you had 40 organic sessions to your site. 40 new people found you from Google, and you're like, Well, I don't care. My phone hasn't I've gotten nothing out of calls, right? So you fire them. You hire the next guy, and they come in and like, yeah, we've increased your traffic to 100 people. And you're like, well, look, I've only got two calls. It's not worth that monthly retainer. We have a conversion issue. You don't have a traffic issue. Increasing your traffic. If you have an issue with your website or you have sorry, part of my person crappy.
+
+[00:45:21.860] - Ben
+I don't know if I'm allowed to cough on this baby. I'm sweating because I haven't been able to swear in however long we've been on.
+
+[00:45:27.640] - Chris
+Swear as much as you want, man.
+
+[00:45:30.640] - Ben
+Shitty website or you have shitty reviews and you have a shitty logo or whatever, people are going to move to the next person. They're running a microwave society, and there's a property damage. They have an emergency. So conversion is a huge deal. And if you could just take that 30 people that you had before you started wasting all this money on all these other marketing modalities and converted more of those 30 people, you would have never had to fire the. Original agency in the first place. Everybody would be happy.
+
+[00:45:57.300] - Brandon
+That's spot on. We talk about that closing rates. Like, people want to increase their leads that they're generating, and yet they're closing 50% of the leads they're already getting. The big gains are let's add another 25% to that closing rate and see what it does to our revenue before you spend more money.
+
+[00:46:12.930] - Ben
+Right now, my guest told me if you're not closing, it like a 75% rate, you need help.
+
+[00:46:18.900] - Brandon
+Yeah, absolutely.
+
+[00:46:20.660] - Ben
+And she is more of the boots on the ground type of sales, too. So we always draw these parallels between what I do and then the outside sales stuff. But again, guys, as you guys will know, a lot of this stuff is common sense. And the big problem I think people do is they become box checkers, right? They go to an industry event, the RAA event, and talking to their buddy like, hey, how are you getting leads? Like, oh man, I got this website to hire an SEO company, and like, all right, cool, so I'll go do the same thing. But they have no idea why they're creating without a purpose, in a sense. So you have to understand the fundamentals of how people find you. Put yourself in somebody's shoes that are dealing with catastrophic property damage. They're not looking for a restaurant to go to on date night. They're not looking for a new pair of shoes. They've had something happen at their home or business, and they need to find somebody to come there right away as quickly as possible that's reputable and help them with their problem, not create more problems.
+
+[00:47:08.070] - Ben
+So if you put yourself in the shoes of that, put yourself in that shoes, it should make it a lot easier to sell to them, whether it's speaking to them in person or with your website, google business profile, et cetera. And again, Google looks at all this. It might not be a human, it's an artificial intelligence and algorithm that's looking at this, but they are.
+
+[00:47:25.770] - Brandon
+Well, I think one of the things that's interesting that you've touched on, I just kind of want to reiterate it again, is really that there's some battle patience that's required. I think a lot of people look at this and they go, well, this is how I'm going to generate money today while I grow my reputation tomorrow. And there are some aspects that are true about that. So you had mentioned, look, you're probably going to have to pay to play, and we're going to see upwards of 100, $150 a click in a lot of cases if we're looking for water leads. But you're going to do that for a while while you are doing the other foundational work to hopefully increase the number of leads that you're generating through your I guess we would call it organic SEO rankings or organic features, right?
+
+[00:48:11.520] - Ben
+Your garden.
+
+[00:48:12.360] - Brandon
+Your garden, yeah. So the idea is you got to pay to play. So you're either going to start spending some money to bridge that gap in the beginning while you develop these other foundational resources, or you've just got to exercise the patience as you're developing those foundational resources. But either way, there's work and resources required while you develop it. It's not vice versa. Like you're going to have to invest first and then see the results as you hold your team accountable to their production, right?
+
+[00:48:43.320] - Ben
+Yeah, 100%. You're always making an investment, whether it's monetary or time or in people, in technologies and different things to grow your garden, right? Another big issue, I think is this mismanage expectations, right? People think marketing like, well, I'm going to spend this and I'm going to get this out of it right now, like this month, and are looking at it on a month by month basis. So put those guys, let's change it. They're not restoration contractors. They're on a football team. Their goal is to win. They just score as many points as they can. And if that guy stood there and stared at the scoreboard the entire time and then turned around and said, how come we're not winning? What's going on? I got a football team. We're doing all the best of all this training and all these things. The score is still not moving. What's going on? It's almost the same thing. So if you're so narrow focused on the right now, you're never going to win. You're never going to be happy with anybody and nobody's going to be able to solve that. As an agency, what we try to do is manage those expectations off the bat.
+
+[00:49:36.820] - Ben
+Look, if you want to only do SEO, here's what's going to happen. You're probably going to be really upset about the results because it's going to take if you're in a really competitive area, think about how many of your competitors are there. Like South Florida, there's 2500 different restoration companies down here. You don't think they're all trying to rank number one on Google for water damage restoration, west Palm Beach. So managing those expectations from the front and taking a big picture view of this stuff is fundamental. But before you take that leap, before you spend money on SEO, before any of that, you have to have your foundation in place right now. That starts with your business. Making sure you're answering the phone in a timely manner, making sure you're following up with leads, making sure your team all has that salesperson hat. Every single tech you have, everybody that touches your business as a salesperson for your business. Now you have that infrastructure in place. Now the next step is building a website. You need to build a hub for all these videos that you're supposed to be making and all the Google Business profile posts are making.
+
+[00:50:28.780] - Ben
+You have to have a place to aggregate all that content and that's your website. So if you're just sticking your head in the sand. Let your neighbor's kid build you a website, and it's like there's no real thought as part of how it works with the big picture. You're not going to be happy because I don't care how much money you spend on SEO or pay per click. It again, goes back to the traffic. If your site sucks, they're not going to convert. It's the same thing as having nothing but bad reviews. Do you think people are going to call you once you have, like, let's say you have 20 reviews and ten of them are bad? Probably nobody's going to call you. They're going to go to the next guy that's like four pixels below them on the map ranking and call them that has good reviews and has a website that doesn't scream, I'm going to come and rip you off and show up smoking cigarettes in your house, or whatever the case may be. And it happens. But this stuff is fundamentals. I have a website that's built to convert, and you look at mine.
+
+[00:51:11.620] - Ben
+We have most of the conversion fundamentals there. The conversion fundamentals are you want to make it really easy for somebody to know what you do and get in touch with you. That's it really simple and more so on the mobile side. So if you're looking at your if you're listening to this or watching on YouTube, pull up your website on your mobile phone. How long does it take you to get to a phone number where you can click to call? How long does it take you to get to your services? How long have you needed to call somebody? And they went through that whole buyer's journey of finding you on a search engine. How long does it take them to get in touch? If you're making them dig on your website right here to say what you do, here's what we do right here above the fold. If you're making them dig, they're going to bounce off and go somewhere else.
+
+[00:51:48.310] - Chris
+So question, while on the topic of conversion, because I agree with you, right? I mean, 100% of nothing is nothing, right? And so focusing in on conversion, of what are we doing with these inbound leads, how important is that person that's first on the phones, obviously, and what are some best practices from your perspective when it comes to tasking with that person training? Best practices. Talk us through how important that initial voice or physical contact is.
+
+[00:52:19.710] - Ben
+Yeah, I mean it's Crucial. So think about if you wanted to go get your teeth done at a dentist you didn't know anything about and somebody answered the phone. Or let's say this happens a lot. They just didn't answer the phone. You left a message. Nobody called you back. Right? You call during business hours, goes right to voicemail. You never get a call back. I mean, are you going to use them? Probably not. You're not going to wait around for three days for somebody to finally call you back. So that first person is really important, and they should in its entirety. We just did a podcast episode about this on the restoration rundown. Your team, your entire company, are salespeople, whether they like it or not, you're salespeople. If you're big enough to have a janitor, he's a salesperson for your company. Everybody is representative of your company as a whole. So everybody should be on the same page as far as the culture of your company, what your beliefs and what you believe in. If you say 24 hours emergency service, 60 minutes response time, you better hold yourself to that. Answering the phone during business hours.
+
+[00:53:11.910] - Ben
+And for the terms of property restoration, after business hours is important. Once they get on the phone, you have to understand who you're talking to, right? You're dealing with somebody who's probably in a level of high stress. They don't want to hear any crap. They want to know, can you come and fix my problem? And how fast can you get here? If you can answer those questions and address their fears on the phone call? I mean, it's the same thing I tell people when we're building a website for them. This is what we want to do. This is who you're trying to sell to. You need to put yourself in their shoes and address all of those fears. What are the people afraid of? You're not going to show up. You're going to leave their home in the worst situation than it was before they got there. You're going to rip them off, and it's going to be expensive. Right? So answering all those questions above the fold on your website, it's going to increase conversions right there off the bat, just because you're addressing those fears and concerns with people. So who's answering the phone?
+
+[00:53:57.030] - Ben
+It's important. Respond to messages. Respond to phone calls within 15 minutes or that lead is gone. That's just the bottom. That's the truth. What are you doing if you're not responding in 15 minutes?
+
+[00:54:07.030] - Brandon
+Yeah. I love it. Okay. All right, so we hammered hard on this Google business profile, and that really is the foundation. Start there right before you get crazy and overwhelm yourself, start with the basics. And essentially, I mean, this isn't as awesome as you walk through, but sign in, look at all the features, and my guess is just look at it. Take the time to see what it is. And if you can put something there of value that professionally represents your brand, do it. Fill all the blanks. Right?
+
+[00:54:42.070] - Chris
+One last thing we didn't touch on that's interesting to me is the Q and A. Is that basically a fact for your profile that you can pre build, use the most common questions and our answers.
+
+[00:54:51.810] - Ben
+To them so more so other people can ask questions. So if you wanted to, you could go on and say, what types of services do you provide? And then provide an answer. But remember, it's going to say question from the owner, answer from the owner. So, yeah, honestly, there's not really many areas on your Google business profile that you should not be utilizing and filling out reviews. Again. Guys, reviews are huge. And I know this is an area of contention, but it's really hard to get people to leave you with Google review. But Google reviews are very powerful, not only from a conversion perspective, but also from a ranking perspective. Google is looking for the most legitimate people that are going to give their customer base what they need in a real way as fast as possible. So if you have a ton of bad reviews, you're going to have a hard time, right? Big legitimate bad reviews, they happen all the time. And the fact is, you're never going to be able to make everybody happy. I just had one come in, it was just completely uncategorly false and just six months ago. And you got to remember, you have to respond to the negative reviews.
+
+[00:55:53.610] - Ben
+And the angry part is like, I want to tell them how wrong they are and tell them they're lying. But what you're doing is you're going to look bad. Right. So if somebody doesn't know who you are and doesn't understand that what your job is and the expectations of digital marketing, they're going to look at that and like, I'm not dealing with these guys. They're arguing with somebody on a Google business like, what the hell are they doing?
+
+[00:56:11.550] - Brandon
+Oh, totally get reviews, but make sure.
+
+[00:56:14.550] - Ben
+You'Re responding to them and really spend more time responding to the negative ones. Put your customer service hat on. Thank them for their feedback, apologize, give a phone number, give a way out for them to resolve this amicably, and you're going to look good. Even though you have a bad review. It's an effective ratings, whatever. You can mitigate that by just getting a bunch of really good reviews. Can you agree more other people champion your business?
+
+[00:56:34.900] - Brandon
+It's perfect.
+
+[00:56:35.710] - Chris
+Right on.
+
+[00:56:36.940] - Brandon
+Quick plug to find Liftify.com gang. You guys know we're huge supporters of them and what they can do to generate those Google reviews.
+
+[00:56:45.210] - Chris
+Yeah, one thing I just reach back to that, that I was going to mention earlier. Zach, the CEO, Liftify, he mentioned something similar to what you said. He referred to it as recency. The recency is really and you talked about in the context of consistency, that's paramount. Whether you're doing a post once a week or four times a week, that the consistency of the cadence is something that Google is tracking. Or like he described how somebody could have less reviews, maybe even a lower score. But if your last review is in April and they've had one a week for the last year, they are likely going to get out rank you because of their recency. And regularity of their reviews, right. Does that drive with kind of you?
+
+[00:57:29.010] - Ben
+Yeah, it's spot on. Consistency is key with reviews. And here's what happens. This could be an allegory for every business owner, right? So somebody's going to listen to this podcast and they're like, crap, I got to get a bunch of Google reviews. And they send. And there are three ways. Just take a step back. If you guys want to get more reviews, do it. There are three really key ways that you need to do in all three creative postcard. When you're wrapping up a job handed to them with a QR code, say, hey, it would be great. Love your tech, leave us a review. Great. Send a text. Send an email. And don't stop until they either leave your review or they tell you to pound rocks or use somebody like list of somebody who can help get those reviews. It's huge, especially with the consistency. So what a lot of people are going to do is they're going to listen to this and they're going to go out, they're going to email 50 of their past customers. They're going to get seven Google reviews, and then they're not going to do it again for three years.
+
+[00:58:18.940] - Ben
+Again, just like you said. I'd rather see one review a month for a whole year consistently moving on Google versus getting that five. And then three of them are your grandma, or three of them are like an uncle and aunt or people that haven't even done business with you. Google knows that if you're a business out of Dallas, Texas, and your views are coming from like northern Maine, oregon probably not going to mean as much, right? Spot on. Get consistent reviews and have that system built into place in your business, like with your sales process, with your offboarding process. Just make sure you're hammering. And the guys that I see do the best. As far as my clients go that get like 70% return. They're sending a postcard, they're emailing and they're texting, and they're doing that until they get a review. Or the person's like, listen, stop texting me. I'm not going to leave a review.
+
+[00:59:07.010] - Chris
+I think you made a really good point. I just kind of putting the wraps on this part. This is not a project that pays dividends. Like, well, we got to figure out our reviews and get a bunch more reviews. It's a process that pays dividends is what I'm hearing.
+
+[00:59:23.210] - Ben
+Everything we talked about is a process that pays dividends. If you think about it. Invest in your business. Invest in the information and knowledge. Get books like I've written. There's a ton of books out there. There's thousands of online guru. There's all these groups on Facebook and people are sharing their information, what works and what doesn't work. But you got to just be consistent with it and have patience and understand the big picture versus looking at the right now if you're only buying leads and you're doing pay per click, then, yeah, I get that. Right. I spent six grand this month on paper, click or buying leads. I got nothing out of it. That's probably not working. But with this other stuff, google business profile, SEO, social media, even, you got to be able to withstand the time. Because once that if you're doing it right, once it clicks into place, it's an evergreen source of leads for your business. Dominating page one of Google, for everything you do and all of your service areas. There's no better way to get leads right now for your restoration business.
+
+[01:00:15.550] - Brandon
+I love it. I want to send people to you, obviously as a resource that they can learn more from. We have just kind of appreciated your style in general. I think people are getting a vibe from the show that you're no BS face value. And it's not slick chat. It's not talk. I don't talk around.
+
+[01:00:33.400] - Ben
+You.
+
+[01:00:33.660] - Brandon
+It's, hey, here's the details. We can do X, Y and Z. The choice is ultimately yours. And it sounds like and what we're seeing is you guys are very transparent in the work once that relationship begins. So for all of us, this is a bit of a black box. We're all trying to identify who those players are that can give us a hand in a fairly complicated environment. So where are we sending folks if they want to learn more about IRONCLAD?
+
+[01:00:59.730] - Ben
+Well, yeah, first and foremost, thank you very much for that. It's something that's part of our company culture. And I really try and so does my team, we really try to not hide through the ambiguity of the service. Right. We don't know it all. But what I do know is that we spend a lot of time on research, we spend a lot of time testing. We have a lot of great clients, and not everyone is going to be a home run. And we always are going to be the guy to say, we tell you what it is, not what you want to hear. Right? I don't care. I get way more out of helping people, which is why I spent all this time doing these things. So if you did want to learn more, you want to empower yourself data and knowledge about doing this, there's a few different ways you can do it. Every day I record a video. It's on our YouTube, social media, just look up IRONCLAD restoration marketing. I founded a podcast, or I guess whatever everybody's doing podcasts these days. I guess why I did when it started in January, it's called the restoration rundown.
+
+[01:01:49.840] - Ben
+And all I do on this podcast is have guests like yourselves, business coaches, even just me, just talking for an hour, teaching you something different. So I really try to keep things really simple. Just like if you're a restorer, you're not going to try to trick people to go do water damage. It's like, look, what do you need? Do you have a flood? Okay, well, here's how it works. And that's it. That's it. It is what it is. It's right there, black and white. We report every single month to our clients and show them here's what it is. And again, they're not always going to be a winner, but you have to understand that when you're hiring a marketing company, you're hiring a team. It's a very intimate process. It's not a service.
+
+[01:02:23.860] - Chris
+There you go.
+
+[01:02:24.510] - Ben
+So you want to check out the podcast restoration rundown. We're everywhere on all the streaming services out of YouTube for that. www.IRONCLADRestorationmarketing.com is our website. You can call us anytime. You're going to reach one of my team members. If you need help with anything, we're there. I got a book you can buy it on Amazon. It's called the no bullshit Guide to Internet marketing for restoration contractors. And it is a tried and true method of what we do here for our clients exactly in black and white. Because I couldn't afford the color copies of how to do this stuff the right way. Or at least like what you need to do, right? So if you're out there right now, guys, and you're working on maybe hiring an agency, don't just pay somebody for SEO. Really listen to what the agency is telling you. Because a lot of agencies get a bad rap because you're not listening to them. I can tell you, hey, you need to do SEO. And Google business profile is going to be this much money. Like, well, we can't afford that. We just need to do SEO. And I'm like, it's not going to work.
+
+[01:03:13.650] - Ben
+It's not going to work as good. And we've completely just get rid of those people because we know that neither of us are going to be happy in a few months. So really listen. Anyway, so back to getting in touch with us. Just like that. Website IRONCLADresoration Marketing search. My name Benjamin Ricardo. Or the Nobulsha Guide. Internet marketing for restoration contractors on Amazon. I've got two different YouTube channels and our website covered. I mean, every video I've ever done right on our website in the blog section. Like I said, syndicate your content, but it's right there. And we teach you everything from start to finish and how to do it. The reality is not everybody has the time to do it effectively. It's like changing oil. Yes.
+
+[01:03:48.730] - Brandon
+You're practicing what you preach.
+
+[01:03:50.370] - Ben
+Yeah, we try to anyways. We try to keep our fingers on the pulse, and we try to learn as much as possible and come into these things and these situations in a humble manner because we might not be the best, but we are trying our absolute best. And that's all we can control.
+
+[01:04:03.100] - Brandon
+All right on, my man. Hey, thanks again, Ben. We sure appreciate your time. Dude, this has been fun.
+
+[01:04:09.190] - Ben
+Really appreciate what you guys are doing too. You guys are kicking the ass. Love to talk to you guys soon. Thanks for having me on.
+
+[01:04:13.920] - Brandon
+You got it, man. Sounds good. Thanks, buddy.
+
+[01:04:16.140] - Ben
+Yes, sir.
+
+[01:04:18.490] - Brandon
+All right, everybody. Thanks for joining us for another episode of Head, Heart and Booth.
+
+[01:04:22.960] - Chris
+And if you're joined the show but you love this episode, please hit follow. Only known to subscribe, write us a review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever. It all helps. Thanks for listening.

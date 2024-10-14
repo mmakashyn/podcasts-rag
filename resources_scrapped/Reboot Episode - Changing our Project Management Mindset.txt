@@ -1,0 +1,497 @@
+﻿[00:00:00.170] - Chris
+Hey, friends. HHB listeners, welcome to a special Replay edition. This show is the most listened to podcast episode that we've ever done, and I think it's because it's the most shared episode we've ever done as well. I can't tell you how many times Brandon and I have had owners, GMs, recon department managers, even Mitigation managers saying, hey, when that episode came out, I had my whole team, my forwarded the link to them. I had them all listen to it, and we talked about our next production meeting. It's hugely valuable. And then we've also had other people, owners and GMs say, hey, every single time I hire a project manager, it's one of the first things I have them do, is listen to that episode, and then we talk about it. So however you use it, let's keep sharing it around. Maybe we'll make it the most listened to podcast in the history of the restoration industry. That'd be kind of fun. But before we dive into the episode, let's thank our sponsors. The first one is answerforce.com floodlight. Check them out. Book a demo. I think a lot of restorers make the mistake of, oh, those answering services are just for small, home based restoration businesses that need to look more professional.
+
+[00:01:09.180] - Chris
+And, yeah, it's great for you if you just started a restoration franchise or you're putting together a restoration business on your own. Yeah, it is more professional, and it's going to free you up to spend more time in the field selling, inspecting your jobs, coaching your first few employees. So, yes, Answer Force is for you, for sure. But I think when Brandon and I met the folks at RIA and we were talking to them about their technology, backbone to the service, how they train their people, what kind of call intake they're able to do, we're like, Holy cow, this is also for small, medium, and large companies, right? I mean, think about all the times when your dedicated, full time receptionist is at lunch. What do you do? Well, I know what you probably do. Phones just forward to whoever picks it up. Well, are you going to get the same consistent call intake process with your marketing coordinator that happens to answer the phone? Maybe they're going to be nice, but are they going to fill out all the information fields in your intake process? Are they going to treat them as well? Are they going to treat them with the same care as your dedicated receptionist?
+
+[00:02:16.310] - Chris
+Maybe not, right? But what about when you have a storm surge and your calls go from 25 or 30 inbound calls a day to you get 200? What are you going to do? Well, I know what you do. It's all hands on deck, everybody's answering all the available lines. Are we following a consistent intake process? No. Are we going to maximize all of those inbound opportunities with, in some cases, brand new commercial or referral partner opportunities?
+
+[00:02:43.050] - Chris
+No, of course we're not.
+
+[00:02:44.230] - Chris
+But if you've got Answerforce on board, you can very easily forward your phones to the Answerforce call intake agents and they're going to emulate the same process that your dedicated full time receptionist is doing with those inbound opportunities. How much better is that than doing it willy nilly by just forwarding the phones to somebody else on the team, right? So it really doesn't matter what size of restoration company you really should call and book a demo with Answerforce and see their platform. The fact that they don't lock you into a specific usage amount, you can use them a ton one month or one day and use them not at all the next day or very little the next month. It is absolutely scalable up and down. So you certainly don't have anything to use but maybe an hour of your time. Highly recommend you check them forward slash Fundlight CNR Magazine sometimes we sound like a broken record, but I just shared out an article this morning by Marcy Richardson of Guarantee Restoration. An awesome industry leader on the RAA board wrote an excellent article about us changing the narrative as restorers about recruiting and staffing and labor shortages.
+
+[00:03:53.830] - Chris
+We have a lot more control and influence over the talent pool that we have within our company that I think we give ourselves credit for or that we take responsibility for. It's a great article. Anyways, check it out. Cnr.com Marcy Richardson talking about the labor shortages look, CNR always has awesome content that's coming out all the time. Every week. Brandon and I, we write for CNR. I like to think we put out some pretty great articles, but it's more than just the articles. I think it's a gathering place. It's the water cooler for our industry. So go subscribe to CNR to the website, follow them on LinkedIn for sure. Last, but not least, liftify. Listen, I mean, Liftify has been a sponsor now for a while, along with CNR. And just like CNR, nobody ever complains to us when we point them to Liftify. They always come back with a positive review. And in some cases, it's just an absolute game changer to our business. One of our clients already had 500 reviews. They were leading their franchise client on the East Coast. They do a rad job of getting Google reviews. And you know what happened when they implemented Liftify?
+
+[00:04:59.850] - Chris
+They got 100 new reviews this past month. In their first full month using Liftify, they added 100 reviews. They previously had 500 total. Need I say more? Go to liftify.com floodlight. Seriously, you owe it to yourself to do a demo and hear about how they compare to other platforms like Podium, Bird Eye. I know many of you are using those things, and you're paying a lot for them. And I'm not going to say I mean, Liftify, they wouldn't say that they're cheap. They're way cheaper than Podium and Bird Eye. But they are less expensive and they are higher value. Every single one of our clients has come back to say that they are producing a better return on investment than those other platforms. Right now, those platforms, they do their thing. But Liftify expects a 20% to 25% conversion. You input a job into the Liftify platform, it's very easy. Super turnkey, 20% to 25% of them, you're going to get Google reviews for. And you say, Whoa, only 2020 5%. I guarantee you it's more than your team is converting in house and Bird Eye and podium and some of these other platforms. The word on the street that we've heard and we've experienced is 5% to 10% conversion.
+
+[00:06:12.990] - Chris
+So Lipsify has got a secret sauce there that they're deploying. They're very hands on. They're always optimizing their platform and their systems. In fact, on our last podcast episode with Zach, he went into some of the tweaks they were making to their platform specifically for restoration companies to optimize that conversion rate. So anyway, you owe it to yourself. Go to liftify.com floodlight.
+
+[00:06:36.580] - Chris
+And with no further ado, let's listen.
+
+[00:06:38.910] - Chris
+To our replay of changing our project manager mindset.
+
+[00:06:43.070] - Chris
+Here we go. Welcome back to the Head Heart and Boots Podcast. I'm Chris.
+
+[00:06:54.090] - Brandon
+And I'm Brandon. Join us as we wrestle with what it takes to transform ourselves and the businesses we lead.
+
+[00:07:00.810] - Chris
+Man, I love this industry.
+
+[00:07:04.150] - Brandon
+Chris?
+
+[00:07:05.090] - Chris
+Yes, sir. How are I'm I'm really awesome.
+
+[00:07:08.820] - Brandon
+Oh, you're really awesome.
+
+[00:07:10.040] - Chris
+I'm feeling pretty good this morning. Really?
+
+[00:07:12.030] - Brandon
+Anything set that off? Good bowel movement or that.
+
+[00:07:15.240] - Chris
+But you know what? It's funny. You hit the nail on the head. No.
+
+[00:07:19.210] - Brandon
+Welcome to our world.
+
+[00:07:21.120] - Chris
+To be totally honest, I get this random text from my wife about 15 minutes ago that just says, Hi, I love you. Oh, hey, that makes me feel good.
+
+[00:07:28.190] - Brandon
+Yeah, right on. That's great.
+
+[00:07:29.380] - Chris
+Yeah. I'm a merchant. I'm a high merchant, which means words of affirmation.
+
+[00:07:32.390] - Brandon
+Oh, that's in your wheelhouse. You just got the warm and fuzzies.
+
+[00:07:35.850] - Chris
+Yep. From that gasoline on the fire.
+
+[00:07:38.070] - Brandon
+Well, now that we're all warm and fuzzy, let's get technical. Okay.
+
+[00:07:40.930] - Chris
+Let's do so.
+
+[00:07:41.960] - Brandon
+Okay, so for our audience, guys, chris and I are really continuing to develop ourselves and develop our business processes, all the things. And as you guys know, when we renamed the show to The Headhart and Boots, that was intentional. Right. The idea there was that we want to stay in this pocket of content where we are bringing things to the show. We're having discussions about topics that affect our health in terms of our mental health, how we manage ourselves internally. Right. Heart for us is kind of on that let's call it like the spiritual woo woo emotional, emotional side. And then Boots, for us, we've always just seen that as the technical aspect of what we do. Yeah. The work. Right? And so we want to get more consistent in these categories. We just kind of COVID topics as they come to us.
+
+[00:08:29.880] - Chris
+Well, I mean, we've been enamored with for good reason, the leadership, the self leadership, leadership, behaviors, mindset, that kind of stuff because, well, that's the stuff that really drives growth. And the technical prowess is also something that drives growth too. And so it's all instead of one or the other.
+
+[00:08:50.810] - Brandon
+Yeah, it's all the above. And so we're going to try to be more consistent with the kind of equality of the content as it's coming out in terms of those categories. So today I wanted to throw down a bit more of a technical piece and specifically project management. And I think what I'd like to do here is we're not going to necessarily say this is project management for construction, but in general, right, most of us in the restoration business, we have everything from emergency response, content, cleaning, right, mold, mitt, commercial, residential, it runs the gambit. And so I just want to think about project management kind of as a whole. And then those for you that listen, that aren't in our industry specifically, that you're more in that just home service business or service business in general. I think we can almost look at this as like production management, project management, they all kind of fall in a similar category. So anyways, that's where I want to hang today. Sure, if you'll hang with me, I'll follow you there if you will. So I think a great place to start is I want to reframe potentially the role of a project manager.
+
+[00:09:52.190] - Brandon
+I think with some of these kinds of topics, we just continue to operate with so many assumptions. That's part of our problem. We don't do a good job of stopping long enough to reorient ourselves towards the why behind these positions. And then we fail sometimes to do a good job of communicating the why to our people so that they understand the value that they bring in this role specifically. So that's where I wanted to start. And then we have a couple more topics that we're going to talk through in terms of how they relate to project management. So the first one, the primary role, I think for many of us, we have project managers that made their way up through a trade craft, either on the large loss side, on the EMS side, or they came up in the construction trades.
+
+[00:10:32.100] - Chris
+Remodeling.
+
+[00:10:32.900] - Brandon
+Yeah, remodeling new construction. Sometimes we hire great past general contractors, right. They're looking to be a part of their team. Anyways, long story short, a lot of times these are Doers. These are folks that have consistently done time in the field. And the value that they brought to the team was executing. They did work, they completed something. And then that in itself was the value that they brought. And I think what we see as a transition mentally, that needs to happen in order for a project manager to move from a Doer to a proactive leader that's really managing the client and the brand in the field. Is this perspective of it's not about me doing and it's more me playing the quarterback and really understanding that my job as a project manager is to do a series of things to create a really exceptional customer experience. One is, and we're going to dive into this a little bit deeper, is managing my sub relationships really creating a friction free experience for my client? And we're going to get into that in a little bit more detail. I can't tell you how common it is because we see project managers that might be running too many files at the same time, how much responsibility they inadvertently push back onto our client and they don't really realize it.
+
+[00:11:46.150] - Brandon
+So anyways, primary focus is to manage proactively, manage our sub relationships. And this goes beyond our schedules. This is all about communication, time frames, timelines, all the things. Probably the number one and most important role of the project manager is to keep our client well informed about processes, about time frames, timelines, managing their perceptions, managing their expectations. That is all very different than you once a week reminding them that a sub is coming on such and such date. That's not even kind of scratching the surface in terms of what your primary role is. Your primary role is to stress free, create a stress free environment for your client because they haven't done this for a living and you do okay. And so we'll unpack that a little bit more. And then the third component, from my perspective, this is my opinion, is a steward of the brand. I e setting the stage for getting more opportunities by the way that we conduct ourselves and carry ourselves out in the field. That's really our three primary roles as a project manager. And underneath that, we have some tasks.
+
+[00:12:52.570] - Chris
+And that's not your opinion. That's a law of the universe, right? Like, that PM. Aside from the field teams that are walking around in that customer's house, that PM is going to have the most profound interactions with our customers that our whole brand has, period.
+
+[00:13:08.230] - Brandon
+And they're also normally so if we have a project manager on a job, so even if it's on our EMS side, our emergency side, it's going to be something that's around a larger, more complex scenario, right? You're not going to have normally a MIT PM, if you will, on a standard residential loss. And so my point of that is to go back to what you're saying, Chris, is normally our project managers are engaged in a portion of the project where either there's a lot of liability and risk associated with the relationship and or the scope of the work, or they're going to be interacting with our client for an extended period of time. And I think one of the things that we see in a lot of service companies and or on our EMS side, specifically in our industry, is that when we're only engaged with the customer for three or four, five, six days, boy, you can kind of just wing it, get through it, and the customer is probably going to be okay. I know I'm over generalizing there, but when you're going to be engaged with a client for weeks, sometimes months, sometimes a year, and we have multiple subs engaged, then there's just so many opportunities for us to drop the ball and lose the steward effect that we were shooting for.
+
+[00:14:13.150] - Brandon
+So anyways, okay, so I want to hang in the pocket on kind of the primary role. And then the last kind of two things I'd like to talk about a little bit is time management and then some KPIs regarding our performance as a project manager. So that's where we're going to go today. So hanging in the pocket then with this primary role. So when we talk about managing the client, there's a couple of aspects of this that I think are critical. One is the proactivity of it. I think we see this the difference between an effective project manager and a great project manager is the extent at which they proactively manage their projects. And it's common, probably more common than not to have a team of project managers that really are just their purpose, they feel, is just to put out fires. And the faster they put out the fire, they can get to the next fire. And that's them doing a job well done. And the challenge with that is that from the customers experience, from our subs relationships, from our vendor relationships, they're feeling the weight of the fact that they're getting your attention just long enough to put out a fire.
+
+[00:15:14.100] - Brandon
+You're not proactively leading the project and they know it, even if they're not telling you. Everybody's experience is a byproduct of this firefighting and they're not being led. And so therefore, there's not a ton of value to the relationship for them. And I know that sucks to say, and for some of us, hearing that, especially if you're a project manager and working your ass off, that feels very.
+
+[00:15:35.290] - Chris
+Unrewarding because in those sub relationships, right, correct me if I'm wrong, but in a lot of cases too, we're asking them to help us meet our budget, right? There's some strategic sort of horse trading going on that we need in order to make this project successful and make money. But it's got to be a win for them, too. And a lot of times we're just dumping on them. It's funny. Just a little side story here. So my wife and I are in the middle of a kitchen remodel following a water damage event that's been dragging on for two months. I have a lot of opinions about project management now that I didn't necessarily hold previously, but I stopped at a flooring store to make our selections. Selections are a whole nother sort of conversation, right? Material selection. So we're looking at these flooring options, and lo and behold, one of my budies from high school, guy that graduated a couple of years ahead of me, I was like, oh, Keith, what's up, man? He's running this direct flooring store, been in the industry for ten years. He said, what are you doing? Chris said, oh, you know, SAS Restoration was operating the field.
+
+[00:16:27.200] - Chris
+Now I'm consulting. And he said, oh, restoration companies? I said, oh, what's your experience been? He's like, dude, they always have their hair on fire. Oh, man, it's like it's calling last minute. Hey, can you guys do an install tomorrow? I got a whole bunch of LVT I got to lay down. Oh, and I need you to do it for this price too. $3 a square foot. Can you so he just painted this perfect picture of they want to grind me down on price. They want everything last minute, and it has to be done. And if I don't do it, they're going to go to somebody else next time. And I'm thinking, wow, they're submanagement 101.
+
+[00:17:00.150] - Brandon
+Oh my gosh, that's a great but.
+
+[00:17:02.090] - Chris
+This guy deals with probably a dozen restoration companies in this market. All go through this direct flooring place. And I was like, well, sorry, dude. Yeah, that's a problem.
+
+[00:17:11.440] - Brandon
+Yeah. And that's a perfect example of what we're delivering most of the time. And we've kind of bought in that it's okay, and it's not okay. So let's hang there. So let's think about our client and our responsibility for proactively managing our client. We try to keep our shows down to an hour. There's no way that we can do an exhaustive audit on what it means to be a project manager. We've got opportunities for you guys to work with.
+
+[00:17:33.790] - Chris
+So this one will be 2 hours.
+
+[00:17:34.840] - Brandon
+But hang on, this will be eight. So this relationship management with our client, I think first and foremost, we need to understand that our job as a project manager is to protect our client through this experience. That's different than you delivering a service to your client. Our job is to protect them. And what do we mean? What are we protecting them from? Well, we're protecting them from obvious things like quality issues, timeline issues, cost discrepancies right. Some of the basics. But more importantly, and probably this skill set is going to then in turn help these other categories. Is it's our job to ensure that our clients understand what is happening, why it's happening, and when it's happening? Okay. And so if we think about it and really that's our responsibility to our subs, our vendors, right, is we have to be really keyed in on what are we doing, why are we doing it, what is the purpose, what's the value for the client by us taking this action, by doing this kind of replacement, by choosing this kind of product? So what we're doing why we're doing when we're doing it, right and then dialing in our timeline.
+
+[00:18:40.560] - Chris
+Let me add another angle, though.
+
+[00:18:41.750] - Brandon
+Yeah.
+
+[00:18:42.180] - Chris
+So as a project, if that's our charge is to understand and know and sort of manage the perception of all of those things and the delivery of those things, what do we need to know? What does our project manager need to understand about our client in order to effectively manage those elements? And I would say that's where we talk a lot about humility and curiosity relative to sales. But it isn't just a sales thing, right. It's how we're delivering the customer experience product, which is ultimately, that's what we do. Like, we sell customer experience. And really, in our experience, it doesn't matter whether we're talking to a commercial decision maker client or we're talking to a homeowner. What does that PM need to know at the outset of that buildback project? The most important thing they need to understand is what is this person's relative experience? Bingo. With this kind of situation? And this is the conversation we overlook and we skip over nine times out of ten. Some of you are the exception to that and you're listening. We have this really elaborate restoration checklist conversation where we learn about their background, whatever. That's great.
+
+[00:19:42.200] - Chris
+And that is what we're advocating for. But like that PM, one of the most primary questions they need to ask and understand is, is this the first time you guys have ever been through a major project like this in your home or at your plant or at your hotel? Because we truly don't know the answer to that. And the answer will give us 90% of what we need to effectively execute, right? Because then we'll find out that their last experience was with XYZ restoration, and it was stressful, it was anxiety producing, and it came at a bad time and it added insult to injury. And here's why. And when we ask those follow up questions, as a project manager, wow, I'm really sorry that was such a negative experience. Can you think back and what was it about their people or process that really made it the most difficult? If we get clear on that information and we're disciplined and we have a system in place for relaying that information to the rest of our teams, all of a sudden we have the tools we need to be very successful in that project. The other piece to that, that I need to mention, though, because it ties in with commercial, like all of us are trying to grow commercial, right.
+
+[00:20:45.660] - Chris
+This is a really common breakdown with project managers is that when we take that emergency call from a commercial client, the onus is on the sales rep or the responding admit team to know that information, to gather that information at the front of that loss as well, so that they can then communicate that to the project manager, who can then revisit that information on the build back component. Hey, real quick, before we get started, I'm going to talk you through the timeline and what's ahead, blah, blah, blah. Before this, it sounds like this is the first time you guys been through this and you maybe had a not so great experience. Can you just tell me a little bit more of that so I can inform my team, make sure that we create something better for you and gather that information again, because you may hear more as they've grown to trust the team, you may get more detailed information about their past experience. And so, again, this isn't hours to your process. This isn't like, hey, multiple meetings. No, it's just taking that five minutes to learn about where is this person coming from and what biases do they bring into this.
+
+[00:21:42.060] - Brandon
+It's simply being more intentional with our initial conversation with the client. Again, and it's why we talk about getting clarity on what is the role of a project manager is. When we understand what our true role is, is to steward and protect our client, then we understand what our initial responsibility is. When we roll up and you hit it perfectly is when we ask those questions and determine what perspective our client's coming into this situation with. Now, we can proactively, and I'm going to use that word a million times is we can proactively manage that perception and that experience. A perfect example. It's very easy for us to think proactivity or non proactivity based on, let's say, a cabinet special order, right? It's like, okay, well, we know cabinets might be six weeks out. Well, the sooner we get jumping on that in terms of the ordering process, the less negative impact it'll have on our timeline. That's a great example of proactive management versus not. But we forget that the proactivity translates over to the relationship management part and you hit it perfectly. And that is if I understand the issues that my client might be bringing to this relationship based on their previous experience, I can now proactively engage those scenarios to make sure that perception doesn't have a negative impact on their experience and our brand.
+
+[00:22:56.560] - Brandon
+Whereas if we kind of do, what we do most of the time is I don't know, it's an issue until I get into a scenario where there's.
+
+[00:23:04.340] - Chris
+A problem, until the customer is reacting to a situation based on previous experience that may not even be associated, people will hear us say something and it'll trigger them. Oh, that's what that last company did and then they screwed us, or something to that effect. Right. They have a perception. They pull this file folder in their brain, oh, he said this and last time this is what that meant.
+
+[00:23:25.870] - Brandon
+Yeah, exactly. Yeah. No, you're spot on. So this proactive engagement has to carry over to not only just the way that we're managing the production of the job, but it's how we're stewarding the relationship with our client. Another kind of tool set to add under that is what we're doing to communicate and how we're communicating. So going back to your example, when we're introducing ourselves to the client for the very first time as a project manager and we're setting the stage of getting all the knowledge bits that we need in order to proactively lead the relationship, we have to talk about communication style, methodology and frequency right out of the gate. Most of you have a system that you go by or you have standards and that's great. And what we do is we talk to our client about what those standards will look like and then we affirm with them. Does that work for you? Right? So an example here is, and we're seeing a lot of this, I'm going to sound like an old guy, but there was no way a couple of years ago that primarily you were communicating with most of your clients via text message.
+
+[00:24:21.190] - Brandon
+There was no way.
+
+[00:24:22.200] - Chris
+Yeah, I know. You're right.
+
+[00:24:23.010] - Brandon
+Right now I literally will have, I mean, obviously in what we do, but it is so common now for the average consumer. Don't email me. It's just going to go into a box of 30,000 emails and don't call me because if I don't recognize your number or I'm in the middle of just doing life, I'm not going to answer anyways. Text me or whatever. Right. And so what we encourage folks, again, setting the stage for this leadership, this relational stewardship is hey sir, madam right client. Our normal process is we're going to have one face to face meeting per week on your project. And it's really critical that during that meeting everybody's here I know that's tough to do, we're all busy. But once a week, if we can just commit to that, it's really going to help us both stay on the same page and not allow any miscommunication on our project. The other thing that I normally do is I'm going to follow up with you every 24 hours, every 48 hours, whatever your team decides. We've got perspective on this. I think every 48 hours is about as far as you're going to want to go.
+
+[00:25:18.870] - Brandon
+But we're going to follow up with you with an update on your project and here's how that's going to look like. Does that work for you? Do you think that will be at case this up? I normally communicate in this way. What do you prefer? Are you more of an email or texting person? Now I was intentional about that. Here's. Why I'm asking it. Are you more of an email or texting person? I want my communication at some point to make its way into writing. Okay.
+
+[00:25:42.280] - Chris
+Yeah.
+
+[00:25:42.700] - Brandon
+So our primary is I'm going to give my client a call. We're going to talk about a shift in the schedule. We're going to talk about whatever a subs response to. Something, whatever. I'm going to follow that up, though, in some form of writing that I can go back and retrieve that's time and date stamped. Okay, that's really important. And that is just as important as part of this relational stewardship as anything else. So I'm asking the question, are you more into texting or email? Because I want to know which follow up method that puts it in writing will be most effective for them. And I'm commonly communicating to my client that normally you'll get calls from me as we're kind of making updates on the fly, and then I'll follow up that via text or email, whichever you choose. Okay, why is that important? Well, now I've set the stage. I've got agreement from my client how often and what communication methodology that we're going to use. And now I can preemptively really lead my client through the process. And I know they're going to catch what I'm communicating or what my needs are or homework assignments because I'm using the methodology that they've said that works best for them instead of, again, me coming in.
+
+[00:26:44.220] - Brandon
+This is how we do it. Here's my assumptions. I've done this 50 times this month. You've never done it. And then getting frustrated later when my client doesn't understand, doesn't know what's happening because they haven't checked their email inbox in a year. Like a lot of us, right?
+
+[00:26:57.000] - Chris
+Yeah. Here's one other if I can make one other suggestion along these lines because I think we have to take ownership of the experience we're creating, which includes all this communication, everything else. One opportunity that I don't see a lot of people do in our industry is your project manager should be sending calendar invites for all agreed upon meetings. Don't just verbally look at your calendar. Don't do the whole friend thing of, hey, so when are we going to hang out next? Well, next Thursday at six. Does that work for you? Yes. Okay, great. The reality is, did you just have a conversation with your client while they were driving home? Now they got to remember and then hopefully they're going to mention it to their spouse and walk through the door. Oh yeah, I talked to so and so. We're going to meet this Thursday. It is so much more professional and reliable. As soon as you make that thing, get off the phone, create a calendar invite, drop your customer's email. So it is going to hit their email, but it's also going to hit their Google calendar, their Apple Calendar, as a tentative meeting.
+
+[00:27:48.300] - Chris
+So that way, again, we're doing what we can on our side to ensure.
+
+[00:27:53.680] - Brandon
+It'S path of least resistance. That's right.
+
+[00:27:55.450] - Chris
+For the customer.
+
+[00:27:56.040] - Brandon
+That's right. It's removing friction, their decision process and their experience. And I like where you've gone there. I think it's encrypted. Like, what are we talking about when we establish clarity on our communication methodology and time frame? What are we doing when we get clarity on someone's previous experience so that we can manage their perception of the project and or make shifts in our service delivery to meet or exceed some of these things they're coming in with. The point of this is that we are leading and often what we see happen is we get confused with what is a great customer experience. Well, I don't want to push too hard. I don't want to drive too hard. I kind of want to go based on some of their considerations and their lifestyle and all these things. And I think what we miss here is that people need to be led through this process. They want to be led through this process. So providing our client with some choices, great. But always ensure they're choices that fit into your guys'core process. And you're the one giving them the one or two options to choose from. Got to be careful, right?
+
+[00:29:00.750] - Brandon
+Because we're fairly well connected with some of the folks working on your project. But even you, you've been in the industry a long time, directly, indirectly. Right. And you still want your project to be led by somebody.
+
+[00:29:12.670] - Chris
+I don't want to lead it.
+
+[00:29:13.820] - Brandon
+You don't want to lead it. That was the whole point of having a company do it. And so even if you get some initial, like, very proactive a personalities, you're going to feel like they're putting pressure on you and that they're the ones driving the car. And we just have to remember, as a really competent project manager, stop, slow the team down, and begin getting clarity on how you're going to run the project, why you're going to do what you're going to do, and get affirmation and confirmation from your client. Okay? They want to be led. They do.
+
+[00:29:44.810] - Chris
+And an example of that is in the selection piece. It's so important. This particular project manager we're working with loved them, had lots of great experience with them, and this is one area that they could do better. And I know it's such a common thing, but we need to sort of pre think about what are the actual possibilities in this repair project, right? What are the actual materials available right now? Because right now, material shortages and supply chain is a massive issue. And we do enough of this work, guys, that we should have a line on right now. I'm not going to tilt people towards, well, everything is just we can do whatever you want. No, I need to create kind of a channel for that customer to walk in. And the more I can help guide them towards a smaller set of choices right. The better experience I'm going to create for that customer. Like when we went to go do floor covering selections, it's like the world is your oyster. It's like, well, tell me what you guys want. It's like, well, shoot, give me some guidance here. Right? And I think sometimes we almost think there's more value in telling them, we can do whatever you want.
+
+[00:30:49.150] - Chris
+That's the feel good conversation of so what's kind of your dream kitchen? And stuff like that. And people can really go off the rails, including me and my wife. My wife has this marmoleum thing that she saw, this cool color she wanted and the more we dig into it, like marmoleum, it may not be the best for a variety of reasons, but at the front end we didn't really get that advice. So we ended up spinning our wheels, going after this funky looking pinterest marmoleum thing my wife found when really we needed to keep our sight set on traditional tile or LVT or just stuff that's more readily available for our timeline and so forth. Well, we know this stuff. Our client, to them it's just like, whoo, let's just get creative and do whatever. That selection process is an opportunity for us to guide them through a reasonable set of options rather than forcing that whole process on them. Because your average now some people are going to bucket and like, no, I want exactly. Okay, great, fine. We know how to cater to those picky customers. But for the most part, our clients want to be given a reasonable set of selections that they can make in conjunction with the rest of their life.
+
+[00:31:54.740] - Chris
+Most of our clients are not going to go on a shopping spree hunting for the ideal piece of granite countertop. You know what I mean?
+
+[00:32:02.380] - Brandon
+Yeah, I think like a really common or maybe a good rule of thumb is three, four options. And anything beyond that, you're beginning to put somebody in a place where there could be anxiety around analysis, paralysis. Yeah, big time. And again, if we go back and we're starting the stage well by asking our clients some questions regarding experience, hopes, what did you plan for this? Now that we're in this scenario, was there any remodel work that you were interested in doing or that you had been processing? Right, if we do a good job of engaging the relationship at the beginning so that we're equipped with the best information to steward it well, then in turn the client's going to have a much more friction free experience doing business with us. That's our job. Our job is to not make phone calls and ensure a sub gets on the job. Is it part of it? Absolutely. But the core responsibility is to steward the relationship with our client because when we approach project management from that perspective, it ensures these other behaviors follow. Right. Because if my job is to steward the relationship with my client, then I have to proactively manage my subs so that they show up when I've said they're going to show up.
+
+[00:33:13.570] - Brandon
+Right. So again, it's just kind of this shift of where the value is. So again, I think those are great. Trying to keep this a bit tactical and not too overwhelming. So communication frequency and methodology meeting times. So a big thing for me. I'm a huge proponent of at least one day a week on a live project, I will meet with the business owner, property owner, key decision makers, face to Face. Now, I understand some of you have remote property owners. It's an investment property. They may not even live in the same state. Let's get a zoom call going. Let's do something where I can physically see my clients eyes and talk to them and read their body language as best to my ability on their project.
+
+[00:33:53.130] - Chris
+I was going to ask you about that. So like, FaceTime has become more popular.
+
+[00:33:56.160] - Brandon
+FaceTime, totally appropriate, right? Walking my client through the loss via FaceTime, pointing out things that we're addressing.
+
+[00:34:03.750] - Chris
+We need that emotional read, though. That's the important thing. I need to see their eyes. I need to hear their voice and see their body language.
+
+[00:34:10.740] - Brandon
+And we need to ask hard questions. We need to ask the kinds of questions where the answer may not be something we want to hear. We're identifying quality control at that moment. Like, let's get a read on what's happening. Let's not wait until we're doing a punch list walk at the end of the job and trying to scramble to correct any kind of perception or quality issues that the clients raise. When we have that once a week meeting the job, the intent slow the clock down. Do not be answering texts or emails with your other client and give this client enough focused attention that you can get a good read on their experience to date. And again, we're digging for information that will give us more tools to manage perception or potential perception issues moving forward. Here's another thing that we see that's really common in multiple business partner scenarios. Scenarios where there's a board or some kind of multiple decision bodies, a committee or a committee or marriages. Right. Roommates. We have this scenario where we may be communicating on a consistent basis with one person and not realizing that that communication doesn't get any further.
+
+[00:35:16.510] - Chris
+And some marriages are roommates.
+
+[00:35:18.110] - Brandon
+Hey. Yeah. And there's just a reality. You've got two different personalities in the.
+
+[00:35:22.660] - Chris
+Decision making process and they may or may not be communicating at all or affecting.
+
+[00:35:26.640] - Brandon
+They commonly don't. It's just normal. Think about you. Think about me. My own life. Is it easy for me to go a week to ten days and not converse about some topic that I kept telling myself I needed to bring up at home? Yeah. It's totally normal. Of course. So our opportunity when we set the stage for this face to face meeting is I'm even going to go out of my way at the beginning of the project to say, hey, it's really important these people are at this meeting. Here's why. This is how it helps us produce a better job for you. Here's how it helps us manage expectations and perceptions and keep this train headed down the right set of tracks. So get them there and that's our opportunity. Hear from them. If one person's speaking up a ton, great, listen. But then if you see someone that clearly has an opinion and that opinion is not coming very quickly, let's ask some questions. Let's try to dig that out. Again, it sounds heady, but if we start again from the perception of as a project manager, my job is to steward relationships. The other things come in line, right?
+
+[00:36:25.000] - Brandon
+Okay, so we've talked about some meeting frequency, communication frequency in terms of giving our projects updates, please don't go more than two days without updating your client.
+
+[00:36:34.210] - Chris
+So one just quick thing about that. As a recent customer, we know within the industry, right, that there's a lot of days where nothing is happening and there's a variety of reasons for it, right. Sometimes we're waiting for asbestos samples to come back and find out if we can then cut into stuff, whatever. Sometimes we're waiting on flooring materials or whatever. It's construction timeline pauses that just happen. But the customer doesn't understand that. Most of our customers, even our commercial ones, don't understand the flow of a construction timeline and why there would be nothing happening. All they perceive is nothing is happening. Why?
+
+[00:37:11.000] - Brandon
+Yeah. And I don't know.
+
+[00:37:12.240] - Chris
+And so when we talk about this communication frequency, you're like, why every 48 hours, sometimes there's nothing happening. Customers need to know nothing's happening. And so the burden is not huge, right. Sometimes it's a quick email, it's saying, hey, just want to check in with you guys. Nothing happening today because we're waiting on X. Once we get X, next thing up is Y. And then the customer can just it goes out of their brain and it's no longer a thing that they bitch about to their spouse at the dinner table like, hey, did you hear for.
+
+[00:37:39.830] - Brandon
+Their neighbor or a fellow at the.
+
+[00:37:43.360] - Chris
+Mailbox right at the water cooler, hey, how things going? We got this water loss and oh really? Yeah, and we got this company right. That's the last thing you want, but question marks produce that problems.
+
+[00:37:56.070] - Brandon
+Yeah. When people are void of information, they will fill in the blanks and when they do so, it often is off of negative assumptions. It's not normally in your brand's favor and normally because of the anxiety, people are talking about it even before they have answers or solutions from you. So the longer you create this communication gap where your client can process and mentally go through this anxiety rich opportunity, they're going to be talking to people about it. Yes. If we think about our own scenario how many times have I been talking out loud, processing in my mind, well, here's what's happening, here's what I'm thinking about it and I'm trying to get everybody's opinion except for the team that is doing the job. Right. And it's normally not great for you.
+
+[00:38:39.620] - Chris
+We might need to do part two on project management because there's just so much good stuff here. But one other thing in terms of setting good expectations on this communication thing is we know the process well enough as an industry, as a team, and many of you as individuals, project managers are listening to this. You understand the flow of these projects. Of course, there's variables all the time and stuff goes wrong, but we know what's coming the customer doesn't, right? We used to refer to it as restoration checklist meeting. Our PMS would sit down with a customer and we had literally a checklist where we walk through what's the timeline going to look like, what are the different departments they're going to be interacting with at our company, the different roles, how is billing and invoicing going to work, blah, blah, blah, blah, blah. And one of the things we talk about in that is we sort of cast a roadmap view. We're like, hey, there are going to be and we tell people up front, I think this is such a key thing, is we tell them some parts of this are not going to be fun.
+
+[00:39:30.730] - Chris
+It's really important when you tell people, hey, this part is going to be frustrating. This may be irritating, this may be downright not fun at certain intervals here, and let me try to give you a heads up of what those are going to be. And one of them we know people call it by different names, we called it the silent phase. And instantly, probably those of you who have been in the industry for a minute, you know what we're talking about. But it's during that period where we're negotiating scope with the adjuster. We're potentially, depending on the loss size, we're dealing with an IA or we're dealing with a consultant or whatever. To the customer, it's a black box. Like, what the hell's going on? It's been six days since you guys stabilized and had all your equipment in here and got everything out and nothing has been when is the reconstruction going to start to happen? And we know on our end how complicated that period can be. Sometimes it drags on for a lot more than a few days. But when we tell customers, when we're disciplined in telling people about the silent phase beforehand, it is far less severe and sometimes a non event when it comes.
+
+[00:40:33.210] - Chris
+Because then when we send that 24 hours update, we can just let them know, hey, remember the silent phase, we're in it. We sent this communique to the adjuster. We're waiting on a reply. We expect this negotiation may take a few more days, but we'll keep you updated and then honestly, the next day, maybe a similar copy and paste comment. Hey, just to let you know, we're still in hanging in this zone, whatever. But when we communicate proactively, it often reduces the feelings and the way that the customer perceives it when it actually shows up.
+
+[00:41:03.480] - Brandon
+No, that's spot on. And you're right. There's so many little smaller details like how do you execute on this on day to day basis? But I think what we're trying to accomplish with this particular episode is just mindframe it's mindset for a PM. And I think what you're talking about is there's a critical experience difference from the client sub vendor relationship perspective when we intentionally and proactively manage expectations versus getting swept up in them. Here's a perfect example. Let's say I was working on a project for you and there's a couple of different scenarios that can unfold. One is my drywaller has just come in and done the sheet rock. We've mud taped, we're done. Basically, we're ready for prime and paint. If I don't put my eyes on that before you do as the customer and you come and you see issues or concerns, like here's a common one. My tape is bleeding through my mud. I see that little waffle pattern. Right? Well, the difference between you finding it and calling me and me going, oh yeah, don't worry, I'm going to take a look at it in the morning and we'll make any changes or modifications.
+
+[00:42:06.080] - Brandon
+Don't worry, we got it. Versus, hey, sir, madam, I just stopped by your job because my sub just got done with the drywall. I saw a couple of areas where it looks like our tape went through the mud. It was a little thin. Here's what I plan to do about that. Okay? I'll update you when we get it all wrapped up. The difference in the customer experience between me telling you don't worry about it after you've caught it versus me proactively leading you and saying, hey, as your PM, my job is to steward you and do quality control. I checked in on my project after a sub was completed and here's what I found. Here's what we're going to do about it. The difference in your experience is two different sports and the same thing applies to any of our communication regarding ordering materials, materials not showing up, a sub not being on site at the right time. My point is this proactive communication wins over. Oh, yes. Here's my answer or my excuse for the thing that you're concerned about.
+
+[00:43:02.960] - Chris
+Versus damage control.
+
+[00:43:04.460] - Brandon
+Brilliant. That's it again. So we're going back it's like 30,000ft. What is your job? Your job is to not get drywall completed. Your job is to proactively steward the relationship, to create as much of a friction free experience as possible. Proactivity is king. And what that means then when you're managing your projects and your time, which we're going to get into a little bit, but I think before we hang this up is if you're running in such a way that you're not seeing work recently completed by a sub before your client can, you're wrong. You're just wrong. I don't care what the reasoning is. You and your operation team need to look at the operational tempo and your project assignments and find out what you need to do to ensure you can do the level of work so that you remain proactive, period, or your customer experience will suck hands down. The way that we're managing our time in terms of leading our subs, if you find out from a subcontractor that they're going to be five minutes late, it's critical that you get on the phone, you talk to your client about the experience and what you're already going to do about it.
+
+[00:44:07.970] - Brandon
+Here's an example. This isn't even industry related, but I just thought it was great. Not too long ago, went into a clothing store and had to order some new pants, new dress pants.
+
+[00:44:16.760] - Chris
+Funny the language a man uses. Had to.
+
+[00:44:18.660] - Brandon
+Yeah, I had to. Spent as little time as possible in there. So I'm purchasing these pants. They need to be hemmed, so we're going to take them up a little bit for me. Leave. They pin them, they do their thing. I'm gone about three days later. So I'm scheduled to go pick these up that Friday. Two days later, I'm now multiple days ahead of schedule, ahead of my pickup time. I get a proactive text from the individual that says, hey, something happened. Here's the scenario. When we stuck this pin through the bottom of your pant, it pulled out the threads in the clothing, and so it basically put a tear in it. Let's call it. I've already sourced the pants from the vendor. They won't be here in time. If you would like, you can take these and I'll mark them down a certain percentage for you and give you an in store credit towards another purchase. Let me know, and I'll ensure we still get them ready by Friday for you. You know how pissed I would have been if I walked in on Friday and found out my pants weren't ready? And that same individual told me, oh, I meant to tell you there was a tear in your pants, and so we didn't think you would want them, and blah, blah, blah, blah, blah, blah, blah.
+
+[00:45:19.360] - Brandon
+How many scenarios are you as a project manager in, or allowing your project managers to be in, that your customer shows up on Friday and shit is not done as anticipated, and now you're giving the 50 good reasons why it's not done instead of calling them two days prior to tell them why it's not done. And don't believe the lie.
+
+[00:45:36.640] - Chris
+When you get friendly old Mrs. Jones, that's like, it's okay.
+
+[00:45:39.340] - Brandon
+It's okay.
+
+[00:45:39.920] - Chris
+Don't ever believe that because it's not true.
+
+[00:45:42.620] - Brandon
+No, that's lowering your performance to the lowest common denominator, even if it were true. Is that the standard you want to set?
+
+[00:45:48.610] - Chris
+So I think it's a very actually, that's an interesting analogy, the clothing shop deal. But here's the thing. We do know about restoration, we know shit's going to go wrong. It's going to your example of getting in front of stuff.
+
+[00:46:01.060] - Brandon
+Absolutely.
+
+[00:46:01.650] - Chris
+Well, why not also include some conversation about this in that very first restoration checklist meeting?
+
+[00:46:08.460] - Brandon
+I love it because I think the.
+
+[00:46:09.590] - Chris
+Temptation by all service vendors is to paint a good picture. This is going to be great. We're going to take care of you, right Butter? We value communication, communicate like all of this bullshit lofty. We're going to create this thing. You're going to be so glad you chose us, blah, blah, blah. The reality is they have a difficult process in front of them. I don't care how good your teams are. There are elements that are going to be difficult. Every single recon project you have. And so if we can talk about that and give them the truth but then affirm part of what we're affirming to them when we explain the project at that depth, hey, this part's really going to suck. I mean, pardon my language, Mrs. Jones, but it just does. This is hard for everybody. This period, silent phase, whatever. Selections of materials is always a challenging thing for people because like you guys, most people still have full time jobs in the midst of this and selections are really hard. So can I tell you how as a team, we try to handle that process to have as little of a hold up in the timeline as possible?
+
+[00:47:10.180] - Chris
+Here are some of the things we're going to ask you to do. And it's going to be hard because I know you guys got work and you have vacations and everything else in the midst of all this. But when I reach out to you, when we hit that part of the timeline, the speed at which you respond and do your homework is ultimately going to affect how long this thing takes. So when we're just honest, instead of trying to paint a rosy filter over everything, instead being honest on the front end, man, does it ever prepare the customer?
+
+[00:47:37.520] - Brandon
+Well, that's exactly it. And I think it's the same like when we think about quality control. You're doing a quality. That's why it's so critical that you get on your jobs every couple of days, period or right after a trade finishes. Because it's your job to jump in front of whatever potential issues are going to be there because they will. And ensure your client anytime. We are the ones that bring something to our clients attention. We are winning. People are not expecting a construction project to go friction free. They're just not. What they want to know is that you're leading and protecting them. And the way that you do that is you proactively engage and say to them, hey, here's what I found. Here's our solution. Here's what it's going to do, okay? And it just applies to everything across the board. Everything from selections, back orders, misfits, quality issues, schedule issues with subs. If you understand that, it's your job to get in front of that train as quickly as possible and proactively guard your clients experience by telling them what's going to happen and why and providing your solutions. Right? Like you've already thought about it, you've processed it and you're providing solution.
+
+[00:48:42.850] - Chris
+All right. Headhart and Boots listeners wanted to stop here just a moment and thank our underwriting sponsor, bloodlight Consulting Group, as all of you. You know, Brandon and I, this is our passion project. Headhart and Boots is. But it's also a way more and more that our consulting clients find us and in effect, they interview us, right? Those of you been listening to Show for a while, you get to know who we are, right, what we're about. So if Headhart and Boots is valuable to you, one of the best things you can do is share it with your friends. And it's been incredible to watch just the audience grow. And we still get text messages from many of you about shows that you really like and impacted you. So that's number one. And please keep doing that. Many of you have been huge advocates of the show. We also just want to remind you too, if you're a restoration company owner and you're interested in a partner in your growth, you want some help building out systems, developing your leadership teams, helping set up the infrastructure for you to scale and grow into the company that you're trying to build.
+
+[00:49:42.080] - Chris
+That's what we do. That's what we do is we come alongside restoration company leaders, we help equip them and we help support them in that growth trajectory. So if you're looking for that, go to Floodlightgrp.com, potentially, we could be a great match for each other.
+
+[00:49:56.240] - Brandon
+Another way that we really do serve our client base and our sphere of influence is through our Premier Partners. We work really hard to vet those folks that we believe bring a level of value to the industry, that it can really be leveraged in a way to have a sincere, positive impact on your business. We take that very seriously. The folks that we create, those kind of ongoing partnerships, that's not a check the box kind of scenario. We really see strategic alignment in the value that they bring. We see value in the way that their leadership teams and their partners are developed. And we've done very sincere work of ensuring that these folks that we introduce our clients and our sphere to can actually create vetted value. So go check out Floodlightgrp.com Premier Partners and see if there's some folks on there that you can connect with and begin developing some other resources to support your growth and your business. Again, this is not PM 101, but mindset. Okay? I think we're establishing a difference in this perspective. Project managers that are winning are the ones that are consistently proactively managing their jobs. They know when's.
+
+[00:51:02.060] - Brandon
+Going to happen, what's going to happen, why it's going to happen, not firefighting. All right, so how do we do that? So time management is a real issue for all of us. There's kind of a piece I want to touch on there. First off, I think we have to, as leaders, business owners, project manager, staff leading up the chain of command, we have to be honest about our workload. And there's just a reality that some project managers, from a production perspective, can be proactive with a larger file case load than others. Sure. And we need to consider that when we're evaluating performance. If it's mandatory that a project manager in your outfit has to be able to manage 15 to 20 live projects at any given moment, be sure to understand that level of engagement when you hire and ensure that 15 to 20 files for that particular person still gives them the ability to be proactive. And if they can't, you are wrong as a leadership team to have that expectation on your project manager, and they will under deliver and your brand will suffer the consequences for it. You will become okay versus great, and there's a big difference.
+
+[00:52:05.980] - Brandon
+Okay. All right, so time management, beyond that piece there, where the ownership or the key leaders are responsible for defining how many projects are appropriate for a project manager. We have our own personal time management. And one of the things that I see happening all the time I did it. I fell prey to this more often than I'd like to admit, is my day basically started by me waking up to emails and texts, buzzing my phone, and I just went hard into the paint until I passed out at the end of the afternoon and I got up the next day and started all over again. You can't get in front of anything when you're managing your time that way. There's two things that you can do that I believe are really powerful in helping us gain control of our calendar. First and foremost, if it's not on your calendar, it will be filled by something else. So specific types of activities, key meetings, client face to face meetings, production material, pickup order, all these different functions to the best of your ability. Ensure it has a spot on your calendar so that when someone calls you and asks you to meet at such and such time on such and such day, you actually look at your client or your calendar and ensure you've got a spot to put that in.
+
+[00:53:13.820] - Brandon
+Here's what's really important. People don't know what's on your calendar, and they're just like you in the sense that they have stuff that happens and they schedule it, and they don't give you a four point explanation of why they can't be there on such and such date. They're just not available. And it's critical that we manage our calendars the same way. Your client doesn't know if you're on an internal meeting with your leadership staff or if you're on another client's project. The point is, don't say you can be somewhere if you can't let them know, hey, I can't make that time frame, but I can be there at such and such day at this time. Does that work better for you? Does that work okay for you? Great. All right, let's do it. Leading, not chasing. Okay.
+
+[00:53:52.200] - Chris
+Yeah, I loved okay, so just a little appointment setting sort of best practice that I learned way early on, actually, when I was working with cutco knives. Always give the customer an either or option yes. Rather than a yes no. It's always a best practice when you're scheduling with somebody, hey, I'm looking at my schedule for this next week, and I've got Tuesday at three available, or I've got Wednesday at 09:00 A.m.. Which one would work better for you guys?
+
+[00:54:17.220] - Brandon
+I love that.
+
+[00:54:18.020] - Chris
+Right. Either or presenting two options that fit in your calendar.
+
+[00:54:22.680] - Brandon
+That's right.
+
+[00:54:23.220] - Chris
+Rather than doing the whole, and we should probably practice this more. Honestly, I'm realizing I've gotten a little lazy with this in some of our scheduling with clients and podcast guests and stuff. But it's an excellent best practice. It greases the wheels, and it feels really pro, because this is how attorneys schedule meetings. This is how CPAs schedule meetings with somebody. They don't just say, hey, what's good for you? It's like, no, I'm a professional. I have a calendar that I'm working off of. Would Wednesday at two or would Thursday at three be better for you?
+
+[00:54:51.870] - Brandon
+And here's the beautiful thing about that. Anything you do to protect another client's experience, in turn, will be a benefit and or a professional layer to the experience that other customer is going to get.
+
+[00:55:04.910] - Chris
+So true. Yeah.
+
+[00:55:05.510] - Brandon
+And you're basically showing them how you manage your time right through that example, and they're like, oh, this is great. I have a pro on this job, not a hack. Okay, so time management. One of the things I see very commonly is we project out. Hey, it looks like I've got a lull in my calendar on Thursday, man. That Thursday is my admin day. I am going to get in front of all my shit on Thursday. In the meantime, my hair is going to be on fire. But it's all good because Thursday I'm going to buckle down and take care of business. Thursday morning, 745, a new fire loss comes in, and everybody's excited as hell to go get that six, seven figure loss. Admin day gone. So now I'm a week behind. I've now thrown out the day that I was going to dedicate to getting caught up. And who knows how deep into the following week I'll be before I have any opportunity to.
+
+[00:55:49.380] - Chris
+And usually that follow up also consists of client check ins. So now we've gone a week without them hearing anything. Exactly.
+
+[00:55:55.250] - Brandon
+Right. All our proactive management of expectations, reviewing our calendars, reviewing our production schedules, all the things. So here's what we suggest. And again, this kind of goes back to the proactive calendar management. The client doesn't know what you're doing in this time window. They don't know why you're not available. They really don't give a shit. They just want to know when you are. Right. Book. End your days. So for project managers, when our primary responsibility is being a cab warrior, being out in the field, talking to my clients, meeting my subs, working my projects, you've got to protect some administrative time to do the things that we're talking about every day, every single day. It cannot be maybe Thursday every morning and at the end of every day to the best of your ability. Build in and then protect. Meaning. Do not schedule a job review during this time frame. Build in admin time every single day. The advantage to that is it doesn't have to be long, right? If we can give something a half hour to an hour, two times a day, every day of the week, we will, in most cases, be well in front of our major issues and concerns, because you're not going to stop the job from producing fires for you to put out.
+
+[00:57:09.980] - Brandon
+It's humans. Subs are going to make mistakes. Vendors are going to make mistakes. My client's not going to show up for something. Whatever the day is going to have chaos in it. You can't remove it, sure, but you can protect pockets of time that no matter what's happening in your live projects, that's the space for you to get in front of your clients expectations, calendars, production schedules, things like that. So what are we doing during that time? Well, like we talked about, our goal is to ensure that we communicate with our client. Right. Proactively. Well, a beautiful time of the day is in that pocket. That a M and PM pocket, where we just are considering our jobs. Okay, I just got done on Friday. I reviewed the Smith job. Here's my notes.
+
+[00:57:47.980] - Chris
+Okay?
+
+[00:57:48.300] - Brandon
+Yes. I got to update my calendar for that production schedule shifted a little bit. I'm going to make that phone call. I'm going to leave that message. I'm going to type that email. I'm going to send that text. Oh, I need to confirm a dollar amount on the XYZ project with my sub. That's what we're doing. We're creating a budget for my client to go out and make their three selections. I'm sending a follow up communication in writing that I had over the phone the day before. I'm updating project budgets. I'm producing a change order for my customer to sign via Panda, Doc or DocuSign or something. Right? That, hey, the timeline's changing here's. The cost out of pocket to you. Right? I need that approval. So that's what we're doing during those time frames, because we understand as soon as you hit go, the day is going to race, and there's going to be all sorts of things that come at you that you'll have to juggle, all sorts of plates that you'll have to spend. But if we protect a bit of time every single day to do this administrative requirement or process that's required by us, we'll stay in front of it.
+
+[00:58:49.550] - Brandon
+If you lose one block, morning block, well, then you're not wiped out for an entire week. It's just one morning block that didn't get secured.
+
+[00:58:57.990] - Chris
+Right.
+
+[00:58:58.250] - Brandon
+And that's a whole lot better than us pushing everything off till Thursday afternoon and then losing Thursday afternoon.
+
+[00:59:04.420] - Chris
+Okay, KPIs.
+
+[00:59:06.040] - Brandon
+Last piece. Here. A big issue that we see in general, is it's difficult for us to know what we need to be focused on in order to be winning in our role and project managers. Again, I think we get so hyper focused on I'm winning if the drywall is put in right. I'm winning if the floor goes in and looks good. Yes, we're a paid contractor. So, yes, our projects need to be done professionally. That's the bare minimum. But really, how we win is giving our customer the kind of experience that when it's over, they can't wait to get on Google and give us a five star review.
+
+[00:59:43.050] - Chris
+Yeah, right. What's the old adage? How we make people feel in the course of delivering our services is the work.
+
+[00:59:49.630] - Brandon
+That is the work. That's the work. Because you can't do shoddy work and have a customer that feels good about the process.
+
+[00:59:55.540] - Chris
+Quality, timeliness, all of that stuff follows, right?
+
+[00:59:58.980] - Brandon
+It all follows. It all follows. And so what are we looking for? We're looking for tight timelines, respectable timeframes. We're looking for customer satisfaction that's excited for a five star Google review. We're looking at quality, of course, the quality of the project. And then I know this is going to sound crazy, guys, it's really critical that we monitor and hold our projects accountable to a budget and the profit margin. Here's why. You and I have talked a lot about the four P's, and we talk about how protecting the profit is. It will never trump relationship. Relationship trumps. All right. However, if we think about our performance as a project manager and we think about the fact that a job that's been produced on budget, what does that actually tell us about the way that we stewarded the project and the relationship? Do you think jobs come out on budget when our hair is on fire the entire time and we're always chasing the last call? Do jobs get done in a timely manner and on budget when we're constantly behind schedule? When we're constantly shifting our project production schedule based on lack of communication with subs or not proactively getting our client to order a product at the right time?
+
+[01:01:11.530] - Brandon
+If we don't proactively manage a project, the chances of it being produced on budget is almost zero. So that if we're monitoring a performance. When we have a project manager that consistently produces jobs at the appropriate profit margin, it's often telling us that the proactivity engagement of that project is probably going the way that we want it as well. Right. It's a telltale sign of how we're performing our job when the profit margin is on point. So, again, so if we're talking about, like, bonus structures and things like that, here's the kinds of areas that we like to look at overall revenue that's been generated and managed, because, again, that's a sign of their productivity and their capacity. We want to monitor gross profit margin because that's normally the lagging indicator of how well we managed the project. Customer surveys or Google reviews and then timelines standard timeframes on a job. Did we fall with what's our cycle.
+
+[01:02:05.020] - Chris
+Times this person averaging?
+
+[01:02:06.560] - Brandon
+Yeah. So a little summary, guys. This is a lot. We kind of went through a lot here. But what we're trying to encourage folks to do on the project management side is make a mental shift. Your job is to steward relationships out of that responsibility. You will have other tasks that you have to execute on I. E. Managing your schedules, managing budgets, ensuring your subs show up when they do. But the reason you're doing that stuff is to steward the client relationship.
+
+[01:02:33.250] - Chris
+And knowledge is power, right? We leave so much knowledge and understanding of our client on the table because we just don't ask these curious questions. And I think part of it is we have our blinders on like a Clydesdale horse that I have a path in front of me I need to walk. I need to pull this stuff down the path. And we fail to ask the questions that open our view and be like, all right, they had this experience last time with such and such. I need to make sure that I'm speaking to that I'm addressing, that I'm setting good expectations, I'm communicating that to the team. But knowledge is power. It helps. So often the stuff that goes wrong in a project right. Was us getting blindsided by an attitude or perspective the customer came into the job with. And oftentimes it had nothing to do with an egregious error on our part. It was their perception of something based on past experience. And once we know that, it's like, we can avoid a lot of those things.
+
+[01:03:26.260] - Brandon
+Yeah, absolutely. Then we talked about some KPIs. We talked about some communication and time management methodology. We got to book in our days, every day. We've got to build in components that are required to perform the job well. We can't defer stuff to some fictitious time out on the horizon that we hope to catch up. You can't do that and remain proactive marriage tip.
+
+[01:03:48.220] - Chris
+Marriage tip.
+
+[01:03:48.830] - Brandon
+You ready for it?
+
+[01:03:50.650] - Chris
+It's like, why we that have kids. You got to schedule sex and conversation, right? If you don't schedule it, it's just like week to week. You can have these weeks as a married couple where it's like, okay, when was the last time we had a meaningful conversation? Besides, is the dishwasher cleaner dirty? Where are we taking the kids this Thursday? Who has soccer games? Right? It's like we have to schedule those things. There has to be, like, hard edges around that calendar item or it doesn't happen. It's the same principle, right?
+
+[01:04:15.880] - Brandon
+The same principle.
+
+[01:04:16.520] - Chris
+The tyranny, the urgent takes over.
+
+[01:04:18.640] - Brandon
+And the reality of it is, even as leaders in the organization, technically, kind of what you are, is a project manager.
+
+[01:04:25.500] - Chris
+You didn't think I was going to be able to work sex into the.
+
+[01:04:27.370] - Brandon
+I didn't see that coming, but I'm.
+
+[01:04:28.880] - Chris
+Really pleased I was thinking about it. Several sentences.
+
+[01:04:31.330] - Brandon
+You really worked that in.
+
+[01:04:32.920] - Chris
+Yeah.
+
+[01:04:35.030] - Brandon
+Okay. We're falling apart at the same time. Yeah. Okay, guys. All right, so we'll probably come back to this topic. It's a complicated one. I think from a technical aspect, you can really get down to all the nuts and bolts and the details, but I think our goal here was just it's mind shift. It's mindset shift. Like, what's your real priority?
+
+[01:04:50.270] - Chris
+I think a future episode or something. We should actually go through that restoration checklist meeting.
+
+[01:04:55.050] - Brandon
+Yeah.
+
+[01:04:55.310] - Chris
+Don't you think that'd be interesting?
+
+[01:04:56.430] - Brandon
+Totally. Good technical episode. Okay.
+
+[01:04:58.100] - Chris
+In the future, guys. Well, this is great. Listen, if this stuff's valuable to you, please, I mean, one way to thank us or to share it is to comment on our stuff when we post this on LinkedIn. We do that every week with our podcast episodes. But certainly sharing the podcast huge on LinkedIn, on Facebook, letting other people know what you've been listening to. I was just talking to somebody. They've listened to every single episode. We have 54 episodes or something out now. But the podcast is growing, guys. People are hearing about it, and we've got this neat community kind of forming around it. The other ways you can engage with us, join the floodlight community, right? There's a lot of different ways. People will hire us to do on sites to come out to them and do workshops and trainings for their people. We work with companies one on one. In fact, we have a slot that's coming open. We have a client that we're finishing up with, so we have a slot open for that. You can reach out to us via floodlightgrp.com. And we've got links to our one on one consulting, on site workshops.
+
+[01:05:54.250] - Chris
+And then also, if you are trying to grow your commercial sales and you're looking for just a great turnkey training resource for your team to get them up to speed where they can effectively chase commercial business and not do the whole candy and smiles thing we know is dying off. Our commercial Sales Master course is a really affordable way for you to do that and get your new salesperson activated quickly in the commercial field, so that's another thing. And then also, you can join us for our Floodlight Friday. Live streams. 09:00 a.m Pacific. Normally, we're actually going to be traveling next week to go visit a client, and we bought some new studio gear. That's kind of our travel set up. Yeah, we're going to try to do a roady episode, so that may be a different time next week, but whatever. So thank you so much for following us. Really grateful. And that's it.
+
+[01:06:42.310] - Brandon
+Yeah.
+
+[01:06:42.530] - Chris
+See ya.
+
+[01:06:42.870] - Brandon
+All right, bye. All right, everybody. Hey, thanks for joining us for another episode of Head, Heart and Boots.
+
+[01:06:49.310] - Chris
+And if you're enjoying the show but you love this episode, please hit Follow. Formerly known as subscribe, write us a review or share this episode with a friend. Share it on LinkedIn, share it via text, whatever.
