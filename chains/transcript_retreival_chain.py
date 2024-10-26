@@ -1,12 +1,12 @@
 import asyncio
 import json
+from datetime import datetime
 from typing import Dict, Any, List, Optional
 from langchain.chains.base import Chain
 from langchain_core.language_models import BaseLanguageModel
 from langchain.callbacks.manager import CallbackManagerForChainRun
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Weaviate
+from weaviate.classes.query import MetadataQuery
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from prompt_manager import PromptManager
 from utils.parsing_tools import format_retreival_query
 from itertools import groupby
@@ -32,49 +32,52 @@ class TranscriptRetrievalChain(Chain):
         return ["answer"]
 
     def sort_by_timestamp_and_podcast(self, results: List[Dict]) -> List[Dict]:
-        def timestamp_to_seconds(timestamp: str) -> int:
-            minutes, seconds = map(int, timestamp.split(':'))
-            return minutes * 60 + seconds
-        
-        # Sort first by podcast_name, then by timestamp
-        sorted_results = sorted(results, key=lambda x: (x['podcast_name'], timestamp_to_seconds(x['timestamp'])))
-        
+        # Define a helper function to parse the timestamp
+        def parse_timestamp(item):
+            # Extract the timestamp string
+            timestamp_str = item.properties.get('timestamp', '00:00:00.000')
+            try:
+                # Try parsing the timestamp with milliseconds
+                time_obj = datetime.strptime(timestamp_str, "%H:%M:%S.%f")
+            except ValueError:
+                # If it fails (i.e., no milliseconds), try without milliseconds
+                time_obj = datetime.strptime(timestamp_str, "%H:%M:%S")
+            return time_obj
+    
+        # Sort the list of results based on the parsed timestamp
+        sorted_results = sorted(results, key=parse_timestamp)
+
+        # Add the "score" to the "properties" and return the list
+        for item in sorted_results:
+            item.properties['score'] = item.metadata.score
+    
+        results = [item.properties for item in sorted_results]
         # Group by podcast_name
         grouped_results = []
-        for podcast_name, group in groupby(sorted_results, key=itemgetter('podcast_name')):
+        for podcast_name, group in groupby(results, key=itemgetter('podcast_name')):
             grouped_results.extend(list(group))
         
         return grouped_results
 
     def _retrieve_transcripts(self, query: str, n: int = 20, rich_author_meta=False) -> List[Dict]:
-
         query_formatted = format_retreival_query(self.llm, query)
 
         print("Formatted query: ", query_formatted)
         
-        #self.cl_instance
-        
-
         query_embedding = self.openai_client.embeddings.create(input=[query_formatted], model='text-embedding-3-large').data[0].embedding
-
-        fields = ["timestamp", "text", "podcast_name"]
-    
         results = (
-            self.weaviate_client.query
-            .get("PodcastChunk", fields)
-            .with_hybrid(
-                query=query,
+            self.weaviate_client.collections.get("PodcastChunk").query
+            .hybrid(
+                query=query,  # Replace with relevant search term
                 vector=query_embedding,
-                alpha=self.alpha
+                alpha=0.75,  # Adjust this value to balance between vector and keyword search
+                limit=n,
+                return_metadata=MetadataQuery(score=True)
             )
-            .with_limit(n)
-            .with_additional(["score"])
-            .do()
         )
+        return results.objects
 
-        return results['data']['Get']['PodcastChunk']
-
-    def transcript_synthesize(self, results: List[Dict], original_question: str, task: str) -> str:
+    def transcript_synthesize(self, results: List[Dict], original_question: str, chat_history: Dict[str, str], task: str) -> str:
         system_prompt = PromptManager.get_transcript_retrieval_prompt()
         
         transcripts = results
@@ -82,22 +85,30 @@ class TranscriptRetrievalChain(Chain):
         # Format the transcripts for the prompt
         formatted_transcripts = json.dumps(transcripts, indent=2)
         human_message_template = """Original question: {question}
+        Previous chat history:
+        {chat_history}
         PodcastChunk:
         {transcripts}
-        Please {task} the information from these transcripts to answer the original question."""
+        Please {task} the information from these transcripts to answer the original question and take into account the chat history if needed."""
         
-        prompt = ChatPromptTemplate.from_messages([
-            ("system", system_prompt),
-            ("human", human_message_template),
-        ])
+        prompt = ChatPromptTemplate.from_messages(
+                [
+                    ("system", system_prompt),
+                    MessagesPlaceholder("chat_history", optional=True),
+                    ("human", human_message_template)
+                ]
+        )
 
         # import pdb; pdb.set_trace()
 
-        response = self.llm(prompt.format_messages(
+        final_prompt = prompt.format_messages(
             question=original_question,
             transcripts=formatted_transcripts,
             task = task,
-        ))
+            chat_history=chat_history
+        )
+
+        response = self.llm(final_prompt)
 
         return response.content
 
@@ -107,6 +118,7 @@ class TranscriptRetrievalChain(Chain):
         run_manager: Optional[CallbackManagerForChainRun] = None
     ) -> Dict[str, str]:
         question = inputs["question"]
+        chat_history = inputs["chat_history"]
         task = inputs.get("task", "summary")  # Default to summary if task is not provided
         
         # Retrieve transcripts
@@ -115,7 +127,7 @@ class TranscriptRetrievalChain(Chain):
         results_filtered = await asyncio.to_thread(self.sort_by_timestamp_and_podcast, results)
        
         # Synthesize final answer
-        final_answer = await asyncio.to_thread(self.transcript_synthesize, results_filtered, question, task)
+        final_answer = await asyncio.to_thread(self.transcript_synthesize, results_filtered, question, chat_history, task)
         
         return {"answer": final_answer}
 

@@ -4,6 +4,8 @@ CRITICAL INSTRUCTIONS:
 
 1. NEVER make up or infer information not present in the provided transcripts.
 2. If the transcript don't provide all the information needed to answer the question fully, clearly state what's missing.
+3. Some of the user queries may require you to combine information from multiple transcripts to provide a complete answer.
+4. Some of the user queries may not be relevant to the provided transcripts. In such cases, clearly state that the information is not available.
 
 Guidelines for retrieval:
 
