@@ -10,6 +10,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain_community.utilities import SQLDatabase
 from openai import OpenAI
 import weaviate
+from utils.logging_utils import setup_logging
 
 from chains.transcript_retreival_chain import TranscriptRetrievalChain
 from prompt_manager import PromptManager
@@ -41,13 +42,16 @@ def deserialize_journal_data(filename='./data/journal_data.json'):
 class TranscriptAgent:
     def __init__(self, cl_instance=None, alpha=.75):
         self.openai_client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-        self.weaviate_client = weaviate.Client("http://localhost:8080")
+        self.weaviate_client = weaviate.connect_to_local()
         self.cl_instance = cl_instance
-        # self.logger = setup_logging()
-        # self.logger.info("Transcipt initialized")
+        self.logger = setup_logging()
+        self.logger.info("Transcipt initialized")
+        self.feedback_system = FeedbackSystem(self.logger)
 
         self.llm = ChatOpenAI(model="gpt-4o", temperature=0)
-        self.memory = ConversationBufferMemory(return_messages=True)
+        self.memory = ConversationBufferMemory(memory_key="chat_history",
+                                               max_len=50,
+                                               return_messages=True)
         
         self.transcript_chain = TranscriptRetrievalChain(
             llm=self.llm,
@@ -60,20 +64,24 @@ class TranscriptAgent:
 
     async def route_and_execute(self, inputs: Dict[str, Any]) -> Dict[str, str]:
         question = inputs["question"]
-        result = await self.transcript_chain.ainvoke({"question": question, "task": "retrieve"})
+        chat_history = inputs["chat_history"]
+        result = await self.transcript_chain.ainvoke({"question": question, "task": "retrieve", "chat_history": chat_history})
         
         print(f"Query: {question}")
         print(f"Response: {result['answer']}")
         
         return result
 
-    async def process_query(self, query: str, user_id: str) -> str:
-        self.memory.chat_memory.add_user_message(query)
-        result = await self.route_and_execute({"question": query})
+    async def process_query(self, user_query: str, chat_history: Dict[str, str], user_id: str) -> str:
+        print("Incoming query: ", user_query)
+        result = await self.route_and_execute({"question": user_query, "chat_history": chat_history})
         answer = result.get("answer", "I'm sorry, I couldn't generate a response for this query.")
-        print(f"User {user_id} - Query: {query}")
+        self.memory.chat_memory.add_user_message(user_query)
+        self.memory.chat_memory.add_ai_message(answer)
+        print(f"User {user_id} - Query: {user_query}")
         print(f"User {user_id} - Response: {answer}")
         return answer
+
 
 # Chainlit setup
 @cl.on_chat_start
@@ -82,14 +90,10 @@ async def setup_chain():
     cl.user_session.set("agent", agent)
     user_id = str(uuid.uuid4())
     cl.user_session.set("user_id", user_id)
-    # agent.logger.info(f"New session started for user {user_id}")
+    agent.logger.info(f"New session started for user {user_id}")
 
     hello = "Welcome to the Podcast Transcript Assistant! 👋🧬🔬"
-    welcome_message = """
-    I'm here to help you with various transcript-related tasks:
-
-    Important: Our interactions are stateless. Please provide all necessary context in each query.
-
+    welcome_message = """I'm here to help you with various transcript-related tasks:
     How can I assist you with your podcast information today?
     """
 
@@ -97,12 +101,18 @@ async def setup_chain():
         cl.Text(name="Instructions", content=welcome_message, display="inline")
     ]
 
+    message_history = []
+    cl.user_session.set("message_history", message_history)
+
     await cl.Message(content=hello, elements=elements).send()
 
-async def process_message(message: cl.Message):
-    agent = cl.user_session.get("agent")
-    user_id = cl.user_session.get("user_id")
-    response = await agent.process_query(message.content, user_id)
+
+async def process_message(message: cl.Message, agent: TranscriptAgent, user_id: str):
+    message_history = cl.user_session.get("message_history")
+    new_user_message = message.content
+    response = await agent.process_query(new_user_message, message_history, user_id)
+    message_history.append("User: " + message.content)
+    message_history.append("AI: " + response) # Add the AI response to the message history
     
     html_content, summary = parse_llm_output(response)
     
@@ -113,12 +123,23 @@ async def process_message(message: cl.Message):
     if summary:
         await cl.Message(content=summary).send()
     
+    # Ask for feedback
+    actions = [
+        cl.Action(name="rate_response", value="1", label="⭐"),
+        cl.Action(name="rate_response", value="2", label="⭐⭐"),
+        cl.Action(name="rate_response", value="3", label="⭐⭐⭐"),
+        cl.Action(name="rate_response", value="4", label="⭐⭐⭐⭐"),
+        cl.Action(name="rate_response", value="5", label="⭐⭐⭐⭐⭐"),
+    ]
+    await cl.Message(content="How would you rate this response?", actions=actions).send()
+    
 
 @cl.action_callback("rate_response")
 async def on_action(action: cl.Action):
     rating = int(action.value)
     await cl.Message(content=f"Thank you for rating the response {rating} stars. Would you like to add a comment?").send()
     cl.user_session.set("pending_rating", rating)
+
 
 @cl.on_message
 async def process_feedback(message: cl.Message):
@@ -134,7 +155,15 @@ async def process_feedback(message: cl.Message):
         await cl.Message(content="Thank you for your feedback!").send()
     else:
         # If there's no pending rating, process the message as a normal query
-        await process_message(message)
+        await process_message(message, agent, user_id)
+
+
+@cl.on_stop
+async def on_stop(self):
+    agent = cl.user_session.get("agent")
+    agent.memory.chat_memory.clear()
+    self.weaviate_client.close()
+    agent.logger.info("Session ended")
 
 if __name__ == "__main__":
     import chainlit as cl
